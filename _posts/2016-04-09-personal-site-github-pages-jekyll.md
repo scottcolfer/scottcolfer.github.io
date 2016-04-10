@@ -24,8 +24,11 @@ I'm a product owner and have [written](http://scottcolfer.com/technical-product-
 
 ### 3.Backup
 WordPress is awesome. Back in 2009 (when I became more interested in web development because of the products I was working on), WordPress was a fantastic way to get online quickly. I wrote a now defunct food blog called 'The Boy Can Cook' that had a regular audience in the hundreds and led to some cool things (reviews, events, freebies). Working with charities, social enterprises and startups, WordPress has been (and continues to be) a great way to make your mark. Services I've led like [Young Dads TV](http://youngdads.tv/), [Mind of My Own](http://www.mindofmyown.org.uk/), and [Disclose Me](http://disclose.me.uk/) (to name a few amongst many) have all benefitted from the WordPress universe.
+WordPress started with personal blogs. My [personal website](http://scottcolfer.com/) is where I have most regular contact with WordPress. My use of the blog has changed over time and now I don't care how many readers I have, it's a public place to figure things out, get insights from a handful of people, and return in weeks/months/time to see what my thinking was like at a point in time. I think of my blog as a public place for private thoughts. My posts have value to me and so I want to back them up. This is not easy in WordPress. It's not impossible by any stretch of the imagination but it's not as easy as other elements of the WordPress universe, so I've been looking for an alternative for some time now.
 
-HTML
+### 4. HTML
+HTML is fascinating. HTML has emerged as a globally organised language and fundamentally changed the way we live our lives within twenty-five years. I recently heard a conversation between developers saying that websites written in basic HTML many years ago often remain functional and accessible. I've been [playing](http://scottcolfer.com/html/) with HTML on and off over the years, GitHub Pages gives me a chance to continue to do so (along with CSS) when editing the layout of the default home page and blog page of my site.
 
-Time
+### 5.Time
+I guess, ultimately, time's moved on. WordPress was perfect when I first published a cookery blog blog back in 2009, and it was valuable for me to learn about it in order to inform services I've worked on over the last few years. I'm certain it'll continue to remain valuable for the forseeable future. Now though, my technical understanding of HTML and CSS has increased and the world has moved on. GitHub, pages and Jekyll are more useful to me right now, so I'm going to get stuck in. Wish me luck!
 
