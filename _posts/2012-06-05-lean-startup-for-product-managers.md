@@ -42,7 +42,7 @@ Example experiments (p.61):
 * The growth hypothesis tests how new customers will discover a product or service.
 * Build-Measure-Learn feedback loop
 
-## build-measure-learn-feedback loop
+## build-measure-learn feedback loop.
 
 Strategy is based on assumptions [. . .] because the assumptions haven’t been proved to be true [. . .] the goal of a startup’s early efforts should be to test them as quickly as possible (p.81).
 
@@ -90,10 +90,10 @@ Types of pivot (p.173-176):
 ## Growth
 
 Sustainable growth is characterised by one simple rule: New customers come from the actions of past customers (p.207). There are four primary ways past customers drive sustainable growth (p.207-208):
-1. Word of mouth (through satisfied customers)
-2. As a side effect of product usage (Facebook gets you to invite friends)
-3. Through funded advertising (for sustainable growth advertising should be paid for out of revenue, not one-time sources; cost of customer acquisition through advertising should be less than the revenue the customer creates)
-4. Through repeat purchase or use (e.g. subscription, like mobile phone, or repurchase, like light bulbs).
+1.  Word of mouth (through satisfied customers)
+2.  As a side effect of product usage (Facebook gets you to invite friends)
+3.  Through funded advertising (for sustainable growth advertising should be paid for out of revenue, not one-time sources; cost of customer acquisition through advertising should be less than the revenue the customer creates)
+4.  Through repeat purchase or use (e.g. subscription, like mobile phone, or repurchase, like light bulbs).
 
 Engines of growth (p.209-218):
 * The Sticky Engine of Growth: high retention rate – once you start using their product, you will continue to do so. Attrition (or churn) needs to be tracked closely – if the rate of new customer acquisition exceeds the churn rate, the product will grow.
