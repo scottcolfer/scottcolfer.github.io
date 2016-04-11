@@ -5,7 +5,7 @@ date: 2012-06-05
 ---
 
 # tl;dr
-[The Lean Startup](http://theleanstartup.com/) by [Eric Ries])https://twitter.com/ericries) can help to create breakthrough new products (‘disruptive innovation’) that can create new sustainable sources of growth (p.31). Product Management enacts many of the principles outlined in the Lean Startup and is a useful touch-point for product managers. The pivot is at the heart of the Lean Startup: pivots represent the option to bulid, test and learn or to fail quickly and cheaply.
+[The Lean Startup](http://theleanstartup.com/) by [Eric Ries](https://twitter.com/ericries) can help to create breakthrough new products (‘disruptive innovation’) that can create new sustainable sources of growth (p.31). Product Management enacts many of the principles outlined in the Lean Startup and is a useful touch-point for product managers. The pivot is at the heart of the Lean Startup: pivots represent the option to bulid, test and learn or to fail quickly and cheaply.
 
 ## Introduction.
 This post is a largely paraphrased overview of the Lean Startup (with page references to help you locate the original text).
@@ -38,10 +38,9 @@ Learning is the essential unit of progress for startups. The effort that is not 
 *Get out of the building and speak to real people* – behind all metrics & reports are real people. Run experiments to observe real customer behaviour  (p.58) and avoid vanity metrics that give the illusion of success: focus on real progress. An experiment is more than just a theoretical inquiry, it is also a first product (p.63).
 
 Example experiments (p.61):
-
-The value hypothesis tests whether a product or service really delivers value to customers once they are using it
-The growth hypothesis tests how new customers will discover a product or service.
-Build-Measure-Learn feedback loop
+* The value hypothesis tests whether a product or service really delivers value to customers once they are using it
+* The growth hypothesis tests how new customers will discover a product or service.
+* Build-Measure-Learn feedback loop
 
 ## build-measure-learn-feedback loop
 
@@ -96,8 +95,8 @@ Sustainable growth is characterised by one simple rule: New customers come from 
 4. Through repeat purchase or use (e.g. subscription, like mobile phone, or repurchase, like light bulbs).
 
 Engines of growth (p.209-218):
-• The Sticky Engine of Growth: high retention rate – once you start using their product, you will continue to do so. Attrition (or churn) needs to be tracked closely – if the rate of new customer acquisition exceeds the churn rate, the product will grow.
-• The Viral Engine of Growth: Products that exhibit viral growth depend on person-to-person transmission as a necessary consequence of normal product use – Viruses are not optional. The viral engine is powered by a feedback loop that can be quantified, called a viral loopand its speed is determined by a single mathematical term called theviral coefficient: the viral coefficient measures how many new customers will use a product as a consequence of each new customer who signs up. Put another way, how many friends will each customer bring with them? For a product with a viral coefficient of 0.1, one in every ten customers will recruit one of his or her friends.
-• The Paid Engine of growth: work out how much you make on each customer and then subtract the amount it costs to acquire each customer. To increase the rate of growth you can increase the revenue from each customer or drive down the cost of acquiring a customer. The paid engine of growth is powered by a feedback loop called the lifetime value (LTV) – this is the amount of money a customer pays for the product over their lifetime minus variable costs. E.g. Advertisement costs $100 and causes fifty new customers to sign up. This ad has a cost per acquisition (CPA) of $2. If the margin between LTV and CPA is greater than $2, the product will grow.
+* The Sticky Engine of Growth: high retention rate – once you start using their product, you will continue to do so. Attrition (or churn) needs to be tracked closely – if the rate of new customer acquisition exceeds the churn rate, the product will grow.
+* The Viral Engine of Growth: Products that exhibit viral growth depend on person-to-person transmission as a necessary consequence of normal product use – Viruses are not optional. The viral engine is powered by a feedback loop that can be quantified, called a viral loopand its speed is determined by a single mathematical term called theviral coefficient: the viral coefficient measures how many new customers will use a product as a consequence of each new customer who signs up. Put another way, how many friends will each customer bring with them? For a product with a viral coefficient of 0.1, one in every ten customers will recruit one of his or her friends.
+* The Paid Engine of growth: work out how much you make on each customer and then subtract the amount it costs to acquire each customer. To increase the rate of growth you can increase the revenue from each customer or drive down the cost of acquiring a customer. The paid engine of growth is powered by a feedback loop called the lifetime value (LTV) – this is the amount of money a customer pays for the product over their lifetime minus variable costs. E.g. Advertisement costs $100 and causes fifty new customers to sign up. This ad has a cost per acquisition (CPA) of $2. If the margin between LTV and CPA is greater than $2, the product will grow.
 
 Technically, more than one engine of growth can operate in a business at a time. (p.219). There are many value-destroying kinds of growth that should be avoided. An example would be a business that grows through continuous fund-raising from investors and lots of paid advertising but does not develop a value-creating product (p.85).
