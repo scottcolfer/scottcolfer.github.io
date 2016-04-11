@@ -59,13 +59,14 @@ Down the road – after many iterations – you may learn that some element of y
 ## Accountability
 
 When one is choosing among the many assumptions in a business plan, it makes sense to test the riskiest assumptions first (p.119). Metrics should be (p.142-146):
-• Actionable (clear relationship between cause and effect)
-• Accessible (plain English, easily understood, reflecting that metrics are people, e.g. what is a website ‘hit’?)
-• Auditable (data must be credible).
+* Actionable (clear relationship between cause and effect)
+* Accessible (plain English, easily understood, reflecting that metrics are people, e.g. what is a website ‘hit’?)
+* Auditable (data must be credible).
 
 Innovation accounting – how it works in three milestones (p.117, 118, 120):
 1. Use an MVP (baseline) to establish real data on where your company is at (value hypothesis and growth hypothesis)
-2. Use iterative development to progress from this baseline to a more ideal state: have a hypothesis about what will improve 3. metrics and a set of experiments designed to test that hypothesis
+2. Use iterative development to progress from this baseline to a more ideal state: have a hypothesis about what will improve
+3. Metrics and a set of experiments designed to test that hypothesis
 4. Pivot or persevere?
 
 ## Pivot
