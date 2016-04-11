@@ -18,6 +18,6 @@ I write blog posts to help me figure out concepts, collaborate with peers and re
 Feel free to fork my repository and get a head start on your own free, static website. 
 
 ## Can I help?
-If you have the time and inclincation to share your insights then it'll (usually) be welcome. I often leave specific questions in my posts. If you notice any technical issues with my website (anything from a typo to a CSS fail) then it'll nearly always be welcome (I'm hear to learn). GitHub or [Twitter](https://twitter.com/scottcolfer) are the best ways to get in touch. 
+If you have the time and inclincation to share your insights then it'll (usually) be welcome. I often leave specific questions in my posts. If you notice any technical issues with my website (anything from a typo to a CSS fail) then it'll nearly always be welcome (I'm here to learn). GitHub or [Twitter](https://twitter.com/scottcolfer) are the best ways to get in touch. 
 
 Cheers!
