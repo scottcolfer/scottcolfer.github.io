@@ -16,7 +16,7 @@ This post is a largely paraphrased overview of the Lean Startup (with page refer
 * Validated learning (learn about your products and your business)
 * Build-Measure-Learn (accelerated feedback loop)
 * Accountability (Innovation accounting: measure, manage, prioritise).
-* 
+
 > [Lean Startup comes from] lean manufacturing, design thinking, customer development, and agile development (p.4).
 
 ## Entrepreneurship is Management.
@@ -76,16 +76,16 @@ A pivot is a special kind of change designed to test a new fundamental hypothesi
 A startup’s runway is the number of pivots it can still make [. . .] a startup with a $1 million in the bank that is spending $100,000 per month has a projected runway of ten months [. . .] the true measure of runway is how many pivots a startup has left: the number of opportunities it has to make a fundamental change to its business strategy (p.160). A pivot is better understood as a new strategic hypothesis that will require a new minimum viable product to test (p.177). It is a special kind of structured change designed to test a new fundamental hypothesis about the product, business model, and engine of growth. It is the heart of the Lean Startup method. (p178)
 
 Types of pivot (p.173-176):
-• Zoom-in pivot: something previously considered a single feature of a product becomes a whole product
-• Zoom-out Pivot: it becomes clear that a single feature isn’t enough for a whole product
-• Customer Segment Pivot: your product is targeted at the wrong type of customers
-• Customer Need Pivot: it becomes clear that the problem you’re trying to solve is not important for your customers
-• Platform Pivot: changing from an application to a platform (or vice versa)
-• Business Architecture Pivot: change from high margin, low volume to low margin, high volume (or vice versa)
-• Value Capture Pivot: Monetisation is an example of value capture
-• Engine of Growth Pivot: viral, sticky, or paid growth
-• Channel Pivot: change to the sales/distribution channel
-• Technology Pivot: deliver the same solution with different technology.
+* Zoom-in pivot: something previously considered a single feature of a product becomes a whole product
+* Zoom-out Pivot: it becomes clear that a single feature isn’t enough for a whole product
+* Customer Segment Pivot: your product is targeted at the wrong type of customers
+* Customer Need Pivot: it becomes clear that the problem you’re trying to solve is not important for your customers
+* Platform Pivot: changing from an application to a platform (or vice versa)
+* Business Architecture Pivot: change from high margin, low volume to low margin, high volume (or vice versa)
+* Value Capture Pivot: Monetisation is an example of value capture
+* Engine of Growth Pivot: viral, sticky, or paid growth
+* Channel Pivot: change to the sales/distribution channel
+* Technology Pivot: deliver the same solution with different technology.
 
 ## Growth
 
