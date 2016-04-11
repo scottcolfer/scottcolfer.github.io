@@ -11,8 +11,7 @@ date: 2012-06-05
 This post is a largely paraphrased overview of the Lean Startup (with page references to help you locate the original text).
 
 The Lean Startup Method (p.8-10):
-
-* Working in areas of extreme uncertainty (entrepreneurship is everywhere)
+- Working in areas of extreme uncertainty (entrepreneurship is everywhere)
 * Bring management to extreme uncertainty (entrepreneurship is management)
 * Validated learning (learn about your products and your business)
 * Build-Measure-Learn (accelerated feedback loop)
