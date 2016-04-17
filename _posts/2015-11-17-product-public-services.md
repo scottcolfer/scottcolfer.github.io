@@ -4,8 +4,6 @@ title: "Product in Public Services"
 date: 2015-11-17
 ---
 
-# Product in Public Services
-
 In August 2015 I joined the Ministry of Justice as a Product Manager as part of their work to transform public services. My prior product experience was with teams who were some combination of startup, social enterprise or charity so I've been trying to get my head around what product means in public services.
 
 ## Minimum Viable Product Management.
