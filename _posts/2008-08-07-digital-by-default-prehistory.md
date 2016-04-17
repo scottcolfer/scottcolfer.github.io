@@ -4,8 +4,6 @@ title: "Digital by Default Prehistory"
 date: 2008-08-07
 ---
 
-#Digital by Default Prehistory
-
 *Before the Government Digital Service there was the ‘Business Customer Insight Forum’,  tasked with ensuring that public service design was led by ‘customer insight’. This is a ‘customer insight’ briefing I wrote for the senior management team at the Training and Development Agency for Schools in 2008.*
 
 The Cabinet Office seeks to establish ‘customer insight’ as a strategic asset in public service design.
