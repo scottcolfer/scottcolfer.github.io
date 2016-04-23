@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Waterfall, Scrum or Kanban?"
-date: 2016-19-01
+date: 2016-01-19
 ---
 
 How do you decide to use waterfall, scrum or kanban to manage your product team?
