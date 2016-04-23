@@ -10,7 +10,7 @@ In August 2015 I joined the Ministry of Justice as a Product Manager as part of 
 
 The purpose of product management seems to remain the same whatever sector I've worked in.
 
-*I've had ~drinking~ product catchups with [Morag McLaren](https://twitter.com/moragmclaren), [Analisa Plehn](https://uk.linkedin.com/in/analisa-plehn-5aab9418) and [Jock Busuttil](https://twitter.com/jockbu) for a couple of years that have helped me to improve my understanding of product management, and working as a Product Management tutor at [General Assembly](https://generalassemb.ly/education/product-management-immersive) with [Danny Ivatt](https://twitter.com/DanielIvatt) & [Chris Bradley](https://twitter.com/briscradley) in 2015 gave me a chance to get better at explaining myself:*
+*I've had ~~drinking~~ product catchups with [Morag McLaren](https://twitter.com/moragmclaren), [Analisa Plehn](https://uk.linkedin.com/in/analisa-plehn-5aab9418) and [Jock Busuttil](https://twitter.com/jockbu) for a couple of years that have helped me to improve my understanding of product management, and working as a Product Management tutor at [General Assembly](https://generalassemb.ly/education/product-management-immersive) with [Danny Ivatt](https://twitter.com/DanielIvatt) & [Chris Bradley](https://twitter.com/briscradley) in 2015 gave me a chance to get better at explaining myself:*
 
 Product Management is a strategic business role that helps teams to create the simplest, most valuable product they can: the **minimum viable product**.
 
