@@ -23,7 +23,7 @@ My concern has been that my lack of technical understanding is a blocker to all 
 
 A product manager working within a [scrum framework](http://www.scrumguides.org/scrum-guide.html) is called a [Product Owner](http://www.scrumguides.org/scrum-guide.html#team-po), and Product Ownership is relatively well defined. Here’s a diagram I’ve adapted from a [blog post](http://www.romanpichler.com/blog/big-product-owner-small-product-owner/) by Roman Pichler, showing what being a Product Owner entails (and situations in which you may not be given the chance to truly be a Product Owner).
 
-![Product Owner diagram by Scott Colfer](http://scottcolfer.github.io/_assets/product-owner-diagram.jpg)
+![Product Owner diagram by Scott Colfer](/assets/product-owner-diagram.jpg)
 
 # Vision
 
