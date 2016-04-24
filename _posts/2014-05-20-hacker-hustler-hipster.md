@@ -22,7 +22,7 @@ A digital service targeting middle-managers (often business to business), ‘Hus
 
 A socially driven, brand focussed business that relies on being ‘bang on trend’ and has social baked in. This type of business is beautiful and personal, often free, and might have a huge number of users but can be difficult to monetise (which leads to the question: is it actually a business?) . . . and remaining ‘bang on trend’ takes a lot of time and insights.
 
-•Instagram is a typical ‘Hipster’ that creates a loyal and passionate community of users (but struggles to find a business model).*
+*Instagram is a typical ‘Hipster’ that creates a loyal and passionate community of users (but struggles to find a business model).*
 
 **What kind of business is yours?**
 
