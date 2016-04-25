@@ -6,11 +6,11 @@ date: 2016-02-28
 
 How does a product manager without a technical background manage a technical product? After six months figuring this out I think the answer is ‘the same way they’d manage any other product, only more so’. Let me explain.
 
-> How does a product manager without a technical background manage a technical product?
+>How does a product manager without a technical background manage a technical product?
 
 # Product Management: First Principles.
 
-I’m the Product Owner for the Ministry of Justice’s [Cloud Platform])https://mojdigital.blog.gov.uk/), providing [digital by default](https://www.gov.uk/service-manual/digital-by-default/) public services with modern [infrastructure as a service](https://en.wikipedia.org/wiki/Cloud_computing#Infrastructure_as_a_service_.28IaaS.29) and [web operations](https://en.wikipedia.org/wiki/Web_operations). I’m not a Technical Product Owner (i.e. I don’t have a background as a Web Operations Engineer) and was concerned that this would limit my ability to manage the product.
+I’m the Product Owner for the Ministry of Justice’s [Cloud Platform](https://mojdigital.blog.gov.uk/), providing [digital by default](https://www.gov.uk/service-manual/digital-by-default/) public services with modern [infrastructure as a service](https://en.wikipedia.org/wiki/Cloud_computing#Infrastructure_as_a_service_.28IaaS.29) and [web operations](https://en.wikipedia.org/wiki/Web_operations). I’m not a Technical Product Owner (i.e. I don’t have a background as a Web Operations Engineer) and was concerned that this would limit my ability to manage the product.
 Being so far out of my comfort zone has forced me to revisit my product management first principles. For me product management is about:
 
 - starting with user needs
