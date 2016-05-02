@@ -8,7 +8,7 @@ layout: feed
 	<link href="http://scottcolfer.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://scottcolfer.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/blog</id>
+	<id>http://scottcolfer.github.io/blog</id>
 	<author>
 		<name>Scott Colfer</name>
 	</author>
