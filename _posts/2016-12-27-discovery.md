@@ -9,7 +9,7 @@ date: 2016-12-27
 ---
 **Note**
 
-This post is a work in progress published on GitHub where you can leave comments and suggestions.
+This post is a work in progress published on [GitHub](https://github.com/scottcolfer/scottcolfer.github.io/blob/master/_posts/2016-12-27-discovery.md/) where you can leave comments and suggestions.
 
 ---
 
