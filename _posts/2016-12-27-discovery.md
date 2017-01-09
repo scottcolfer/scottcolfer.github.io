@@ -77,10 +77,11 @@ Repeat this until you have refined you have enough data to make a decision as to
 
 You can explore solutions at this stage without committing to building one. The Lean Startup defines a minimum viable product as the minimum needed for a build-test-learn feedback loop. This doesn't have to be code, it can be things like paper wireframes, digital wireframes or using an existing solution as a proxy. You shouldn't commit to a solution at this stage but you should run experiments to test if your problem is feasible to solve.
 
-Suggested reading
-Steven Gary Blank: The Four Steps to Epiphany
-Ash Maurya blog https://leanstack.com/blog/
-UX for lean startups
+**Suggested reading**
+
+- [The Four Steps to the Epihany](https://www.amazon.co.uk/dp/B00FLZKNUQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1/)
+- [Ash Maurya's blog](https://leanstack.com/blog/)
+- [UX for Lean Startups](https://www.amazon.co.uk/dp/B00CMFJZ1Q/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1/).
 
 ## Has it been solved already?
 
