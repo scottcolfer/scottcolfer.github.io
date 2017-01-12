@@ -99,11 +99,22 @@ For me, the key section of the lean canvas is the 'unfair advantage' section. Yo
 
 It all comes down to the bottom line. Literally. Adapting the lean canvas for government, the goal of discovery is to uncover COSTS (cost of the problem; cost of the solution) and VALUE (what is it worth to solve the problem?). As a product manager, your job at the end of discovery is to have established whether or not the value outweighs the costs, and to give the degree of certainty you have in your decision.
 
+## Top discovery fails
+
+Here's my personal list of top discovery fails:
+
+- falling in love with your solution
+- no clear return on investment
+- no clear path to users
+- flaring instead of focussing
+- a weak unique value proposition
+- no unfair advantage story
+- problem isn't specific enough
+- lack of metrics of success.
+
 **ENDNOTES**
 
 Here are a few things that I've not yet managed to incorporate in this post:
-
-Top 8 fails: falling in love with your solution; no clear return on investment; no clear path to users; flaring instead of focussing; a weak unique value proposition; no unfair advantage story; problem isn't specific enough; lack of metrics of success.
 
 Alpha and service assessment: what's the handover to alpha? how to engage with continuous service review at discovery?
 
