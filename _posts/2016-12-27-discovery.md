@@ -112,6 +112,11 @@ Here's my personal list of top discovery fails:
 - problem isn't specific enough
 - lack of metrics of success.
 
+## General Discovery articles
+
+- [8 things I learned about data discoveries](https://data.blog.gov.uk/2017/01/09/8-things-i-learned-about-data-discoveries/), Kieron Kirkland - GDS
+- [Discovery from Day One](https://www.thoughtworks.com/insights/blog/discovery-day-one/), Dan Mutton - ThoughtWorks
+
 **ENDNOTES**
 
 Here are a few things that I've not yet managed to incorporate in this post:
@@ -127,7 +132,5 @@ Portfolio management: this post pre-supposes that discovery teams receive proble
 Account management: do our 'clients' understand the discovery phase when they commission work of government digital teams?
 
 I haven't mentioned vision, and have limited strategic tools to the business model canvas/lean canvas. How does the roadmap fit at this stage? This post is a useful one to pick up on this point: http://www.slideshare.net/sachmonkey/the-art-of-product-management-58156816
-
-Existing discovery posts:
 
 - https://www.thoughtworks.com/insights/blog/discovery-day-one
