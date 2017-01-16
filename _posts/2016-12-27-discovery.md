@@ -75,6 +75,8 @@ In practice, you might want to work on a physical board or a Trello board and:
 7. run the experiment and use the outcome to inform your decision making process
 Repeat this until you have refined you have enough data to make a decision as to whether you should kill or continue with the product.
 
+*I was asked to give an example of an assumption. Until recently I was Product Manager for the MOJ's [Cloud Platform](https://mojdigital.blog.gov.uk/2016/03/22/everything-you-ever-wanted-to-know-about-the-cloud-and-platforms-but-were-afraid-to-ask/), the hosting, deployment and testing service for developers. We had assumed that devlopers needed bespoke settings and concierge services but our user research showed that there is limited variety in MOJ software and developers wanted a simple setup process. This meant that we were able to change our approach, focussing on standardisation, sensible defaults and self-service for developers (which allowed us to save over 70% of hosting costs, amongst other things).*
+
 You can explore solutions at this stage without committing to building one. The Lean Startup defines a minimum viable product as the minimum needed for a build-test-learn feedback loop. This doesn't have to be code, it can be things like paper wireframes, digital wireframes or using an existing solution as a proxy. You shouldn't commit to a solution at this stage but you should run experiments to test if your problem is feasible to solve.
 
 **Suggested reading**
