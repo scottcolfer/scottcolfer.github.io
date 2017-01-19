@@ -123,6 +123,8 @@ Here's my personal list of top discovery fails:
 
 Here are a few things that I've not yet managed to incorporate in this post:
 
+You can stop something after Discovery; equally, a single discovery could lead to mulitple things; be good to have examples of both
+
 Alpha and service assessment: what's the handover to alpha? how to engage with continuous service review at discovery?
 
 Can I use real life examples to bring this to life or would it make the post too long?
