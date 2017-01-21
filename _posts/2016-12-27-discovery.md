@@ -138,3 +138,4 @@ Account management: do our 'clients' understand the discovery phase when they co
 I haven't mentioned vision, and have limited strategic tools to the business model canvas/lean canvas. How does the roadmap fit at this stage? This post is a useful one to pick up on this point: http://www.slideshare.net/sachmonkey/the-art-of-product-management-58156816
 
 - https://www.thoughtworks.com/insights/blog/discovery-day-one
+- https://twitter.com/CarlaDownes/status/821813084092301313
