@@ -34,19 +34,21 @@ For more background:
 
 Government digital services are a beacon of user centred design. We are looking for product managers who put users first and understand the value of defining problems before developing solutions. This means we need people who understand user research, user experience and design. 
 
-We apply a lean startup mentality at scale and need product managers who can work in areas of extreme uncertainty by working with agility and making data driven decisions within an empowered, co-located software team of specialists including developers, researchers, designers and stakeholders from across the justice system. We have a great culture and modern tools (like Macbooks and Google apps).
+We apply a lean startup mentality at scale and need product managers who can operate in areas of extreme uncertainty by working with agility and making data driven decisions, within an empowered, co-located software team of specialists including developers, researchers, designers and stakeholders from across the justice system. We have a great culture and modern tools (like Macbooks and Google apps).
 
-We are actively improving the diversity of our workforce in order to get the best talent available. We want our workforce to represent the variety of people in the broad UK population and do not discriminate based on age, sex, pregnancy or family commitments, disability, race or religion.
+We are actively improving the diversity of our workforce in order to get the best talent available. We want our workforce to represent the variety of people in the UK population and do not discriminate based on age, sex, pregnancy or family commitments, disability, race or religion.
 
 Life’s too short not to do something important so join a team with a mission to improve millions of lives.
-The products
+
+## The products
+
 MOJ Digital has a diverse portfolio of products to suit a wide range of product management skills:
 
 - software for the public like [visit someone in prison](https://www.gov.uk/prison-visits)
 - software for internal users like our [intranet](https://mojdigital.blog.gov.uk/2015/12/11/inside-out-lessons-learnt-from-building-a-new-intranet/)
 - platforms and APIs to help build our software like the cloud platform.
 
-We are a mature software development studio, increasingly building services with both public and professional user interfaces, built using on top of our APIs and cloud platform.
+We are a mature software development studio, increasingly building services with both public and professional user interfaces, built on top of our APIs and cloud platform.
 
 ## The role
 
