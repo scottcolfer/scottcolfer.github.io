@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Product Managers: glue code for insights, not mini CEOs."
+title: "Cloud Product Manager."
 date: 2017-01-26
 ---
 
