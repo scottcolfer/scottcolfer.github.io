@@ -76,3 +76,5 @@ It is desirable that you have:
 - Financial ownership: you can prioritise spending based on return on investment and are able to secure funding for new products through creation and pitching of a business case
 - An understanding of government constraints: you are able to develop an understanding of policy, legislative, regulatory and operational constraints, adapting products where needed.
 - Knowledge of the digital economy: you are aware of the varieties of digital contexts and design service to fit them, keeping up to date with new technologies and their potential use.
+
+**Interested? Contact the Head of Product, Scott Colfer via scott.colfer@digital.justice.gov.uk**
