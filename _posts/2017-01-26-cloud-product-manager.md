@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cloud Product Manager."
+title: "Cloud Product Manager"
 date: 2017-01-26
 ---
 
@@ -39,6 +39,8 @@ We apply a lean startup mentality at scale and need product managers who can ope
 We are actively improving the diversity of our workforce in order to get the best talent available. We want our workforce to represent the variety of people in the UK population and do not discriminate based on age, sex, pregnancy or family commitments, disability, race or religion.
 
 Life’s too short not to do something important so join a team with a mission to improve millions of lives.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3ms8xitK4w?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## The products
 
