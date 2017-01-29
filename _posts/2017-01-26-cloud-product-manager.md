@@ -24,9 +24,11 @@ The Ministry of Justice was amongst the first government organisations to make s
 
 For more background:
 
-- our Head of Architecture [talking about our use of public cloud hosting](https://www.youtube.com/watch?v=jPNnU1Y_3d0&list=PLFC4DF7286B2419F9&index=29)(video)
 - the previous Product Manager talking about the value of public cloud hosting and [the services offered by the Cloud Platform](https://mojdigital.blog.gov.uk/2016/03/22/everything-you-ever-wanted-to-know-about-the-cloud-and-platforms-but-were-afraid-to-ask/) (blog post)  
-- the team’s first Technical Architect talking about [the MOJ’s move towards platforms and components](https://mojdigital.blog.gov.uk/2016/02/15/platforms-postcodes-and-pushing-services-live-a-year-in-the-life-of-our-platforms-team/) (blog post).
+- the team’s first Technical Architect talking about [the MOJ’s move towards platforms and components](https://mojdigital.blog.gov.uk/2016/02/15/platforms-postcodes-and-pushing-services-live-a-year-in-the-life-of-our-platforms-team/) (blog post)
+- our Head of Architecture [talking about our use of public cloud hosting](https://www.youtube.com/watch?v=jPNnU1Y_3d0&list=PLFC4DF7286B2419F9&index=29)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jPNnU1Y_3d0?list=PLFC4DF7286B2419F9" frameborder="0" allowfullscreen></iframe>
 
 ## Ministry of Justice Digital
 
