@@ -7,7 +7,7 @@ date: 2017-01-30
 # Register Product Manager
 
 
-**Ministry of Justice Digital needs an interim Senior Product Manager for our Information Register to start asap and can offer:** 
+**Ministry of Justice Digital needs an interim Senior Product Manager for our Register of Information and Technology to start asap and can offer:** 
 
 - **£450-£550 per day**
 - **a chance to work with a truly agile, empowered and co-located team of specialists at the top of their game.**
