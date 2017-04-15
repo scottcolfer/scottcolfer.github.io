@@ -5,17 +5,9 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.2;
 }
-nav ul, footer ul {
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
+
 a {
     text-decoration: none;
     color: #3498DB;
@@ -30,8 +22,8 @@ h1 {
 footer {
     font-size: 12px;
 }
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 16px;
 }
 
