@@ -8,6 +8,22 @@ body {
     line-height: 1.2;
 }
 
+p {
+  font-size: 120%;
+}
+
+h1 {
+  font-size: 250%;
+}
+
+h2 {
+  font-size: 200%;
+}
+
+h3 {
+  font-size: 150%;
+}
+
 a {
     text-decoration: none;
     color: #3498DB;
