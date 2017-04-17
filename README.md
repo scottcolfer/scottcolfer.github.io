@@ -15,4 +15,4 @@ GitHub Pages is an excellent way to publish a personal website without the need 
 
 I created this site in early 2016 using Jonathan McGlone's [excellent tutorial](http://jmcglone.com/guides/github-pages/), however GitHub Pages has subsequetly become even easier to use.
 
-General Assembly's HTML and CSS weekend course, and [online tutorials](https://dash.generalassemb.ly/) both helped me to understand the basic principles of web development.
+General Assembly's HTML and CSS weekend course, and [online tutorials](https://dash.generalassemb.ly/) helped me to understand the basic principles of web development.
