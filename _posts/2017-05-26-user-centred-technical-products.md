@@ -18,7 +18,7 @@ Inner You: "[Civil servants are users too](https://gds.blog.gov.uk/2015/09/28/ci
 
 ## 3. Bargaining
 
-You: "OK, I get that it's got users . . . but loads of the standards don't apply. How do I do something like ']be consistent with the rest of GOV.UK including design patterns and style guide](https://www.gov.uk/service-manual/service-standard/make-the-user-experience-consistent-with-govuk)' when building something like an API?"
+You: "OK, I get that it's got users . . . but loads of the standards don't apply. How do I do something like '[be consistent with the rest of GOV.UK including design patterns and style guide](https://www.gov.uk/service-manual/service-standard/make-the-user-experience-consistent-with-govuk)' when building something like an API?"
 
 Inner You: "Developers are users. They need technical documentation to use the API. Technical documentation = content. The page that the content sits on needs to be designed. The value of your API is only released if the technical documentation works. Your API needs a service wrapper. You've created a service. The service standards apply.""
 
