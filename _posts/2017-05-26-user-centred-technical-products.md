@@ -4,7 +4,7 @@ title: "The Five Stages of Applying the Digital Service Standard to Technical St
 date: 2017-04-26
 ---
 
-##1. Denial
+## 1. Denial
 
 **You** "I'm working on a platform/API/component/infrastructure product/etc . . . it's a technical 'thing'' for internal use, the [Digital Service Standard](https://www.gov.uk/service-manual/service-standard) doesn't apply."
 
@@ -34,7 +34,7 @@ date: 2017-04-26
 
 ## 5. Acceptance
 
-**You** "So . . . I can get a multidisciplinary team to work on my technical thing, that is actually a service for internal users? That's actually quite exciting."
+**You** "So . . . I can get a multidisciplinary team to work on my technical thing, that is really a service for internal users? That's exciting."
 
 **Inner You** "Yes. You'll need to help your colleagues understand that you're working on a service, the same as them, but once they do then you'll get the help you need."
 
