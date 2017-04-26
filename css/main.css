@@ -24,6 +24,14 @@ h3 {
   font-size: 150%;
 }
 
+ul {
+    font-size: 120%;
+}
+
+ul li {
+    list-style: none;
+}
+
 a {
     text-decoration: none;
     color: #3498DB;
@@ -31,21 +39,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 24px;
-}
 
 footer {
-    font-size: 12px;
-}
-ul.posts {
-    margin: 20px auto 40px;
-    font-size: 16px;
-}
-
-ul.posts li {
-    list-style: none;
-}
-ul.posts li {
-    list-style: none;
+    font-size: 75%;
 }
