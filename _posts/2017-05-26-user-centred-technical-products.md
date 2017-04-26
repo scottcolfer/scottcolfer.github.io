@@ -4,8 +4,6 @@ title: "The Five Stages of Applying the Digital by Default Standard to Technical
 date: 2017-04-26
 ---
 
-# The Five Stages of Applying the Digital by Default Standard to Technical Stuff
-
 ## 1. Denial
 
 You: "I'm working on a platform/API/component/infrastructure product/etc . . . it's a technical 'thing'' for internal use, the [Digital Service Standard](https://www.gov.uk/service-manual/service-standard) doesn't apply."
