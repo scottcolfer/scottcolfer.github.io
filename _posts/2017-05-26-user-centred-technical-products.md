@@ -12,15 +12,15 @@ date: 2017-04-26
 
 ## 2. Anger
 
-**You** "It's not public facing! It doesn't even have users! It's an internal, technical thing! It has "
+**You** "It's not public facing! It doesn't even have users! It's an internal, technical thing!"
 
 **Inner You** "[Civil servants are users too](https://gds.blog.gov.uk/2015/09/28/civil-servants-are-users-too/). User-centred design ftw. "
 
 ## 3. Bargaining
 
-**You** "OK, I get that it's got users . . . but loads of the standards don't apply. How do I do something like '[be consistent with the rest of GOV.UK including design patterns and style guide](https://www.gov.uk/service-manual/service-standard/make-the-user-experience-consistent-with-govuk)' when building something like an API?"
+**You** "OK, I get that it's got users . . . but loads of the standards don't apply. How do I do something like '[be consistent with the rest of GOV.UK including design patterns and style guide](https://www.gov.uk/service-manual/service-standard/make-the-user-experience-consistent-with-govuk)' when building something like an API? That's not applicable. Be reasonable!"
 
-**Inner You** "Developers are users. They need technical documentation to use the API. Technical documentation = content. The page that the content sits on needs to be designed. The value of your API is only released if the technical documentation works. Your API needs a service wrapper. You've created a service. The service standards apply.""
+**Inner You** "Developers are users. They need technical documentation to use the API. Technical documentation = content. The page that the content sits on needs to be designed. The value of your API is only released if the technical documentation works. Your API needs a service wrapper. You've created a service. The digital service standard applies."
 
 ## 4. Depression
 
@@ -30,7 +30,7 @@ date: 2017-04-26
 
 **You** :(
 
-**Inner You** ". . . but teams around government are making this case successfully! Platforms, components and technical products are increasingly going the the same [phases of development](https://www.gov.uk/service-manual/agile-delivery) as public-facing services. Here's the [Alpha assessment for PaaS](https://www.gov.uk/service-standard-reports/platform-as-a-service-paas)."
+**Inner You** ". . . but teams around government are making this case successfully! Platforms, components and technical products are increasingly going the the same [phases of development](https://www.gov.uk/service-manual/agile-delivery) as public-facing services. Here's the [Alpha assessment for PaaS](https://www.gov.uk/service-standard-reports/platform-as-a-service-paas) from almost a year ago."
 
 ## 5. Acceptance
 
