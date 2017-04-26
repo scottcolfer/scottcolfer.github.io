@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Five Stages of Applying the Digital by Default Standard to Technical Stuff"
+title: "The Five Stages of Applying the Digital Service Standard to Technical Stuff"
 date: 2017-04-26
 ---
 
