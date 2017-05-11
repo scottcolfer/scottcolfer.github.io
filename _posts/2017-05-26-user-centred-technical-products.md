@@ -12,7 +12,7 @@ date: 2017-04-26
 
 ## 2. Anger
 
-**You** "It's not public facing! It doesn't even have users! It's an internal, technical thing! It has "
+**You** "It's not public facing! It doesn't even have users! It's an internal, technical thing!"
 
 **Inner You** "[Civil servants are users too](https://gds.blog.gov.uk/2015/09/28/civil-servants-are-users-too/). User-centred design ftw. "
 
