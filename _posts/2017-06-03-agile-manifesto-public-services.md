@@ -44,10 +44,10 @@ What do you think, is the Manifesto for Agile Software Development still valuabl
 Background
 
 - [Agile Manifesto for Software Development](http://agilemanifesto.org)
-- [Principles behind the Agile Manifesto] (http://agilemanifesto.org/principles.html)
-- [The Elephants in the Agile Room] (https://philippe.kruchten.com/2011/02/13/the-elephants-in-the-agile-room/)
-- [Agile is Dead (Long Live Agility)] (https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html)
-- [Manifesto for Half-Arsed Agile Software Development] (http://www.halfarsedagilemanifesto.org/)
+- [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
+- [The Elephants in the Agile Room](https://philippe.kruchten.com/2011/02/13/the-elephants-in-the-agile-room/)
+- [Agile is Dead (Long Live Agility)](https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html)
+- [Manifesto for Half-Arsed Agile Software Development](http://www.halfarsedagilemanifesto.org/)
 
 *ps*
 
