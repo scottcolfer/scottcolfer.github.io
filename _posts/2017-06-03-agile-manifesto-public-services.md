@@ -10,7 +10,7 @@ It’s no longer that ‘new’ thing to try out but feels as though it’s now 
 Is the manifesto for agile software as valuable as it was in 2001?
 
 The answer, for my money, is ‘yes’ . . . and not just for software but for public services too.
-I had the conversation in real life recently with my colleague [Georg](https://twitter.com/GeorgFasching), and we agreed that if you replace the work ‘software’ with ‘public services’ then the manifesto and principles are great for building public services that are judged on how valuable they are for users and the organisations we work for (not just on their adherence to cost and delivery milestones). Features of public services should be designed and prioritised by how valuable they are, and value should be delivered as quickly as possible in small increments.
+I had the conversation in real life recently with my colleague [Georg Fasching](https://twitter.com/GeorgFasching), and we agreed that if you replace the work ‘software’ with ‘public services’ then the manifesto and principles are great for building public services that are judged on how valuable they are for users and the organisations we work for (not just on their adherence to cost and delivery milestones). Features of public services should be designed and prioritised by how valuable they are, and value should be delivered as quickly as possible in small increments.
 
 Sixteen years on, here’s a return to the agile manifesto - tweaked slightly to apply to public services (whether or not they are software).
 
@@ -54,4 +54,4 @@ Background
 
 *ps*
 
-*Me and Georg both felt that ‘simplicity--the art of maximising the amount of work not done’ is the principle that public services would most benefit from focussing on, since many public services are unnecessarily complicated and could be much more valuable for users and government organisations if they were simplified.*
+*Me and Georg both felt that ‘simplicity--the art of maximising the amount of work not done’ is the principle that public services would most benefit from focussing on, since many public services are unnecessarily complicated and could be much more valuable for users and government organisations if they were simplified. What do you think?*
