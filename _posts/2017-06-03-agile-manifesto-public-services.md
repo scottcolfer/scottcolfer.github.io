@@ -24,7 +24,7 @@ We are uncovering better ways of developing public services by doing it and help
 - Responding to change over following a plan
 - That is, while there is value in the items on the right, we value the items on the left more.
 
-Principles behind the Agile Manifesto for Public Services
+### Principles behind the Agile Manifesto for Public Services
 
 We follow these principles:
 
@@ -41,7 +41,7 @@ We follow these principles:
 - The best architectures, requirements, and designs emerge from self-organising teams.
 - At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-What do you think, is the Manifesto for Agile Software Development still valuable at the age of 16?
+**What do you think, is the Manifesto for Agile Software Development still valuable at the age of 16?**
 
 Background
 
