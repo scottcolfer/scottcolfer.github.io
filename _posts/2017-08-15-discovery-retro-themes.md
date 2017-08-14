@@ -90,13 +90,13 @@ Things we might want to explore:
 
 ### Discoveries have been valuable in stopping work where there is a weak business case, or the conditions to proceed to alpha are not present
 
-We heard of two Discoveries that did not proceed to [alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works).
+We heard of two discoveries that did not proceed to [alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works).
 
 Things we might want to explore:
 
-- We’d expect to hear of more discoveries don’t proceed to Alpha or are paused, are there more examples out there?
-- Is there an expectation that discovery should lead to Alpha?
-- Are teams empowered to pivot to such an extent that Discoveries are sufficiently refined that they will tend to proceed to Alpha?
+- We’d expect to hear of more discoveries don’t proceed to alpha or are paused, are there more examples out there?
+- Is there an expectation that discovery should lead to alpha?
+- Are teams empowered to pivot to such an extent that discoveries are sufficiently refined that they will tend to proceed to alpha?
 
 ### Business case for a solution comes at the end of alpha
 
