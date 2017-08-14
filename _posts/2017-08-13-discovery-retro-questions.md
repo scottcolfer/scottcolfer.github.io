@@ -20,7 +20,7 @@ My assumptions were that:
 - it's often the phase where wide-ranging insights and challenge is the most valuable
 - people have done it before and a lot has been learned that can be shared more widely.
 
-Fast forward a couple of months, and a bunch of us decided to run a retrospective of UK government's use of Discovery over the last few years, so that we can learn and improve. The things we learned have been shared in a Google Doc for the last few weeks but some government departments can't access Google Docs and a few people outside of government said they'd like to see what was learned too, so here they are on an easily accessible blog.
+Fast forward a couple of months, and a bunch of us decided to run a retrospective of UK government's use of discovery over the last few years, so that we can learn and improve. The things we learned have been shared in a Google Doc for the last few weeks but some government departments can't access Google Docs and a few people outside of government said they'd like to see what was learned too, so here they are on an easily accessible blog.
 
 I've taken the approach of splitting our retro into three posts in order to keep things short and snappy:
 
@@ -32,7 +32,7 @@ I've taken the approach of splitting our retro into three posts in order to keep
 
 Rob Banathy, Helen Mott, Rob Stirling, Iain Gordon and me developed these questions, that worked pretty well following a couple of tweaks and additions. Hopefully these questions are useful if you want to carry out your own retrospective - if we all use similar questions then it will helpful to compare findings.
 
-1.What was your Discovery?
+1.What was your discovery?
 
 - What was the problem space? (very short description!)
 - Were you a stakeholder or part of the development team?
@@ -41,7 +41,7 @@ Rob Banathy, Helen Mott, Rob Stirling, Iain Gordon and me developed these questi
 - How much budget did you have for the discovery? Was there any budget set for the delivery?
 - Was it for a high profile delivery? Was it urgent?
 
-2.What did you do during your Discovery?
+2.What did you do during your discovery?
 
 - How did you know where to start?
 - Where did your brief come from?
@@ -52,15 +52,15 @@ Rob Banathy, Helen Mott, Rob Stirling, Iain Gordon and me developed these questi
 
 3.How did you know who know who should be in your Discovery team?
 
-- Who was in your Discovery team?
+- Who was in your discovery team?
 - Where team members full time?
 
-4.Did you have any blockers to Discovery?
+4.Did you have any blockers to discovery?
 
-5.What Discovery guidance did you use? Any recommendations for particularly useful guidance?
+5.What discovery guidance did you use? Any recommendations for particularly useful guidance?
 
-6.Post-Discovery (in Alpha or Beta, for example) did you find something you wished you’d uncovered during Discovery?
+6.Post-discovery (in Alpha or Beta, for example) did you find something you wished you’d uncovered during discovery?
 
-7.Is there a write-up, case study or blog about your Discovery?  If not, would they be willing to work with?
+7.Is there a write-up, case study or blog about your discovery?  If not, would they be willing to work with?
 
 *Next post: themes that emerged from our retrospective of discovery in government.*
