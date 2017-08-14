@@ -6,7 +6,7 @@ date: 2017-08-15
 
 # Themes from a retro of discovery in UK government
 
-Discovery is the most critical and most challenging phase in developing a new public services, so a few of us from digital teams decided to see what's been learned from the first few years of discoveries in government.
+[Discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works) is the most critical and most challenging phase in developing a new public services, so a few of us from digital teams decided to see what's been learned from the first few years of discoveries in government.
 
 ## Background
 
@@ -41,7 +41,7 @@ Things we might want to explore:
 - Is this used to build the brief for a discovery team? In which case, is it better described as something like ‘discovery initiation’?
 - Is this a way of meeting a deadline to start a discovery, before the conditions are right for the discovery to genuinely begin?
 
-### Brief for Discovery varies in format, clarity, and route to team
+### Brief for discovery varies in format, clarity, and route to team
 
 We didn’t see much consistency in discovery briefs. They vary from conversations, to emails, to clear briefing documents. This does not necessarily matter, in itself. However, Service Managers and teams report that they can spend time (days, sometimes more than a week) clarifying the brief for discovery.
 
@@ -50,7 +50,7 @@ Things we might want to explore:
 - Does this match our expectation of how a discovery should begin?
 - Do we expect clearer briefs before a discovery begins?
 
-### Teams rely on their professional experience when carrying out a Discovery
+### Teams rely on their professional experience when carrying out a discovery
 
 Teams report that they rely on their professional experience when approaching a discovery, over explicit guidance (e.g. good practice, other examples of discovery, etc).
 
@@ -58,7 +58,7 @@ Teams report that they rely on their professional experience when approaching a 
 
 Despite relying on their professional experience, teams expressed a desire for more guidance. This is a tricky one to draw conclusions from and deserves more digging but an early assumption is that a problem with relying on professional experience when approaching Discovery is that everyone’s experience is different. It seems that this can lead to a situation where a team all believe that they understand the same thing by the term ‘discovery’ . . . but don’t understand the same thing, in reality - which can lead to dysfunction.
 
-### Service Manual guidance on Discovery has limited use
+### Service Manual guidance on discovery has limited use
 
 The majority of people are aware that it exists but few reported more than cursory use of it.
 
@@ -67,9 +67,9 @@ Things we might want to explore:
 - Does it need to be better? 
 - Do teams need to be connected with it more consistently? 
 
-### Time taken to complete a Discovery varies significantly
+### Time taken to complete a discovery varies significantly
 
-Most of the Discoveries we heard of took between 4 weeks and 3 months to complete but also heard of discoveries taking 6+ months.
+Most of the discoveries we heard of took between 4 weeks and 3 months to complete but also heard of discoveries taking 6+ months.
 
 Things we might want to explore:
 
@@ -84,21 +84,21 @@ Teams expressed a desire to see what has been learned in previous discoveries, i
 
 Things we might want to explore:
 
-- Is the expectation that Discovery insights should be shared within departments and cross-government?
+- Is the expectation that discovery insights should be shared within departments and cross-government?
 - If so, does this happen already?
 - If not, how do we make it happen?
 
-### Discoveries have been valuable in stopping work where there is a weak business case, or the conditions to proceed to Alpha are not present
+### Discoveries have been valuable in stopping work where there is a weak business case, or the conditions to proceed to alpha are not present
 
-We heard of two Discoveries that did not proceed to Alpha.
+We heard of two Discoveries that did not proceed to [alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works).
 
 Things we might want to explore:
 
-- We’d expect to hear of more Discoveries don’t proceed to Alpha or are paused, are there more examples out there?
-- Is there an expectation that Discovery should lead to Alpha?
+- We’d expect to hear of more discoveries don’t proceed to Alpha or are paused, are there more examples out there?
+- Is there an expectation that discovery should lead to Alpha?
 - Are teams empowered to pivot to such an extent that Discoveries are sufficiently refined that they will tend to proceed to Alpha?
 
-### Business case for a solution comes at the end of Alpha
+### Business case for a solution comes at the end of alpha
 
 Teams reported an expectation from stakeholders that the discovery would produce a business case for a solution, however teams expect this to come at the end of alpha. 
 
@@ -114,8 +114,8 @@ Things we might want to explore:
 - Do ‘digital’ teams and ‘the business’ mean the same thing when they use the term ‘business case’
 - Are 'digital’ teams doing a good enough job at explaining the point of discovery and alpha?
 
-### Discoveries sometimes blend into Alpha
+### Discoveries sometimes blend into alpha
 
-Teams reported that Discoveries sometimes blend into Alpha without as much checking/approval as they would expect, given the quality checking that goes on for the other stages of the Service Manual. Most typically, a Discovery is summarised in a slide deck and presented to key stakeholders, who make a go/don’t go decision.
+Teams reported that discoveries sometimes blend into alpha without as much checking/approval as they would expect, given the quality checking that goes on for the other stages of the Service Manual. Most typically, a Discovery is summarised in a slide deck and presented to key stakeholders, who make a go/don’t go decision.
 
-Next post: hypotheses for improving discovery.
+*Next post: hypotheses for improving discovery.*
