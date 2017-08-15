@@ -61,4 +61,4 @@ Rob Banathy, Helen Mott, Rob Stirling, Iain Gordon and me developed these questi
 
 7.Is there a write-up, case study or blog about your discovery?  If not, would they be willing to work with?
 
-*Next post: themes that emerged from our retrospective of discovery in government.*
+*Next post: [themes that emerged from our retrospective of discovery in government](http://scottcolfer.com/2017/08/15/discovery-retro-themes.html).*
