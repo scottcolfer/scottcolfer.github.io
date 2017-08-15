@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Themes from a retro of discovery in government"
+title: "10 things we learned about discovery in government"
 date: 2017-08-15
 ---
 
@@ -18,16 +18,16 @@ The things we learned have been shared in a Google Doc for the last few weeks bu
 
 ## Summary of themes
 
-- Pre-discovery is a thing
-- Briefs for discovery vary
-- Teams rely on their professional experience when carrying out a discovery
-- Teams expressed a desire for more guidance on discovery
-- Service Manual guidance on discovery has limited use
-- Time taken to complete a discovery varies significantly
-- Teams would like to learn from other discoveries
-- Discoveries have been valuable in stopping work where there is a weak business case, or the conditions to proceed to alpha are not present
-- Business case for a solution comes at the end of alpha
-- Discoveries sometimes blend into alpha.
+1. Pre-discovery is a thing
+2. Briefs for discovery vary
+3. Teams rely on their professional experience when carrying out a discovery
+4. Teams expressed a desire for more guidance on discovery
+5. Service Manual guidance on discovery has limited use
+6. Time taken to complete a discovery varies significantly
+7. Teams would like to learn from other discoveries
+8. Discoveries have been valuable in stopping work where there is a weak business case, or the conditions to proceed to alpha are not present
+9. Business case for a solution comes at the end of alpha
+10. Discoveries sometimes blend into alpha.
 
 ### Pre-discovery is a thing
 
