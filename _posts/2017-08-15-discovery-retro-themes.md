@@ -4,7 +4,7 @@ title: "10 things we learned about discovery in government"
 date: 2017-08-15
 ---
 
-[Discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works) is the most critical and most challenging phase in developing a new public services, so a few of us from digital teams decided to see what's been learned from the first few years of discoveries in government.
+UK government has been a trailblazer in the use of [discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), one of the reasons it has become a world-leader in user-centred design. Discovery is the most critical and most challenging phase in developing a new public services, so a few of us from digital teams decided to see what's been learned from the first few years of discoveries in government so that we can do even better over the next few years.
 
 ## Background
 
@@ -23,7 +23,7 @@ The things we learned have been shared in a Google Doc for the last few weeks bu
 3. Teams rely on their professional experience when carrying out a discovery
 4. Teams expressed a desire for more guidance on discovery
 5. Service Manual guidance on discovery has limited use
-6. Time taken to complete a discovery varies significantly
+6. Time taken to complete a discovery varies 
 7. Teams would like to learn from other discoveries
 8. Discoveries have been valuable in stopping work where there is a weak business case, or the conditions to proceed to alpha are not present
 9. Business case for a solution comes at the end of alpha
@@ -31,17 +31,16 @@ The things we learned have been shared in a Google Doc for the last few weeks bu
 
 ### Pre-discovery is a thing
 
-Work often happens before Discovery officially begins, and this seems to be called ‘pre-discovery’ in some areas of government. There’s little consistency in understanding what pre-discovery is (beyond being work happening before discovery officially begins).
+Work often happens before discovery officially begins, and this is often alled ‘pre-discovery’. We currently lack a definition of pre-discovery (it can currenrly signify any work that happens before discovery officially begins).
 
 Things we might want to explore:
 
-- Is it used to test the case for a discovery happening? In which case, is it better described as something like ‘discovery proposal’?
-- Is this used to build the brief for a discovery team? In which case, is it better described as something like ‘discovery initiation’?
-- Is this a way of meeting a deadline to start a discovery, before the conditions are right for the discovery to genuinely begin?
+- Is pre-discovery used to test the case for a discovery happening? In which case, is it better described as something like ‘discovery proposal’?
+- Is pre-discovery used to build the brief for a discovery team? In which case, is it better described as something like ‘discovery initiation’?
 
 ### Brief for discovery varies in format, clarity, and route to team
 
-We didn’t see much consistency in discovery briefs. They vary from conversations, to emails, to clear briefing documents. This does not necessarily matter, in itself. However, Service Managers and teams report that they can spend time (days, sometimes more than a week) clarifying the brief for discovery.
+The format for a brief can vary from conversations, to emails, to clear briefing documents. This does not necessarily matter, in itself. However, Service Managers and teams report that they can spend time (days, sometimes more than a week) clarifying the brief for discovery.
 
 Things we might want to explore:
 
@@ -54,7 +53,7 @@ Teams report that they rely on their professional experience when approaching a 
 
 ### Teams expressed a desire for more guidance on discovery
 
-Despite relying on their professional experience, teams expressed a desire for more guidance. This is a tricky one to draw conclusions from and deserves more digging but an early assumption is that a problem with relying on professional experience when approaching Discovery is that everyone’s experience is different. It seems that this can lead to a situation where a team all believe that they understand the same thing by the term ‘discovery’ . . . but don’t understand the same thing, in reality - which can lead to dysfunction.
+Despite relying on their professional experience, teams expressed a desire for more guidance. This is a tricky one to draw conclusions from and deserves more digging but an early assumption is that a problem with relying on professional experience when approaching discovery is that everyone’s experience is different. It seems that this can lead to a situation where a team all believe that they understand the same thing by the term ‘discovery’ . . . but don’t understand the same thing, in reality - which can lead to dysfunction.
 
 ### Service Manual guidance on [discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works) has limited use
 
@@ -67,12 +66,12 @@ Things we might want to explore:
 
 ### Time taken to complete a discovery varies significantly
 
-Most of the discoveries we heard of took between 4 weeks and 3 months to complete but also heard of discoveries taking 6+ months.
+Most of the discoveries we heard of took between 4 weeks and 3 months to complete but also heard of a discovery taking 6+ months.
 
 Things we might want to explore:
 
 - Does this matter?
-- Some delivery teams and Service Managers report frustration with the time taken to complete Discovery
+- Some delivery teams and Service Managers report frustration with the time taken to complete discovery
 - Some teams think that discovery could have been completed more quickly if they could access users quicker, and if they could work more closely with stakeholders and subject matter experts
 - Scope of discovery seems to vary and it may be that there are different 'scales' of discovery.
 
@@ -86,7 +85,7 @@ Things we might want to explore:
 - If so, does this happen already?
 - If not, how do we make it happen?
 
-### Discoveries have been valuable in stopping work where there is a weak business case, or the conditions to proceed to alpha are not present
+### Discoveries have been valuable in stopping work where there is a weak business case, or the conditions to proceed to alpha are not present, saving money for the tax payer
 
 We heard of two discoveries that did not proceed to [alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works).
 
@@ -114,6 +113,6 @@ Things we might want to explore:
 
 ### Discoveries sometimes blend into alpha
 
-Teams reported that discoveries sometimes blend into alpha without as much checking/approval as they would expect, given the quality checking that goes on for the other stages of the Service Manual. Most typically, a Discovery is summarised in a slide deck and presented to key stakeholders, who make a go/don’t go decision.
+Teams reported that discoveries sometimes blend into alpha without as much checking/approval as they would expect, given the quality checking that goes on for the other stages of the Service Manual. Most typically, a discovery is summarised in a slide deck and presented to key stakeholders, who make a go/don’t go decision.
 
 *Next post: hypotheses for improving discovery.*
