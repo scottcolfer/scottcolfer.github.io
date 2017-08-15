@@ -56,7 +56,7 @@ Teams report that they rely on their professional experience when approaching a 
 
 Despite relying on their professional experience, teams expressed a desire for more guidance. This is a tricky one to draw conclusions from and deserves more digging but an early assumption is that a problem with relying on professional experience when approaching Discovery is that everyone’s experience is different. It seems that this can lead to a situation where a team all believe that they understand the same thing by the term ‘discovery’ . . . but don’t understand the same thing, in reality - which can lead to dysfunction.
 
-### Service Manual guidance on discovery has limited use
+### Service Manual guidance on [discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works) has limited use
 
 The majority of people are aware that it exists but few reported more than cursory use of it.
 
