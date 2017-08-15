@@ -4,13 +4,11 @@ title: "Themes from a retro of discovery in government"
 date: 2017-08-15
 ---
 
-# Themes from a retro of discovery in UK government
-
 [Discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works) is the most critical and most challenging phase in developing a new public services, so a few of us from digital teams decided to see what's been learned from the first few years of discoveries in government.
 
 ## Background
 
-Me, Rob Banathy, Helen Mott, Rob Stirling, Iain Gordon ran the retrospective. We spoke with 25 people from the product, delivery, research and design profession, from several government departments. 
+Me, Rob Banathy, Helen Mott, Rob Stirling, Iain Gordon ran the retrospective. We spoke with 25 people from the service management, product, delivery, research and design professions, from several government departments. 
 The things we learned have been shared in a Google Doc for the last few weeks but some government departments can’t access Google Docs and a few people outside of government said they’d like to see what was learned too, so here they are on an easily accessible blog.
 
 *You can find out more about how this retro began and the questions we asked in a [previous post](http://scottcolfer.com/2017/08/14/discovery-retro-questions.html).*
