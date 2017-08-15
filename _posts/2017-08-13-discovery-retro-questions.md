@@ -4,8 +4,6 @@ title: "Run a retrospective on your discovery"
 date: 2017-08-14
 ---
 
-# Run a retrospective on your discovery
-
 Want to run a retrospective on your organisation's approach to [discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works)? Discovery is the most critical stage in developing a product or service so it's important to learn from past experiences and improve. Here's an approach that a few of us took in UK government, it'd be great to know what other people have done.
 
 ## How did we get here?
@@ -30,7 +28,7 @@ I've taken the approach of splitting our retro into three posts in order to keep
 
 ## What did we ask in our retrospective of discoveries in government?
 
-Rob Banathy, Helen Mott, Rob Stirling, Iain Gordon and me developed these questions, that worked pretty well following a couple of tweaks and additions. Hopefully these questions are useful if you want to carry out your own retrospective - if we all use similar questions then it will helpful to compare findings.
+Rob Banathy, Helen Mott, Rob Stirling, Iain Gordon and me developed these questions, that worked pretty well following a couple of tweaks and additions. Hopefully these questions are useful if you want to carry out your own retrospective - if we all use similar questions then it will help to compare findings.
 
 1.What was your discovery?
 
