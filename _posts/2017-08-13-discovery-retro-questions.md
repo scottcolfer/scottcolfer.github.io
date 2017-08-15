@@ -23,7 +23,7 @@ Fast forward a couple of months, and a bunch of us decided to run a retrospectiv
 I've taken the approach of splitting our retro into three posts in order to keep things short and snappy:
 
 - this first post explains the questions we asked in our retrospective
-- the second post will share the themes that emerged from our retrospective
+- the second post will share the [themes](http://scottcolfer.com/2017/08/15/discovery-retro-themes.html) that emerged from our retrospective
 - the third post will share hypotheses for improving discoveries, based on the themes that emerged.
 
 ## What did we ask in our retrospective of discoveries in government?
