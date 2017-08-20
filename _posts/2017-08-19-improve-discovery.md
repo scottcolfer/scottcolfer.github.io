@@ -118,7 +118,7 @@ Data/research suggests that
 So if we try
 
 - highlighting similarities between agile development and project management
-- learning from Project Management
+- learning from project management
 - sharing guidance on when project management is the best approach, and when working with agility is the best approach
 
 And measure
@@ -147,7 +147,7 @@ We should see this change
 
 - average cost decreases
 
-## Experiment 8: What’s a Pre-Discovery?
+## Experiment 8: What’s a pre-discovery?
 
 Data/research suggests that
 
@@ -155,7 +155,7 @@ Data/research suggests that
 
 So if we try
 
-- Defining the value of a Pre-Discovery stage, and deciding if it should exist, and (if ‘yes’) applying it correctly
+- defining the value of a pre-discovery stage, and deciding if it should exist, and (if ‘yes’) applying it correctly
 
 And measure
 
@@ -163,11 +163,11 @@ And measure
 - % discovery teams reporting that a pre-discovery helped their discovery
 
 We should see this change
-- Pre-Discovery of more use to Discovery teams 
+- pre-discovery of more use to discovery teams 
 Or
-- Pre-Discovery of more use to Portfolio
+- pre-discovery of more use to portfolio
 Or
-- Pre-Discovery no longer used
+- pre-discovery no longer used
 Or
 - ???
 
@@ -187,17 +187,17 @@ And measure
 
 We should see this change
 
-- teams begin Discovery quicker
+- teams begin discovery sooner
 
 ## Experiment 10: Run regular Discovery retrospectives
 
 Data/research suggests that
 
-- the questions used to carry out this retrospective worked well
+- the [questions](http://scottcolfer.com/2017/08/14/discovery-retro-questions.html) used to carry out the retrospective that led to these hypotheses worked well
 
 So if we try
 
-- Team/Department questionnaires
+- team/organisational discovery retrospectives using similar [questions](http://scottcolfer.com/2017/08/14/discovery-retro-questions.html)
 
 And measure
 
@@ -205,4 +205,9 @@ And measure
 
 We should see this change
 
-- greater rate of improvement of our discovery
+- improvement in discovery.
+
+### *Notes*
+
+- *note 1: I wrote a post about [product roadmaps](https://gds.blog.gov.uk/2017/08/03/make-the-most-of-your-roadmap/) in which I highlighted a format for hypotheses shared by Jock Busuttil and have used that format for this post*
+- *note 2: it'd be great to hear from anyone who tries any of these hypotheses or has suggestions of their own, say hello on [Twitter](https://twitter.com/scottcolfer) or share suggestions on Github.
