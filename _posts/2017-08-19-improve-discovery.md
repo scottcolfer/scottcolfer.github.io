@@ -189,7 +189,7 @@ We should see this change
 
 - teams begin discovery sooner
 
-## Experiment 10: Run regular Discovery retrospectives
+## Experiment 10: Run regular discovery retrospectives
 
 Data/research suggests that
 
