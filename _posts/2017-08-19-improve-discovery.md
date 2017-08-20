@@ -4,11 +4,14 @@ title: "10 experiments you can try to improve discovery"
 date: 2017-08-19
 ---
 
+Want to improve your [discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works)? 
+Here are 10 things you and your organisation can try to make your discovery even more valuable, based on a recent [retrospective of discovery](http://scottcolfer.com/2017/08/14/discovery-retro-questions.html).
+
 ## Experiment 1: Can’t interview? Don’t start.
 
 Data/research suggests that
 
-- Teams wait for weeks to carry out their first interviews with users because they have to develop a route to users. This means that the first few weeks of Discovery may have limited return on investment and the final weeks are over-loaded with interviews and do not have enough time for the team to draw conclusions before Discovery ends
+- teams can wait for weeks to carry out their first interviews with users when they have to develop a route to users. This means that the first few weeks of discovery may have limited return on investment and the final weeks are over-loaded with interviews and do not have enough time for the team to draw conclusions before discovery ends
 
 So if we try
 
@@ -17,18 +20,19 @@ So if we try
 And measure
 
 - time taken for first interview
-- time taken to complete Discovery
-- % of Discoveries requiring extensions
-- confidence in Discovery insights
+- time taken to complete discovery
+- % of discoveries requiring extensions
+- confidence in discovery insights
 
 We should see this change
+
 - better insights from discovery (with ‘better’ defined as team and stakeholder confidence in these insights)
 
 ## Experiment 2: Subject matter experts are invaluable
 
 Data/research suggests that
 
-- subject matter experts being a core member of a Discovery team increase the value of the discovery (and may reduce the time taken to complete discovery)
+- subject matter experts being a core member of a discovery team increases the value of the discovery (and may reduce the time taken to complete discovery)
 
 So if we try
 
@@ -36,10 +40,10 @@ So if we try
 
 And measure
 
-- % of Discovery team ceremonies attended by stakeholders
+- % of discovery team ceremonies attended by stakeholders
 - time take to carry out first user interview
-- amount of time spent with users during Discovery
-- % of Discoveries that require a deadline extension
+- amount of time spent with users during discovery
+- % of discoveries that require a deadline extension
 
 We should see this change
 
@@ -53,7 +57,7 @@ Data/research suggests that
 
 So if we try
 
-- ‘Digital Plus’ teams (better mix of ‘the business’/policy/analytical services, etc and ‘digital’)
+- Digital 'plus’ teams (better mix of ‘the business’/policy/analytical services, etc and ‘digital’)
 
 And measure
 
@@ -67,11 +71,11 @@ We should see this change
 
 Data/research suggests that
 
-- ‘Pure’ Scrum is not a great framework for discovery and alpha because it expects requirements and value to be defined up-front
+- ‘pure’ [Scrum](http://www.scrumguides.org/scrum-guide.html) is not a great framework for discovery and [alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works) because it expects requirements and value to be defined up-front
 
 So if we try
 
-- a hypothesis-driven approach as described in The Lean Startup
+- a hypothesis-driven approach as described in [The Lean Startup](http://scottcolfer.com/2012/06/05/lean-startup-for-product-managers.html)
 
 And measure
 
@@ -90,7 +94,7 @@ Data/research suggest that
 
 - dysfunction can appear during discovery due to a lack of shared understanding of the value of discovery, and the approach to discovery
 - members of discovery teams may not have the same understanding 
-- discovery teams and their Service Manager may not have the same understanding as ‘the business’/stakeholders
+- discovery teams and their [Service Manager](https://www.gov.uk/government/publications/service-owner-role-description/service-owner-role-description) may not have the same understanding as ‘the business’/stakeholders
 
 So if we try
 
@@ -103,7 +107,7 @@ And measure
 
 We should see this change
 
-- teams encounter less dysfunction due to uncertainty around the point of Discovery and the approach to discovery, and stakeholders’ expectations around discovery being met more consistently.
+- teams encounter less dysfunction due to uncertainty around the point of discovery and the approach to discovery, and stakeholders’ expectations around discovery being met more consistently.
 
 ## Experiment 6: Don’t reinvent the wheel
 
