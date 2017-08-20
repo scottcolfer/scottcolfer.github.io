@@ -210,4 +210,4 @@ We should see this change
 ### *Notes*
 
 - *note 1: I wrote a post about [product roadmaps](https://gds.blog.gov.uk/2017/08/03/make-the-most-of-your-roadmap/) in which I highlighted a format for hypotheses shared by Jock Busuttil and have used that format for this post*
-- *note 2: it'd be great to hear from anyone who tries any of these hypotheses or has suggestions of their own, say hello on [Twitter](https://twitter.com/scottcolfer) or share suggestions on Github.
+- *note 2: it'd be great to hear from anyone who tries any of these hypotheses or has suggestions of their own, say hello on [Twitter](https://twitter.com/scottcolfer) or share suggestions on [Github](https://github.com/scottcolfer/scottcolfer.github.io/blob/master/_posts/2017-08-19-improve-discovery.md).
