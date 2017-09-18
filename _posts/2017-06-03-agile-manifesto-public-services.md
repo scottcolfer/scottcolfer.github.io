@@ -11,7 +11,7 @@ It’s no longer a ‘new’ thing to try out and feels as established as what c
 
 The answer, for my money, is ‘yes’ . . . and not just for software but for public services too.
 
-I had the conversation in real life recently with my colleague [Georg Fasching](https://twitter.com/GeorgFasching), and we agreed that if you replace the work ‘software’ with ‘public services’ then the manifesto and principles are great for building public services that are judged on how valuable they are for users and the organisations we work for (not just on their adherence to cost and delivery milestones). Features of public services should be designed and prioritised by how valuable they are, and value should be delivered as quickly as possible in small increments.
+I had the conversation in real life recently with my colleague [Georg Fasching](https://twitter.com/GeorgFasching), and we agreed that if you replace the word ‘software’ with ‘public services’ then the manifesto and principles are great for building public services that are judged on how valuable they are for users and the organisations we work for (not just on their adherence to cost and delivery milestones). Features of public services should be designed and prioritised by how valuable they are, and value should be delivered as quickly as possible in small increments.
 
 Sixteen years on, here’s a return to the agile manifesto - tweaked slightly to apply to public services (whether or not they are software).
 
