@@ -39,8 +39,7 @@ A product is something that you buy and own, like soap. I have never managed a '
 
 It’s 1931. Neil McElroy is in charge of promoting the Camay soap brand for Proctor & Gamble. Neil is frustrated that Camay always plays second fiddle to P&G’s leading brand, Ivory. 
 
-> In a famous memo to management, he argued for the creation of the role of “brand manager”. This person would take overall responsibility for the commercial success of a product, managing it holistically like a business in its own right. 
-- The Practitioner’s Guide to Product Management by Jock Busuttil p.10
+> In a famous memo to management, he argued for the creation of the role of “brand manager”. This person would take overall responsibility for the commercial success of a product, managing it holistically like a business in its own right. *- The Practitioner’s Guide to Product Management by Jock Busuttil, p.10*
 
 P&G agreed, and Neil paved the way for the profession of product management - our profession grew out of managing genuine products, in such a way as to maximise their value.
 
@@ -48,13 +47,21 @@ P&G agreed, and Neil paved the way for the profession of product management - ou
 
 It’s 2001. The manifesto for agile software development was created by a group including Ken Schwaber and Mike Beedle in February, and then Ken Schwaber and Mike Beedle publish Agile Software Development with Scrum’in October (quick work, huh?). In 2002, Schwaber and others found the Scrum Alliance. The agile manifesto and accompanying principles say that we should seek to maximise the value of software, by prioritising features based on how valuable and delivering them asap. The scrum framework interprets the agile manifesto as a framework for development teams to use, and names product managers as the members of the team who prioritise the features to be developed, based on how valuable they are. The scrum framework also chooses to rebrand product managers as ‘product owners’. Neil McElroy’s vision of someone managing a product and running it like a business in its own right has been taken and rebooted for software, by the scrum framework . . . promoting the role of product manager in the process under the banner of ‘product owner’.
 
-In 2001, software is still predominantly sold in shops, in boxes, on discs. It is something that you buy, and own. It is a product, so a product manager/owner makes sense.
+In 2001, software is still predominantly sold in shops, in boxes, on discs. It is something that you buy, and own. It is a product, so a product manager/owner makes sense. 
 
-Circles and CEOs
+### There is no cloud, it's just someone elses computer
 
-It’s 2011.
-Communities like ‘Mind the Product’ had emerged by 2010, becoming an international community with over 50,000 members within a few short years.
-http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/ 
+It's 2011. 'Software as a service' is now a thing. SaaS describes a shift in the relationship between businesses and consumers where by consumers rent use of software, with consumer hardware acting as terminals that access software that remains stored on the businesses computer, via the internet. In the realm of '[cloud computing](https://mojdigital.blog.gov.uk/2016/03/22/everything-you-ever-wanted-to-know-about-the-cloud-and-platforms-but-were-afraid-to-ask/)', we no longer own the software we use. Software ceases to be a product and becomes a service. This leads to a huge shift in production, with successful companies breaking traditional barriers between design, development, operations, sales and marketing in order to have the much quicker sales cycles needed to compete in this market. Annual sales cycles for software products don't cut it for software as a service: massive projects and formal handovers between departments are a good way to go out of business. Co-located, cross-disciplinary teams are increasingly standard.
+
+Which means that product managers need to adapt. The traditional scrum product owner, focussed on software features, does't work when each product mission needs to include work on your service wrapper, sales, and marketing - all of whom are likely to be part of the product team. Communities like ‘Mind the Product’ emerge, publishing their now famous article [what exactly is a product manager?](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/), which attempts to figure out what product management means when we no longer manage products. The now ubiquitous overlapping circles place product management at the heart of user experience, technology, and business - showing what the scrum product owner role, focussing on new features, does not encompass the skills needed of a product manager.
+
+### A product is (usually) not a business
+
+. . . which brings us back to today, and our current identity crisis in product management. As anyone who has taken or taught on the General Assembly product manager course will know, **'a product is (usually) not the business'**. A product or service is only valuable when it is in the hands of a user, and getting software in the hands of a user takes more that just new features. A 'product manager' is accountable for the strategy by which the value of a product or service (and, increasingly, it's a service) is maximised. We're generalist amongst a team of specialists, hired to be the person in a team who's passionate about the problem and the value of solving that problem, rather than the solution itself. We succeed when we help the team to prioritise its activity to best increase the value of the service, through data-driven prioritisation of goals. We manage value, not the product or service itself. The product or service is built and operated by the teams we work with. 
+
+We manage value. We own the strategy by which we maximise the value of services. 
+
+
 2005: https://www.kennorton.com/essays/productmanager.html 
 
 In https://www.amazon.co.uk/dp/B008FYYCT8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 Mark Butje says that product managers are like CEOs . . . ‘powerless CEOs’. 
@@ -65,13 +72,6 @@ http://www.mindtheproduct.com/2015/10/history-evolution-product-management/
 Today
 Product Leadership.
 Value in the generalist on the team.
-
-Product managers began to strain against the constraints of the scrum framework.
-The increasing ubiquity of product management meant that it was being used outside of software development.
-Limits of scrum.
-Identity crisis. In 2010, it was pretty tricky to usefully explain what you actually did if you were working outside of the scrum framework.
-Mini-CEO
-Circles
 
 Mention that it used to be SMEs from 'The business' moving into PM role
 
