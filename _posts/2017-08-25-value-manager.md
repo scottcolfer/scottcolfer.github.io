@@ -12,7 +12,7 @@ The reality is that it's been years since product managers were people 'from the
 
 But we don't have a way to describe this yet. 
 
-I'd like to suggest that the product manager is dead. Long live the value manager.
+I think that the 'product manager' is dead, and the value manager is emerging to take their place.
 
 ## Identity crisis in product management
 
