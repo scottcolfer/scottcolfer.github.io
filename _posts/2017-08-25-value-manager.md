@@ -8,7 +8,7 @@ The label of 'product manager' doesn't usefully describe what I actually do.
 
 I was recently introduced a new colleague. They said 'Ah, you're a product guy!', then asked me about software to print large collections of documents. Their assumption was that, as a product manager, I am something close to a walking catalogue of products - which is fair enough, with a title like 'product manager', right?
 
-In reality, it's been years since product managers were people 'from the business' (possibly a tame technical specialist or subject matter expert) who would be placed in to a development team to decide what features they should bild. Product management in 2017 is more likely to be about creating a strategy that maximises the value of a service, working with a team to set goals that descrbe what the increase in value looks like if they're successful but leaving the team to figure out how to do it. 
+In reality, it's been years since product managers were people 'from the business' (possibly a tame technical specialist or subject matter expert) who would be placed in to a development team to decide what features they should build. Product management in 2017 is more likely to be about creating a strategy that maximises the value of a service, working with a team to set goals that descrbe what the increase in value looks like if they're successful but leaving the team to figure out how to do it. 
 
 We don't yet have a label that usefully describes what our professoin really does.
 
