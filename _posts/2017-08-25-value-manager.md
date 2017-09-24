@@ -8,7 +8,7 @@ The label of 'product manager' doesn't usefully describe what I actually do.
 
 I was recently introduced a new colleague. They said 'Ah, you're a product guy!', then asked me about software to print large collections of documents. Their assumption was that, as a product manager, I am something close to a walking catalogue of products - which is fair enough, with a title like 'product manager', right?
 
-In reality, it's been years since product managers were people 'from the business' (possibly a tame technical specialist or subject matter expert) who would be placed in to a development team to decide what features they should build. Product management in 2017 is more likely to be about creating a strategy that maximises the value of a service, working with a team to set goals that descrbe what the increase in value looks like if they're successful but leaving the team to figure out how to do it. 
+In reality, it's been years since product managers were people 'from the business' (possibly a senior and trusted technical specialist or subject matter expert) who would be placed in to a development team to decide what features they should build. Product management in 2017 is more likely to be about creating a strategy that maximises the value of a service, working with a team to set goals that descrbe what the increase in value looks like if they're successful but leaving the team to figure out how to do it. 
 
 We don't yet have a label that usefully describes what our professoin really does.
 
@@ -19,11 +19,11 @@ I think that the 'product manager' is dead, and the 'value manager' is emerging 
 Look at the product management posts and talks of 2017 and a pattern emerges. We're having a crisis of identity.
 This is clearest in the 'product owner or product manager?' posts and talks. [Melissa Perri](https://medium.com/@melissaperri/product-manager-vs-product-owner-57ff829aa74d) summarises this discussion succinctly: 
 
-> Product Owner is a role you play on a Scrum team. Product Manager is the job {...} A good Product Manager is taught how to prioritize work against clear outcome oriented goals, how to discover and validate real customer and business value, and what processes are needed to reduce the uncertainty that the product will succeed in market. Without this background in Product Management, someone can effectively go through the motions of Product Owner role in Scrum, but they can never be successful in making sure they are building the right thing.
+> "Product Owner is a role you play on a Scrum team. Product Manager is the job {...} A good Product Manager is taught how to prioritize work against clear outcome oriented goals, how to discover and validate real customer and business value, and what processes are needed to reduce the uncertainty that the product will succeed in market. Without this background in Product Management, someone can effectively go through the motions of Product Owner role in Scrum, but they can never be successful in making sure they are building the right thing."
 
 [Roman Pichler](http://www.romanpichler.com/blog/product-manager-vs-product-owner/) has recently written a similar post:
 
-> The confusion stems—at least partly—from the fact that Scrum is a simple framework focused on helping teams develop software. It does not cover common product management practices, such as, product strategy development, product roadmapping, and financial forecasting; and the only product management tool it offers is the product backlog.
+> "The confusion stems—at least partly—from the fact that Scrum is a simple framework focused on helping teams develop software. It does not cover common product management practices, such as, product strategy development, product roadmapping, and financial forecasting; and the only product management tool it offers is the product backlog."
 
 Government product management (my current bit of the product world) has been exploring this too, with [Ross Ferguson](https://medium.com/@rossferg/product-manager-or-product-owner-7b0033b693c1) saying that government needs the skills of product managers rather than product owners, and [Zoe Gould](https://medium.com/@Zoe_On_The_Go/and-that-is-what-a-product-owner-owns-c60f62df713e) essentially agreeing but saying that we shouldn't get too hung-up on labels. Ross and Zoe get on well and are making the same point: that, whatever we're called, the important thing is to be clear what makes us valuable in a team.
 
@@ -39,7 +39,7 @@ A product is something that you buy and own, like soap. I have never managed a '
 
 It’s 1931. Neil McElroy is in charge of promoting the Camay soap brand for Proctor & Gamble. Neil is frustrated that Camay always plays second fiddle to P&G’s leading brand, Ivory. 
 
-> In a famous memo to management, he argued for the creation of the role of “brand manager”. This person would take overall responsibility for the commercial success of a product, managing it holistically like a business in its own right. *- The Practitioner’s Guide to Product Management by Jock Busuttil, p.10*
+> "In a famous memo to management, he argued for the creation of the role of “brand manager”. This person would take overall responsibility for the commercial success of a product, managing it holistically like a business in its own right." - The Practitioner’s Guide to Product Management by Jock Busuttil, p.10*
 
 P&G agreed, and Neil paved the way for the profession of product management - our profession grew out of managing genuine products, in such a way as to maximise their value.
 
@@ -95,6 +95,6 @@ The product manager is dead. Long live the value manager.
 
 *There's a bunch of things I re-read when writing this post that I didn't have space to reference but are worth sharing anyway:*
 
-- *Ken's Nortons famous, 2005 essay on [the role of product manager](https://www.kennorton.com/essays/productmanager.html)*
-- *You can trace the '[product manager as CEO](https://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/#.tnw_6JtfU8Bb)' theme back to Mark Butje's 2005 book [Product Marketing for Technology Companies](https://www.amazon.co.uk/Product-Marketing-Technology-Companies-Butje/dp/0750659947/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=), but what I find interesting is that he actually says 'the product manager is a weird person - someone who takes on an enormous amount responsibility without actually being in charge. Sort of like a CEO but without the hierarchic power'*
-- *Martin Eriksson has given a much better [history and evolution of product management](https://www.mindtheproduct.com/2015/10/history-evolution-product-management/) than the one given in this post.*
+- *> Ken's Nortons famous, 2005 essay on [the role of product manager](https://www.kennorton.com/essays/productmanager.html)*
+- *> You can trace the '[product manager as CEO](https://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/#.tnw_6JtfU8Bb)' theme back to Mark Butje's 2005 book [Product Marketing for Technology Companies](https://www.amazon.co.uk/Product-Marketing-Technology-Companies-Butje/dp/0750659947/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=), but what I find interesting is that he actually says 'the product manager is a weird person - someone who takes on an enormous amount responsibility without actually being in charge. Sort of like a CEO but without the hierarchic power'*
+- *> Martin Eriksson has given a much better [history and evolution of product management](https://www.mindtheproduct.com/2015/10/history-evolution-product-management/) than the one given in this post.*
