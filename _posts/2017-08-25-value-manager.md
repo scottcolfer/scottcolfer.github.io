@@ -6,13 +6,13 @@ date: 2017-09-17
 
 The label of 'product manager' doesn't usefully describe what I do. 
 
-I was introduced a new colleague recently, and they said 'Ah, you're a product guy!' and then proceeded to ask me about software that helped print large collections of documents. Their assumption was that, as a product manager, I am something close to a walking catalogue of products - which is fair enough, with a title like product manager, right?
+I was introduced a new colleague recently, and they said 'Ah, you're a product guy!' then asked me about software to print large collections of documents. Their assumption was that, as a product manager, I am something close to a walking catalogue of products - which is fair enough, with a title like 'product manager', right?
 
-The reality is that it's been years since product managers were people 'from the business' (possibly a tame technical specialist or subject matter expert) who would be placed in to a development team what features their software should have. Product management in 2017 is more likely to be about creating a strategy that maximises the value of a service, working with a team to set goals that descrbe what the increase in value looks like if they're successful but leaving the team to figure out how to do it. 
+In reality, it's been years since product managers were people 'from the business' (possibly a tame technical specialist or subject matter expert) who would be placed in to a development team to decide what features they should bild. Product management in 2017 is more likely to be about creating a strategy that maximises the value of a service, working with a team to set goals that descrbe what the increase in value looks like if they're successful but leaving the team to figure out how to do it. 
 
-But we don't have a way to describe this yet. 
+We don't yet have a label that usefully describes what our professoin really does.
 
-I think that the 'product manager' is dead, and the value manager is emerging to take their place.
+I think that the 'product manager' is dead, and the 'value manager' is emerging to take their place.
 
 ## Identity crisis in product management
 
@@ -97,4 +97,4 @@ The product manager is dead. Long live the value manager.
 
 - *Ken's Nortons famous, 2005 essay on [the role of product manager](https://www.kennorton.com/essays/productmanager.html)*
 - *You can trace the '[product manager as CEO](https://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/#.tnw_6JtfU8Bb)' theme back to Mark Butje's 2005 book [Product Marketing for Technology Companies](https://www.amazon.co.uk/Product-Marketing-Technology-Companies-Butje/dp/0750659947/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=), but what I find interesting is that he actually says 'the product manager is a weird person - someone who takes on an enormous amount responsibility without actually being in charge. Sort of like a CEO but without the hierarchic power'*
-- Martin Eriksson has given a much better [history and evolution of product management](https://www.mindtheproduct.com/2015/10/history-evolution-product-management/) than the one given in this post.
+- *Martin Eriksson has given a much better [history and evolution of product management](https://www.mindtheproduct.com/2015/10/history-evolution-product-management/) than the one given in this post.*
