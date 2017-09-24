@@ -39,7 +39,7 @@ A product is something that you buy and own, like soap. I have never managed a '
 
 It’s 1931. Neil McElroy is in charge of promoting the Camay soap brand for Proctor & Gamble. Neil is frustrated that Camay always plays second fiddle to P&G’s leading brand, Ivory. 
 
-> "In a famous memo to management, he argued for the creation of the role of “brand manager”. This person would take overall responsibility for the commercial success of a product, managing it holistically like a business in its own right." - The Practitioner’s Guide to Product Management by Jock Busuttil, p.10*
+> "In a famous memo to management, he argued for the creation of the role of “brand manager”. This person would take overall responsibility for the commercial success of a product, managing it holistically like a business in its own right." *- The Practitioner’s Guide to Product Management by Jock Busuttil, p.10*
 
 P&G agreed, and Neil paved the way for the profession of product management - our profession grew out of managing genuine products, in such a way as to maximise their value.
 
