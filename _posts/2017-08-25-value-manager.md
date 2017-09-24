@@ -83,52 +83,18 @@ A good goal for a leadership role like a product manager to set is outlined by [
 
 This value-driven approach works at all levels of an organisation: from a user-story on a team backlog, to a mission on a services' roadmap, to a whole-organisation's corporate strategy.
 
-In 2017, this is what is needed from product management: value-driven strategy that can work in complex, adaptive systems and nudege services and organisations towards their goals. Total control and perfect information are not possible today, if indeed they ever were, and we need to introduce confidence through an adapative, data-driven approach that's always linked to the ultimate goal: increasing value for our users, and our organisation. 
+In 2017, this is what is needed from product management: value-driven strategy that can work in complex, adaptive systems and nudege services and organisations towards their goals. Total control and perfect information are not possible today, if indeed they ever were, and we need to introduce confidence through an adapative, data-driven approach that's always linked to the ultimate goal: increasing value for our users, and our organisation. This is why we're increasingly seeing product management moving into the leadership space, with roles such as Lead Product Manager, Product Director and Chief Product Offier much more visible than they used to be: value strategy applies to the organisation as a whole, not just the individual products and services it creates.
 
 The product manager is dead. Long live the value manager.
 
-2005: https://www.kennorton.com/essays/productmanager.html 
+## *Afterword*
 
-In https://www.amazon.co.uk/dp/B008FYYCT8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 Mark Butje says that product managers are like CEOs . . . ‘powerless CEOs’. 
-“The product manager is a weird person - someone who takes on an enormous amount responsibility without actually being in charge. Sort of like a CEO but without the hierarchic power.” quote
+*. . . so, obviously we can't just stop using the label of 'product manager'. I'm responsible for recruitment and know that if I started advertising for the role of 'value manager' then I would not get many applicants. So we need to keep using the label of 'product manager' for practical resons . . . for now at least :)*
 
-References
-http://www.mindtheproduct.com/2015/10/history-evolution-product-management/
-Today
-Product Leadership.
-Value in the generalist on the team.
+*But what I believe we can do is be more explicit about the truth that what product managers are accountable for is maximising value through valule stratgy, rather than just 'the product' and its features. It'd be great to get your take on 'value management' as described in this post, it's still an early idea so I'd like to test it and improve it as much as is useful. Say hello on [Twitter](https://twitter.com/scottcolfer/) or [Github](https://github.com/scottcolfer/scottcolfer.github.io) if you'd like to talk.*
 
-Mention that it used to be SMEs from 'The business' moving into PM role
+*There's a bunch of things I re-read when writing this post that I didn't have space to reference but are worth sharing anyway:*
 
-https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec
-https://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/#.tnw_aCELuyPI 
-
-Will scrum be the death of the product manager
-https://aimconsulting.com/insights/blog/will-scrum-be-the-death-of-product-management/ 
-
-We look for value in the dark
-
-We agreed that we don’t have Technical Product Managers - change to SME thing.
-The time is now.
-Product Management has made its way to government.
-Limits of scrum.
-
-Vision
-Better described as ‘value manager’.
-Value strategy. Uncover the value context. then create value stratgey.
-
-Value manager also helps our colleagues that we can work in the intangible space known as 'senior leadership’. 'Product’ is a tangible thing and makes our colleague think that 'you don’t need a product manager when there’s no product’. However, 'portfolio’ is just another type of backlog, & all the tricks we’ve learned in development teams work in portfolio teams.
-
-Add description of product manager from value book:
-
-"A core principle of Agile and Lean theory is that software development should seek to maximise business value. Projects should be judged not on their adherence to cost and schedue milestones, but on their delivery of value to the enterprise. Value should be delivered as quickly as possible - in small increments - and features should be prioritised based on the amount of value they deliver."
-
-'We all understand the goal of private value - it's to generate profit and return value to shareholders. The ultimate goal of public services is not to generate profit, and we don't have shareholders. So what's 'public value'? You could argue that the financial objective of public value is to hit targets for liquidity: having just enough resources to carry out the mission, but not too much. The criteria for its success - its definition of business value - is about accomplishing its mission." p27
-
-"A government agency has other value concerns beyond those directly related to its mission area."
-'It values fairness in procurement practices, transparency, public accountability, and the political goals of those in power. Government is unique in that one of its resources is its authority to compel behaviour but doing so also has an opportunity cost. The magnitude of the punishment for for non-compliance is a cost to society.'
-'The government places a high value on trnasparency.' Trust. 'Whilst companies can keep secrets, government is accountable to the public and must disclose its actions and decisions. There is value assigned to demonstrating trustworthiness. The government is always in the public eye, with the press always reporting on government.' p58 
-'Government is in an environment that is quick to assign blame and has become highly risk averse, so places value on things that mitigate risk.'
-
-
-Mention link in to product leadership - Lead PM - CPO
+- *Ken's Nortons famous, 2005 essay on [the role of product manager](https://www.kennorton.com/essays/productmanager.html)*
+- *You can trace the '[product manager as CEO](https://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/#.tnw_6JtfU8Bb)' theme back to Mark Butje's 2005 book [Product Marketing for Technology Companies](https://www.amazon.co.uk/Product-Marketing-Technology-Companies-Butje/dp/0750659947/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=), but what I find interesting is that he actually says 'the product manager is a weird person - someone who takes on an enormous amount responsibility without actually being in charge. Sort of like a CEO but without the hierarchic power'*
+- Martin Eriksson has given a much better [history and evolution of product management](https://www.mindtheproduct.com/2015/10/history-evolution-product-management/) than the one given in this post.
