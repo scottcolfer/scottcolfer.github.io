@@ -4,9 +4,9 @@ title: "The product manager is dead. Long live the value manager."
 date: 2017-09-17
 ---
 
-The label of 'product manager' doesn't usefully describe what I do. 
+The label of 'product manager' doesn't usefully describe what I actually do. 
 
-I was introduced a new colleague recently, and they said 'Ah, you're a product guy!' then asked me about software to print large collections of documents. Their assumption was that, as a product manager, I am something close to a walking catalogue of products - which is fair enough, with a title like 'product manager', right?
+I was recently introduced a new colleague. They said 'Ah, you're a product guy!', then asked me about software to print large collections of documents. Their assumption was that, as a product manager, I am something close to a walking catalogue of products - which is fair enough, with a title like 'product manager', right?
 
 In reality, it's been years since product managers were people 'from the business' (possibly a tame technical specialist or subject matter expert) who would be placed in to a development team to decide what features they should bild. Product management in 2017 is more likely to be about creating a strategy that maximises the value of a service, working with a team to set goals that descrbe what the increase in value looks like if they're successful but leaving the team to figure out how to do it. 
 
@@ -25,15 +25,15 @@ This is clearest in the 'product owner or product manager?' posts and talks. [Me
 
 > The confusion stems—at least partly—from the fact that Scrum is a simple framework focused on helping teams develop software. It does not cover common product management practices, such as, product strategy development, product roadmapping, and financial forecasting; and the only product management tool it offers is the product backlog.
 
-Government product management (my bit of the product world) has been exploring this too, with [Ross Ferguson](https://medium.com/@rossferg/product-manager-or-product-owner-7b0033b693c1) saying that government needs the skills of product managers rather than product owners, and [Zoe Gould](https://medium.com/@Zoe_On_The_Go/and-that-is-what-a-product-owner-owns-c60f62df713e) essentially agreeing but saying that we shouldn't get too hung-up on labels. 
+Government product management (my current bit of the product world) has been exploring this too, with [Ross Ferguson](https://medium.com/@rossferg/product-manager-or-product-owner-7b0033b693c1) saying that government needs the skills of product managers rather than product owners, and [Zoe Gould](https://medium.com/@Zoe_On_The_Go/and-that-is-what-a-product-owner-owns-c60f62df713e) essentially agreeing but saying that we shouldn't get too hung-up on labels. Ross and Zoe get on well and are making the same point: that, whatever we're called, the important thing is to be clear what makes us valuable in a team.
 
-The main theme I took from this year's Mind the Product conference was lots of people sharing my experience that I hadn't chosen features for products in years, and that the role of the product manager has become one of strategy and value, helping teams to set goals that describe and increase in value then getting out of the way and empowering the team to figure out how to do that. Martin Eriksson's post frmo earlier in the year acts as a summary of the message we heard time and again throughout the conference: [we are not the CEO's of our products](https://medium.com/@bfgmartin/product-managers-you-are-not-the-ceo-3441cb3914e4), our role is to lead by setting clear goals that hold teams accountable but also empower them to own the solutions. Martin's closing remarks for this year's conference were that the label of 'product manager' hasn't really fit the role we do for a while now. I've been thinking the same for a while too.
+The main theme I took from this year's [Mind the Product conference](http://mtpcon.com/london/) was product managers (myself included) admitting that we hadn't chosen product features in years. The role of the product manager has become one of strategy and value, helping teams to set goals that describe and increase in value then getting out of the way and empowering the team to figure out how to do that. Martin Eriksson's post from earlier in the year acts as a summary of the message we heard time and again throughout the conference: [we are not the CEO's of our products](https://medium.com/@bfgmartin/product-managers-you-are-not-the-ceo-3441cb3914e4), our role is to lead by setting clear goals that hold teams accountable but also empower them to own the solutions. Martin's closing remarks for this year's conference were that the label of 'product manager' hasn't really fit the role we do for a while now. I've been thinking the same for a while too.
 
-How did we get here? And is there a better way of describing what we do?
+Can we learn anything useful from the origins of the product management profession?
 
 ## It started with soap
 
-A product is something that you buy and own, like soap. I have never managed a 'product', despite having been a product manager for over a decade. A service is [something you use but do not own](http://www.designcouncil.org.uk/news-opinion/video-what-service-design), like Netflix. This better describes the things I've worked on. So why are we product managers, not service managers?
+A product is something that you buy and own, like soap. I have never managed a 'product', despite having been a product manager for over a decade. A service is [something you use but do not own](http://www.designcouncil.org.uk/news-opinion/video-what-service-design), like Netflix. This better describes the things I've worked on. So why are we product managers?
 
 ### ‘You’ll be a little lovelier each day with fabulous pink Camay’
 
@@ -45,7 +45,7 @@ P&G agreed, and Neil paved the way for the profession of product management - ou
 
 ### Agile and software and scrum, oh my
 
-It’s 2001. The manifesto for agile software development was created by a group including Ken Schwaber and Mike Beedle in February, and then Ken Schwaber and Mike Beedle publish Agile Software Development with Scrum’in October (quick work, huh?). In 2002, Schwaber and others found the Scrum Alliance. The agile manifesto and accompanying principles say that we should seek to maximise the value of software, by prioritising features based on how valuable and delivering them asap. The scrum framework interprets the agile manifesto as a framework for development teams to use, and names product managers as the members of the team who prioritise the features to be developed, based on how valuable they are. The scrum framework also chooses to rebrand product managers as ‘product owners’. Neil McElroy’s vision of someone managing a product and running it like a business in its own right has been taken and rebooted for software, by the scrum framework . . . promoting the role of product manager in the process under the banner of ‘product owner’.
+It’s 2001. The manifesto for agile software development has been created by a group including Ken Schwaber and Mike Beedle in February, and then Ken Schwaber and Mike Beedle publish Agile Software Development with Scrum’in October (quick work, huh?). In 2002, Schwaber and others will found the Scrum Alliance. The agile manifesto and accompanying principles say that we should seek to maximise the value of software, by prioritising features based on how valuable and delivering them asap. The scrum framework interprets the agile manifesto as a framework for development teams to use, and names product managers as the members of the team who prioritise the features to be developed, based on how valuable they are. The scrum framework also chooses to rebrand product managers as ‘product owners’. Neil McElroy’s vision of someone managing a product and running it like a business in its own right has been taken and rebooted for software, by the scrum framework . . . promoting the role of product manager in the process under the banner of ‘product owner’.
 
 In 2001, software is still predominantly sold in shops, in boxes, on discs. It is something that you buy, and own. It is a product, so a product manager/owner makes sense. 
 
@@ -57,7 +57,7 @@ Which means that product managers need to adapt. The traditional scrum product o
 
 ### A product is (usually) not a business
 
-. . . which brings us back to today, and our current identity crisis in product management. As anyone who has taken or taught on the General Assembly product manager course will know, **'a product is (usually) not the business'**. A product or service is only valuable when it is in the hands of a user, and getting software in the hands of a user takes more that just new features. A 'product manager' is accountable for the strategy by which the value of a product or service (and, increasingly, it's a service) is maximised. We're generalist amongst a team of specialists, hired to be the person in a team who's passionate about the problem and the value of solving that problem, rather than the solution itself. We succeed when we help the team to prioritise its activity to best increase the value of the service, through data-driven prioritisation of goals. We manage value, not the product or service itself. The product or service is built and operated by the teams we work with. 
+. . . which brings us back to today, and our current identity crisis in product management. As anyone who has taken or taught on the [General Assembly product manager course](https://generalassemb.ly/education/product-management) will know, **'a product is (usually) not the business'**. A product or service is only valuable when it is in the hands of a user, and getting software in the hands of a user takes more that just new features. A 'product manager' is accountable for the strategy by which the value of a product or service (and, increasingly, it's a service) is maximised. We're generalist amongst a team of specialists, hired to be the person in a team who's passionate about the problem and the value of solving that problem, rather than the solution itself. We succeed when we help the team to prioritise its activity to best increase the value of the service, through data-driven prioritisation of goals. We manage value, not the product or service itself. The product or service is built and operated by the teams we work with. 
 
 We manage value. We own the strategy by which we maximise the value of services. 
 
@@ -75,7 +75,7 @@ In [The Art of Business Value](https://itrevolution.com/book/the-art-of-business
 
 This is a fancy way of saying what me and others have been seeing for a while, and what came through time and again at the Mind the Product Conference: our role is to prioritise and set clear, value-driven goals that maximise the value of services by holding teams to account and empowering them to be their best. 
 
-A good goal for a leadership role like a product manager to set is outlined by [Barry O'Reilly](http://barryoreilly.com/2013/10/21/how-to-implement-hypothesis-driven-development/):
+The template for a good 'goal' to be set by a leadership role like a product manager is outlined by [Barry O'Reilly](http://barryoreilly.com/2013/10/21/how-to-implement-hypothesis-driven-development/):
 
 - We believe [this capability]
 - Will result in [this outcome]
@@ -83,7 +83,7 @@ A good goal for a leadership role like a product manager to set is outlined by [
 
 This value-driven approach works at all levels of an organisation: from a user-story on a team backlog, to a mission on a services' roadmap, to a whole-organisation's corporate strategy.
 
-In 2017, this is what is needed from product management: value-driven strategy that can work in complex, adaptive systems and nudege services and organisations towards their goals. Total control and perfect information are not possible today, if indeed they ever were, and we need to introduce confidence through an adapative, data-driven approach that's always linked to the ultimate goal: increasing value for our users, and our organisation. This is why we're increasingly seeing product management moving into the leadership space, with roles such as Lead Product Manager, Product Director and Chief Product Offier much more visible than they used to be: value strategy applies to the organisation as a whole, not just the individual products and services it creates.
+In 2017, this is what is needed from product management: value-driven strategy that can work in complex, adaptive systems and nudege services and organisations towards their goals. Total control and perfect information are not possible today, if indeed they ever were, and we need to introduce confidence through an adapative, data-driven approach that's always linked to the ultimate goal: increasing value for our users, and our organisation. This is why we're increasingly seeing product management moving into the leadership space, with roles such as Lead Product Manager, Product Director and Chief Product Offier much more visible than they used to be. Value strategy applies to the organisation as a whole, not just the individual products and services it creates.
 
 The product manager is dead. Long live the value manager.
 
