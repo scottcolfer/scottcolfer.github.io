@@ -4,43 +4,51 @@ title: "The product manager is dead. Long live the value manager."
 date: 2017-09-17
 ---
 
-Identity Crisis - 2017 - what’s the deal?
+The label of 'product manager' doesn't usefully describe what I do. 
 
-http://www.romanpichler.com/blog/product-manager-vs-product-owner/ 
-https://medium.com/@melissaperri/product-manager-vs-product-owner-57ff829aa74d 
+I was introduced a new colleague recently, and they said 'Ah, you're a product guy!' and then proceeded to ask me about software that helped print large collections of documents. Their assumption was that, as a product manager, I am something close to a walking catalogue of products - which is fair enough, with a title like product manager, right?
 
-Zoe & Ross’ articles: https://medium.com/@rossferg/product-manager-or-product-owner-7b0033b693c1 & https://medium.com/@Zoe_On_The_Go/and-that-is-what-a-product-owner-owns-c60f62df713e 
+The reality is that it's been years since product managers were people 'from the business' (possibly a tame technical specialist or subject matter expert) who would be placed in to a development team what features their software should have. Product management in 2017 is more likely to be about creating a strategy that maximises the value of a service, working with a team to set goals that descrbe what the increase in value looks like if they're successful but leaving the team to figure out how to do it. 
 
-You are not the CEO
-https://medium.com/@bfgmartin/product-managers-you-are-not-the-ceo-3441cb3914e4 
-We don’t (usually) Manage products
+But we don't have a way to describe this yet. 
 
-Mind the product - product manager doesn't describe what we do.
+I'd like to suggest that the product manager is dead. Long live the value manager.
 
-A product is something you use and own, like soap.
-A service is something you use but don’t own, like Netflix.
-Today, in the age of cloud software, we’re often managing services - so why are we still called Product Managers?
+## Identity crisis in product management
 
-History
-‘You’ll be a little lovelier each day with fabulous pink Camay’
+Look at the product management posts and talks of 2017 and a pattern emerges. We're having a crisis of identity.
+This is clearest in the 'product owner or product manager?' posts and talks. [Melissa Perri](https://medium.com/@melissaperri/product-manager-vs-product-owner-57ff829aa74d) summarises this discussion succinctly: 
 
-It’s 1931.
-Neil McElroy is in charge of promoting the Camay soap brand for Proctor & Gamble. 
-Neil is frustrated that Camay always plays second fiddle to P&G’s leading brand, Ivory. 
+> Product Owner is a role you play on a Scrum team. Product Manager is the job {...} A good Product Manager is taught how to prioritize work against clear outcome oriented goals, how to discover and validate real customer and business value, and what processes are needed to reduce the uncertainty that the product will succeed in market. Without this background in Product Management, someone can effectively go through the motions of Product Owner role in Scrum, but they can never be successful in making sure they are building the right thing.
 
-“In a famous memo to management, he argued for the creation of the role of “brand manager”. This person would take overall responsibility for the commercial success of a product, managing it holistically like a business in its own right.”
+[Roman Pichler](http://www.romanpichler.com/blog/product-manager-vs-product-owner/) has recently written a similar post:
+
+> The confusion stems—at least partly—from the fact that Scrum is a simple framework focused on helping teams develop software. It does not cover common product management practices, such as, product strategy development, product roadmapping, and financial forecasting; and the only product management tool it offers is the product backlog.
+
+Government product management (my bit of the product world) has been exploring this too, with [Ross Ferguson](https://medium.com/@rossferg/product-manager-or-product-owner-7b0033b693c1) saying that government needs the skills of product managers rather than product owners, and [Zoe Gould](https://medium.com/@Zoe_On_The_Go/and-that-is-what-a-product-owner-owns-c60f62df713e) essentially agreeing but saying that we shouldn't get too hung-up on labels. 
+
+The main theme I took from this year's Mind the Product conference was lots of people sharing my experience that I hadn't chosen features for products in years, and that the role of the product manager has become one of strategy and value, helping teams to set goals that describe and increase in value then getting out of the way and empowering the team to figure out how to do that. Martin Eriksson's post frmo earlier in the year acts as a summary of the message we heard time and again throughout the conference: [we are not the CEO's of our products](https://medium.com/@bfgmartin/product-managers-you-are-not-the-ceo-3441cb3914e4), our role is to lead by setting clear goals that hold teams accountable but also empower them to own the solutions. Martin's closing remarks for this year's conference were that the label of 'product manager' hasn't really fit the role we do for a while now. I've been thinking the same for a while too.
+
+How did we get here? And is there a better way of describing what we do?
+
+## It started with soap
+
+A product is something that you buy and own, like soap. I have never managed a 'product', despite having been a product manager for over a decade. A service is [something you use but do not own](http://www.designcouncil.org.uk/news-opinion/video-what-service-design), like Netflix. This better describes the things I've worked on. So why are we product managers, not service managers?
+
+### ‘You’ll be a little lovelier each day with fabulous pink Camay’
+
+It’s 1931. Neil McElroy is in charge of promoting the Camay soap brand for Proctor & Gamble. Neil is frustrated that Camay always plays second fiddle to P&G’s leading brand, Ivory. 
+
+> In a famous memo to management, he argued for the creation of the role of “brand manager”. This person would take overall responsibility for the commercial success of a product, managing it holistically like a business in its own right. 
 - The Practitioner’s Guide to Product Management by Jock Busuttil p.10
 
-P&G agreed, and Neil paved the way for the profession of product management.
+P&G agreed, and Neil paved the way for the profession of product management - our profession grew out of managing genuine products, in such a way as to maximise their value.
 
-Agile and software and scrum, oh my
+### Agile and software and scrum, oh my
 
-It’s 2001.
-The manifesto for agile software development was created by a group including Ken Schwaber and Mike Beedle in February, and then Ken Schwaber and Mike Beedle publish Agile Software Development with Scrum’in October (quick work, huh?). In 2002, Schwaber and others found the Scrum Alliance.
+It’s 2001. The manifesto for agile software development was created by a group including Ken Schwaber and Mike Beedle in February, and then Ken Schwaber and Mike Beedle publish Agile Software Development with Scrum’in October (quick work, huh?). In 2002, Schwaber and others found the Scrum Alliance. The agile manifesto and accompanying principles say that we should seek to maximise the value of software, by prioritising features based on how valuable and delivering them asap. The scrum framework interprets the agile manifesto as a framework for development teams to use, and names product managers as the members of the team who prioritise the features to be developed, based on how valuable they are. The scrum framework also chooses to rebrand product managers as ‘product owners’. Neil McElroy’s vision of someone managing a product and running it like a business in its own right has been taken and rebooted for software, by the scrum framework . . . promoting the role of product manager in the process under the banner of ‘product owner’.
 
-The agile manifesto and accompanying principles say that we should seek to maximise the value of software, by prioritising features based on how valuable and delivering them asap. The scrum framework interprets the agile manifesto as a framework for development teams to use, and names product managers as the members of the team who prioritise the features to be developed, based on how valuable they are. The scrum framework also chooses to rebrand product managers as ‘product owners’. 
-
-Neil McElroy’s vision of someone managing a product and running it like a business in its own right has been taken and rebooted for software, by the scrum framework . . . promoting the role of product manager in the process under the banner of ‘product owner’.
+In 2001, software is still predominantly sold in shops, in boxes, on discs. It is something that you buy, and own. It is a product, so a product manager/owner makes sense.
 
 Circles and CEOs
 
