@@ -61,6 +61,31 @@ Which means that product managers need to adapt. The traditional scrum product o
 
 We manage value. We own the strategy by which we maximise the value of services. 
 
+## Value manager 
+
+Lots of product managers do not manage products, they're managing services. 
+It's no longer enough just to help teams decide on the new features of their service, we need to focus on the 'so what?' 
+
+- how will this actually increase the value of the service, for users and for our organisation? 
+- how do we hold ourselves accountable for increasing the value of our service, and empower our teams to use their combined skills to achieve this increase in value?
+
+I'd like to propose that we are value managers, not product managers.
+
+In [The Art of Business Value](https://itrevolution.com/book/the-art-of-business-value/), Mark Schwartz argues that we're increasingly working in complex adaptive systems, typified by rapid change and complex interactions, in which we can influence but not control outcomes. The function of product management is to provide context and incentives that nudge the system towards its desired outcomes. We cannot, and need not, have perfect information - our challenge is to create conditions that move the system as a whole towards the value-outomes we want.
+
+This is a fancy way of saying what me and others have been seeing for a while, and what came through time and again at the Mind the Product Conference: our role is to prioritise and set clear, value-driven goals that maximise the value of services by holding teams to account and empowering them to be their best. 
+
+A good goal for a leadership role like a product manager to set is outlined by [Barry O'Reilly](http://barryoreilly.com/2013/10/21/how-to-implement-hypothesis-driven-development/):
+
+- We believe [this capability]
+- Will result in [this outcome]
+- We will have confidence to proceed when we see [measurable signal].
+
+This value-driven approach works at all levels of an organisation: from a user-story on a team backlog, to a mission on a services' roadmap, to a whole-organisation's corporate strategy.
+
+In 2017, this is what is needed from product management: value-driven strategy that can work in complex, adaptive systems and nudege services and organisations towards their goals. Total control and perfect information are not possible today, if indeed they ever were, and we need to introduce confidence through an adapative, data-driven approach that's always linked to the ultimate goal: increasing value for our users, and our organisation. 
+
+The product manager is dead. Long live the value manager.
 
 2005: https://www.kennorton.com/essays/productmanager.html 
 
