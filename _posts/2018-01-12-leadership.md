@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Personal pivot. WTF is leadership?"
-date: 2018-12-01
+date: 2018-01-12
 ---
 
 # It's a wonderful time
