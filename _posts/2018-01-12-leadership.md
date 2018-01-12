@@ -21,9 +21,9 @@ I'm choosing to pivot, tweaking my professional development (and this blog) so t
 ## WTF is leadership?
 
 I assume that leadership is an activity carried out by everyone in an organisation. I'm starting to consider the following catgories (but expect to refine this and uncover more):
-- 'senior Leadership' as a class of work within an organisation, often owned by a Senior Leadership Team or Senior Management Team
-- Leadership as an individual role within this team, with delegated responsibility for a particualr aspect of Leadership (this is where I think that product management might play a significant role within the space of business strategy)
-- (perhpas most interestingly) the distributed and shared actvity of leadership by everyone in an organisation based on delegated authority.
+- **(i)** 'senior Leadership' as a class of work within an organisation, often owned by a Senior Leadership Team or Senior Management Team
+- **(ii)** Leadership as an individual role within this team, with delegated responsibility for a particualr aspect of Leadership (this is where I think that product management might play a significant role within the space of business strategy)
+- **(iii)** (perhpas most interestingly) the distributed and shared actvity of leadership by everyone in an organisation based on delegated authority.
 
 As I said, I have an assumption that product management as a profession can play a role in leading business strategy within an organisation. And in the above paragraph, it already seems that leadership means different things in different contexts. Simon Wardley [suggests](https://twitter.com/swardley/status/951541665294057472) that a lack of context is a weakness of existing thinking on business strategy. Therefore, I'm setting myself the goal of acknowledging context when thinking about product leadership and business strategy so my next post will be a space to think about the contexts in which I want to think about leadership and business strategy.
 
