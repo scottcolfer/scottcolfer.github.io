@@ -10,7 +10,7 @@ Simon Wardley published a [thread of Tweets](https://twitter.com/swardley/status
 
 The last year or so has seen me starting to figure out what leadership (specifically product leadership) means to me, and my assumption is that business strategy is an important part of this. So Simon's thread of tweets helped to collect my thoughts and, aided by a couple of strong coffees, I'm pulling together some early assumptions that I intend to explore over the next few years.
 
-## Pivot: product management > product leadership
+## Pivot: product management --> product leadership
 
 I've been working as a Head of Product for since 2016 and it's taken me a while to get my head around the role.
 
