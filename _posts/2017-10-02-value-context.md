@@ -10,6 +10,10 @@ For this reason: Our business strategy - simplify our value contexts.
 
 Also acknowledge digital by default
 
+Relate to value manager post
+
+Relate to agile manifesto & priciples
+
 Vision
 Better described as ‘value manager’.
 Value strategy. Uncover the value context. then create value stratgey.
