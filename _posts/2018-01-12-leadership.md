@@ -29,4 +29,4 @@ As I said, I have an assumption that product management as a profession can play
 
 ## Business strategy and product leadership
 
-My leap of faith for the pivot from product management to product leadership is that we as a profession can be valuable in contributing to the development of business strategy. My thinking is extremely sketchy at this point in time, so excuse the rambling nature of this post. The next post should help to set some context and increase definition.
+My leap of faith for the pivot from product management to product leadership is that we as a profession can be valuable in contributing to the development of business strategy. My thinking is extremely sketchy at this point in time, so excuse the rambling nature of this post. The [next post](http://scottcolfer.com/2018/01/29/leadership-dimensions.html) should help to set some context and increase definition.
