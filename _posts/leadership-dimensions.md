@@ -23,4 +23,4 @@ There's another layer here too. The profession of product management is focussed
 
 ## Next time: value contexts
 
-To return to the beginning of this post, my leadership development will be most useful when I understand the contexts in which I work and think about what leadership means within those contexts. It's also clear that I'm most interested to explore the 'value management' dimension of leadership. So I'm going to use the next post in this blog to think about what value looks like in the many contexts of government: what does it mean for product managers, and what does it mean for product leaders?
+To return to the beginning of this post, my leadership development will be most useful when I understand the contexts in which I work and think about what leadership means within those contexts. It's also clear that I'm most interested to explore the 'value management' dimension of leadership. I will prioritise the next post in this blog to think about what value looks like in the many contexts of government: what does it mean for product managers, and what does it mean for product leaders?
