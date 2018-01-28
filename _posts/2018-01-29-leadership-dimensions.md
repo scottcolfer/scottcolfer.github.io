@@ -24,3 +24,7 @@ There's another layer here too. The profession of product management is focussed
 ## Next time: value contexts
 
 To return to the beginning of this post, my leadership development will be most useful when I understand the contexts in which I work and think about what leadership means within those contexts. It's clear that I'm most interested to explore the 'value management' dimension of leadership. I will prioritise the next post in this blog to think about what value looks like in the many contexts of government: what does it mean for product managers, and what does it mean for product leaders?
+
+## *Afterword*
+
+*Coaching is in the background of this post. I've coached and been coached for around ten years and have typically found it useful when I've 'clicked' with the coach or coachee, and the style of coaching to the right context. In this post we're seeing a situation where 'executive coaching' has helped, but there are many types of coaching. Kate Leto and Barry O'Reilly recently published [this post](https://medium.com/product-eq/everyone-needs-a-coach-9e317d2d5f76) which helps to explain the difference between a coach, a mentor and a consultant, and which summarises some of the value of coaching.*
