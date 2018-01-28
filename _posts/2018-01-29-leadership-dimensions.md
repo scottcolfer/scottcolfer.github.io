@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leadership dimensions"
-date: 2018-01-12
+date: 2018-01-29
 ---
 
 ## What does 'leadership' mean?
