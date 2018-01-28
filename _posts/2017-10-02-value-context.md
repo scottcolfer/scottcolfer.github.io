@@ -3,6 +3,12 @@ layout: post
 title: "value context"
 date: 2017-10-02
 ---
+Remember that value of users is primary. Needs to meet needs of everyone. Accessibility. Assistance.
+https://twitter.com/jockbu/status/912615246199758848?ref_src=twcamp%5Eshare%7Ctwsrc%5Em5%7Ctwgr%5Eemail%7Ctwcon%5E7046%7Ctwterm%5E3
+This is an important point. It's easy to get lost in government. Show how org value contexts are sometimes more complicated than those of our users. Run the risk that it takes more time and effort to meet the needs of the contexts of the government & the civil service than it does to meet the needs of our users.
+For this reason: Our business strategy - simplify our value contexts.
+
+Also acknowledge digital by default
 
 Vision
 Better described as ‘value manager’.
