@@ -6,6 +6,10 @@ date: 2018-03-02
 
 The Art of Business Value by Mark Schwartz
 
+Why are we doing this exploration of value?
+
+"The Waterfall model was based on taking a point-in-time snapshot of the information we know and using it to create a long-term plan that we would adhere to. The Agile insight was that we should change our notion of what features will create business value *over time* as more information becomes available and, in fact, that it can be worth an investment even just to incrase learning, thereby reducing uncertainty and opening a space in which innovation can occur. Agile approaches added a time dimension where previously there was none. But the meaning of business value itself was a given [...] known to the business, and that is not good enough." p.83
+
 Don't get lost in all of this.
 Remember that value of users is primary. Need to meet needs of everyone. Accessibility. Assistance.
 https://twitter.com/jockbu/status/912615246199758848?ref_src=twcamp%5Eshare%7Ctwsrc%5Em5%7Ctwgr%5Eemail%7Ctwcon%5E7046%7Ctwterm%5E3
@@ -36,7 +40,9 @@ Add description of product manager from value book:
 
 "When you 'provoke and observe' in the government environment, you discover what its true values are. The government is based on a system of 'checks and balances' - in other words, a system of distrust. The great freedom enjoyed by the press, especially in reporting on the actions of government, is another indication of the public's lack of trust in the government. As a result, you find that the government places a high value on transparency. While companies can keep secrets, government is accountable to the public and must disclose its actions and decisions. There is a business need for continued demonstrations of trustworthiness, or we might as well say a business value assigned to demonstrating trustworthiness. You find that the government is always in the public eye - the press is always reporting on government actions, and the public is quick to outrage. Government agencies, therefore, place a business value on 'optics' - howw something appears to the observant public." p.58  
 
-"Public service in an environment that is quick to assign blame, government is highly risk averse (i.e., it places high business value on things that mitigate risk). [...] When an agile team self organises to meet business needs and deliver business value, it cannot just consider customer and user needs for its products. It must consider all of the needs of the organisation and all of the things the business values, and then self-organise to meet all of those needs. The needs disclosed by bureaucratic rules are among those needs. 
+"Public service in an environment that is quick to assign blame, government is highly risk averse (i.e., it places high business value on things that mitigate risk). [...] When an agile team self organises to meet business needs and deliver business value, it cannot just consider customer and user needs for its products. It must consider all of the needs of the organisation and all of the things the business values, and then self-organise to meet all of those needs. The needs disclosed by bureaucratic rules are among those needs." p.??
+
+
 
 My thought is that public value in government is a combination of:
 
