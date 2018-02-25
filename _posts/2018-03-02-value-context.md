@@ -4,6 +4,12 @@ title: "value context"
 date: 2018-03-02
 ---
 
+Why is business strategy in its infancy? 
+Agile forgets to speak about what value actually is.
+Value is context specific. 
+Product manager provices value context.
+Product leadership is about providing value context.
+
 The Art of Business Value by Mark Schwartz
 
 Why are we doing this exploration of value?
