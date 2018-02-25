@@ -10,6 +10,9 @@ Value is context specific.
 Product manager provices value context.
 Product leadership is about providing value context.
 
+Value and business strategy has been left out of Agile.
+"Almost all companies are clueless on strategy, it's all meme copying and gut feel. There's an entire field yet to be discovered, to be understood. It's a wonderful time." https://twitter.com/swardley/status/951537637457846273
+
 The Art of Business Value by Mark Schwartz
 
 Why are we doing this exploration of value?
