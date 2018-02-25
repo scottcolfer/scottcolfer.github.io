@@ -65,6 +65,8 @@ Political needs may not have been clearly expressed to us, and may be disclosed 
 What's the point of a product manager? 
 - to provide a high level business value context.
 
+Link back to my value manager post.
+
 "Is it possible that the product owner role feels like a good idea because it helps fit Agile practices into a command-and-control hierarchy?" p.85
 
 "The product owner can be seen in a different light. Rather than being the authority of business value, making business value tradeoffs down to the feature level, the product owner can also be seen as the *visionary* responsible for a product or system, the person who communicates a vision behind a product and steers its development and evolution, the person who establishes a high level business value *context* in which the team generates solutions.
