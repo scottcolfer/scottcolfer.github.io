@@ -70,6 +70,4 @@ The concept of the product owner's role makes all the more sense now that we hav
 
 "The role of leadership and management in a CAS is to influence the evolutionary process so that the organisation delivers on its goals. Leaders create the language of the organisation; they set up incentives and define value in a way that elicits the descired outcomes. They define what it *valued* in order to deliver on the organisation's mission." p.88
 
-
-
-
+"Business value is a hypothesis held by the organisation's leadership as to what will best accomplish the organisation's ultimate goals or desired outcomes." p.90
