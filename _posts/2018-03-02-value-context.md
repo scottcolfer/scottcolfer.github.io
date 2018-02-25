@@ -36,11 +36,12 @@ Add description of product manager from value book:
 
 "When you 'provoke and observe' in the government environment, you discover what its true values are. The government is based on a system of 'checks and balances' - in other words, a system of distrust. The great freedom enjoyed by the press, especially in reporting on the actions of government, is another indication of the public's lack of trust in the government. As a result, you find that the government places a high value on transparency. While companies can keep secrets, government is accountable to the public and must disclose its actions and decisions. There is a business need for continued demonstrations of trustworthiness, or we might as well say a business value assigned to demonstrating trustworthiness. You find that the government is always in the public eye - the press is always reporting on government actions, and the public is quick to outrage. Government agencies, therefore, place a business value on 'optics' - howw something appears to the observant public." p.58  
 
-
-'The government places a high value on trnasparency.' Trust. 'Whilst companies can keep secrets, government is accountable to the public and must disclose its actions and decisions. There is value assigned to demonstrating trustworthiness. The government is always in the public eye, with the press always reporting on government.' p58 
-'Government is in an environment that is quick to assign blame and has become highly risk averse, so places value on things that mitigate risk.'
+"Public service in an environment that is quick to assign blame, government is highly risk averse (i.e., it places high business value on things that mitigate risk). [...] When an agile team self organises to meet business needs and deliver business value, it cannot just consider customer and user needs for its products. It must consider all of the needs of the organisation and all of the things the business values, and then self-organise to meet all of those needs. The needs disclosed by bureaucratic rules are among those needs. 
 
 My thought is that public value in government is a combination of:
+
 - mission value
 - political value
+
 Sometimes, these may be in conflict.
+Political needs may not have been clearly expressed to us, and may be disclosed by our bureaucratic rules.
