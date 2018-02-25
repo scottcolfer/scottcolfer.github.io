@@ -42,7 +42,7 @@ Add description of product manager from value book:
 
 "Public service in an environment that is quick to assign blame, government is highly risk averse (i.e., it places high business value on things that mitigate risk). [...] When an agile team self organises to meet business needs and deliver business value, it cannot just consider customer and user needs for its products. It must consider all of the needs of the organisation and all of the things the business values, and then self-organise to meet all of those needs. The needs disclosed by bureaucratic rules are among those needs." p.??
 
-"Is it possible that the product owner role feels like a good idea because it helps fit Agile practices into a command-and-control hierarchy?" p.85
+
 
 My thought is that public value in government is a combination of:
 
@@ -51,3 +51,13 @@ My thought is that public value in government is a combination of:
 
 Sometimes, these may be in conflict.
 Political needs may not have been clearly expressed to us, and may be disclosed by our bureaucratic rules.
+
+---
+
+What's the point of a product manager? 
+- to provide a high level business value context.
+
+"Is it possible that the product owner role feels like a good idea because it helps fit Agile practices into a command-and-control hierarchy?" p.85
+
+"The product owner can be seen in a different light. Rather than being the authority of business value, making business value tradeoffs down to the feature level, the product owner can also be seen as the *visionary* responsible for a product or system, the person who communicates a vision behind a product and steers its development and evolution, the person who establishes a high level business value *context* in which the team generates solutions.
+The concept of the product owner's role makes all the more sense now that we have come to think of a business as a type of Complex Adaptive System (CAS). A CAS is a self-organising system with non-linearities and complex interactions, one in which leadership can influence, but not control, outcomes. An important function of leadership in a CAS is to provide context and incentives that nudge the system towards the desired outcomes. In John Henry Clippinger III's book 'The Biology of Business', a business organisation is presented as a Darwinian universe in which leaders and managers can set parameters that determine what ideas and behaviours are most likely to survive: 'Management cannot, and need not, have perfect information; the challenge of management is to create the conditions and contexts that select for a range of desired outcomes as in the processes of natural selection.'"
