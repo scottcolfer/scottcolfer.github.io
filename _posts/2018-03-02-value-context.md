@@ -1,8 +1,20 @@
 ---
 layout: post
-title: "value context"
+title: "Leadership dimensions: value management"
 date: 2018-03-02
 ---
+
+# WTF is value?
+
+A while ago I wrote a post saying that [business strategy is in its infancy](http://scottcolfer.com/2018/01/12/leadership.html), with Simon Wardley saying that 'organisations often rely on meme copying and gut feel'. Why is this?
+
+One reason might be that the Agile Manifesto talks about value being our highest priority . . . but forgets to define what value is or how to figure it out what's valuable. Most of the stuff based on the agile manifesto that I've read also forgets to define value. So what we're left with is some great guidance on how to build valuable stuff . . . but little to no help to figure out what 'value' is.
+
+# The art of business value
+
+**The Art of Business Value** by Mark Schwartz is the first book I've read that attempts to put the fill the 'value' gap in the Agile Manifesto. As Mark says:
+
+"A core principle of Agile and Lean theory is that software development should seek to maximise business value. Projects should be judged not on their adherence to cost and schedue milestones, but on their delivery of value to the enterprise. Value should be delivered as quickly as possible - in small increments - and features should be prioritised based on the amount of value they deliver [...] The Waterfall model was based on taking a point-in-time snapshot of the information we know and using it to create a long-term plan that we would adhere to. The Agile insight was that we should change our notion of what features will create business value *over time* as more information becomes available and, in fact, that it can be worth an investment even just to incrase learning, thereby reducing uncertainty and opening a space in which innovation can occur. Agile approaches added a time dimension where previously there was none. But the meaning of business value itself was a given [...] known to the business, and that is not good enough."
 
 Why is business strategy in its infancy? 
 Agile forgets to speak about what value actually is.
@@ -11,13 +23,6 @@ Product manager provices value context.
 Product leadership is about providing value context.
 
 Value and business strategy has been left out of Agile.
-"Almost all companies are clueless on strategy, it's all meme copying and gut feel. There's an entire field yet to be discovered, to be understood. It's a wonderful time." https://twitter.com/swardley/status/951537637457846273
-
-The Art of Business Value by Mark Schwartz
-
-Why are we doing this exploration of value?
-
-"The Waterfall model was based on taking a point-in-time snapshot of the information we know and using it to create a long-term plan that we would adhere to. The Agile insight was that we should change our notion of what features will create business value *over time* as more information becomes available and, in fact, that it can be worth an investment even just to incrase learning, thereby reducing uncertainty and opening a space in which innovation can occur. Agile approaches added a time dimension where previously there was none. But the meaning of business value itself was a given [...] known to the business, and that is not good enough." p.83
 
 Don't get lost in all of this.
 Remember that value of users is primary. Need to meet needs of everyone. Accessibility. Assistance.
@@ -38,8 +43,7 @@ Value strategy. Uncover the value context. then create value stratgey.
 Value manager also helps our colleagues that we can work in the intangible space known as 'senior leadership’. 'Product’ is a tangible thing and makes our colleague think that 'you don’t need a product manager when there’s no product’. However, 'portfolio’ is just another type of backlog, & all the tricks we’ve learned in development teams work in portfolio teams.
 
 Add description of product manager from value book:
-
-"A core principle of Agile and Lean theory is that software development should seek to maximise business value. Projects should be judged not on their adherence to cost and schedue milestones, but on their delivery of value to the enterprise. Value should be delivered as quickly as possible - in small increments - and features should be prioritised based on the amount of value they deliver." Early page
+ Early page
 
 'We all understand the goal of private value - it's to generate profit and return value to shareholders. The ultimate goal of public services is not to generate profit, and we don't have shareholders. So what's 'public value'? You could argue that the financial objective of public value is to hit targets for liquidity: having just enough resources to carry out the mission, but not too much. The criteria for its success - its definition of business value - is about accomplishing its mission." p27
 
