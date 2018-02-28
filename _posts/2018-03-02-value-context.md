@@ -32,7 +32,18 @@ You could argue that as product managers it's rare for us to manage a genuine pr
 
 As a Head of Product, it's my job to help my organisation figure out the business value context in which we operate, and to use this to build a vision which helps us to generate solutions. Value is extremely context specific, so I'm not going to attempt to create some all-encompassing defition of value - instead I'm going to focus on the context in which I work, which is government. I'm going to attempt to create version 1 of a high-level business value context for my government department, with help from Mark Schwartz and his book, [The Art of Business Value].
 
-Value is context specific. 
+# Business value in government
+
+The goal of a private company is pretty simple, it's to generate profit and return value to shareholders.
+The goal of government is not so simple. We're not trying to generate a profit. We don't have shareholders. We do stuff for people?
+
+## Mission value
+
+We can begin the definition of business value in government by looking at non-profits:
+
+"The ultimate financial objective of a nonprofit cannot be maximising sharedolder value, since it has no shareholders. According to John Zietlow, Jo Ann Hankin, and Alan Seidner in their book on nonprofit financial management, the correct financial concern for a nonprofit should be hitting targets for liquidity: having just enough resources to carry out the mission, but not too much. But even for Zietlow, who's speciality is financial management, it would be misleading to think of business value solely in financial terms: 'the public service nature of a nonprofit poses a major challenge in terms of identifying and articulating its mission and and developing criteria for measuring its success.' The criteria for its success - that is, its definition of business value - is about accomplishing the mission for which it was chartered." p.27, [The Art of Business Value]
+
+ 
 Product manager provices value context.
 Product leadership is about providing value context.
 
@@ -44,10 +55,6 @@ For this reason: Our business strategy - simplify our value contexts.
 
 Also acknowledge digital by default
 
-Relate to value manager post
-
-Relate to agile manifesto & priciples
-
 Vision
 Better described as ‘value manager’.
 Value strategy. Uncover the value context. then create value stratgey.
@@ -56,7 +63,7 @@ Value manager also helps our colleagues that we can work in the intangible space
 
 'We all understand the goal of private value - it's to generate profit and return value to shareholders. The ultimate goal of public services is not to generate profit, and we don't have shareholders. So what's 'public value'? You could argue that the financial objective of public value is to hit targets for liquidity: having just enough resources to carry out the mission, but not too much. The criteria for its success - its definition of business value - is about accomplishing its mission." p27
 
-"The ultimate financial objective of a nonprofit cannot be maximising sharedolder value, since it has no shareholders. According to John Zietlow, Jo Ann Hankin, and Alan Seidner in their book on nonprofit financial management, the correct financial concern for a nonprofit should be hitting targets for liquidity: having just enough resources to carry out the mission, but not too much. But even for Zietlow, who's speciality is financial management, it would be misleading to think of business value solely in financial terms: "the public service nature of a nonprofit poses a major challenge in terms of identifying and articulating its mission and and developing criteria for measuring its success." The criteria for its success - that is, its definition of business value - is about accomplishing the mission for which it was chartered." p.27
+ p.27
 
 "A government agency has other value concerns beyond those directly related to its mission area [...] it values fairness in procurement practices: all contractors and suppliers should have equal chances to compete for government business. It values transparency, public accontability, and the political goals of those in power. Clearly shareholder value is not what is meant by business value in the context of a government agency; even mission value might be rather an oversimplification. On the other hand, there are similarities between the public sector and the private sector. As Mark Moore points out, the goal of a public sector organisation can be thought of as delivering *public* value, just as that of a corporation is to deliver *private* value. Both types of organisation must make value-based trade-offs in the use of resources for which there is an opportunity cost, typically cash - in one case the cash of shareholders, in the other case the cash from tax-payers. The government is unique in that one of its resources is its authority to compel behaviour, but doing so also has an opportunity cost. The magnitude of the punishment for non-compliance, for example, is a cost to society. Moore examines several ways of thinking about public value [...] agencies are generally given conflicting or inchoerent guidance by their political overseers." p??
 
