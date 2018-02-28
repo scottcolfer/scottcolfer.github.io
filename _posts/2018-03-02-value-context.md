@@ -16,8 +16,11 @@ One reason might be that the Agile Manifesto talks about value being our highest
 
 "A core principle of Agile and Lean theory is that software development should seek to maximise business value. Projects should be judged not on their adherence to cost and schedue milestones, but on their delivery of value to the enterprise. Value should be delivered as quickly as possible - in small increments - and features should be prioritised based on the amount of value they deliver [...] The Waterfall model was based on taking a point-in-time snapshot of the information we know and using it to create a long-term plan that we would adhere to. The Agile insight was that we should change our notion of what features will create business value *over time* as more information becomes available and, in fact, that it can be worth an investment even just to incrase learning, thereby reducing uncertainty and opening a space in which innovation can occur. Agile approaches added a time dimension where previously there was none. But the meaning of business value itself was a given [...] known to the business, and that is not good enough."
 
-Why is business strategy in its infancy? 
-Agile forgets to speak about what value actually is.
+In short: we know that working with agility will help us to 'deliver value', but it won't help us to figure out what value is.
+
+Organisations and teams need help to figure out what value is. Enter product management.
+
+
 Value is context specific. 
 Product manager provices value context.
 Product leadership is about providing value context.
@@ -41,9 +44,6 @@ Better described as ‘value manager’.
 Value strategy. Uncover the value context. then create value stratgey.
 
 Value manager also helps our colleagues that we can work in the intangible space known as 'senior leadership’. 'Product’ is a tangible thing and makes our colleague think that 'you don’t need a product manager when there’s no product’. However, 'portfolio’ is just another type of backlog, & all the tricks we’ve learned in development teams work in portfolio teams.
-
-Add description of product manager from value book:
- Early page
 
 'We all understand the goal of private value - it's to generate profit and return value to shareholders. The ultimate goal of public services is not to generate profit, and we don't have shareholders. So what's 'public value'? You could argue that the financial objective of public value is to hit targets for liquidity: having just enough resources to carry out the mission, but not too much. The criteria for its success - its definition of business value - is about accomplishing its mission." p27
 
