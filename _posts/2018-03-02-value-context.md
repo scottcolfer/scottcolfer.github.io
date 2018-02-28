@@ -28,14 +28,13 @@ But we should instead see product management in a different light.
 
 "Rather than being the authority of business value, making business value tradeoffs down to the feature level, the product owner can also be seen as the *visionary* responsible for a product or system, the person who communicates a vision behind a product and steers its development and evolution, the person who establishes a high level business value *context* in which the team generates solutions."
 
+You could argue that as product managers it's rare for us to manage a genuine product, but what is consistent about our role is that we manage value for our organisation and team (hey, maybe we should be called [value managers](http://scottcolfer.com/2017/09/17/value-manager.html)).
 
-
+As a Head of Product, it's my job to help my organisation figure out the business value context in which we operate, and to use this to build a vision which helps us to generate solutions. Value is extremely context specific, so I'm not going to attempt to create some all-encompassing defition of value - instead I'm going to focus on the context in which I work, which is government. I'm going to attempt to create version 1 of a high-level business value context for my government department, with help from Mark Schwartz and his book, [The Art of Business Value].
 
 Value is context specific. 
 Product manager provices value context.
 Product leadership is about providing value context.
-
-Value and business strategy has been left out of Agile.
 
 Don't get lost in all of this.
 Remember that value of users is primary. Need to meet needs of everyone. Accessibility. Assistance.
@@ -81,11 +80,6 @@ Political needs may not have been clearly expressed to us, and may be disclosed 
 
 What's the point of a product manager? 
 - to provide a high level business value context.
-
-Link back to my value manager post.
-
-
-
 
 "The concept of the product owner's role makes all the more sense now that we have come to think of a business as a type of Complex Adaptive System (CAS). A CAS is a self-organising system with non-linearities and complex interactions, one in which leadership can influence, but not control, outcomes. An important function of leadership in a CAS is to provide context and incentives that nudge the system towards the desired outcomes. In John Henry Clippinger III's book 'The Biology of Business', a business organisation is presented as a Darwinian universe in which leaders and managers can set parameters that determine what ideas and behaviours are most likely to survive: 'Management cannot, and need not, have perfect information; the challenge of management is to create the conditions and contexts that select for a range of desired outcomes as in the processes of natural selection.'" p.??
 
