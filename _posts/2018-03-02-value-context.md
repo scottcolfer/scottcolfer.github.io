@@ -20,6 +20,8 @@ In short: we know that working with agility will help us to 'deliver value', but
 
 Organisations and teams need help to figure out what value is. Enter product management.
 
+# Product management puts the value in the agile manifesto
+
 A narrow interpretation of Scrum can lead to a narrow interpretation of product management, in which a Product Owner is told what value is by a 'senior stakeholder', and then hoses this into their team. **The Art of Business Value** poses the question "is it possible that the product owner role feels like a good idea because it helps fit Agile practices into a command-and-control hierarchy?".
 
 But we should instead see product management in a different light. 
