@@ -45,10 +45,27 @@ We can begin the definition of business value in government by looking at non-pr
 
 Government is similar to this. Each government department and agency has a mission, and should be given sufficient money to achieve that mission. Our challenge is to define out mission and the criteria for measuring our success, and to achieve that mission whilst hitting targets for liquidity. This can be described as **mission value**. 
 
-GDS design principles and service standard.
-Digital by default
+So what's our mission value?
 
-Standard 16 - KPIs
+In its simplest terms, you could argue that the mission of Digital teams in government is to [meet the needs of our users](https://www.gov.uk/guidance/government-design-principles#start-with-user-needs) (the public) by creating digital services that are so straightforward and convenient that all those who can use them will choose to do so whilst those who can’t are not excluded. Mission value is measured by our [key performance indicators](https://www.gov.uk/service-manual/service-standard/identify-performance-indicators):
+
+- [cost per transaction](https://www.gov.uk/service-manual/measuring-success/measuring-cost-per-transaction)
+- [user satisfaction](https://www.gov.uk/service-manual/measuring-success/measuring-user-satisfaction)
+- [completion rate](https://www.gov.uk/service-manual/measuring-success/measuring-completion-rate)
+- [adoption](https://www.gov.uk/service-manual/helping-people-to-use-your-service/encouraging-people-to-use-your-digital-service).
+
+Add to this: assumption was that existing IT contracts weren't doing this and that better value could be achieved by doing it in-house.
+
+However, this only covers the strategy from 2012.
+
+3 groupings:
+
+- public-facing services
+- internal services
+- core tools
+
+Most recent strategy https://www.gov.uk/government/publications/government-transformation-strategy-2017-to-2020/government-transformation-strategy
+- Now: Government transaformation - outcome-driven consultancy
 
 Don't get lost in all of this.
 Remember that value of users is primary. Need to meet needs of everyone. Accessibility. Assistance.
