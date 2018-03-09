@@ -4,6 +4,8 @@ title: "Leadership dimensions: value management"
 date: 2018-03-02
 ---
 
+*In which we realise that working with agility focuses on delivering value but forgets to figure out what value is; product management finds a place to help figure out what value is; and we acknowledge that value is context specific so we figure out what it might be in government.* 
+
 # WTF is value?
 
 A while ago I wrote a post saying that [business strategy is in its infancy](http://scottcolfer.com/2018/01/12/leadership.html), with Simon Wardley saying that 'organisations often rely on meme copying and gut feel'. Why is this?
@@ -30,12 +32,17 @@ But we should instead see product management in a different light.
 
 You could argue that as product managers it's rare for us to manage a genuine product, but what is consistent about our role is that we manage value for our organisation and team (hey, maybe we should be called [value managers](http://scottcolfer.com/2017/09/17/value-manager.html)).
 
-As a Head of Product, it's my job to help my organisation figure out the business value context in which we operate, and to use this to build a vision which helps us to generate solutions. Value is extremely context specific, so I'm not going to attempt to create some all-encompassing defition of value - instead I'm going to focus on the context in which I work, which is government. I'm going to attempt to create version 1 of a high-level business value context for my government department, with help from Mark Schwartz and his book, [The Art of Business Value].
+As product managers, it's our job to help our organisation figure out the business value context in which we operate, and to use this to build a vision which helps us to generate solutions. This applies to me as a product leader. Value is extremely context specific, so I'm not going to attempt to create some all-encompassing defition of value - instead I'm going to focus on the context in which I work, which is government. I'm going to attempt to create version 1 of a high-level business value context for government, with help from Mark Schwartz and his book, [The Art of Business Value].
 
 # Business value in government
 
-The goal of a private company is pretty simple, it's to generate profit and return value to shareholders.
-The goal of government is not so simple. We're not trying to generate a profit. We don't have shareholders. We do stuff for people?
+What is business value?
+
+The Art of Business Value suggests that "business value is a hypothesis held by the organisation's leadership as to what will best accomplish the organisation's ultimate goals or desired outcomes," and I tend to agree. At its simplest, an organisation's leadership assume that 'if we do X and measure Y then we should see an increase in our value, Z'.
+
+In a private company, you can argue that this hypothesis can be relatively simple because the value context is relatively simple: the goal of a private company is pretty simple, it's to generate profit and return value to shareholders. Private value can be *relatively* simple.
+
+The goal of government is not so simple. We run public services, for the public (which includes ourselves). We're not trying to generate a profit. We don't have shareholders. How do we figure out what public value is?
 
 ## Mission value
 
@@ -45,68 +52,27 @@ We can begin the definition of business value in government by looking at non-pr
 
 Government is similar to this. Each government department and agency has a mission, and should be given sufficient money to achieve that mission. Our challenge is to define out mission and the criteria for measuring our success, and to achieve that mission whilst hitting targets for liquidity. This can be described as **mission value**. 
 
-So what's our mission value?
-
-In its simplest terms, you could argue that the mission of Digital teams in government is to [meet the needs of our users](https://www.gov.uk/guidance/government-design-principles#start-with-user-needs) (the public) by creating digital services that are so straightforward and convenient that all those who can use them will choose to do so whilst those who can’t are not excluded. Mission value is measured by our [key performance indicators](https://www.gov.uk/service-manual/service-standard/identify-performance-indicators):
-
-- [cost per transaction](https://www.gov.uk/service-manual/measuring-success/measuring-cost-per-transaction)
-- [user satisfaction](https://www.gov.uk/service-manual/measuring-success/measuring-user-satisfaction)
-- [completion rate](https://www.gov.uk/service-manual/measuring-success/measuring-completion-rate)
-- [adoption](https://www.gov.uk/service-manual/helping-people-to-use-your-service/encouraging-people-to-use-your-digital-service).
-
-Add to this: assumption was that existing IT contracts weren't doing this and that better value could be achieved by doing it in-house.
-
-However, this only covers the strategy from 2012.
-
-3 groupings:
-
-- public-facing services
-- internal services
-- core tools
-
-Most recent strategy https://www.gov.uk/government/publications/government-transformation-strategy-2017-to-2020/government-transformation-strategy
-- Now: Government transaformation - outcome-driven consultancy
-
-Don't get lost in all of this.
-Remember that value of users is primary. Need to meet needs of everyone. Accessibility. Assistance.
-https://twitter.com/jockbu/status/912615246199758848?ref_src=twcamp%5Eshare%7Ctwsrc%5Em5%7Ctwgr%5Eemail%7Ctwcon%5E7046%7Ctwterm%5E3
-This is an important point. It's easy to get lost in government. Show how org value contexts are sometimes more complicated than those of our users. Run the risk that it takes more time and effort to meet the needs of the contexts of the government & the civil service than it does to meet the needs of our users.
-For this reason: Our business strategy - simplify our value contexts.
+So maybe public value can be defined solely by mission value?
 
 ## Political value
 
-Overhead of government can be greater than the mission itself.
+No. Government is massive. Public value is not defined solely by the local mission of one team or agency.
 
-"A government agency has other value concerns beyond those directly related to its mission area [...] it values fairness in procurement practices: all contractors and suppliers should have equal chances to compete for government business. It values transparency, public accontability, and the political goals of those in power. Clearly shareholder value is not what is meant by business value in the context of a government agency; even mission value might be rather an oversimplification. On the other hand, there are similarities between the public sector and the private sector. As Mark Moore points out, the goal of a public sector organisation can be thought of as delivering *public* value, just as that of a corporation is to deliver *private* value. Both types of organisation must make value-based trade-offs in the use of resources for which there is an opportunity cost, typically cash - in one case the cash of shareholders, in the other case the cash from tax-payers. The government is unique in that one of its resources is its authority to compel behaviour, but doing so also has an opportunity cost. The magnitude of the punishment for non-compliance, for example, is a cost to society. Moore examines several ways of thinking about public value [...] agencies are generally given conflicting or inchoerent guidance by their political overseers." p??
+"A government agency has other value concerns beyond those directly related to its mission area [...] it values fairness in procurement practices: all contractors and suppliers should have equal chances to compete for government business. It values transparency, public accontability, and the political goals of those in power. Clearly shareholder value is not what is meant by business value in the context of a government agency; even mission value might be rather an oversimplification. On the other hand, there are similarities between the public sector and the private sector. As Mark Moore points out, the goal of a public sector organisation can be thought of as delivering *public* value, just as that of a corporation is to deliver *private* value. Both types of organisation must make value-based trade-offs in the use of resources for which there is an opportunity cost, typically cash - in one case the cash of shareholders, in the other case the cash from tax-payers. The government is unique in that one of its resources is its authority to compel behaviour, but doing so also has an opportunity cost. The magnitude of the punishment for non-compliance, for example, is a cost to society. Moore examines several ways of thinking about public value [...] agencies are generally given conflicting or inchoerent guidance by their political overseers." 
 
 "When you 'provoke and observe' in the government environment, you discover what its true values are. The government is based on a system of 'checks and balances' - in other words, a system of distrust. The great freedom enjoyed by the press, especially in reporting on the actions of government, is another indication of the public's lack of trust in the government. As a result, you find that the government places a high value on transparency. While companies can keep secrets, government is accountable to the public and must disclose its actions and decisions. There is a business need for continued demonstrations of trustworthiness, or we might as well say a business value assigned to demonstrating trustworthiness. You find that the government is always in the public eye - the press is always reporting on government actions, and the public is quick to outrage. Government agencies, therefore, place a business value on 'optics' - how something appears to the observant public." p.58  
 
 "Public service in an environment that is quick to assign blame, government is highly risk averse (i.e., it places high business value on things that mitigate risk). [...] When an agile team self organises to meet business needs and deliver business value, it cannot just consider customer and user needs for its products. It must consider all of the needs of the organisation and all of the things the business values, and then self-organise to meet all of those needs. The needs disclosed by bureaucratic rules are among those needs." p.??
 
-HiPPOs are humans too https://www.mindtheproduct.com/2017/06/remember-hippos-humans/
-What everyone gets wrong about stakeholder https://melissaperri.com/blog/stakeholders Stakeholders have specific influence and knowledge that can help your product.
+# Business value in government can be thought of as 'public value'
 
+Based on the above, my initial assumption is that **business value in government can be thought of as 'public value'**. 
 
-My thought is that public value in government is a combination of:
+Unlike private value, public value is not simple and consists of:
 
 - mission value
-- political value
+- political value.
 
-Sometimes, these may be in conflict.
-Political needs may not have been clearly expressed to us, and may be disclosed by our bureaucratic rules.
+These two types of value may sometimes conflict with one another, a political value (in particular) maybe unclear.
 
----
-
-What's the point of a product manager? 
-- to provide a high level business value context.
-
-Product manager provices value context.
-Product leadership is about providing value context.
-
-Value manager also helps our colleagues that we can work in the intangible space known as 'senior leadership’. 'Product’ is a tangible thing and makes our colleague think that 'you don’t need a product manager when there’s no product’. However, 'portfolio’ is just another type of backlog, & all the tricks we’ve learned in development teams work in portfolio teams.
-
-"The concept of the product owner's role makes all the more sense now that we have come to think of a business as a type of Complex Adaptive System (CAS). A CAS is a self-organising system with non-linearities and complex interactions, one in which leadership can influence, but not control, outcomes. An important function of leadership in a CAS is to provide context and incentives that nudge the system towards the desired outcomes. In John Henry Clippinger III's book 'The Biology of Business', a business organisation is presented as a Darwinian universe in which leaders and managers can set parameters that determine what ideas and behaviours are most likely to survive: 'Management cannot, and need not, have perfect information; the challenge of management is to create the conditions and contexts that select for a range of desired outcomes as in the processes of natural selection.'" p.??
-
-"The role of leadership and management in a CAS is to influence the evolutionary process so that the organisation delivers on its goals. Leaders create the language of the organisation; they set up incentives and define value in a way that elicits the descired outcomes. They define what it *valued* in order to deliver on the organisation's mission." p.88
-
-"Business value is a hypothesis held by the organisation's leadership as to what will best accomplish the organisation's ultimate goals or desired outcomes." p.90
+To return to an earlier assumption: business value is context specific. So the next challenge is to explore public value in a specific context, that of the team and department in which I work, testing this notion of 'public value' in reality.
