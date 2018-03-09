@@ -75,6 +75,6 @@ Unlike private value, public value is not simple and consists of:
 - mission value
 - political value.
 
-These two types of value may sometimes conflict with one another, a political value (in particular) maybe unclear.
+These two types of value may sometimes conflict with one another, and political value (in particular) maybe unclear, requiring a 'provoke and observe' strategy to identify.
 
 To return to an earlier assumption: business value is context specific. So the next challenge is to explore public value in a specific context, that of the team and department in which I work, testing this notion of 'public value' in reality.
