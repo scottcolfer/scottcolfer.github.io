@@ -42,9 +42,11 @@ The Art of Business Value suggests that "business value is a hypothesis held by 
 
 In a private company, you can argue that this hypothesis can be relatively simple because the value context is relatively simple: the goal of a private company is pretty simple, it's to generate profit and return value to shareholders. Private value can be *relatively* simple.
 
+## Public value
+
 The goal of government is not so simple. We run public services, for the public (which includes ourselves). We're not trying to generate a profit. We don't have shareholders. How do we figure out what public value is?
 
-## Mission value
+### Mission value
 
 We can begin the definition of business value in government by looking at non-profits:
 
@@ -54,7 +56,7 @@ Government is similar to this. Each government department and agency has a missi
 
 So maybe public value can be defined solely by mission value?
 
-## Political value
+### Political value
 
 No. Government is massive. Public value is not defined solely by the local mission of one team or agency.
 
