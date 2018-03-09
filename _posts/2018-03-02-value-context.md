@@ -66,7 +66,7 @@ No. Government is massive. Public value is not defined solely by the local missi
 
 "Public service in an environment that is quick to assign blame, government is highly risk averse (i.e., it places high business value on things that mitigate risk). [...] When an agile team self organises to meet business needs and deliver business value, it cannot just consider customer and user needs for its products. It must consider all of the needs of the organisation and all of the things the business values, and then self-organise to meet all of those needs. The needs disclosed by bureaucratic rules are among those needs." p.??
 
-# Business value in government can be thought of as 'public value'
+## Business value in government can be thought of as 'public value'
 
 Based on the above, my initial assumption is that **business value in government can be thought of as 'public value'**. 
 
