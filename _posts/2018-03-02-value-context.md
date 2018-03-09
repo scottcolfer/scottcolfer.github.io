@@ -14,7 +14,7 @@ One reason might be that the Agile Manifesto talks about value being our highest
 
 # The art of business value
 
-**The Art of Business Value** by Mark Schwartz is the first book I've read that attempts to put the fill the 'value' gap in the Agile Manifesto. As Mark says:
+**[The Art of Business Value](https://www.amazon.co.uk/Art-Business-Value-Mark-Schwartz/dp/1942788045)** by Mark Schwartz is the first book I've read that attempts to put the fill the 'value' gap in the Agile Manifesto. As Mark says:
 
 "A core principle of Agile and Lean theory is that software development should seek to maximise business value. Projects should be judged not on their adherence to cost and schedue milestones, but on their delivery of value to the enterprise. Value should be delivered as quickly as possible - in small increments - and features should be prioritised based on the amount of value they deliver [...] The Waterfall model was based on taking a point-in-time snapshot of the information we know and using it to create a long-term plan that we would adhere to. The Agile insight was that we should change our notion of what features will create business value *over time* as more information becomes available and, in fact, that it can be worth an investment even just to incrase learning, thereby reducing uncertainty and opening a space in which innovation can occur. Agile approaches added a time dimension where previously there was none. But the meaning of business value itself was a given [...] known to the business, and that is not good enough."
 
