@@ -8,9 +8,9 @@ date: 2018-03-02
 
 # WTF is value?
 
-A while ago I wrote a post saying that [business strategy is in its infancy](http://scottcolfer.com/2018/01/12/leadership.html), with Simon Wardley saying that 'organisations often rely on meme copying and gut feel'. Why is this?
+A while ago I wrote a post based on the assumption that [business strategy is in its infancy](http://scottcolfer.com/2018/01/12/leadership.html), with Simon Wardley saying that 'organisations often rely on meme copying and gut feel'. Why is this?
 
-One reason might be that the Agile Manifesto talks about value being our highest priority . . . but forgets to define what value is or how to figure it out what's valuable. Most of the stuff based on the agile manifesto that I've read also forgets to define value. So what we're left with is some great guidance on how to build valuable stuff . . . but little to no help to figure out what 'value' is.
+One reason might be that the Agile Manifesto talks about value being our highest priority . . . but forgets to define what value is or how to figure it out. Most of the stuff I've read that's based on the agile manifesto also forgets to define value. So what we're left with is some great guidance on how to build valuable stuff . . . but little help to figure out what 'value' is.
 
 # The art of business value
 
