@@ -34,7 +34,7 @@ When a service name starts with a noun like ‘Statutory Off Road Vehicle Notifi
 
 ## Principle 3: Use the term ‘service’ accurately and sparingly 
 
-Lots of our ‘services’ aren’t really services. ‘Learn to drive’ is an end to end service. The elements needed to learn to drive probably think of themselves as services in their own right. However, none of them independently meet the overall need to ‘learn to drive’. So they are not service, they are a *part* of a service, or a ‘feature’ of a service. 
+Some of what UK government refers to as services aren’t really services. ‘Learn to drive’ is an end to end service. The elements needed to learn to drive probably think of themselves as services in their own right. However, none of them independently meet the overall need to ‘learn to drive’. So they are not a service, they are a *part* of a service, or a ‘feature’ of a service. 
  
 ### Services 
 
