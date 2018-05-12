@@ -12,7 +12,7 @@ This all sounds good . . . but what is an end-to-end public service? Do we all m
 
 *Here is a summary of Louise and Kate's work, in the form of three principles to help us understand what an end-to-end public service is - I've made a couple of tweaks so that it fits my context but it's mainly a copy, paste, and summary of two of their posts.*
 
-## Principle 1: a service helps a user to do something that needs to be done 
+## Principle 1: A service helps a user to do something that needs to be done 
 
 To a user, a service is simple. It’s something that helps them to do something - like learn to drive, buy a house, or become a childminder. It’s an activity that needs to be done. 
  
@@ -22,7 +22,7 @@ This isn’t always how government sees a service. Government sometimes sees ser
  
 *Adapted from [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) by Louise Downe, Government Digital Service.*
 
-## Principle 2: a service name starts with a verb 
+## Principle 2: A service name starts with a verb 
 
 A core principle of Agile and Lean theory is that services should seek to maximise value. Services should be judged not on their adherence to cost and delivery schedules, but on their delivery of value. 
  
