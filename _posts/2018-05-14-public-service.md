@@ -8,9 +8,9 @@ Government digital teams in the UK want focus on creating public services that a
 
 [Two very enthusiastic thumbs up](https://tenor.com/view/thumbsup-enthusiastic-clueless-gif-5146508).
 
-What would be useful is to define what we mean by an 'end-to-end public service' so that we all understand the same thing when we use the word 'service' - and helpfully, some clever people have already done this (albeit in a couple of separate places). [Louise Downe](https://twitter.com/LouiseDowne) and [Kate Tarling](https://twitter.com/kateldn) have created a great starting point for us to understand what an end-to-end public service is that I've been using for the last year or so (thanks both!). 
+This all sounds good . . . but what is an end-to-end public service? Do we all mean the same thing when we say 'end-to-end public service'? Helpfully, some clever people have helpfully provided us with a definition. [Louise Downe](https://twitter.com/LouiseDowne) and [Kate Tarling](https://twitter.com/kateldn) have created a great starting point for us to understand what an end-to-end public service is that I've been using for the last year or so (thanks both!). 
 
-_Here is a summary of Louise and Kate's works in the form of three principles to help us understand what an end-to-end public service is - I've made a couple of tweaks so that it fits my context but it's mainly a copy, paste, and summary of two of their posts._
+*Here is a summary of Louise and Kate's works in the form of three principles to help us understand what an end-to-end public service is - I've made a couple of tweaks so that it fits my context but it's mainly a copy, paste, and summary of two of their posts.*
 
 ## Principle 1: a service helps a user to do something that needs to be done 
 
@@ -20,7 +20,7 @@ This isn’t always how government sees a service. Government sometimes sees ser
  
 ‘Learn to drive’ describes a service. ‘Statutory Off Road Vehicle Notification (SORN)' describes a transaction. 
  
-_Adapted from [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) by Louise Downe, Government Digital Service._
+*Adapted from [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) by Louise Downe, Government Digital Service.*
 
 ## Principle 2: a service name starts with a verb 
 
@@ -30,7 +30,7 @@ When a service name starts with a verb like ‘Learn to drive’ it tends to foc
 
 When a service name starts with a noun like ‘Statutory Off Road Vehicle Notification (SORN)' it tends to focus on a transaction. It describes something the government does. 
  
-_Adapted from [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) by Louise Downe, Government Digital Service._
+*Adapted from [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) by Louise Downe, Government Digital Service.*
 
 ## Principle 3: Use the term ‘service’ accurately and sparingly 
 
@@ -40,18 +40,39 @@ Lots of our ‘services’ aren’t really services. ‘Learn to drive’ is an 
 
 A service helps a user to do something that needs to be done. It also helps government achieve policy intent on behalf of its citizens with whom it has a social contract. Services are best identified as verbs (visit the UK), rather than nouns (biometric residence permit).
 
-*The following are not services - they are things that help to build services:*
+**The following are not services - they are things that help to build services:**
 
 ### Features  
 
-Often the things we work on are just one step in a service. These are called features, and examples include:  ● applying for a visa  ● applying for a licence  ● granting or refusing permission. 
+Often the things we work on are just one step in a service. These are called features, and examples include:  
+
+- applying for a visa  
+- applying for a licence  
+- granting or refusing permission. 
  
-Capabilities and activities A capability is having all resources required to carry out a task – such as skilled staff and specialist tools – and also considers capacity and maturity. Appointment booking, for example, is a capability that requires:  ● an appointment booking system, which may be a technical capability  ● physical locations or phone support to host the appointments  ● a process for changing or cancelling appointments. 
+### Capabilities and activities 
+
+A capability is having all resources required to carry out a task – such as skilled staff and specialist tools – and also considers capacity and maturity. Appointment booking, for example, is a capability that requires:  
+
+- an appointment booking system, which may be a technical capability  
+- physical locations or phone support to host the appointments  
+- a process for changing or cancelling appointments. 
  
-Activities are the things people do in relation to using a service, including:  ● finding out how something works  ● calling people for help  ● applying for something. 
+Activities are the things people do in relation to using a service, including:  
+
+- finding out how something works  
+- calling people for help  
+- applying for something. 
  
-Technology ‘Technology’ means the digital systems, products, tools, hardware and applications we build, maintain and buy. Technology exists to support activities and capabilities – and enables us to deliver faster, clearer, simpler services. 
+### Technology 
+
+‘Technology’ means the digital systems, products, tools, hardware and applications we build, maintain and buy. Technology exists to support activities and capabilities – and enables us to deliver faster, clearer, simpler services. 
  
-Data  Data means the actual information that’s either generated by or used to carry out activities and services. Use descriptive words for data, such as ‘National Insurance number’, and avoid acronyms. 
+### Data  
+
+Data means the actual information that’s either generated by or used to carry out activities and services. Use descriptive words for data, such as ‘National Insurance number’, and avoid acronyms. 
  
-Guidance: ● Creating a common language to describe services​ by Kate Tarling, Home Office. 
+*Adapted from [Creating a common language to describe services](https://hodigital.blog.gov.uk/2016/12/21/creating-a-common-language-to-describe-services/) by Kate Tarling, Home Office.*
+
+---
+
