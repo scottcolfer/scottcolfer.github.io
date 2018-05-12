@@ -10,7 +10,7 @@ Government digital teams in the UK build public services that are genuinely valu
 
 This all sounds good . . . but what is an end-to-end public service? Do we all mean the same thing when we say end-to-end public service? Helpfully, some clever people have provided us with a definition. [Louise Downe](https://twitter.com/LouiseDowne) and [Kate Tarling](https://twitter.com/kateldn) have created a great starting point for us to understand what an end-to-end public service is that I've been using for the last year or so (thanks both!). 
 
-*Here is a summary of Louise and Kate's works in the form of three principles to help us understand what an end-to-end public service is - I've made a couple of tweaks so that it fits my context but it's mainly a copy, paste, and summary of two of their posts.*
+*Here is a summary of Louise and Kate's work, in the form of three principles to help us understand what an end-to-end public service is - I've made a couple of tweaks so that it fits my context but it's mainly a copy, paste, and summary of two of their posts.*
 
 ## Principle 1: a service helps a user to do something that needs to be done 
 
