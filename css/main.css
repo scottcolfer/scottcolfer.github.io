@@ -1,6 +1,7 @@
 body {
+    text-align: center;
     margin: 60px auto;
-    width: 70%;
+    width: 50%;
     color: #333;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
@@ -39,3 +40,4 @@ a:hover {
 footer {
     font-size: 75%;
 }
+    
