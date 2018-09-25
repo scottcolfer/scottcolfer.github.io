@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Roadmaps"
+date: 2018-09-25
+---
+
+I’ve joined the UK government and continued to find that the product roadmap is the ‘face’ of product management to workmates outside our profession. Since becoming Head of Product I’ve increasingly noticed that product roadmaps are a source of uncertainty amongst our profession. I lead a team of 40+ product managers working on public-facing software, staff-facing software, core technology, and agile consultancy: product roadmaps have been the most consistent topic for support and professional development over the last two years, so much so that in January 2017 a ran a session at the cross-government product meetup about what had worked and what hadn’t worked when attempting a portfolio-level roadmap in government. The later post referring to my session generated requests for help from other government departments who wanted to introduce or improve their use of product roadmaps, so much so that I wrote a follow-up post for the Government Digital Service, sharing simple tips for using product roadmaps. Once again, this generated multiple requests for help from other government departments (and a Local Authority) . . . so I started work on further support for roadmaps in the form of a diagram of a ‘good’ roadmap, with notes to explain the core concepts at play. I tweeted a picture of version 2 of this diagram that once again got a bunch of responses, including a suggestion to draft something for Mind the Product. So here we are.
