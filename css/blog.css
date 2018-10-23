@@ -24,8 +24,9 @@ h3 {
   font-size: 150%;
 }
 
-ul, ol {
+ul {
     font-size: 120%;
+    list-style-type: none;
 }
 
 a {
@@ -39,4 +40,3 @@ a:hover {
 footer {
     font-size: 75%;
 }
-    
