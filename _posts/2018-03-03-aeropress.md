@@ -6,7 +6,7 @@ category: coffee
 ---
 
 This is how I make a 250g of coffee using an Aeropress.
-An Aeropress combines immersion brewing with filter brewing and is a good compromise between the lightness of [filter coffee](http://scottcolfer.com/precious-things/coffee/2017/09/04/filter-coffee.html) and the robust flavour from a [French Press](http://scottcolfer.com/precious-things/coffee/2017/10/08/french-press-coffee.html). The Aeropress itself is a hardy bit of kit, making it great for travel. A hardy plastic cylinder and plunger, the Aeropress was invented by the same guy who came up with the Aerobie (the circular, frisbee style toy from your youth). Your Aeropress will come with filter papers, a funnel, and a paddle for stirring.
+An Aeropress combines immersion brewing with filter brewing and is a good compromise between the lightness of [filter coffee](https://scottcolfer.com/coffee/2017/09/04/filter-coffee.html) and the robust flavour from a [French Press](https://scottcolfer.com/coffee/2017/10/08/french-press-coffee.html). The Aeropress itself is a hardy bit of kit, making it great for travel. A hardy plastic cylinder and plunger, the Aeropress was invented by the same guy who came up with the Aerobie (the circular, frisbee style toy from your youth). Your Aeropress will come with filter papers, a funnel, and a paddle for stirring.
 
 ## Kit
 
