@@ -24,6 +24,10 @@ h3 {
   font-size: 150%;
 }
 
+strong, b {
+font-weight: bold;
+}
+
 ul, ol {
     font-size: 120%;
 }
