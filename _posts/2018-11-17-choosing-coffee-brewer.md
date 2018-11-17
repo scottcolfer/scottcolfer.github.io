@@ -16,7 +16,7 @@ Start with the type of coffee you prefer to drink.
 
 ![French Press coffee](/assets/frenchpress.jpg)
 
-The French Press (also known as cafetiere) that lots of us have lurking at the back of a cupboard is a great way to produce strong coffee with maximum caffeine. This is because the ground coffee is fully immersed in boiled water, dissolving a solids and extracting a lot of the stronger flavours into the drink. You can find more help with brewing coffee using a French Press [here](https://scottcolfer.com/coffee/2017/10/08/french-press-coffee.html).
+The French Press (also known as cafetiere) that lots of us have lurking at the back of a cupboard is a great way to produce strong coffee with maximum caffeine. This is because the ground coffee is fully immersed in boiled water, dissolving solids and extracting a lot of the stronger flavours into the drink. You can find more help with brewing coffee using a French Press [here](https://scottcolfer.com/coffee/2017/10/08/french-press-coffee.html).
 
 ## All-rounder
 
