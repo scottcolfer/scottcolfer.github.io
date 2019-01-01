@@ -15,6 +15,8 @@ Delivery teams require four different perspectives if they are to create valuabl
 - User Experience ('UX')
 - Technology.
 
+![Agile team perspectives](/assets/team_perspectives.jpg)
+
 What do we mean by each of these persepectives?
 
 **Value:** Product management brings a perspective on value above all else, focussed on maximising business value from a product. Product managers should be primarily focussed on optimising a product to achieve business goals while maximising return on investment.
