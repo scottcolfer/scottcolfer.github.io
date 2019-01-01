@@ -14,6 +14,7 @@ Delivery teams require four different perspectives if they are to create valuabl
 - Workflow
 - User Experience ('UX')
 - Technology.
+
 ![Agile team perspectives](/assets/team_perspectives.jpg)
 
 What do we mean by each of these persepectives?
@@ -43,7 +44,7 @@ Product management supports executive management teams in setting a business str
 
 Product management acts as the intersection between the goals of the organisation, and the perspectives of their delivery team - it’s at this intersection that products become their most valuable, and so product management leads on value. 
 
-![Value](/assets/value.jpg)
+![Value](/assets/Value.jpg)
 
 Product management is defined by its relationship with with others:
 
@@ -61,7 +62,7 @@ Product management can also be confused with application owner or technology own
 
 Product management is a relatively new profession within government, requiring a broad set of skills and understanding of multiple other professions - as shown in the previous section. All of this combines to make product management a difficult profession to learn without doing - meaning that’s it’s difficult to take a course or degree that will provide everything required to lead a product from day-one on the job - many product managers will tell you of the circuitous journey into their current role. This journey will begin by learning the tactics of product management, and then learning product management strategy.
 
-![Product tactics and strategy](/assets/tactics_strategy.jpg)
+![Product tactics and strategy](/assets/strategy_tactics.jpg)
 
 ## Product management tactics
 
