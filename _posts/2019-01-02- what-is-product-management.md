@@ -64,11 +64,11 @@ Product management is a relatively new profession within government, requiring a
 
 ![Product tactics and strategy](/assets/strategy_tactics.jpg)
 
-## Product management tactics
+### Product management tactics
 
 Product managers often begin by developing their product management tactics - taking the large goals outlined in the product strategy and breaking them down into SMART-er goals (specific, measurable, achievable, realistic, time-based) for their team (this is often called the product backlog) - the team will turn these goals into actionable tickets. The product manager will lead their team in planning and reviewing product increments in the format of rapid build-test-learn feedback loops (often known as ‘sprints’). 
 
-## Product management strategy
+### Product management strategy
 
 Product managers move onto leadership of product strategy once they have mastered product management tactics. Product strategy involves: 
 
