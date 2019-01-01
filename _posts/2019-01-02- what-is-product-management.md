@@ -56,7 +56,7 @@ Product management is defined by its relationship with with others:
 Product management is commonly confused with project managementment - possibly because both professions are abbreviated to PM :)
 Project teams are temporary organisations where the solution and plan has been decided and the goal is to follow the plan successfully to the goal - projects are great are a great option for a delivery model in situations of high-certainty in a problem and high-agreement in a solution (this is the opposite of product teams, where only the outcome and resources are known - solution and plan are flexible and develop as we learn more). 
 
-Product management can also be confused with application owner or technology owner. Outsourced software or technology managed through planned-service level agreements requires an owner. The applications or technology are products, so the in-house manager may be incorrectly referred to as product owner or product manager - but is not fulfilling the role outlined in this guide - instead they are performing a different skilled and valuable role that is needed across government.
+Product management can also be confused with application owner or technology owner. Outsourced software or technology managed through pre-planned and agreed service level agreements requires an owner. These applications or technologies are products, and have owners/managers, so the in-house manager may be confusingly referred to as product owner or product manager - but is not fulfilling the role outlined in this guide - instead they are performing a different skilled and valuable role that is needed across government.
 
 # What does product management look like?
 
