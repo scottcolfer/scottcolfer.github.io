@@ -14,7 +14,6 @@ Delivery teams require four different perspectives if they are to create valuabl
 - Workflow
 - User Experience ('UX')
 - Technology.
-
 ![Agile team perspectives](/assets/team_perspectives.jpg)
 
 What do we mean by each of these persepectives?
@@ -44,6 +43,8 @@ Product management supports executive management teams in setting a business str
 
 Product management acts as the intersection between the goals of the organisation, and the perspectives of their delivery team - it’s at this intersection that products become their most valuable, and so product management leads on value. 
 
+![Value](/assets/value.jpg)
+
 Product management is defined by its relationship with with others:
 
 - Within a delivery team, product managers are generalists amongst specialists, aligning multiple perspectives into a clear product strategy and goals
@@ -59,6 +60,8 @@ Product management can also be confused with application owner or technology own
 # What does product management look like?
 
 Product management is a relatively new profession within government, requiring a broad set of skills and understanding of multiple other professions - as shown in the previous section. All of this combines to make product management a difficult profession to learn without doing - meaning that’s it’s difficult to take a course or degree that will provide everything required to lead a product from day-one on the job - many product managers will tell you of the circuitous journey into their current role. This journey will begin by learning the tactics of product management, and then learning product management strategy.
+
+![Product tactics and strategy](/assets/tactics_strategy.jpg)
 
 ## Product management tactics
 
@@ -83,6 +86,10 @@ A team is a team is a team. Product managers require the same tactical and strat
 - **Senior Product Manager:** Senior Product Managers lead the product tactics and strategy for a group of products that share a value proposition. Senior PMs focus on the total value of the group of products, helping them to operate in relation to each other. This might involve re-prioritising one product in the group over another at times. Senior Product Managers are likely to be managing the product managers in their group. Senior PMs are likely to remain ‘hands-on’ in one more more products but may be working with Associate Product Managers who will pick up the product management tactics for individual products. *Some Senior PMs may remain at work on a single product that is particularly complex or challenging - this is where we make most use of contractors, for example. However, they will need to move into the way of working outlined above in order to develop the expertise required to progress to lead product manager.*
 - **Lead Product Manager:** Lead Product Managers lead the product tactics and strategy for an entire business-unit, product-line, or end-to-end service. This might involve re-prioritising one product group over another at times. Lead Product Managers are a member of the management team for their product area, and are responsible for the overall performance and recruitment of their product community in their product area - ‘hands-on’ product management within delivery teams is likely to disappear as this approaches and exceeds ten product managers; there will be an increasing amount of work with their middle-management team. *This represents the shift from ‘product management’ to ‘product leadership’.*
 - **Head of Product:** Head of Product supports/facilitates the product tactics and strategy for the organisation as a whole. This involves working closely with Portfolio & Controls through things like Triage, Prioritisation and Service Assessments. This might involve suggestions for business-units to explore shared opportunities that cross organisational boundaries. This is achieved by working closely with Lead Product Managers and their business units. Head of Product is responsible for the overall performance and recruitment of the product management profession, working closely with Lead Product Managers on this.
+
+## Product management handbook
+
+All of this is explored in more detail in the [Product Management Handbook](https://scottcolfer.com/product-management-handbook/) with exaplantions, suggested reading, and useful courses.
 
 ## Influences
 
