@@ -2,7 +2,8 @@ espresso
 
 # Why espresso?
 
-
+https://en.wikipedia.org/wiki/Espresso
+Dissolved solids - concentrated - less caffeine than filter coffee
 
 # Coffee beans
 
