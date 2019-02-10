@@ -37,7 +37,7 @@ Manual 'pulling a shot')
 Semi Automatic 
 Automatic
 
-Gaggic Classic - 18/11/2012 £179.99
+Gaggic Classic - 18/11/2012 £179.99 58mm
 DeLonghi prior to that
 
 New portafilter - new basket
