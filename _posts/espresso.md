@@ -1,11 +1,11 @@
-espresso
+# espresso
 
-# Why espresso?
+## Why espresso?
 
 https://en.wikipedia.org/wiki/Espresso
 Dissolved solids - concentrated - less caffeine than filter coffee
 
-# Coffee beans
+## Coffee beans
 
 Coffee beans have different flavours - depends on where and how they grow, how the coffee beans are removed, and how they are roasted
 Say a little about each of the above
@@ -17,7 +17,7 @@ Square Mile
 
 'Italian-style' coffee in the UK typically means darkly-roasted
 
-# Coffee grinder
+## Coffee grinder
 
 Currently got . . . (give some measurements for Square Mile)
 Talk about grind size (larger, quicker; finer - slower)
@@ -26,13 +26,13 @@ Tamper
 
 Started off with a DeLonghi - good for learning, decent for darkly roasted coffee
 
-# Water
+## Water
 
 Main ingredient 
 water filter
 Increased ability to absorb coffee by filtering (London water contains a lot of disolved solids already, water becomes saturated at a certain point)
 
-# Espresso machine
+## Espresso machine
 
 Manual 'pulling a shot')
 Semi Automatic 
@@ -48,12 +48,12 @@ Scales
 
 Maintenance I had to do - video & kit
 
-# Milk
+## Milk
 
 Modification
 Oatly
 
-# Helpful places
+## Helpful places
 
 Coffee Forum
 Seattle Coffee
