@@ -51,3 +51,8 @@ Maintenance I had to do - video & kit
 
 Modification
 Oatly
+
+# Helpful places
+
+Coffee Forum
+Seattle Coffee
