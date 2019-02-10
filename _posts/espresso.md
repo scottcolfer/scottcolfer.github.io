@@ -37,7 +37,7 @@ Manual 'pulling a shot')
 Semi Automatic 
 Automatic
 
-Gaggic Classic
+Gaggic Classic - 18/11/2012
 DeLonghi prior to that
 
 New portafilter - new basket
