@@ -21,3 +21,10 @@ This comes full circle - I think that the thing I've most improved over the last
 
 There's been a point a few months in where this starts to even-off in each of my personal experiences of introducing psychological safety. The weeks/months/years without enough saferty begin to disappear. The safety wtihin teams/groups grows and the need for trusted 1:1s diminishes and starts to fall into more of a regular rhythm.  
 
+So a message to my future self the next time I'm doing this would be:
+
+- psychological safety is always worth the effort
+- but it is a lot of effort
+- be prepared for trusted 1:1s to be an essential part of developing group safety, for up to a few months
+- make sure that you have your own safe group and trusted 1:1s during this time
+- and remember that after six months or so you can expect to see changes that will make you happy.
