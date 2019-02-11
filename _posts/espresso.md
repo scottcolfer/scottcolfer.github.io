@@ -57,3 +57,5 @@ Oatly
 
 Coffee Forum
 Seattle Coffee
+James Hoffman Youtube
+Classes
