@@ -1,3 +1,9 @@
+---
+layout: post
+title: "The emotional demands for leaders of psychological safety"
+date: 2019-02-12
+---
+
 This is a quick post about what happens **after** the introduction of psychological safety - my experience of the months following its introduction, and the emotional preparation you need to make as a leader introducing psychological safety.
 
 ## Psychological safety within a group
