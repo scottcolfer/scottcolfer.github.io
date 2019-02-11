@@ -12,7 +12,7 @@ You're probably already familiar with the term [psychological safety](https://en
 
 ## Individual trust
 
-I really believe in psychological safety. I've tried to introduce it several times, in several organisations, at several scales - and hope that I've been successful in at least a few of these attempts. What I've experienced is that the introduction of psychological safety can open the floodgates for individuals who may not have felt safe or listened to for a long time - and as the person introducing this psychological safety you may become a person that individuals trust. 
+I really believe in psychological safety. I've tried to introduce it several times, in several organisations, at several scales - and hope that I've been successful in at least a few of these attempts. What I've experienced is that the introduction of psychological safety can open the floodgates for individuals who may not have felt safe or listened to for a long time - and as the person introducing this psychological safety you may become a person that individuals trust - and with this trust comes a responsibility to support people on a 1:1 level - sometimes with some big things.
 
 Psychological safety itself is about safety within a group, not about 1:1 trust - but by introducing this safety, you may become a person of trust - and you need to be prepared for this. 
 
@@ -27,7 +27,7 @@ This comes full circle - I think that the thing I've most improved over the last
 
 There's been a point a few months in where this starts to even-off in each of my personal experiences of introducing psychological safety. The weeks/months/years without enough saferty begin to disappear. The safety wtihin teams/groups grows and the need for trusted 1:1s diminishes and starts to fall into more of a regular rhythm.  
 
-So a message to my future self the next time I'm doing this would be:
+I've not initiated psychological safety for a little while now but have held onto the idea for this post for ages and finally wanted to right it when I've not in the midst of it. So a message to my future self the next time I'm doing this would be:
 
 - psychological safety is always worth the effort
 - but it is a lot of effort
