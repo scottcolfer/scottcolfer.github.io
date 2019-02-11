@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The emotional demands for leaders of psychological safety"
+title: "Be prepared for the emotional impact of introducing psychological safety"
 date: 2019-02-12
 ---
 
