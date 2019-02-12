@@ -4,7 +4,7 @@ title: "Be prepared for the emotional impact of introducing psychological safety
 date: 2019-02-12
 ---
 
-This is a quick post about what happens **after** the introduction of psychological safety - my experience of the months following its introduction, and the emotional preparation you need to make as a leader introducing psychological safety.
+This is a quick post about what happens **after** the introduction of psychological safety - my experience of the weeks and months following its introduction, and the emotional preparation you need to make as a leader introducing psychological safety.
 
 ## Psychological safety within a group
 
@@ -12,20 +12,19 @@ You're probably already familiar with the term [psychological safety](https://en
 
 ## Individual trust
 
-I really believe in psychological safety. I've tried to introduce it several times, in several organisations, at several scales - and hope that I've been successful in at least a few of these attempts. What I've experienced is that the introduction of psychological safety can open the floodgates for individuals who may not have felt safe or listened to for a long time - and as the person introducing this psychological safety you may become a person that individuals trust - and with this trust comes a responsibility to support people on a 1:1 level - sometimes with some big things.
+I really believe in psychological safety. I've tried to introduce it several times, in several organisations, at several scales - and hope that I've been successful in at least a few of these attempts. The guidance and blog posts on the topic didn't prepare me for one thing: the introduction of psychological safety can open the floodgates for individuals who may not have felt safe or listened to for a long time - and as the person introducing this psychological safety you may become a person that individuals trust - and with this trust comes a responsibility to support people on a 1:1 level - sometimes with big things.
 
-Psychological safety itself is about safety within a group, not about 1:1 trust - but by introducing this safety, you may become a person of trust - and you need to be prepared for this. 
+Psychological safety itself is about safety within a group, not about 1:1 trust - but by introducing this safety, I became a person of trust - and the first couple ot times, I wasn't prepared for this. 
 
-Following the introduction of psychological safety I've had up to six months of intense 1:1s as people bring more of themselves and their honest problems to our time together. Big personal things. Big professional things. Tears. Burnout. Weeks, months, sometimes years of 'stuff' that's finally getting an outlet. Some of this 'stuff' will be brought out within teams/groups that have fostered psychological safety but some of it needs a trusted 1:1 and you might be called on to provide that trusted 1:1. Real life is messy and the professional veneer of an office hides all sorts of massive life events going on all around us, all the time.
+Following the introduction of psychological safety I've had weeks, sometimes months of intense 1:1s as people bring more of themselves and their honest problems to our time together. Big personal things. Big professional things. Tears. Burnout. Weeks, months, sometimes years of 'stuff' that's finally getting an outlet. Some of this 'stuff' will be brought out within teams/groups that have fostered psychological safety but some of it needs a trusted 1:1 and you might be called on to provide that trusted 1:1. Real life is messy and the professional veneer of an office hides all sorts of massive life events going on all around us, all the time.
 
-What I'd like to say to someone about to embark on the introduction of psychological safety for a group at work is - do it, it's awesome. 
-I'd also like to say that you should be prepared that success might also bring trust in you as an individual - and that you should be prepared for this, and earn that trust. You will hear about issues and may need to support people in ways that make you feel uncomfortable. You will get Friday afternoon emails/messages/calls appear week after week in which someone is asking for your help with something hard. And you will find this emotionally challenging, as it's hard to hear about people in bad situations. But if you're serious about psychological safety then this is a sign of success - so please be prepared. 
+What I'd like to say to you if you're about to embark on the introduction of psychological safety for a group at work is - do it, it's awesome. I'd also like to say that you should be prepared that success might also bring trust in you as an individual - and that you should be prepared for this, and earn that trust. You will hear about issues and may need to support people in ways that make you feel uncomfortable. You will get Friday afternoon emails/messages/calls appear week after week in which someone is asking for your help with something hard. And you will find this emotionally challenging, as it's hard to hear about people in bad situations. But if you're serious about psychological safety then this is a sign of success - so please be prepared. 
 
 This comes full circle - I think that the thing I've most improved over the last ten years or so is making sure I have my own psychologically safe groups in which I can share these challenges and ask for help.
 
 ## Through the other side
 
-There's been a point a few months in where this starts to even-off in each of my personal experiences of introducing psychological safety. The weeks/months/years without enough saferty begin to disappear. The safety wtihin teams/groups grows and the need for trusted 1:1s diminishes and starts to fall into more of a regular rhythm.  
+My experience is that there's a point, after a few weeks or months, where the initial, intense period starts to even-off. The weeks/months/years without enough safety begin to disappear as the pressure is released through healthier professional relationships. The safety wtihin teams/groups grows and the need for trusted 1:1s diminishes and starts to fall into more of a regular rhythm.  
 
 I've held onto the idea for this post for ages - I'm not initiated psychological safety for a little while now and wanted to write this post when I'm not in the midst of it. So a message to my future self the next time I'm doing this would be:
 
