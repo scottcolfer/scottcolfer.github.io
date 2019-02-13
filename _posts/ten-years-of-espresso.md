@@ -8,7 +8,7 @@ There are loads of reasons why [you shouldn't bother making your own espresso at
 
 Coffee beans have different flavours - depends on where and how they grow, how the coffee beans are removed, and how they are roasted
 Say a little about each of the above
-Roasting: 2 cracks
+Roasting: 2 cracks [Jack Coleman](https://twitter.com/ColemanCoffee)
 
 Espresso beans normally a blend
 
