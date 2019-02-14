@@ -26,9 +26,7 @@ Broadly speaking, I'm looking to tweak the settings of my grinder to help get to
 
 ## Water
 
-Main ingredient 
-water filter
-Increased ability to absorb coffee by filtering (London water contains a lot of disolved solids already, water becomes saturated at a certain point)
+Espresso only has two ingredients - coffee and water - with water being the main ingredient by far, so it's worth making sure it's decent water. What makes decent water? In my experience, it's how well the water allows the coffee to dissolve into it. I live in London which has 'hard water' - which means that it already has lots of solids dissolved in it (hence looking chalky) and is not great at absorbing additional solids, like coffee. A water filter is a great investment if you live in a city like London, since it will remove some of the solids in tehe water, increase the amount of coffee solids it can absorb, and improve the flavour of the espresso.
 
 ## Espresso machine
 
