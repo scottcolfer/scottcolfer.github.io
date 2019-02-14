@@ -14,12 +14,15 @@ My experience of coffee beans designed for espresso is that they tend to be a bl
 
 ## Coffee grinder
 
-Currently got . . . (give some measurements for Square Mile)
-Talk about grind size (larger, quicker; finer - slower)
-Includes scales to allow you to measure
-Tamper
+The quality of your espresso is really dependent upon the quality of your coffee grinder. 
 
-Started off with a DeLonghi - good for learning, decent for darkly roasted coffee
+First of all: buy whole beans and grind them yourself at home, and only grind them when you need to use them. Coffee beans are a food stuff - they're the beans from coffee cherries - and will go stale eventually. This takes ages as coffee beans - you've got several weeks - but takes just hours once they're ground. So grinding your own beans, just in time to make your espresso, makes such a positive difference to the taste of the finished drink.
+
+I started out with a [DeLonghi grinder](https://www.delonghi.com/en-gb/products/coffee/coffee-makers/grinders/kg79-0177111028) in the £40-£50 price range. DeLonghi is an Italian company so it makes sense that their grinder works well for dark-roasted coffee beans. However, I could never get it to work consistently well for medium or light roasts and eventually I upgraded to a [Sage Grinder](https://www.sageappliances.com/uk/en/products/coffee/bcg820.html) in the £150-£200 - I'd been making espresso for years by this point so was sure that I'd get a lot of use for it, but it still felt like a lot of money to spend on a coffee grinder. My anxiety eased upon use, however, as the coffee beans I'd had iffy results from in the past suddenly tasted amazing - the ability to fune tune settings made a massive difference. You're unlikely to be able to spend less than £40-£50 on a grinder if you want to make your own espresso at home but can get decent results from this price range if you tactically choose the right coffee beans - but investing at least £150-£200 in a grinder will open up way more options.
+
+Broadly speaking, I'm looking to tweak the settings of my grinder to help get to the flavour of the beans - and the exact settings very bean to bean, and crop to crop. At its simplest, I'm often thinking: ok, if this tastes weak or watery then maybe the coffee has been ground too large and the water is running through it too quickly so I need to grind it a little finer and start again; or maybe the espresso tastes bitter because the coffee beans are ground to fine, the water is sitting in the coffee grinders for too long and over-extracting the coffee, so I need to grind a little coarser. 
+
+Using the [Sage Grinder](https://www.sageappliances.com/uk/en/products/coffee/bcg820.html) to grind the [Square Mile Coffee](https://shop.squaremilecoffee.com/), I'm often grinding to a setting of '10'.
 
 ## Water
 
