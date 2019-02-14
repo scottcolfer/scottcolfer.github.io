@@ -22,7 +22,7 @@ I started out with a [DeLonghi grinder](https://www.delonghi.com/en-gb/products/
 
 Broadly speaking, I'm looking to tweak the settings of my grinder to help get to the flavour of the beans - and the exact settings very bean to bean, and crop to crop. At its simplest, I'm often thinking: ok, if this tastes weak or watery then maybe the coffee has been ground too large and the water is running through it too quickly so I need to grind it a little finer and start again; or maybe the espresso tastes bitter because the coffee beans are ground to fine, the water is sitting in the coffee grinders for too long and over-extracting the coffee, so I need to grind a little coarser. 
 
-Using the [Sage Grinder](https://www.sageappliances.com/uk/en/products/coffee/bcg820.html) to grind the [Square Mile Coffee](https://shop.squaremilecoffee.com/), I'm often grinding to a setting of '10'.  
+**Tip to get you started:** Using the [Sage Grinder](https://www.sageappliances.com/uk/en/products/coffee/bcg820.html) to grind the [Square Mile Coffee](https://shop.squaremilecoffee.com/), I'm often grinding to a setting of '10'.  
 
 ## Water
 
