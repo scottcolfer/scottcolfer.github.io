@@ -47,9 +47,13 @@ I treated myself to a new portafilter a year ago - a '[bottomless portafiler](ht
 
 Eventually your Gaggia Classic will get clogged-up to the point that it requires you to service it - in my case it took 5-6 years. When this happened I was able to find a bunch of excellent, helpful vidoes online that told me what to do - this [Youtube video](https://www.youtube.com/watch?v=5rX6BvkUM0Y&index=14&t=1s&list=WL) is the one I used most - and just required a special kind of cleaning basket + cleaning powder that I got for £10-£20 from [Doppio](https://doppiocoffee.co.uk/).
 
-Knockbox
-Espresso cups
-Scales
+## Acccessories
+
+There's some other bits that I use every time I make espresso. I use standard [digital kitchen scales](http://www.salterhousewares.co.uk/salter-disc-electronic-digital-kitchen-scales-black.html) to make sure that I start with the right amount of ground coffee - I zero the scales with the empty portafilter + basket, grind the coffee diretly into the basket and portafilter, then weigh again to check I've got the right amount (I often brew my espresso with 18g-19g ground coffee, depending on the beans I'm using). I've also got [micro scales](http://www.salterhousewares.co.uk/salter-precision-mini-digital-kitchen-scales.html) that I use to measure the weight of the espresso as I'm making it - I zero the scales with the espresso cup on them and normally pour the espresso until I have a double-shot of about 28g-30g (depending on the coffee) - there's normally around and extrate 3g-5g of weight by the time the flow has stopped. The microscales means that they'll actually fit in the small space under the portafilter.
+
+The espresso cups I favour tend to be on the shorter end of the scale so that they're easier to get in and out of the machine (versus taller ones, which can catch on the portafilter). My current favourites are these from [Kaffeeform], made from discarded coffee grounds. 
+
+Finally, a [coffee tamper](https://www.coffeehit.co.uk/rhinowares-barista-tamper-58mm.html) is critical in order to compress the coffee grinds and create a flat, even surface (both so that water doesn't pass through the coffee grinds too quickly, or pass unevenly through the coffee grinds), and a [knockbox](https://www.amazon.co.uk/d/Coffee-Machine-Cleaning-Products/Grindenstein-Knock-Out-Box-Black/B0016J7YQM/ref=sr_1_4?ie=UTF8&qid=1550264711&sr=8-4&keywords=coffee+knockbox) is really helpful for emptying out the used coffee grinds - before having one of these I kept accidentally dumping the basket into the bin.
 
 ## Milk
 
