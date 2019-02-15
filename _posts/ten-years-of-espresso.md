@@ -57,8 +57,9 @@ Finally, a [coffee tamper](https://www.coffeehit.co.uk/rhinowares-barista-tamper
 
 ## Milk
 
-Modification
-Oatly
+I often like to have milk with my espresso and frequently make myself a flat white at the weekend. The steam wand that ships with the Gaggia Classic is **bad** - if you want to steam milk with any kind of decent results then you'll need to replace it with a better steam wand from a different machine. Once again, Youtube came to the rescue - I found and used [this video](https://www.youtube.com/watch?v=OWoNXAq2Kus&t=49s), and replaced it with a spare Rancilio Silvia steam wand that I bought for £20-£30 (I think). Be warned though: this type of modification will void your warranty, if you break something then it's up to you to fix it (or to pay for it to be fixed).
+
+As a side note: if you want to use vegan milk then I've found that [Oatly barista edition](https://www.oatly.com/uk/products/oat-drink-barista-edition) gives the best results whilst being widely available in supermarkets.
 
 ## Helpful places
 
