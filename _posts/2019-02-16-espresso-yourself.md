@@ -63,13 +63,13 @@ Finally, a [coffee tamper](https://www.coffeehit.co.uk/rhinowares-barista-tamper
 
 ## How do I actually make the espresso?
 
-Using my Sage Grinder to grind Square Mile espresso beans, I will normally use grind setting '10' and set the timer to grind for 15.4-15.6 seconds, which will normally produce approx. 18g of coffee grinds. I'll tamp with a medium firmness, then run the espresso machine until I've got 28g-30g, stopping, and expect a further 3g-5g to come out as the flow stops. This isn't the 'perfect' espresso, it's what gets results that fit my tastes using the beans and kit I own. 
+Using my Sage Grinder to grind Square Mile espresso beans, I will normally use grind setting '10' and set the timer to grind for 15.4-15.6 seconds, which will normally produce approx. 18g of coffee grinds. I'll tamp with a medium firmness, then run the espresso machine until I've got 28g-30g, stopping, and expect a further 3g-5g to come out as the flow stops. This isn't the 'perfect' espresso, it's what gets results that fit my tastes using the beans and kit I own. Here's a [photo](https://twitter.com/scottcolfer/status/1061559785613656064) of the results you'll get using this method.
 
 ## Milk
 
 I often like to have milk with my espresso and frequently make myself a flat white at the weekend. The steam wand that ships with the Gaggia Classic is **bad** - if you want to steam milk with any kind of decent results then you'll need to replace it with a better steam wand from a different machine. Once again, Youtube came to the rescue - I found and used [this video](https://www.youtube.com/watch?v=OWoNXAq2Kus&t=49s), and replaced it with a spare Rancilio Silvia steam wand that I bought for £20-£30 (I think). Be warned though: this type of modification will void your warranty, if you break something then it's up to you to fix it (or to pay for it to be fixed).
 
-As a side note: if you want to use vegan milk then I've found that [Oatly barista edition](https://www.oatly.com/uk/products/oat-drink-barista-edition) gives the best results whilst being widely available in supermarkets.
+As a side note: if you want to use vegan milk then I've found that [Oatly barista edition](https://www.oatly.com/uk/products/oat-drink-barista-edition) gives the best results whilst being widely available in supermarkets. You'll get results decent enough to do latte art with - his a [photo](https://twitter.com/scottcolfer/status/1076788729510014976) of a recent flat white.
 
 ## Helpful places
 
