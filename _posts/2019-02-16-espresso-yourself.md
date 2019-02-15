@@ -4,7 +4,7 @@ title: "Espresso yourself: eight-years of making espresso at home, in one post"
 date: 2019-02-16
 ---
 
-I was rencently throwing out some old receipts and was suprised to find that I bought my first espresso machine eight years ago - it made me realise that I've come a long way since those first bitter, watery attempts back when the UK was starting prepartion to host the Olympics. Here's what I've learned in that time about making espresso at home: what to buy, and how to use it.
+I recently threw out some old receipts and was suprised to find that I bought my first espresso machine eight years ago - it made me realise that I've come a long way since those first bitter, watery attempts back when the UK was starting prepartion to host the Olympics. Here's what I've learned in that time about making espresso at home: what to buy, and how to use it.
 
 ## Why espresso?
 
