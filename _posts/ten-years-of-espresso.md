@@ -55,6 +55,10 @@ The espresso cups I favour tend to be on the shorter end of the scale so that th
 
 Finally, a [coffee tamper](https://www.coffeehit.co.uk/rhinowares-barista-tamper-58mm.html) is critical in order to compress the coffee grinds and create a flat, even surface (both so that water doesn't pass through the coffee grinds too quickly, or pass unevenly through the coffee grinds), and a [knockbox](https://www.amazon.co.uk/d/Coffee-Machine-Cleaning-Products/Grindenstein-Knock-Out-Box-Black/B0016J7YQM/ref=sr_1_4?ie=UTF8&qid=1550264711&sr=8-4&keywords=coffee+knockbox) is really helpful for emptying out the used coffee grinds - before having one of these I kept accidentally dumping the basket into the bin.
 
+## How do I actually make the espresso?
+
+Using my Sage Grinder to grind Square Mile espresso beans, I will normally use grind setting '10' and set the timer to grind for 15.4-15.6 seconds, which will normally produce approx. 18g of coffee grinds. I'll tamp with a medium firmness, then run the espresso machine until I've got 28g-30g, stopping, and expect a further 3g-5g to come out as the flow stops. This isn't the 'perfect' espresso, it's what gets results that fit my tastes using the beans and kit I own. 
+
 ## Milk
 
 I often like to have milk with my espresso and frequently make myself a flat white at the weekend. The steam wand that ships with the Gaggia Classic is **bad** - if you want to steam milk with any kind of decent results then you'll need to replace it with a better steam wand from a different machine. Once again, Youtube came to the rescue - I found and used [this video](https://www.youtube.com/watch?v=OWoNXAq2Kus&t=49s), and replaced it with a spare Rancilio Silvia steam wand that I bought for £20-£30 (I think). Be warned though: this type of modification will void your warranty, if you break something then it's up to you to fix it (or to pay for it to be fixed).
@@ -63,7 +67,6 @@ As a side note: if you want to use vegan milk then I've found that [Oatly barist
 
 ## Helpful places
 
-Coffee Forum
-Seattle Coffee
-James Hoffman Youtube
+I've been helped a lot over the year by the kindess and insights of strangers, including: [Coffee Forums UK](https://coffeeforums.co.uk/content.php) has great advice on modifying and using espresso machines at home; [Seattle Coffee Gear's Youtube Channel](https://www.youtube.com/user/SeattleCoffeeGear) is a great way to find out about kit and see it in action; and [James Hoffman's Youtube Channel](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) is a great way to find out about how to make coffee and coffee trends (from one of the people behing Square Mile Coffee).
+
 Classes
