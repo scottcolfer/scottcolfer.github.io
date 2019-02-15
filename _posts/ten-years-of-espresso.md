@@ -1,4 +1,4 @@
-I was rencently throwing out some old receipts and was suprised to find that I bought my first espresso machine eight years ago - it made me realise that I've come a long way since those first bitter, watery attempts back when the UK was starting prepartion to host the Olympics. Here's what I've learned in that time.
+I was rencently throwing out some old receipts and was suprised to find that I bought my first espresso machine eight years ago - it made me realise that I've come a long way since those first bitter, watery attempts back when the UK was starting prepartion to host the Olympics. Here's what I've learned in that time about making espresso at home: what to buy, and how to use it.
 
 ## Why espresso?
 
@@ -69,4 +69,8 @@ As a side note: if you want to use vegan milk then I've found that [Oatly barist
 
 I've been helped a lot over the year by the kindess and insights of strangers, including: [Coffee Forums UK](https://coffeeforums.co.uk/content.php) has great advice on modifying and using espresso machines at home; [Seattle Coffee Gear's Youtube Channel](https://www.youtube.com/user/SeattleCoffeeGear) is a great way to find out about kit and see it in action; and [James Hoffman's Youtube Channel](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) is a great way to find out about how to make coffee and coffee trends (from one of the people behing Square Mile Coffee).
 
-Classes
+A couple of classes have helped me over the years too - [the craft and science of esprtesso](https://www.departmentofcoffee.com/shop/coffee-school-the-craft-science-of-espresso) at the Department of Coffee - and the [introduction to espresso and milk](https://workshopcoffee.com/pages/masterclasses) at Workshop coffee.
+
+## Espresso yourself
+
+I think that's it. Eight-years of 'self-taught' trial and error into home-made espresso, guided by the kindess of strangers and a couple of classes from experts, distilled into one long post. I hope it's useful. If it's convinced you that espresso is too much like hard work or too expensive to make at home - that'd be a sensible conclusion! My kit would probably cost at least £500-£600 to buy from scratch in one go in 2019, and it realistically takes at least a few months and trial and error 
