@@ -75,7 +75,7 @@ This isn't the 'perfect' espresso (no such thing, this is a clickbait title), it
 
 I often like to have milk with my espresso and frequently make myself a flat white at the weekend. The steam wand that ships with the Gaggia Classic is **bad** - if you want to steam milk with any kind of decent results then you'll need to replace it with a better steam wand from a different machine. Once again, Youtube came to the rescue - I found and used [this video](https://www.youtube.com/watch?v=OWoNXAq2Kus&t=49s), and replaced it with a spare Rancilio Silvia steam wand that I bought for £20-£30 (I think). Be warned though: this type of modification will void your warranty, if you break something then it's up to you to fix it (or to pay for it to be fixed).
 
-**Tip:** if you want to use vegan milk then I've found that [Oatly barista edition](https://www.oatly.com/uk/products/oat-drink-barista-edition) gives the best results whilst being widely available in supermarkets. You'll get results decent enough to do latte art with - his a [photo](https://twitter.com/scottcolfer/status/1076788729510014976) of a recent flat white.
+**Tip:** if you want to use vegan milk then I've found that [Oatly barista edition](https://www.oatly.com/uk/products/oat-drink-barista-edition) gives the best results whilst being widely available in supermarkets. You'll get results decent enough to do latte art with - here's a [photo](https://twitter.com/scottcolfer/status/1076788729510014976) of a recent flat white.
 
 ## Helpful places
 
