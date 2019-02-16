@@ -75,7 +75,7 @@ This isn't the 'perfect' espresso (no such thing, this is a clickbait title), it
 
 I often like to have milk with my espresso and frequently make myself a flat white at the weekend. The steam wand that ships with the Gaggia Classic is **bad** - if you want to steam milk with any kind of decent results then you'll need to replace it with a better steam wand from a different machine. Once again, Youtube came to the rescue - I found and used [this video](https://www.youtube.com/watch?v=OWoNXAq2Kus&t=49s), and replaced it with a spare Rancilio Silvia steam wand that I bought for £20-£30 (I think). Be warned though: this type of modification will void your warranty, if you break something then it's up to you to fix it (or to pay for it to be fixed).
 
-As a side note: if you want to use vegan milk then I've found that [Oatly barista edition](https://www.oatly.com/uk/products/oat-drink-barista-edition) gives the best results whilst being widely available in supermarkets. You'll get results decent enough to do latte art with - his a [photo](https://twitter.com/scottcolfer/status/1076788729510014976) of a recent flat white.
+**Tip:** if you want to use vegan milk then I've found that [Oatly barista edition](https://www.oatly.com/uk/products/oat-drink-barista-edition) gives the best results whilst being widely available in supermarkets. You'll get results decent enough to do latte art with - his a [photo](https://twitter.com/scottcolfer/status/1076788729510014976) of a recent flat white.
 
 ## Helpful places
 
@@ -85,8 +85,8 @@ A couple of classes have helped me over the years too - [the craft and science o
 
 ## Espresso yourself
 
-I think that's it. Eight-years of 'self-taught' trial and error into home-made espresso, guided by the kindess of strangers and a couple of classes from experts, distilled into one long post. I hope it's useful. 
+I think that's it. Eight-years of 'self-taught', trial and error, home-made espresso - guided by the kindess of strangers and a couple of classes from experts, distilled into one long post. I hope it's useful. 
 
-If it's convinced you that espresso is too much like hard work or too expensive to make at home - that'd be a sensible conclusion! My kit would probably cost at least £500-£600 to buy from scratch in one go in 2019, and it realistically takes at least a few months and a lot of practice to get decent results. If that's not for you then you can create amazing coffee much more simply using lower-tech methods - here's my [guide to brewing coffee using French Press, filter, and Aeropress](https://scottcolfer.com/2018/11/17/choosing-coffee-brewer.html).
+If it's convinced you that espresso is too much like hard work or too expensive to make at home - that'd be a sensible conclusion! My kit would probably cost at least £500-£600 to buy from scratch in one go in 2019, and realistically takes at least a few months and a lot of practice to get to grips with. If that's not for you then you can create amazing coffee much more simply using lower-tech methods - here's my [guide to brewing coffee using French Press, filter, and Aeropress](https://scottcolfer.com/2018/11/17/choosing-coffee-brewer.html) - or support your local, independent coffee shop (£2.50-£3 for a flat white suddenly sounds more reasonable, right?).
 
 If it's convinced you that making espresso at home using a semi-automatic machine sounds nice and fun, then join the club :) My Gaggia Classic is seven years old and built like a tank - I'm expecting another five-ten years out of it, and it's nice to understand enough about the machine to get good results from it and to look after it. It's really enjoyable to make espresso as good as you might find in some decent independent coffee shops (and better than most chain coffee shops). If you're willing to put in some time and money, it's a hobby that can give you and your loved ones pleasure every morning.
