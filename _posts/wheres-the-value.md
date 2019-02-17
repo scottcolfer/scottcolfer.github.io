@@ -50,3 +50,8 @@ https://twitter.com/jockbu/status/912615246199758848?ref_src=twcamp%5Eshare%7Ctw
 This is an important point. It's easy to get lost in government. Show how org value contexts are sometimes more complicated than those of our users. Run the risk that it takes more time and effort to meet the needs of the contexts of the government & the civil service than it does to meet the needs of our users.
 For this reason: Our business strategy - simplify our value contexts.
 
+## Product Manager
+
+"The concept of the product owner's role makes all the more sense now that we have come to think of a business as a type of Complex Adaptive System (CAS). A CAS is a self-organising system with non-linearities and complex interactions, one in which leadership can influence, but not control, outcomes. An important function of leadership in a CAS is to provide context and incentives that nudge the system towards the desired outcomes. In John Henry Clippinger III's book 'The Biology of Business', a business organisation is presented as a Darwinian universe in which leaders and managers can set parameters that determine what ideas and behaviours are most likely to survive: 'Management cannot, and need not, have perfect information; the challenge of management is to create the conditions and contexts that select for a range of desired outcomes as in the processes of natural selection.'" p.??
+
+"The role of leadership and management in a CAS is to influence the evolutionary process so that the organisation delivers on its goals. Leaders create the language of the organisation; they set up incentives and define value in a way that elicits the descired outcomes. They define what it *valued* in order to deliver on the organisation's mission." p.88
