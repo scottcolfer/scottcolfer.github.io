@@ -12,6 +12,11 @@ B2C value
 
 ## Political value
 
+HiPPOs are humans too https://www.mindtheproduct.com/2017/06/remember-hippos-humans/
+What everyone gets wrong about stakeholder https://melissaperri.com/blog/stakeholders Stakeholders have specific influence and knowledge that can help your product.
+
+Political needs may not have been clearly expressed to us, and may be disclosed by our bureaucratic rules.
+
 Financial objective of non-profits: aim for liquidity - maximise the value of their available budget to accomplish their mission
 
 “When an agile team self organises to meet business needs and deliver business value, it cannot just consider customer and user needs for its products. It must consider all of the needs of the organisation and all of the things the business values, and then self organise to meet all of those needs. The needs disclosed by bureaucratic rules are amongst those needs.”
@@ -36,3 +41,12 @@ My job: set the context for value
 Talk through the KPI standard?
 
 Public value: https://en.m.wikipedia.org/wiki/Public_value
+
+## Mission value
+
+Don't get lost in all of this.
+Remember that value of users is primary. Need to meet needs of everyone. Accessibility. Assistance.
+https://twitter.com/jockbu/status/912615246199758848?ref_src=twcamp%5Eshare%7Ctwsrc%5Em5%7Ctwgr%5Eemail%7Ctwcon%5E7046%7Ctwterm%5E3
+This is an important point. It's easy to get lost in government. Show how org value contexts are sometimes more complicated than those of our users. Run the risk that it takes more time and effort to meet the needs of the contexts of the government & the civil service than it does to meet the needs of our users.
+For this reason: Our business strategy - simplify our value contexts.
+
