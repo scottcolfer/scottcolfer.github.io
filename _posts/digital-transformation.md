@@ -1,3 +1,5 @@
+Return to the original - celebrate - then suggest improvement based on what we've learned
+
 'Digital transformation is the strategy' is a tactic. How you beging digital transformation. Exemplars. Section in Lean Enterprise.
 
 'Digital' means applying the culture, processes, business models, and technologies of the internet era to respond to people's raised expectations.
