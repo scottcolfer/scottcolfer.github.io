@@ -1,3 +1,5 @@
+The era of 'move fast and break things' ins't over. We still need that. But it can no longer be our exclusive focus. We need at least two sets of coniditions - explore, and exploit - we need to stop the all or nothing mentality that drives us to lurch from one to the other, and start using them both where and when they are most useful.
+
 Return to the original - celebrate - then suggest improvement based on what we've learned
 
 'Digital transformation is the strategy' is a tactic. How you beging digital transformation. Exemplars. Section in Lean Enterprise.
