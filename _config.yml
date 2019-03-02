@@ -2,6 +2,7 @@
 name: Scott Colfer
 description: Blog about product management, product leadership, digital transformation and coffee. Personal site for Scott Colfer.
 url: "https://scottcolfer.com/"
+google_analytics: UA-20458896-5
 
 # Build settings
 markdown: kramdown
