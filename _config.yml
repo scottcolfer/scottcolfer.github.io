@@ -13,6 +13,10 @@ twitter_username: scottcolfer
 github_username:  scottcolfer
 linkedin_username: scottcolfer
 
+#Commenting
+disqus:
+  shortname: scott-colfer
+
 #Header pages
 header_pages:
   - about.md
