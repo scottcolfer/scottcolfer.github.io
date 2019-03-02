@@ -7,3 +7,8 @@ google_analytics: UA-20458896-5
 # Build settings
 markdown: kramdown
 theme: minima
+
+# generate social links in footer
+minima:
+  social_links:
+    twitter: scottcolfer
