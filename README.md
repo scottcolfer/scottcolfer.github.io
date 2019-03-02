@@ -1,18 +1,15 @@
 # scottcolfer.com
-This is my personal website and blog, focussing on product management.
+
+Blog about product management, product leadership, digital transformation, and coffee.
+Personal site for Scott Colfer.
 
 ## Built with
 
-HTML, CSS, Markdown, GitHub Pages and Jekyll.
+- [GitHub Pages](https://pages.github.com/) - free hosting for the website
+- [Jekyll](https://jekyllrb.com/) - generates the site
+- [Minima theme](https://github.com/jekyll/minima) - used as the theme for the site
+- [Markdown](https://daringfireball.net/projects/markdown/) - text formatting syntax used when writing content
 
 ## Author
 
 [Scott Colfer](http://scottcolfer.com/)
-
-## Acknowledgements
-
-GitHub Pages is an excellent way to publish a personal website without the need for a hosting account, and Jekyll is an excellent way to publish a static blog from the text editor on your computor. I've written a post explaining why I'm [cheating on WordPress with GitHub Pages and Jekyll](http://scottcolfer.github.io/2016/04/09/personal-site-github-pages-jekyll.html).
-
-I created this site in early 2016 using Jonathan McGlone's [excellent tutorial](http://jmcglone.com/guides/github-pages/), however GitHub Pages has subsequetly become even easier to use.
-
-General Assembly's HTML and CSS weekend course and [online tutorials](https://dash.generalassemb.ly/) helped me to understand the basic principles of web development.
