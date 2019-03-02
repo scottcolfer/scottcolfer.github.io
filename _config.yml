@@ -12,3 +12,7 @@ theme: minima
 twitter_username: scottcolfer
 github_username:  scottcolfer
 linkedin_username: scottcolfer
+
+#Header pages
+header_pages:
+  - about.md
