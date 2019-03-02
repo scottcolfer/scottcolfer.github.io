@@ -11,4 +11,4 @@ theme: minima
 # generate social links in footer
 minima:
   social_links:
-    twitter: scottcolfer
+    github: scottcolfer
