@@ -1,2 +1,8 @@
-name: Scott Colfer - Product Manager
+# General Jekyll Config
+name: Scott Colfer
+description: Product Leadership Blog
+url: "https://scottcolfer.com/"
+
+# Build settings
 markdown: kramdown
+theme: minima
