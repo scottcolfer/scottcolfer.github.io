@@ -1,6 +1,9 @@
 Where's the value in digital transformation?
 
 Value is the most important aspect of agile - but completely undefined
+One reason might be that the Agile Manifesto talks about value being our highest priority . . . but forgets to define what value is or how to figure it out.
+Agile Manifesto for public services
+Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
 My job: set the context for value
 
@@ -11,6 +14,8 @@ Public value: https://en.m.wikipedia.org/wiki/Public_value
 ### Mission value
 
 Financial objective of non-profits: aim for liquidity - maximise the value of their available budget to accomplish their mission
+
+Justice is the basis of democracy. Everyone should be equal in the eyes of the law.
 
 ### Political value
 
