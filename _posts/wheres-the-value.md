@@ -5,7 +5,12 @@ One reason might be that the Agile Manifesto talks about value being our highest
 Agile Manifesto for public services
 Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
-My job: set the context for value
+A key principle of value is that it's context specific.
+My job: set the context for value.
+
+We're not commercial, so our context is not private value.
+What's our context? We run public services so our context is public value.
+What's public value? It's the combination of two things: mission value and political value.
 
 ## Public value
 
@@ -18,6 +23,8 @@ Financial objective of non-profits: aim for liquidity - maximise the value of th
 Justice is the basis of democracy. Everyone should be equal in the eyes of the law.
 
 ### Political value
+
+Relating to the government, the conduct of government, and the making of government policy. 
 
 HiPPOs are humans too https://www.mindtheproduct.com/2017/06/remember-hippos-humans/
 What everyone gets wrong about stakeholder https://melissaperri.com/blog/stakeholders Stakeholders have specific influence and knowledge that can help your product.
@@ -39,11 +46,16 @@ blame is quickly assigned within public services so government is highly risk av
 the above values are needs of government and may sometimes contradict the value of a specific public service
 ‘mission’ value (e.g. departmental goals)
 good ‘customer service’
-Civil Service Code: https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code 
+
 
 ### Mission value should outweigh political value
 
 At least 51% of value should be focussed on mission. Link to humane product management post.
+
+Civil Service Code: https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code 
+Ministerial Code: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/672633/2018-01-08_MINISTERIAL_CODE_JANUARY_2018__FINAL___3_.pdf
+
+- section 5 (Ministers and Civil Servants) page 12 "Ministers must uphold the political impartiality of the Civil  Service,  and  not  ask  civil  servants  to  act  in  any  way which  would  conflict  with  the Civil  Service  Code"
 
 Don't get lost in all of this.
 Remember that value of users is primary. Need to meet needs of everyone. Accessibility. Assistance.
