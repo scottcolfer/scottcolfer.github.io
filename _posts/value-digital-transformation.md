@@ -1,20 +1,27 @@
-Where's the value in digital transformation?
+---
+layout: post
+title: "Where's the value in digital transformation?"
+date: 2019-03-18
+---
 
-Value is the most important aspect of agile - but completely undefined
-One reason might be that the Agile Manifesto talks about value being our highest priority . . . but forgets to define what value is or how to figure it out.
-Agile Manifesto for public services
-Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+Value is the most critical aspects of working with agility. It's the focus of the first of the [principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html). If we were to tweak the Agile Manifesto for Software Development so that it works better as am [Agile Manifesto for Public Services](https://scottcolfer.com/2017/06/03/agile-manifesto-public-services.html) then the first principle would be that:
+> Our highest priority is to satisfy the public through the early and continuous delivery of valuable public services.
+This is great! 'Digital transformation' which is about helping organisations to work with agility, and focussing on value is one of the most important aspects of working with agility, so we just need to go ahead and do that!
 
-A key principle of value is that it's context specific.
-My job: set the context for value.
+Except that the Agile Manifesto gives us nothing to help figure out what value is. Subsequent frameworks like [Scrum](https://www.scrumguides.org/scrum-guide.html) also neglect to help us figure out what value is. Most guides seem to assume that 'value' is figured out somewhere else by 'the business' then presented to delivery teams in a fully-formed stated to be consumed and acted upon. In reality, it's often the case that 'the business' is waiting for delivery teams to present their defintion of value. And so we can end up in a space where we're all delivering 'stuff' early and often without an honest sense of whether it's truly valuable.
 
-We're not commercial, so our context is not private value.
-What's our context? We run public services so our context is public value.
-What's public value? It's the combination of two things: mission value and political value.
+Working with agility makes the promise of focussing on value but then witholds the means by which to define value. This is a trickey state of affairs for a product manager because our focus is on managing value: we are responsible for the outcomes of our products and services. It's the role of the product manager to define the value of their products and services - so that's what I'm going to try and do :)
+
+The main principle I need to remember is that **value is context specific**. Trying to define 'value' in the abstract is a fool's errand. I work on public services within the Civil Service as a 'digital' specialist, so this is my context.
 
 ## Public value
 
-Public value: https://en.m.wikipedia.org/wiki/Public_value
+Value in a commercial setting is quite commonly understood. When the context is 'private value', we're all familiar with measuring value through things like profits or return to shareholders. The Civil Service is not a commercial setting so profit or return to shareholders are pretty usefuless ways of measuring our value. Our goal is satisfy the public's needs through public services, so **our context is [public value](https://en.wikipedia.org/wiki/Public_value)**. 
+
+How do we measure public value? Public value is defined as two things in the context of public service delivery by the Civil  Service:
+
+- mission value: achieving the mission of your department as well as possible whilst hitting financial targets for liquidity
+- political value: maintaining the trust of the public in Government 
 
 ### Mission value
 
