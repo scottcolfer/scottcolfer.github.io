@@ -6,6 +6,7 @@ date: 2019-03-18
 
 Value is the most critical aspects of working with agility. It's the focus of the first of the [principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html). If we were to tweak the Agile Manifesto for Software Development so that it works better as am [Agile Manifesto for Public Services](https://scottcolfer.com/2017/06/03/agile-manifesto-public-services.html) then the first principle would be that:
 > Our highest priority is to satisfy the public through the early and continuous delivery of valuable public services.
+
 This is great! 'Digital transformation' which is about helping organisations to work with agility, and focussing on value is one of the most important aspects of working with agility, so we just need to go ahead and do that!
 
 Except that the Agile Manifesto gives us nothing to help figure out what value is. Subsequent frameworks like [Scrum](https://www.scrumguides.org/scrum-guide.html) also neglect to help us figure out what value is. Most guides seem to assume that 'value' is figured out somewhere else by 'the business' then presented to delivery teams in a fully-formed stated to be consumed and acted upon. In reality, it's often the case that 'the business' is waiting for delivery teams to present their defintion of value. And so we can end up in a space where we're all delivering 'stuff' early and often without an honest sense of whether it's truly valuable.
@@ -20,23 +21,25 @@ Value in a commercial setting is quite commonly understood. When the context is 
 
 How do we measure public value? Public value is defined as two things in the context of public service delivery by the Civil  Service:
 
-- mission value: achieving the mission of your department as well as possible whilst hitting financial targets for liquidity
-- political value: maintaining the trust of the public in Government 
+- **mission value**: achieving the mission of your department as well as possible whilst hitting financial targets for liquidity
+- **political value**: maintaining the trust of the public in Government 
 
 ### Mission value
 
-Financial objective of non-profits: aim for liquidity - maximise the value of their available budget to accomplish their mission
+Non-profits measure their value through the extent to which they achieve their mission whilst also meeting financial targets for liquidity. 
+In practice this means doing as much as possible towards their mission within their budget, and trying to increase their budget if they can see the need to do so.
 
-Justice is the basis of democracy. Everyone should be equal in the eyes of the law.
+Mission value usefully describes the main priority for everyone in the Civil Service: our main goal is to achieve our mission as well as possible whilst also meeting financial targets for liquidity. Every Department in Government has a different mission, and its important for each Department to specific how the success of their mission will be measured. What's our one metric that matters (this might change from reporting period to reporting period but it's important to have one at all times)? What are our other key performance indicators? What's the benchmark for these metrics at the beginning of the financial year? By how much do we need to improve them by the end of the financial year in order to justify the investment that the public has made in our mission? How do we know if we've succeeded or failed?
 
 ### Political value
 
-Relating to the government, the conduct of government, and the making of government policy. 
+Things aren't as simple as that because these public services are delivered through Government. I'm privileged to live in a [liberal democracy](https://en.wikipedia.org/wiki/Liberal_democracy) with a [parliamentary system](https://en.wikipedia.org/wiki/Parliamentary_system). We also have a [constitutional monarchy](https://en.wikipedia.org/wiki/Constitutional_monarchy). These social systems are the social bedrock of our society and critical for our country to continue to run as it does. This means that it's important to maintain the trust of the public in these social systems, something that we define as **political value**. 
+
+Political value may not be clearly expressed to us but is often disclosed by bureaucratic rules. 
+
 
 HiPPOs are humans too https://www.mindtheproduct.com/2017/06/remember-hippos-humans/
 What everyone gets wrong about stakeholder https://melissaperri.com/blog/stakeholders Stakeholders have specific influence and knowledge that can help your product.
-
-Political needs may not have been clearly expressed to us, and may be disclosed by our bureaucratic rules.
 
 “When an agile team self organises to meet business needs and deliver business value, it cannot just consider customer and user needs for its products. It must consider all of the needs of the organisation and all of the things the business values, and then self organise to meet all of those needs. The needs disclosed by bureaucratic rules are amongst those needs.”
 
@@ -44,20 +47,23 @@ Let’s look at those needs in government.
 
 “Bureaucracy delivers business value.”
 ‘the public’ (us) pays taxes which we invest in public services on their (our) behalf
-deliver public value rather than private value
+
+
 unique in that we have the authority to compel behaviour . . . but here we must consider, are we compelling behaviour because it makes the act of governing easier, or because it improves the value of public services . . . and we should consider the cost of non-compliance, and the magnitude of punishment for non-compliance when we compel behaviour (is there a cost to the public, e.g. fines or loss of freedom? is there a cost to government, e.g. cost of accommodating people in prison?) 
 often there is no competitor; ‘competitor’ is not to get help and do it yourself
 government value fairness (procurement, recruitment, etc)
 transparency (time, cost, etc) and public accountability . . . “You find that the government is always in the public eye - the press is always reporting on government actions, and the public is quick to outrage [. . .] [so] government places a high value on transparency. While companies can keep secrets, government is accountable to the public and must disclose its actions and decisions. There is a business need for continued demonstrations of trustworthiness, or we might as well say a business value assigned to demonstrating trustworthiness.”
 blame is quickly assigned within public services so government is highly risk averse, placing high business value on things that mitigate risk
-the above values are needs of government and may sometimes contradict the value of a specific public service
-‘mission’ value (e.g. departmental goals)
+
 good ‘customer service’
 
 
 ### Mission value should outweigh political value
 
 At least 51% of value should be focussed on mission. Link to humane product management post.
+
+the above values are needs of government and may sometimes contradict the value of a specific public service
+‘mission’ value (e.g. departmental goals)
 
 Civil Service Code: https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code 
 Ministerial Code: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/672633/2018-01-08_MINISTERIAL_CODE_JANUARY_2018__FINAL___3_.pdf
