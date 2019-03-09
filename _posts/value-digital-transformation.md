@@ -47,17 +47,21 @@ Political value may not be clearly expressed to us but is often disclosed by bur
 
 It can sometimes feel as though policitcal value can contradict mission value. How can we test if this is the case, particularly since political value may not be clearly expressed? The answer is not to get lost. The needs of the public remain paramount and the majority of public value should always come from mission value. We have things like the [Civil Service Code](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code) to help guide us, and remind us that we must have integrity, honesty, objectivity, and impartiality. Although it is true that civil servants are accountable to ministers, ministers have their own [code](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/672633/2018-01-08_MINISTERIAL_CODE_JANUARY_2018__FINAL___3_.pdf) which stresses that, "Ministers must uphold the political impartiality of the Civil  Service,  and  not  ask  civil  servants  to  act  in  any  way which  would  conflict  with  the Civil  Service  Code."
 
-The needs of the public should always be the main focus of our work. We should be able to objectively say that at least 51% of the value of our work is defined by how well we are meeting our mission for the public. We should also acknowledge that maintaining the trust of the public in our core social systems is valuable and a worthwhile endevour.
+The needs of the public should always be the main focus of our work. We should be able to objectively say that at least 51% of the value of our work is defined by how well we are meeting our mission for the public. We should also acknowledge that maintaining the trust of the public in our core social systems is valuable and a worthwhile endevour. We can always check-in with ourselves and ask the simple question: [are we doing good?](https://www.mindtheproduct.com/2019/01/lets-resolve-to-create-humane-products-in-2019/) 
 
 ## The public value chain
 
-So far so vague, right? Let's look at what that actually means in practice.
+OK, so we've set the context for ourselves: public value. But nothing seems very measurable yet. Not very [SMART](https://www.mindtools.com/pages/article/smart-goals.htm). Let's see if we can improve that.
+
+First a reminder: value is context specific. I work on public services within the Civil Service as a 'digital' specialist, so this is the perspective for which is want to define value. This requires me to locate the small bit of public services in which I play a part.
+
+Public services operate at [three levels](https://scottcolfer.com/2018/05/14/public-service.html):
 
 **Public service** |  
 --- |
-End-to-end service  |
-Features of services |
-Capabilities fo features |
+**End-to-end public service**: A service helps a user to do something that needs to be done, and completely meets that need. It also helps government achieve policy intent on behalf of its citizens with whom it has a social contract. Services are best identified as verbs (visit the UK), rather than nouns (biometric residence permit).  |
+**Features of services**: this is ofen where we (digital) work. Often the things we work on are just one step in a service, like 'applying for a visa' - a software feature of a larger, end-to-end service |
+**Capabilities of features**: these are the resources required to run the features of services. Examples include people, specialist tools, technology, and data. |
 
 **Public service** | **Value chain** 
 --- | --- 
