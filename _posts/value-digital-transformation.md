@@ -59,9 +59,9 @@ Public services operate at [three levels](https://scottcolfer.com/2018/05/14/pub
 
 **Public service** |  
 --- |
-**End-to-end public service**: A service helps a user to do something that needs to be done, and completely meets that need. It also helps government achieve policy intent on behalf of its citizens with whom it has a social contract. Services are best identified as verbs (visit the UK), rather than nouns (biometric residence permit).  |
-**Features of services**: this is ofen where we (digital) work. Often the things we work on are just one step in a service, like 'applying for a visa' - a software feature of a larger, end-to-end service |
-**Capabilities of features**: these are the resources required to run the features of services. Examples include people, specialist tools, technology, and data. |
+**1. End-to-end public service**: A service helps a user to do something that needs to be done, and completely meets that need. It also helps government achieve policy intent on behalf of its citizens with whom it has a social contract. Services are best identified as verbs (visit the UK), rather than nouns (biometric residence permit).  |
+**2. Features of services**: this is ofen where we (digital) work. Often the things we work on are just one step in a service, like 'applying for a visa' - a software feature of a larger, end-to-end service |
+**3. Capabilities of features**: these are the resources required to run the features of services. Examples include people, specialist tools, technology, and data. |
 
 **Public service** | **Value chain** 
 --- | --- 
