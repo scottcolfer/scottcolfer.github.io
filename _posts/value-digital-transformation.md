@@ -63,7 +63,9 @@ Public services operate at [three levels](https://scottcolfer.com/2018/05/14/pub
 **2. Features of services**: this is ofen where we (digital) work. Often the things we work on are just one step in a service, like 'applying for a visa' - a software feature of a larger, end-to-end service |
 **3. Capabilities of features**: these are the resources required to run the features of services. Examples include people, specialist tools, technology, and data. |
 
-Each level is critically dependent upon the others in order to provide an end-to-end public service. Jeff Gothelf post
+Each level is critically dependent upon the others in order to provide an end-to-end public service since all are required for the overall value of an end-to-end public service.
+
+Jeff Gothelf post
 
 **Public service** | **Value chain** 
 --- | --- 
@@ -71,6 +73,7 @@ End-to-end service  | Impact
 Features of services | Outcomes
 Capabilities for features | Outputs 
 
+Logic model to link together.
 
 ## Notes
 
