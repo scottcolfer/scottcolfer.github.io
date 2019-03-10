@@ -11,6 +11,8 @@ This is great! 'Digital transformation' which is about helping organisations to 
 
 Except that the Agile Manifesto gives us nothing to help figure out what value is. Subsequent frameworks like [Scrum](https://www.scrumguides.org/scrum-guide.html) also neglect to help us figure out what value is. Most guides seem to assume that 'value' is figured out somewhere else by 'the business' then presented to delivery teams in a fully-formed stated to be consumed and acted upon. In reality, it's often the case that 'the business' is waiting for delivery teams to present their defintion of value. And so we can end up in a space where we're all delivering 'stuff' early and often without an honest sense of whether it's truly valuable.
 
+
+
 Working with agility makes the promise of focussing on value but then witholds the means by which to define value. This is a trickey state of affairs for a product manager because our focus is on managing value: we are responsible for the outcomes of our products and services. It's the role of the product manager to define the value of their products and services - so that's what I'm going to try and do :)
 
 The main principle I need to remember is that **value is context specific**. Trying to define 'value' in the abstract is a fool's errand. I work on public services within the Civil Service as a 'digital' specialist, so this is my context.
@@ -63,15 +65,14 @@ Public services operate at [three levels](https://scottcolfer.com/2018/05/14/pub
 **2. Features of services**: this is ofen where we (digital) work. Often the things we work on are just one step in a service, like 'applying for a visa' - a software feature of a larger, end-to-end service |
 **3. Capabilities of features**: these are the resources required to run the features of services. Examples include people, specialist tools, technology, and data. |
 
-Each level is critically dependent upon the others in order to provide an end-to-end public service since all are required for the overall value of an end-to-end public service.
-
-Jeff Gothelf post
+Each level is critically dependent upon the others in order to provide an end-to-end public service since all are required for the overall value of an end-to-end public service. These three levels are the main links in the value chain for public services.
+> “Value” is the most ambiguous word in business. It means something different to every person that says it, primarily based on where they’re positioned in an organisation. ***[Defining value: the most ambiguous word in product development](https://medium.com/swlh/defining-value-the-most-ambiguous-word-in-product-development-3c36af377ecd)**, Jeff Gothelf*
 
 **Public service** | **Value chain** 
 --- | --- 
-End-to-end service  | Impact
-Features of services | Outcomes
-Capabilities for features | Outputs 
+End-to-end service e.g. 'visit the UK'  | **Impact** e.g. number of peope who visit the country legally increases
+Features of services | **Outcomes** e.g. time taken to successfully apply for a visa decreases
+Capabilities for features | **Outputs** e.g. visa application process is 'digitised'
 
 Logic model to link together.
 
