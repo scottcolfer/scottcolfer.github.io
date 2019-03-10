@@ -55,9 +55,12 @@ The needs of the public should always be the main focus of our work. We should b
 
 OK, so we've set the context for ourselves: public value. But nothing seems very measurable yet. Not very [SMART](https://www.mindtools.com/pages/article/smart-goals.htm). Let's see if we can improve that.
 
-First a reminder: value is context specific. I work on public services within the Civil Service as a 'digital' specialist, so this is the perspective for which is want to define value. This requires me to locate the small bit of public services in which I play a part.
+First a reminder: value is context specific:
+> “Value” is the most ambiguous word in business. It means something different to every person that says it, primarily based on where they’re positioned in an organisation. ***[Defining value: the most ambiguous word in product development](https://medium.com/swlh/defining-value-the-most-ambiguous-word-in-product-development-3c36af377ecd)**, Jeff Gothelf*
 
-Public services operate at [three levels](https://scottcolfer.com/2018/05/14/public-service.html):
+I work on public services within the Civil Service as a 'digital' specialist, so this is the perspective for which is want to define value. This requires me to locate the small bit of public services in which I play a part.
+
+It's possible to view public services as operating at [three levels](https://scottcolfer.com/2018/05/14/public-service.html):
 
 **Public service** |  
 --- |
@@ -66,15 +69,20 @@ Public services operate at [three levels](https://scottcolfer.com/2018/05/14/pub
 **3. Capabilities of features**: these are the resources required to run the features of services. Examples include people, specialist tools, technology, and data. |
 
 Each level is critically dependent upon the others in order to provide an end-to-end public service since all are required for the overall value of an end-to-end public service. These three levels are the main links in the value chain for public services.
-> “Value” is the most ambiguous word in business. It means something different to every person that says it, primarily based on where they’re positioned in an organisation. ***[Defining value: the most ambiguous word in product development](https://medium.com/swlh/defining-value-the-most-ambiguous-word-in-product-development-3c36af377ecd)**, Jeff Gothelf*
 
 **Public service** | **Value chain** 
 --- | --- 
-End-to-end service e.g. 'visit the UK'  | **Impact** e.g. number of peope who visit the country legally increases
-Features of services | **Outcomes** e.g. time taken to successfully apply for a visa decreases
-Capabilities for features | **Outputs** e.g. visa application process is 'digitised'
+**End-to-end service** e.g. 'visit the UK'  | **Impact** e.g. number of peope who visit the country legally increases
+**Features of services** e.g. 'apply for a visa to visit the UK' | **Outcomes** e.g. time taken to successfully apply for a visa decreases
+**Capabilities for features** e.g. 'digitisation' project team | **Outputs** e.g. visa application process is 'digitised'
 
-Logic model to link together.
+*It's possible for the links in a value chain to become invisble or even break all together. A [logic model](https://en.wikipedia.org/wiki/Logic_model) can help to restore a value chain when this happens. [Logic models](https://ctb.ku.edu/en/table-of-contents/overview/models-for-community-health-and-development/logic-model-development/main) are the most common type of logic model used in situations such as these but aren't without [criticism](https://www.nesta.org.uk/blog/whats-wrong-with-theories-of-change/), with system-mapping tools like [Wardley Mapping](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) increasingly used to map out value chains.*
+
+From my perspective working witin a 'digital' team in the Civil Service, I'm typically working on the software features of end-to-end services - looking at the above value chain, we can see that value in this context is defined by the outcomes of that software has for the users of the software: measurable changes in user behaviour that contribute towards our Department's overall mission (a.k.a. mission value).
+
+Lots of the political value - maintaining the trust of the public in government - is likely to be achieved through the operation of the capabilities required for features to function.
+
+Value = outcomes 
 
 ## Notes
 
