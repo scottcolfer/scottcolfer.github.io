@@ -117,7 +117,9 @@ Very broadly speaking, I think that the most common public-facing software in my
 
 In  fact, we could take this further and start measuring a single score worked out something like the following:
 
-**User Value Score = {Adoption*(Completion rate + User Satisfaction)}/Cost per application**
+```
+User Value Score = {Adoption*(Completion rate + User Satisfaction)}/Cost per application
+```
 
 This could work at multiple levels. E.g. For an individual online application form, adoption is the % of people who use the online option.
 At Department level, adoption is the total number of people who apply for services online (which will be inhibted until forms are digitised). At Government level, adoption is the number of people who apply for services online (which, once again, will be inhibted until forms are digitised).
