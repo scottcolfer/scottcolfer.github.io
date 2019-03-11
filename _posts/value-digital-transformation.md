@@ -117,17 +117,9 @@ Very broadly speaking, I think that the most common public-facing software in my
 
 In  fact, we could take this further and start measuring a single score worked out something like the following:
 
-User Value Score = {Adoption*(Completion rate + User Satisfaction)}/Cost per application
+**User Value Score = {Adoption*(Completion rate + User Satisfaction)}/Cost per application**
+
 This could work at multiple levels. E.g. For an individual online application form, adoption is the % of people who use the online option.
 At Department level, adoption is the total number of people who apply for services online (which will be inhibted until forms are digitised). At Government level, adoption is the number of people who apply for services online (which, once again, will be inhibted until forms are digitised).
 
-
-
-
-"The role of leadership and management in a CAS is to influence the evolutionary process so that the organisation delivers on its goals.  p.88
-
-
-
-
-
-
+OK, this is great! We now have a way of measuring the value of staff services, and it's possible to create a single score to measure the value of public-facing services! Well yes . . . but value takes time . . . and time is another thing that's been missing from digital transformation.
