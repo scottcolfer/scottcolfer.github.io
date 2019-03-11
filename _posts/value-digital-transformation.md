@@ -115,7 +115,9 @@ Very broadly speaking, I think that the most common public-facing software in my
 **Completion rate** | **User satisfaction** | **Cost per [application]** | **Adoption**
 --- | --- | --- | ---
 
+In  fact, we could take this further and start measuring a single score worked out something like the following:
 
+\frac{k!(n-k)!}{n!}
 
 ## Notes
 
