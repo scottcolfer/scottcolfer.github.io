@@ -78,11 +78,44 @@ Each level is critically dependent upon the others in order to provide an end-to
 
 *It's possible for the links in a value chain to become invisble or even break all together. A [logic model](https://en.wikipedia.org/wiki/Logic_model) can help to restore a value chain when this happens. [Theory of change](https://ctb.ku.edu/en/table-of-contents/overview/models-for-community-health-and-development/logic-model-development/main) are the most common type of logic model used in situations such as these but aren't without [criticism](https://www.nesta.org.uk/blog/whats-wrong-with-theories-of-change/), with system-mapping tools like [Wardley Mapping](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) increasingly used to map out value chains.*
 
-From my perspective working witin a 'digital' team in the Civil Service, I'm typically working on the software features of end-to-end services - looking at the above value chain, we can see that value in this context is defined by the outcomes of that software has for the users of the software: measurable changes in user behaviour that contribute towards our Department's overall mission (a.k.a. mission value).
+From my perspective working witin a 'digital' team in the Civil Service, I'm typically working on the software features of end-to-end services - looking at the above value chain, we can see that value in this context is defined by the outcomes of that software has for the users of the software: measurable changes in user behaviour that contribute towards the overall impact that our Department would like to have.
 
-Lots of the political value - maintaining the trust of the public in government - is likely to be achieved through the operation of the capabilities required for features to function.
+## The value of digital transformation is currently measured by the outcomes of software
 
-Value = outcomes 
+OK, we've taken a long journey and arrived at a conclusion. Value from my perspective is likely to mean the outcomes of the software features of end-to-end public services, measured through changes in user behaviour that contribute towards the overall impact that our Deparment would like to have. 
+
+### Value of staff software
+
+For my own organisation, the majority of our portfolio can be described as 'staff services': software for our colleagues to help them do their jobs. This is broadly described by the term '[business to business](https://en.wikipedia.org/wiki/Business-to-business)' software. 
+
+It's possible to say that busines to business software meet three main needs:
+
+**Doing daily admin** | **Making decisions** | **Complying with bureaucracy**
+--- | --- | --- 
+
+We can measure the extent to which these needs are being met through measures like:
+
+**Time taken** | **Capacity** | **Failure demand**
+--- | --- | --- 
+
+Test out the above with your most challenging staff services, where we're often told that it's difficult to measure value. 
+
+Let's take hosting or infrastructure. We often consider hosting or infrastructure platforms to be 'technical', and may even hire 'technical' product managers. In reality, hosting and infrastructure are capabilities, they are 'outputs'. They are actually platforms to help run and change software. The outcome of a good platform for developers is things like: certificate management (daily admin), testing software iterations before publishing (making decisions), and maintaining the security of data (complying with bureacracy). All of these can be measured through 'time taken' (which might be measured through number of steps required). All can be measured through failure demand (e.g.  incidents). And improving any or all of them can improve the capacity of an organisation to make changes within fixed resources. 
+
+As a starting point, the above needs and measures could help us to create a common language for defining the value of staff services in the Civil Service
+
+*The [video](https://www.mindtheproduct.com/2018/11/driving-growth-vs-building-core-value-by-roan-lavery/) of Roan Lavery's talk at Mind the Product 2018 is a great place to explore value in a B2B context in more depth.*
+
+### Value of public software
+
+My own organisation also has a significant amount of public-facing software. I find this harder to desribe in quite so simple terms as those used for staff services. So I need to go very general as a starting point.
+
+Very broadly speaking, I think that the most common public-facing software in my organisation and across the Civil Service is 'apply for a thing': a webform that allows a member of the public to apply for a public service. Talking about value is tricky here, as it's arguable that application forms to meet a true user need, since very few users ever say 'I really want to have to complete an application form before accessing a service that I believe I'm entitled to'. Government has a need to check that the publis is genuinely entitled to public services they wish to access and this is the main need being met. The user need is probably something like 'make the application process as simple as possible, with as little 'friction' as possible'. The Service Standard's [manadatory KPIs](https://www.gov.uk/service-manual/service-standard/identify-performance-indicators) provide a good way of measuring how well these needs are being met:
+
+**Completion rate** | **User satisfaction** | **Cost per [application]** | **Adoption**
+--- | --- | --- | ---
+
+
 
 ## Notes
 
