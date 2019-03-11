@@ -11,9 +11,9 @@ This is great! 'Digital transformation' which is about helping organisations to 
 
 Except that the Agile Manifesto gives us nothing to help figure out what value is. Subsequent frameworks like [Scrum](https://www.scrumguides.org/scrum-guide.html) also neglect to help us figure out what value is. Most guides seem to assume that 'value' is figured out somewhere else by 'the business' then presented to delivery teams in a fully-formed stated to be consumed and acted upon. In reality, it's often the case that 'the business' is waiting for delivery teams to present their defintion of value. And so we can end up in a space where we're all delivering 'stuff' early and often without an honest sense of whether it's truly valuable.
 
-
-
 Working with agility makes the promise of focussing on value but then witholds the means by which to define value. This is a trickey state of affairs for a product manager because our focus is on managing value: we are responsible for the outcomes of our products and services. It's the role of the product manager to define the value of their products and services - so that's what I'm going to try and do :)
+
+> "Leaders create the language of the organisation; they set up incentives and define value in a way that elicits the descired outcomes. They define what it *valued* in order to deliver on the organisation's mission." ***The Art of Business Value**,  Mark Schwartz* 
 
 The main principle I need to remember is that **value is context specific**. Trying to define 'value' in the abstract is a fool's errand. I work on public services within the Civil Service as a 'digital' specialist, so this is my context.
 
@@ -112,27 +112,22 @@ My own organisation also has a significant amount of public-facing software. I f
 
 Very broadly speaking, I think that the most common public-facing software in my organisation and across the Civil Service is 'apply for a thing': a webform that allows a member of the public to apply for a public service. Talking about value is tricky here, as it's arguable that application forms to meet a true user need, since very few users ever say 'I really want to have to complete an application form before accessing a service that I believe I'm entitled to'. Government has a need to check that the publis is genuinely entitled to public services they wish to access and this is the main need being met. The user need is probably something like 'make the application process as simple as possible, with as little 'friction' as possible'. The Service Standard's [manadatory KPIs](https://www.gov.uk/service-manual/service-standard/identify-performance-indicators) provide a good way of measuring how well these needs are being met:
 
-**Completion rate** | **User satisfaction** | **Cost per [application]** | **Adoption**
+**Completion rate** | **User satisfaction** | **Cost per transaction** | **Adoption**
 --- | --- | --- | ---
 
 In  fact, we could take this further and start measuring a single score worked out something like the following:
 
-\frac{k!(n-k)!}{n!}
-
-## Notes
-
-"The concept of the product owner's role makes all the more sense now that we have come to think of a business as a type of Complex Adaptive System (CAS). A CAS is a self-organising system with non-linearities and complex interactions, one in which leadership can influence, but not control, outcomes. An important function of leadership in a CAS is to provide context and incentives that nudge the system towards the desired outcomes. In John Henry Clippinger III's book 'The Biology of Business', a business organisation is presented as a Darwinian universe in which leaders and managers can set parameters that determine what ideas and behaviours are most likely to survive: 'Management cannot, and need not, have perfect information; the challenge of management is to create the conditions and contexts that select for a range of desired outcomes as in the processes of natural selection.'" p.??
-
-"The role of leadership and management in a CAS is to influence the evolutionary process so that the organisation delivers on its goals. Leaders create the language of the organisation; they set up incentives and define value in a way that elicits the descired outcomes. They define what it *valued* in order to deliver on the organisation's mission." p.88
-
-
-HiPPOs are humans too https://www.mindtheproduct.com/2017/06/remember-hippos-humans/
-What everyone gets wrong about stakeholder https://melissaperri.com/blog/stakeholders Stakeholders have specific influence and knowledge that can help your product.
+User Value Score = {Adoption*(Completion rate + User Satisfaction)}/Cost per application
+This could work at multiple levels. E.g. For an individual online application form, adoption is the % of people who use the online option.
+At Department level, adoption is the total number of people who apply for services online (which will be inhibted until forms are digitised). At Government level, adoption is the number of people who apply for services online (which, once again, will be inhibted until forms are digitised).
 
 
 
-unique in that we have the authority to compel behaviour . . . but here we must consider, are we compelling behaviour because it makes the act of governing easier, or because it improves the value of public services . . . and we should consider the cost of non-compliance, and the magnitude of punishment for non-compliance when we compel behaviour (is there a cost to the public, e.g. fines or loss of freedom? is there a cost to government, e.g. cost of accommodating people in prison?) 
-often there is no competitor; ‘competitor’ is not to get help and do it yourself
-government value fairness (procurement, recruitment, etc)
-transparency (time, cost, etc) and public accountability . . . 
+
+"The role of leadership and management in a CAS is to influence the evolutionary process so that the organisation delivers on its goals.  p.88
+
+
+
+
+
 
