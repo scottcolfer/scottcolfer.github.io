@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Where's the value in digital transformation?"
+title: "Where's the value in digital transformation? Part Two."
 date: 2019-03-18
 ---
 
