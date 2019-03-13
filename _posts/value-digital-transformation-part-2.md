@@ -4,7 +4,9 @@ title: "Where's the value in digital transformation?"
 date: 2019-03-18
 ---
 
-OK, so we've set the context for ourselves: public value. But nothing seems very measurable yet. Not very [SMART](https://www.mindtools.com/pages/article/smart-goals.htm). Let's see if we can improve that.
+We've defined 'public value' for public services as a whole. But that's too big to be practical for me, from my position in the 'digital' bit of the Civil Service. I need [SMART](https://en.wikipedia.org/wiki/SMART_criteria)-er value that fits my bit of the world.
+
+## Value part 2: Measuring the outcomes of software
 
 First a reminder: value is context specific:
 > “Value” is the most ambiguous word in business. It means something different to every person that says it, primarily based on where they’re positioned in an organisation. ***[Defining value: the most ambiguous word in product development](https://medium.com/swlh/defining-value-the-most-ambiguous-word-in-product-development-3c36af377ecd)**, Jeff Gothelf*
