@@ -4,7 +4,7 @@ title: "Digital transformation needs business models"
 date: 2019-03-17
 ---
 
-There's something missing from digital transformation. 
+**There's something missing from digital transformation.**
 
 The commonly used defition of 'digital' within UK government is:
 > "applying the culture, processes, business models, and technologies of the internet era to respond to people's raised expectations." *[Tom Loosemore](https://definitionofdigital.com/)* 
