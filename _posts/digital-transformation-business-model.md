@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Digital tranformation needs business models"
+date: 2019-03-17
+---
+
 There's something missing from digital transformation. 
 
 The commonly used defition of 'digital' within UK government is:
