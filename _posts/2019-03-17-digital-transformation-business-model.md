@@ -22,5 +22,3 @@ Digital transformation is often a way of describing attempts to get a large orga
 **Time**
 
 Value means different things during the lifetime of a product and this is critical for thinking about how we make investment decisions in software features of public services. Transforming business models requires us to figure out how we manage risk to outcomes through understanding characteristics of the software features of public services as they age. Our challenge is to understand that software products require different delivery conditions throughout their lifetime and to stop thinking that we can have one-size fits all organisational conditions. _Read about how value changes over time in an upcoming post._
-
-This is the first in a short series of posts with the goal of making a place for business models within our work to digitally transform public services in the UK.
