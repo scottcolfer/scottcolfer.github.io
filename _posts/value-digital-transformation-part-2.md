@@ -1,9 +1,3 @@
----
-layout: post
-title: "Where's the value in digital transformation? Part Two."
-date: 2019-03-18
----
-
 We've defined 'public value' for public services as a whole. But that's too big to be practical for me, from my position in the 'digital' bit of the Civil Service. I need [SMART](https://en.wikipedia.org/wiki/SMART_criteria)-er value that fits my bit of the world.
 
 ## Measuring the outcomes of software
