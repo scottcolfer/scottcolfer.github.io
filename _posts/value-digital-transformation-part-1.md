@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Where's the value in digital transformation? Part One."
+title: "Where's the value in being 'Agile'? Looking got value in public services."
 date: 2019-03-18
 ---
 
-The principles of Agile Manifesto say that value is the most important thing to focus on but then forgets to say how to figure out what's valuable. So we need to plug this gap and figure out what value means for us, then check that the stuff we're building through build-test-learn feedback loops.
+The principles of Agile Manifesto say that value is the most important thing to focus on but then forgets to say how to figure out what's valuable. So we need to plug this gap and figure out what value means for us, then check that the stuff we're building through build-test-learn feedback loops. We have an additional challenge when doing this in government because we're not foccussed on making a financial profit. Lots of people I speak to get stuck on this assumption that value can only be measured financially. How do can we think of value when we're not focussed on financial profit or return to shareholders?
 
-We have an additional challenge when doing this in government because we're not foccussed on making a financial profit.
+## Value is missing from digital transformation
 
 Value is the most critical aspects of working with agility. It's the focus of the first of the [principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html). If we were to tweak the Agile Manifesto for Software Development so that it works better as am [Agile Manifesto for Public Services](https://scottcolfer.com/2017/06/03/agile-manifesto-public-services.html) then the first principle would be that:
 > Our highest priority is to satisfy the public through the early and continuous delivery of valuable public services.
@@ -23,7 +23,9 @@ The main principle I need to remember is that **value is context specific**. Try
 
 ## Value part 1: Public value
 
-Value in a commercial setting is quite commonly understood. When the context is 'private value', we're all familiar with measuring value through things like profits or return to shareholders. The Civil Service is not a commercial setting so profit or return to shareholders are pretty usefuless ways of measuring our value. Our goal is satisfy the public's needs through public services, so **our context is [public value](https://en.wikipedia.org/wiki/Public_value)**. 
+Value in a commercial setting is quite commonly understood. When the context is 'private value', we're all familiar with measuring value through things like profits or return to shareholders. Lots of guidance on thinking about value is focussed on commercial settings which can lead us to assume that it's not relevant for public services. But with a few tweaks, we can apply most of it to our context. Understanding the differences between value in a commercial setting and value in public services helps us to understand the tweaks needed to unlock existing guidance measuring value. 
+
+The Civil Service is not a commercial setting so profit or return to shareholders are pretty usefuless ways of measuring our value. Our goal is satisfy the public's needs through public services, so **our context is [public value](https://en.wikipedia.org/wiki/Public_value)**. 
 
 How do we measure public value? Public value is defined as two things in the context of public service delivery by the Civil  Service:
 
@@ -54,8 +56,4 @@ Political value may not be clearly expressed to us but is often disclosed by bur
 It can sometimes feel as though policitcal value can contradict mission value. How can we test if this is the case, particularly since political value may not be clearly expressed? The answer is not to get lost. The needs of the public remain paramount and the majority of public value should always come from mission value. We have things like the [Civil Service Code](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code) to help guide us, and remind us that we must have integrity, honesty, objectivity, and impartiality. Although it is true that civil servants are accountable to ministers, ministers have their own [code](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/672633/2018-01-08_MINISTERIAL_CODE_JANUARY_2018__FINAL___3_.pdf) which stresses that, "Ministers must uphold the political impartiality of the Civil  Service,  and  not  ask  civil  servants  to  act  in  any  way which  would  conflict  with  the Civil  Service  Code."
 
 The needs of the public should always be the main focus of our work. We should be able to objectively say that at least 51% of the value of our work is defined by how well we are meeting our mission for the public. We should also acknowledge that maintaining the trust of the public in our core social systems is valuable and a worthwhile endevour. We can always check-in with ourselves and ask the simple question: [are we doing good?](https://www.mindtheproduct.com/2019/01/lets-resolve-to-create-humane-products-in-2019/) 
-
-
-
-OK, so we've set the context for ourselves: public value. But nothing seems very measurable yet. Not very [SMART](https://www.mindtools.com/pages/article/smart-goals.htm). Let's see if we can improve that.
 
