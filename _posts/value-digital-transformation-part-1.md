@@ -1,9 +1,3 @@
----
-layout: post
-title: "Where's the value in being 'Agile'? Looking got value in public services."
-date: 2019-03-18
----
-
 The principles of Agile Manifesto say that value is the most important thing to focus on but then forgets to say how to figure out what's valuable. So we need to plug this gap and figure out what value means for us, then check that the stuff we're building through build-test-learn feedback loops. We have an additional challenge when doing this in government because we're not foccussed on making a financial profit. Lots of people I speak to get stuck on this assumption that value can only be measured financially. How do can we think of value when we're not focussed on financial profit or return to shareholders?
 
 ## Value is missing from digital transformation
