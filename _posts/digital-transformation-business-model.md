@@ -8,7 +8,7 @@ However, it could be argued that we're focussed on the transformation of technol
 
 **Value**
 
-Digital transformation is often a way of describing attempts to get a large organisation to work with agility. The Agile Manifesto for Software first principle is that increasing value is our highest priority, but then forgets to tell us how to figure out what's valuable. Subsequent frameworks based on the Agile Manifesto also assume that 'value' is figured out somewhere else and focus instead on telling us how to have ever more efficient duild-test-learn feedback loops of 'stuff'. Transforming business models requires us to figure out how we know if our work in the digital teams of the Civil Service is valuable. 
+Digital transformation is often a way of describing attempts to get a large organisation to work with agility. The Agile Manifesto for Software first principle is that increasing value is our highest priority, but then forgets to tell us how to figure out what's valuable. Subsequent frameworks based on the Agile Manifesto also assume that 'value' is figured out somewhere else and focus instead on telling us how to deliver 'stuff' through ever more efficient duild-test-learn feedback loops. Transforming business models requires us to figure out how we know if our work in the digital teams of the Civil Service is valuable. 
 
 - Our first challenge is to figure out what 'value' means in public services, where our focus isn't generating profit or generating a return for shareholders; read about 'public value' here
 - Our second challenge is to figure out how to measure 'public' value when working on ths software features of public services; read about that here.
