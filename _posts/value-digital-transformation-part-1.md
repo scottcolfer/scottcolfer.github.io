@@ -4,6 +4,10 @@ title: "Where's the value in digital transformation? Part One."
 date: 2019-03-18
 ---
 
+The principles of Agile Manifesto say that value is the most important thing to focus on but then forgets to say how to figure out what's valuable. So we need to plug this gap and figure out what value means for us, then check that the stuff we're building through build-test-learn feedback loops.
+
+We have an additional challenge when doing this in government because we're not foccussed on making a financial profit.
+
 Value is the most critical aspects of working with agility. It's the focus of the first of the [principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html). If we were to tweak the Agile Manifesto for Software Development so that it works better as am [Agile Manifesto for Public Services](https://scottcolfer.com/2017/06/03/agile-manifesto-public-services.html) then the first principle would be that:
 > Our highest priority is to satisfy the public through the early and continuous delivery of valuable public services.
 
