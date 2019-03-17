@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital tranformation needs business models"
+title: "Digital transformation needs business models"
 date: 2019-03-17
 ---
 
