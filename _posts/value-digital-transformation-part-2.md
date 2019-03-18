@@ -1,4 +1,8 @@
-We've defined 'public value' for public services as a whole. But that's too big to be practical for me, from my position in the 'digital' bit of the Civil Service. I need [SMART](https://en.wikipedia.org/wiki/SMART_criteria)-er value that fits my bit of the world.
+_This is the second in a short series of posts about digital transformation's need for business models, you can read the introductory post [here](https://scottcolfer.com/2019/03/17/digital-transformation-business-model.html)._
+
+We've established that [it's possible to measure value when we're focussed on helping people over profit](https://scottcolfer.com/2019/03/19/value-without-profit.html), we just need to focus on **public value** over private value.
+
+But **public value** is too big to be practical for me, from my position in the 'digital' bit of the Civil Service. I need [SMART](https://en.wikipedia.org/wiki/SMART_criteria)-er value that fits my bit of the world.
 
 ## Measuring the outcomes of software
 
@@ -73,4 +77,4 @@ User Value Score = {Adoption*(Completion rate + User Satisfaction)}/Cost per app
 This could work at multiple levels. E.g. For an individual online application form, adoption is the % of people who use the online option.
 At Department level, adoption is the total number of people who apply for services online (which will be inhibted until forms are digitised). At Government level, adoption is the number of people who apply for services online (which, once again, will be inhibted until forms are digitised).
 
-OK, this is great! We now have a way of measuring the value of staff services, and it's possible to create a single score to measure the value of public-facing services! Well yes . . . but value takes time . . . and time is another thing that's been missing from digital transformation.
+OK, this is great! We now have a way of measuring the value of staff services, and it's possible to create a single score to measure the value of public-facing services! Well yes . . . but value changes over time . . . and time is another thing that's been missing from digital transformation.
