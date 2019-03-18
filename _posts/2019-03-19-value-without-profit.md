@@ -19,7 +19,7 @@ Value is the most critical aspect of working with agility. It's the focus of the
 
 Working with agility makes the promise of focussing on value but then witholds the means by which to define value. This is a tricky state of affairs for a product manager because [our focus is on managing value](https://scottcolfer.com/2019/01/02/what-is-product-management.html). We are responsible for the outcomes of our products and services. It's the role of the product manager to define the value of their products and services - so that's what I'm going to try and do :)
 
-> "Leaders create the language of the organisation; they set up incentives and define value in a way that elicits the descired outcomes. They define what it *valued* in order to deliver on the organisation's mission." ***The Art of Business Value**,  Mark Schwartz* 
+> "Leaders create the language of the organisation; they set up incentives and define value in a way that elicits the descired outcomes. They define what is *valued* in order to deliver on the organisation's mission." ***The Art of Business Value**,  Mark Schwartz* 
 
 The main principle I need to remember is that **value is context specific**. Trying to define 'value' in the abstract is a fool's errand. I work on public services within the Civil Service as a 'digital' specialist, so this is my context.
 
