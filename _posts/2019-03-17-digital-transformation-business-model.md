@@ -11,6 +11,7 @@ The commonly used defition of 'digital' within UK government is:
 
 It follows that 'digital transformation' of public services requires the transformation of culture, processes, business models, and technologies. 
 However, it could be argued that we're focussed on the transformation of technology. [Spend controls](https://www.gov.uk/service-manual/agile-delivery/spend-controls-check-if-you-need-approval-to-spend-money-on-a-service) and [service standard](https://www.gov.uk/service-manual/service-standard) have had a huge impact on culture and processes of government (albeit mainly within the digital/technology 'bits' of government). What strikes me is that transformation of [business models](https://en.wikipedia.org/wiki/Business_model) remains conspicuously absent from digital transformation to date. I have an assumption that transforming business models would help us to bring together pieces of digital transformation to date, creating a whole that is more than the some of its parts. Specifically, I think that business models will provide focus on two important perspectives: (i) value; (ii) time.
+_You can find my take on what a business model means in practice [here](https://scottcolfer.com/2013/09/20/business-model-canvas.html)._
 
 **Value**
 
