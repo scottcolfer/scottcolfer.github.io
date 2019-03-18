@@ -19,7 +19,7 @@ Working with agility makes the promise of focussing on value but then witholds t
 
 The main principle I need to remember is that **value is context specific**. Trying to define 'value' in the abstract is a fool's errand. I work on public services within the Civil Service as a 'digital' specialist, so this is my context.
 
-## Value part 1: Public value
+## Public value
 
 Value in a commercial setting is quite commonly understood. When the context is 'private value', we're all familiar with measuring value through things like profits or return to shareholders. Lots of guidance on thinking about value is focussed on commercial settings which can lead us to assume that it's not relevant for public services. But with a few tweaks, we can apply most of it to our context. Understanding the differences between value in a commercial setting and value in public services helps us to understand the tweaks needed to unlock existing guidance measuring value. 
 
