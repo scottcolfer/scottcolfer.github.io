@@ -1,6 +1,10 @@
-_This is the second in a short series of posts about digital transformation's need for business models, you can read the introductory post [here](https://scottcolfer.com/2019/03/17/digital-transformation-business-model.html)._ 
+---
+layout: post
+title: "How do we measure value without profit?"
+date: 2019-03-19
+---
 
-Title: How do we measure value without profit?
+_This is the second in a short series of posts about digital transformation's need for business models, you can read the introductory post [here](https://scottcolfer.com/2019/03/17/digital-transformation-business-model.html)._ 
 
 The principles of Agile Manifesto say that value is the most important thing to focus on but then forgets to explain or define value. We need to plug this gap and figure out what value means for us, then check that the stuff we're building through build-test-learn feedback loops. We have an additional challenge when doing this within the Civil Service because we're not foccussed on making a financial profit. People I speak to get stuck on this assumption that value can only be measured financially. How do can we think of value when we're not focussed on financial profit or return to shareholders?
 
