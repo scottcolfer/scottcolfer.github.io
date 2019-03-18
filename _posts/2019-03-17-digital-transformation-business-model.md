@@ -20,7 +20,7 @@ Digital transformation is often a way of describing attempts to get a large orga
 
 Transforming business models requires us to figure out if our 'stuff' is actually valuable: 
 
-- Our first challenge is to figure out what 'value' means in public services, where our focus isn't generating profit or generating a return for shareholders; _read about 'public value' in an upcoming post_
+- Our first challenge is to figure out what 'value' means in public services, where our focus isn't generating profit or generating a return for shareholders; _read about [how to measure value without profit](https://scottcolfer.com/2019/03/19/value-without-profit.html)_
 - Our second challenge is to figure out how to measure 'public value' when working on ths software features of public services; _read about this in an upcoming post_
 
 **Time**
