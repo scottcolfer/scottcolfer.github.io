@@ -52,13 +52,15 @@ For my own organisation, the majority of our portfolio can be described as 'staf
 
 It's possible to say that busines to business software meet three main needs:
 
-**Doing daily admin** | **Making decisions** | **Complying with bureaucracy**
---- | --- | --- 
+1. Doing daily admin
+2. Making better decisions
+3. Complying with bureaucracy
 
 We can measure the extent to which these needs are being met through measures like:
 
-**Time taken** | **Capacity** | **Failure demand**
---- | --- | --- 
+- Time taken
+- Capacity
+- Failure demand
 
 As a starting point, the above needs and measures could help us to create a common language for defining the value of staff software in the Civil Service.
 
@@ -89,5 +91,6 @@ User Value Score = {Adoption*(Completion rate + User Satisfaction)}/Cost per app
 
 This could work at multiple levels. E.g. For an individual online application form, adoption is the % of people who use the online option.
 At Department level, adoption is the total number of people who apply for services online (which will be inhibted until forms are digitised). At Government level, adoption is the number of people who apply for services online (which, once again, will be inhibted until forms are digitised).
+
 
 OK, this is great! We now have a way of measuring the value of staff services, and it's possible to create a single score to measure the value of public-facing services! Well yes . . . but value changes over time . . . and time is another thing that's been missing from digital transformation.
