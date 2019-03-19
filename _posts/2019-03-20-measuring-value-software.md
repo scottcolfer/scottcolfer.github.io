@@ -1,3 +1,9 @@
+---
+layout: post
+title: "How do we measure the value of software?"
+date: 2019-03-20
+---
+
 _This is the third in a short series of posts about digital transformation's need for business models, you can read the introductory post [here](https://scottcolfer.com/2019/03/17/digital-transformation-business-model.html)._
 
 We've established that [it's possible to measure value when we're focussed on helping people over profit](https://scottcolfer.com/2019/03/19/value-without-profit.html), we just need to focus on **public value** over private value.
