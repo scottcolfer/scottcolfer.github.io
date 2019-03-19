@@ -25,7 +25,9 @@ The main principle I need to remember is that **value is context specific**. Try
 
 ## Public value
 
-Value in a commercial setting is commonly understood. When the context is 'commercial', we're all familiar with measuring value through things like profits or return to shareholders. Lots of guidance on thinking about value is focussed on commercial settings which can lead us to assume that it's not relevant for public services. But with a few tweaks, we can apply most of it to our context. Understanding the differences between value in a commercial setting and value in public services helps us to understand the tweaks needed to unlock existing guidance measuring value. We can think of this as 'private value'.
+Value in a commercial setting is commonly understood. When the context is 'commercial', we're all familiar with measuring value through things like profits or return to shareholders. We can think of this as 'private value'.
+
+Lots of guidance on thinking about value is focussed on private value. This can lead us to assume that value is not relevant for public services. But with a few tweaks, we can apply most of it to our context. Understanding the differences between private value in a commercial setting and value in public service helps us to understand the tweaks needed to unlock existing guidance measuring value. 
 
 The Civil Service is not a commercial setting so profit or return to shareholders are pretty usefuless ways of measuring our value. Our goal is satisfy the public's needs through public services, so **our context is [public value](https://en.wikipedia.org/wiki/Public_value)**. 
 
@@ -59,3 +61,6 @@ Sometimes it can feel as though policitcal value contradicts mission value. How 
 
 The needs of the public should always be the main focus of our work. We should be able to objectively say that at least 51% of the value of our work is defined by how well we are meeting our mission for the public. We should also acknowledge that maintaining the trust of the public in our core social systems is valuable and a worthwhile endevour. We can always check-in with ourselves and ask the simple question: [are we doing good?](https://www.mindtheproduct.com/2019/01/lets-resolve-to-create-humane-products-in-2019/) 
 
+## We can measure the value of doing good
+
+We've established that we can measure the value of public service, and that we can call this **public value**. We've acknowledged that lots of guidance on figuring out value is focussed on private value and geared towards commercial settings. But now we know that if we tweak this guidance, contextualising it for public value, we can make use of it in the Civil Service. We'll use these principles in the next couple of posts which are about how to measure the value of the software features of public services, and how value changes over time (to be published soon).
