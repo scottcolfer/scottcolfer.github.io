@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How do we measure the value of software?"
+title: "How do we measure the value of software features of public services?"
 date: 2019-03-20
 ---
 
