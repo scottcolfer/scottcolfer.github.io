@@ -94,6 +94,6 @@ At Department level, adoption is the total number of people who apply for servic
 
 ## We can measure the value of software for the public, and for staff
 
-So we're checked-in with ourselves and found that the Service Standards' mandatory KPIs remain a good way to measure the value of transactional public software, and found a way to measure the value of staff software. We've recognised that the outcomes of software needs to be tied in to the overall impact our end-to-end services are supposed to have, which is likely to support the overall mission of our Department. Although the impact and missions of our Departments may vary a lot, it's possible that we can think about the outcomes of our software in a common and consistent way.  So we're sorted?
+So we've checked-in with ourselves and found that the Service Standards' mandatory KPIs remain a good way to measure the value of transactional public software, and found a way to measure the value of staff software. We've recognised that the outcomes of software needs to be tied in to the overall impact our end-to-end services are supposed to have, which is likely to support the overall mission of our Department. Although the impact and missions of our Departments may vary a lot, it's possible that we can think about the outcomes of our software in a common and consistent way.  So we're sorted?
 
 Not quite. Finally, we'll talk about how value changes over time in the next post in this series (coming soon).
