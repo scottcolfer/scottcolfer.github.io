@@ -80,14 +80,14 @@ Very broadly speaking, I think that the most common public-facing software in my
 
 Talking about value is tricky here, as it's arguable that application forms to meet a true user need, since very few users ever say 'I really want to have to complete an application form before accessing a service that I believe I'm entitled to'. Government has a need to check that the publis is genuinely entitled to public services they wish to access and this is the main need being met. The user need is probably something like 'make the application process as simple as possible, with as little 'friction' as possible'. The Service Standard's [manadatory KPIs](https://www.gov.uk/service-manual/service-standard/identify-performance-indicators) provide a good way of measuring how well these needs are being met:
 
-**Completion rate** | **User satisfaction** | **Cost per transaction** | **Adoption**
---- | --- | --- | ---
+- Completion rate
+- User satisfaction
+- Cost per transaction
+- Adoption
 
 In  fact, we could take this further and start measuring a single score worked out something like the following:
 
-```
 User Value Score = {Adoption*(Completion rate + User Satisfaction)}/Cost per application
-```
 
 This could work at multiple levels. E.g. For an individual online application form, adoption is the % of people who use the online option.
 At Department level, adoption is the total number of people who apply for services online (which will be inhibted until forms are digitised). At Government level, adoption is the number of people who apply for services online (which, once again, will be inhibted until forms are digitised).
