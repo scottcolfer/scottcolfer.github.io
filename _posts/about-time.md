@@ -17,12 +17,12 @@ Return to summary of two conditions: Take an idea and kill it or get it to produ
 
 --- | **Explore** | **Exploit** 
  --- | --- | ---
-Strategy | Radical or disruptive innovation, new business model innovation | Incremental innovation, optimising existing business model 
-Structure | Small cross-functional multiskilled team | Multiple teams aligned using principle of mission 
-Culture | High tolerance for experimentation, risk taking, acceptance of failure, focus on learning  | Incremental improvement optimisation, focus on quality and customer satisfaction
-Risk management | Biggest risk is failure to hit product/market fit | A more complex set of trade-offs specific to each product/service
-Goals | Creating new opportunities, discovering new opportunities within existing portfolio | Maximising yield from existing opportunities
-Measure of progress | Achieving product/market fit | Outperforming forecasts, achieving planned milestones and targets
+**Strategy** | Radical or disruptive innovation, new business model innovation | Incremental innovation, optimising existing business model 
+**Structure** | Small cross-functional multiskilled team | Multiple teams aligned using principle of mission 
+**Culture** | High tolerance for experimentation, risk taking, acceptance of failure, focus on learning  | Incremental improvement optimisation, focus on quality and customer satisfaction
+**Risk management** | Biggest risk is failure to hit product/market fit | A more complex set of trade-offs specific to each product/service
+**Goals** | Creating new opportunities, discovering new opportunities within existing portfolio | Maximising yield from existing opportunities
+**Measure of progress** | Achieving product/market fit | Outperforming forecasts, achieving planned milestones and targets
 
 'Exploit' is the default of the Civil Service: a risk averse approach to incrementally improving existing opportunities. This approach does not work well for developing new opportunities. 
 The Government Digital Service introduced the conditions for 'exploration' - this is what the [service manual](https://www.gov.uk/service-manual) and [phases of an agile project](https://www.gov.uk/service-manual/agile-delivery) provide: a means of developing new opportunities. But this approach does not work well for '[live](https://www.gov.uk/service-manual/agile-delivery/how-the-live-phase-works)' opportunities.
