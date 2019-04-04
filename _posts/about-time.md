@@ -43,7 +43,9 @@ Notice that I use the word investment. We should revist our use of the word 'bud
 
 We can use the concept of having different conditions based on 'time' and use it to inform investments at a portfolio level. 
 
-[include images]
+![three horizons summary](/assets/horizons-summary.jpg)
+
+![three horizons roi](/assets/horizons-roi.jpg)
 
 'Digital' is often pitched as cost-saving, and this is probably true in the long-term in the long term (36-72 months). But when 'digital' is the answer for in-year cost-savings, and digital is being used to develop new stuff that's starting in horizon one then we're unlikely to see return on investment as measured by cost-savings in the desired time frame.
 
