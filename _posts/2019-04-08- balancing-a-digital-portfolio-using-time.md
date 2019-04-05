@@ -1,6 +1,12 @@
+---
+layout: post
+title: "Who's got time for digital transformation?"
+date: 2019-04-08
+---
+
 Who's got time for digital transformation?
 
-
+_This is the fourth in a short series of posts about digital transformation’s need for business models, you can read the introductory post [here](https://scottcolfer.com/2019/03/17/digital-transformation-business-model.html)._
 
 Business models change over time, and our business strategy needs to change over time too. "Agile approaches added a time dimension where previously there was none [...] The Waterfall model was based on taking a point-in-time snapshot of the information we know and using it to create a long-term plan that we would adhere to. The Agile insight was that we should change our notion of what features will create business value over time as more information becomes available [...] Agile approaches added a time dimension where previously there was none." ***The Art of Business Value**, Mark Schwartz*
 'Delivery is the strategy' was the rallying call of digital transformation in government for the longest time but we're now being told that 'the era of move fast and break things is over'. What's the truth?
