@@ -41,19 +41,44 @@ Notice that I use the word investment. We should revist our use of the word 'bud
 
 ## Three horizons
 
-We can use the concept of having different conditions based on 'time' and use it to inform investments at a portfolio level. 
+We can use the concept of having different conditions based on 'time' and use it to inform investments at a portfolio level. If we only invest in the shiny and new then we never reach the point of return on investment. If we only work on our existing stuff then we reach a point of intertia.  We need to optimise the value of our current opportunities whilst still developing new opportunities. McKinsey's [three horizons of growth](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/enduring-ideas-the-three-horizons-of-growth) is an ednuring model gives us a way of thinking about this. In the below model, the 'exploit' phase is expressed as 'horizon 1'. Horizon 1 represents the core business of our organisation, well-established and successful opportunities that generate our investment. The 'explore' phase is broken into two horizons, 'horizon 2' and 'horizon 3'. Horizon 2 represents emerging opportunities that are likely to be successful but which require significant investment. Horizon three represents ideas that might become opportunities down the road but are currently in the research phase.
 
 ![three horizons summary](/assets/horizons-summary.jpg)
 
+These horizons can be used to help manage risk and increase the likelihood of return on investment/benefits realisation. The diagram below suggests a common use of this model to help balance a portfolio:
+
+- Horizon 1 (established opportunities) contains our best investment opportunities. Research has been carried out, large investment has been made, and we're already seeing return on investment/benefits realistion. Investing in this space is likely to see return on investment within 0-12 months (so potentially within the same financial year as the investment is made)
+- Horizon 2 (emergent opportunities) contains future opportunities but that require significant levels of investment. Investing in this space remains pretty high-risk but is crucial if we're to continue to grow as an organisation. Investing in this space is likely to see return on investment within 12-36 months.
+- Horizons 3 (ideas in the reseach phase) contains our riskiest investments, and our best chances to be transformational. Investing in this space is likely to see return on investment within 36-72 months.
+
 ![three horizons roi](/assets/horizons-roi.jpg)
+
+We need all three horizons in our portfolio in order to optimise the value of our current opportunities whilst still developing new opportunities but we should not invest equally in each horizon. The below diagram shows a common spread of investment across the horizons in order to maximise return on ivestment whilst investing in the future:
+
+- Horizon 1 (exploit): 70% of available resources
+- Horizons 2 (emergent opportunities): 20% of available resources
+- Horizon 3 (research): 10% of available resources
+
+![three horizons spread](/assets/horizons-spread.jpg)
+
+## Balancing a 'digital' portfolio
+
+Remember we said that the [phases of an agile project](https://www.gov.uk/service-manual/agile-delivery) effectively gave the Civil Service a way of exploring new opportunities? We can use this realisation to think of the phases of an agile project as relating to to horizons 2 and 3. 
+
+We can think of [discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works) and [alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works) (and anything that proceeds them) as research into ideas that mmight emerge as opportunities. This is horizon 3. We should probably invest around 10% of our available resources in discovery, alpha, and anything that proceeds these phases.
+
+We can think of [beta](https://www.gov.uk/service-manual/agile-delivery/how-the-beta-phase-works) and the beginning of [live](https://www.gov.uk/service-manual/agile-delivery/how-the-live-phase-works) as emergent opportunities. This is horizon 2. We should probably invest around 20% of available resources in beta, and early live phases.
+
+Remember product/market fit? Well that's the point at which an opportunity tips from exploration into exploitation. Which is the same as tipping from horizon 2 to horizon 1, according to our thinking in this post. We have a slightly odd situation where there is no [service assessment](https://www.gov.uk/service-manual/service-assessments/how-service-assessments-work) to check if we ever hit product/market fit, or 'benefits realisation'. The final assessment takes place at the end of public beta. It's called a 'live' assessment but only because it gives permission to become 'live', not because it's actually assessing that we've hit product/market fit. If we were to have a 'product/market fit' assessment, then passing it would more us into the exploitation phase, or horizon 1. This is where our lowest-risk, quickest return on investment is likely to sit. We should probably invest around 70% of our resources in this space.
 
 'Digital' is often pitched as cost-saving, and this is probably true in the long-term in the long term (36-72 months). But when 'digital' is the answer for in-year cost-savings, and digital is being used to develop new stuff that's starting in horizon one then we're unlikely to see return on investment as measured by cost-savings in the desired time frame.
 
-split up horizons - explain how service standard phases map - say no product/market fit test
+## Prioritising activity within the 'exploitation phase' or 'horizon 1'
+
+Let's say that we're investing 70% of our resources in our core business, in our strongest existing opportunities. How do we balance the need for new features against the need to pay-down technical debt, for 
 
 Lifetime value
 Prioritisation quadrant
-3-horizons/ROI
 changing needs (user/organisation)
 changing tech/data/capability
 Capital versus operational spend (Dave's post)
