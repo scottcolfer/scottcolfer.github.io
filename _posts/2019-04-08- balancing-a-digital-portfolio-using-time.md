@@ -63,7 +63,7 @@ We need all three horizons in our portfolio in order to optimise the value of ou
 - Horizons 2 (emergent opportunities): 20% of available resources
 - Horizon 3 (research): 10% of available resources
 
-![three horizons spread](/assets/horizons-spread.jpg)
+![three horizons spread](/assets/horizons-spread.png)
 
 ## Balancing a 'digital' portfolio
 
