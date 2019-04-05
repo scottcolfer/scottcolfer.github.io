@@ -75,13 +75,21 @@ Remember product/market fit? Well that's the point at which an opportunity tips 
 
 ## Prioritising activity within the 'exploitation phase' or 'horizon 1'
 
-Let's say that we're investing 70% of our resources in our core business, in our strongest existing opportunities. How do we balance the need for new features against the need to pay-down technical debt, for 
+Let's say that we're investing 70% of our resources in our core business, in our strongest existing opportunities. How do we balance the need for new features against the need to pay-down technical debt, for example? We steal an old product management tool and apply it at a large scale. Let's take Barry Overeem's [prioritsation quadrant](http://www.barryovereem.com/the-backlog-prioritisation-backlog/). 
 
-Lifetime value
-Prioritisation quadrant
-changing needs (user/organisation)
-changing tech/data/capability
-Capital versus operational spend (Dave's post)
-Portfolio
+![prioritisation quadrant](/assets/prioritisation-quadrant.jpg)
 
-This is also known as 'business strategy' - it's what delivery teams are looking for from their leadership teams - it's what our digital strategies should be full of
+Our portfolio requires four activities to happen concurrently if our software is to remain evergreen and not become what's commonly known as 'legacy system':
+
+- new features (responding to new insights or changing user needs)
+- improved support (software is only valuable if it's used; our support model makes sure it's used)
+- technical debt (maybe we originally hosted on privately and now we need to migrate to public cloud)
+- technical innovation (the work down to realise that public cloud is now a 'thing' and to see if we can make use of it, for example).
+
+All of these activities need to happen concurrently in order to avoid technical debt becoming so massive that it becomes so massive that it swamps everything else, swallowing all investment and focus and becoming the sole focus for our organsation (possibly in the form of a programme). However, we are unlikely to invest in all activities equally. And the balance of investment in each activity can (and probably should) vary from one period to the next. What's important is that, for the live software in our portfolio, all activities are happening concurrently at all times.  
+
+## Retirement
+
+There's a point at which we can no longer justify investment in software on our portfolio. Maybe people have stopped using it. Or a commercial, off the shelf product has emerged that's much more cost effective. Or we've found duplicate software elsewhere in our portfolio and can conflate two pieces of software into one. In any event, return on investment has dropped too low to continue with investment.
+
+How do we know this. Returning to the [starting point](https://scottcolfer.com/2019/03/17/digital-transformation-business-model.html) of this whole series of posts, we should understand the [business model](https://scottcolfer.com/2013/09/20/business-model-canvas.html) for each piece of software and our portfolio as a whole, and regularly review them. When the costs outweigh value, we need to take action. 
