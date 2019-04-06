@@ -83,7 +83,7 @@ Remember product/market fit? Well that's the point at which an opportunity tips 
 
 Let's say that we're investing 70% of our resources in our core business, in our strongest existing opportunities. How do we balance the need for new features against the need to pay-down technical debt, for example? We steal an old product management tool and apply it at a large scale. Let's take Barry Overeem's [prioritsation quadrant](http://www.barryovereem.com/the-backlog-prioritisation-backlog/). 
 
-![prioritisation quadrant](/assets/prioritisation-quadrant.jpg)
+![prioritisation quadrant](/assets/prioritisation-quadrant.png)
 
 Our portfolio requires four activities to happen concurrently if our software is to remain evergreen and not become what's commonly known as 'legacy system':
 
