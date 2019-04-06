@@ -85,7 +85,7 @@ Let's say that we're investing 70% of our resources in our core business, in our
 
 ![prioritisation quadrant](/assets/prioritisation-quadrant.png)
 
-Our portfolio requires four activities to happen concurrently if our software is to remain evergreen and not become what's commonly known as 'legacy system':
+Our portfolio requires four activities to happen concurrently within exploitation phase/horizon 1 if our software is to remain evergreen and not become what's commonly known as 'legacy system':
 
 - new features (responding to new insights or changing user needs)
 - improved support (software is only valuable if it's used; our support model makes sure it's used)
