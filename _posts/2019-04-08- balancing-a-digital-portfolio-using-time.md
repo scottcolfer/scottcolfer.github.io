@@ -70,7 +70,7 @@ We need all three horizons in our portfolio in order to optimise the value of ou
 
 Remember we said that the [phases of an agile project](https://www.gov.uk/service-manual/agile-delivery) effectively gave the Civil Service a way of exploring new opportunities? We can use this realisation to think of the phases of an agile project as relating to to horizons 2 and 3. 
 
-We can think of [discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works)* and [alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works) (and anything that proceeds them) as research into ideas that mmight emerge as opportunities. This is horizon 3. We should probably invest around 10% of our available resources in discovery, alpha, and anything that proceeds these phases.
+We can think of [discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works)* and [alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works) (and anything that proceeds them) as research into ideas that might emerge as opportunities. This is horizon 3. We should probably invest around 10% of our available resources in discovery, alpha, and anything that proceeds these phases.
 
 We can think of [beta](https://www.gov.uk/service-manual/agile-delivery/how-the-beta-phase-works) and the beginning of [live](https://www.gov.uk/service-manual/agile-delivery/how-the-live-phase-works) as emergent opportunities. This is horizon 2. We should probably invest around 20% of available resources in beta, and early live phases.
 
