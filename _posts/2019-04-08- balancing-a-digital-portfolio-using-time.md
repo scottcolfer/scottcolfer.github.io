@@ -18,7 +18,7 @@ Does delivery remain the strategy, or is the era of move fast and break things o
 
 ## Explore or exploit?
 
-If we look at the lifecycle of a product, we can start by breaking it into two stages that help to balance new opportunities with existing opportunities. These stages are called 'explore' and 'exploit'. Take a look at the table below for a summary of these stages.
+If we look at the lifecycle of a product, we can start by breaking it into two stages that help to balance new opportunities with existing opportunities. These stages are called 'explore' and 'exploit'. Take a look at the table below for a summary of these stages, based on the summary in [The Lean Enterprise](https://www.amazon.co.uk/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425).
 
 --- | **Explore** | **Exploit** 
  --- | --- | ---
@@ -31,7 +31,7 @@ If we look at the lifecycle of a product, we can start by breaking it into two s
 
 'Exploit' is the default of the Civil Service: a risk averse approach to incrementally improving existing opportunities. This approach does not work well for developing new opportunities. 
 The Government Digital Service introduced the conditions for 'exploration' - this is what the [service manual](https://www.gov.uk/service-manual) and [phases of an agile project](https://www.gov.uk/service-manual/agile-delivery) provide: a means of developing new opportunities. But this approach does not work well for '[live](https://www.gov.uk/service-manual/agile-delivery/how-the-live-phase-works)' opportunities.
-We need both exploration, and exploitation. The below table summarises both conditions, based on the summary in The Lean Enterprise.
+We need both exploration, and exploitation. 
 
 ## Product/market fit
 
