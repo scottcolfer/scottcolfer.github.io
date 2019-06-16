@@ -37,7 +37,12 @@ reflection and conceptualisation
 
 OU course http://www.open.ac.uk/postgraduate/qualifications/d36
 
-How I blog
+## How I blog
+
+Google Docs (now trialling Calmly) is where I take notes
+Notes might sit there for anything up to a year or so; or some make it straight to a post
+Some notes will lead to a post, when I want to try and draw some conclusions from it
+GitHub
 
 Different types
 self-promotion, profile-raising
