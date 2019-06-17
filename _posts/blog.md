@@ -5,7 +5,7 @@ This post is intended to summarise and share the reasons that I've found bloggin
 
 blogged to figure things out for the last couple of years.
 
-## Circumstance
+## Context
 
 Specifically: what does it mean to move from product management to product leadership?
 
