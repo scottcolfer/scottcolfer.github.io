@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How blogging helped me to become a better product leader"
+title: "How blogging helped me become a better product leader"
 date: 2019-06-19
 ---
 
@@ -10,13 +10,13 @@ This post is intended to summarise and share the reasons that I've found bloggin
 
 ## Context
 
-The short version is: how do I develop as a product leader when product leadership is a relatively new concept and there's relatively little out there that's genuinely useful?
+The short version is: how do I develop as a product leader when product leadership is a relatively new concept and there's relatively little out there to help?
 
 Longer version:
 
 - I've shifted from product management to product leadership in the last few yeas and have needed to figure out what this means in practice
-- Product leadership is relatively new. Roles like 'Senior Product Manager' and 'Lead Product Manager' can sometimes mean 'really busy product manager' in practice. Roles like 'Head of Product' can sometimes mean 'glorified people manager' in practice. There's some way to go until product leadership roles are understood and used well
-- I don't have a product leaders responsible for my support and developmet (I've only had more senior product managers above me for 6 months in the last 4 years)
+- Product leadership is relatively new. Roles like 'Senior Product Manager' and 'Lead Product Manager' can sometimes mean 'really busy product manager' in practice. Roles like 'Head of Product' can sometimes mean 'glorified people manager' in practice. There's some way to go until product leadership roles are understood and used to its full potential
+- I don't have a product leader responsible for my support and developmet (I've only had more senior product managers above me for 6 months in the last 4 years)
 - There's a **lot** of guidance and training on product management but relatively little on product leadership (which often takes the form of 'stakeholder management' workshops).
 
 ## Action 
