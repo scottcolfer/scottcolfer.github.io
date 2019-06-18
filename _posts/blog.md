@@ -49,21 +49,15 @@ Simplicity is hard-won. Having a space for reflection has helped me to work and 
 
 ## Learning
 
+This has all reminded me of my time working on the 'digital transformation' of educations in the 2000s, where I focussed on improving teacher training. One of the things that my team did was fund the use of digital tools to help trainee-teachers collect evidence of their development and reflect on their experiences. I took a module in the Open University's postgraduate course in [online and distance learning](http://www.open.ac.uk/postgraduate/qualifications/d36). One aspect of this that I found useful was breaking learning into several stages, all of which need to happen if we're to genuinely 'learn':
 
-Kolb's learning cycle
-https://www2.le.ac.uk/departments/doctoralcollege/training/eresources/teaching/theories/kolb
-reflection and conceptualisation
+- concrete experience
+- reflective observation
+- abstract conceptualisation
+- active experimentation.
 
-OU course http://www.open.ac.uk/postgraduate/qualifications/d36
+_This is known as David Kolb's [experiential learning cycle](https://www2.le.ac.uk/departments/doctoralcollege/training/eresources/teaching/theories/kolb)._
 
-## How I blog
+In effect, I have concrete experiences in my job and in my quieter moments I note reflective observations. This grow over time and eventually converge with reading or conversations I've had that allow me to conceptualise what's happened. My blog posts help me to pull this together with sufficient definition that I can then actively experiment, eventually coming back to refine several of my initial concepts based on how they're worked in the real world. My blog posts from the last couple of years have largely been tools for personal reflection, helping me to turn real life experiences into real lessons that I can use in the future.
 
-Google Docs (now trialling Calmly) is where I take notes
-Notes might sit there for anything up to a year or so; or some make it straight to a post
-Some notes will lead to a post, when I want to try and draw some conclusions from it
-GitHub
-
-Different types
-self-promotion, profile-raising
-Transparency, making things open
-Sharing tips
+If you can relate to any of the context that I shared at the beginning of this post then I can recommend blogging as a way of helping you to develop as a product leader. 
