@@ -29,7 +29,7 @@ Blogging has been one of the most valuable tools at my disposal when trying to p
 
 I was still publishing posts aimed at conveying simple product management tips until late 2017 (like [the five stages of applying the service standard to technical stuff](https://scottcolfer.com/2017/04/26/user-centred-technical-products.html)) but then used a [post](https://scottcolfer.com/2018/01/12/leadership.html) in January 2018 to tell myself that I needed to start thinking about wtf product leadership means. This innocuous [post](https://scottcolfer.com/2018/01/12/leadership.html) actually summarises a year of thinking and work, started at the end of 2016 when I began working with an agile coach on developing my product leadership skills. It took a year of work and development just to get to the point where I could understand the difference between product management and product leadership well enough to begin my professional development in earnest. 
 
-### Reflecting on things I'd learned
+### Reflecting on things I've experienced
 
 In the absence of clear books or training on product leadership I've hoovered-up 'stuff' (by accident or design) and then used blog posts to help me make sense of them. 
 
@@ -42,7 +42,7 @@ In the absence of clear books or training on product leadership I've hoovered-up
 
 All of this 'stuff' gets mixed in the maelstrom of the working week and starts to make sense in the quieter moments. During these quieter moments I'll make notes. Eventually these notes are re-written, re-worked, and at a certain point it's clear that there's a theme worth thinking about in more detail. That's often when I'll start writing a blog post as a tool to reflect on some things I think I've learned.
 
-I'll give two examples.
+### Looking for ways to conceptualise my observations
 
 I found [The Art of Business Value](https://www.amazon.co.uk/Art-Business-Value-Mark-Schwartz/dp/1942788045) to be really helpful in lots of ways but in particular because it helps us to think of what value looks like when we don't measure it through profit. I read the book over a couple of weeks on the way to and from work, taking photos of bits that I found particularly useful. I then turned these photos into notes in a Google Doc over another couple of months. These notes in a Google Doc eventually got rewritten and reworked over another 2-3 months as I used bits of them at work, finding out what was useful in practice. This [post](https://scottcolfer.com/2018/03/02/value-context.html) finally emerged in March 2018, at least 6 months after I first read the book (probably longer). It took that long to take a dense set of information and mould it into something I could start to use in a practical sense, and the blog [post](https://scottcolfer.com/2018/03/02/value-context.html) was a great way for me to reflect on what I'd learned from the book that could be practically applied by me in my professional context. I then used this reflection for another year before realising that I could improve it based on what I'd learned by using it for a year, pulling together a simpler post called '[how we can measure value without profit](https://scottcolfer.com/2019/03/19/value-without-profit.html)'.
 
