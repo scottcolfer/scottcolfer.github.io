@@ -39,21 +39,16 @@ I'll give two examples, both of books.
 
 I found [The Art of Business Value](https://www.amazon.co.uk/Art-Business-Value-Mark-Schwartz/dp/1942788045) to be really helpful in lots of ways but in particular because it helps us to think of what value looks like when we don't measure it through profit. I read the book over a couple of weeks on the way to and from work, taking photos of bits that I found particularly useful. I then turned these photos into notes in a Google Doc over another couple of months. These notes in a Google Doc eventually got rewritten and reworked over another 2-3 months as I used bits of them at work, finding out what was useful in practice. This [post](https://scottcolfer.com/2018/03/02/value-context.html) finally emerged in March 2018, at least 6 months after I first read the book (probably longer). It took that long to take a dense set of information and mould it into something I could start to use in a practical sense, and the blog [post](https://scottcolfer.com/2018/03/02/value-context.html) was a great way for me to reflect on what I'd learned from the book that could be practically applied by me in my professional context. I then used this reflection for another year before realising that I could improve it based on what I'd learned by using it for a year, pulling together a simpler post called '[how we can measure value without profit](https://scottcolfer.com/2019/03/19/value-without-profit.html)'.
 
-Talk about:
-
-- art of business value, took ages to work at it until I'd distilled the aspects that were valuable to me and then contexutalised these for working on public services
-- lean enterptrise, took months to have read it; transcribed notes (I took photos of most relevant sections], summarised and re-arranged to form coherent notes, distilled them into something I could work with, and then contextualise for public services - and then still never became a post. It was too large. I have a 5-10 side 'lean government' personal guide that I still work from but in reality it has been used to infuse and create 10-20 practical projects at work rather than becoming an single, abstract piece
-- coaching with Georg
-- events: product leaders meetup; conference; product supper; heads of product meetups; x-gov product meetups; at least 2 out of 5 days each week are spent working on tough problems with product managers in my profession; speak with other PMs in govt individually and as groups (every time you help someone else to figure out a problem for themselves you hear a fresh way to approach your own problems).
-
-Posts for others that were more about transmission of information or guidance
+There are some limits to blogging but the overall discipline is still useful. [Lean Enterprise](https://www.amazon.co.uk/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425) is even more densely populated with wisdom for product leaders than The Art of Business Value. I originally read Lean Enterprise back in 2015 because there was a free evaluation copy doing the rounds amongst 'agile' circles, but it didn't all sink in at the time. [I decided to re-read it in March 2018](https://twitter.com/scottcolfer/status/973112388827348993) and this time it really struck a chord. This time, I could see it as a blueprint for how to work with agility at the scale of a large enterprise. Again I read it over a couple of weeks, and again I took photos of the most interesting bits. This time, however, there were so many photos that it took me months and months to type them up. And when I'd typed them up, I have a 20-page booklet that I started to call 'lean government'. And I absolutely could not find a way to shape this into a single blog post, or even a short-series of blog posts. I still have a 'lean government' personal guide that I refer to at times but in reality it has been used to infuse and create 10-20 practical projects at work, rather than becoming an single blog post. The discipline of *wanting* to blog about it helped me to keep re-working my notes until I could use them in a practicaly setting.
 
 ## Result
 
-I can now articulate what product leadership is - how it's different from product management
-I didn't have time for a short letter so I wrote a long one instead
+I can now articulate what product leadership is, in simpler terms (including how it's different from product management). 
+*Let me know if that's of interest and I'll make this summary the focus of my next post :)*
+Simplicity is hard-won. Having a space for reflection has helped me to work and re-work the 'stuff' I've experienced over the last few years, moulding it into lessons that I can learn from. I've been the audience for my blog posts over the last couple of years, and have used them as a space to try and figure out things that hurt my brain.
 
 ## Learning
+
 
 Kolb's learning cycle
 https://www2.le.ac.uk/departments/doctoralcollege/training/eresources/teaching/theories/kolb
