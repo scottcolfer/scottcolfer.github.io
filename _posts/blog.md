@@ -1,19 +1,20 @@
-Why I blog
-
 I've been figuring things out for the last couple of years and blog posts have been a critical part of my career development.
 This post is intended to summarise and share the reasons that I've found blogging to be so helpful. 
 
-blogged to figure things out for the last couple of years.
-
 ## Context
 
-Specifically: what does it mean to move from product management to product leadership?
+The short version is: how do I develop as a product leader when product leadership is a relatively new concept and there's relatively little out there that's genuinely useful?
 
-Leaders lead - that means going first - https://scottcolfer.com/product-management-handbook/ Leadership is a gap
+Longer version:
 
-Don't have product leaders above me. I haven't had a more senior product leader above me for 3 years = have had activity managers but little professional coaching
+- I've shifted from product management to product leadership in the last few yeas and have needed to figure out what this means in practice
+- Product leadership is relatively new. Roles like 'Senior Product Manager' and 'Lead Product Manager' can actually mean 'really busy product manager' in practice. Roles like 'Head of Product' can sometimes mean 'glorified people manager' in practice. There's some way to go until product leadership roles are understood and used well
+- I don't have a product leaders responsible for my support and developmet (I've only had more senior product managers above me for 6 months in the last 4 years)
+- There's a **lot** of guidance and training on product management but relatively little on product leadership (which often takes the form of 'stakeholder management' workshops).
 
 ## Action 
+
+Leaders lead - that means going first - https://scottcolfer.com/product-management-handbook/ Leadership is a gap
 
 Talk about:
 
