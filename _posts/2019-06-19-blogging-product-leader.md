@@ -1,3 +1,10 @@
+---
+layout: post
+title: "How blogging helped me to become a better product leader"
+date: 2019-06-19
+---
+
+
 I've been figuring things out for the last couple of years and blog posts have been a critical part of my career development.
 This post is intended to summarise and share the reasons that I've found blogging to be so helpful. 
 
