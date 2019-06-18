@@ -36,7 +36,7 @@ In the absence of clear books or training on product leadership I've hoovered-up
 'Stuff' includes:
 
 - coaching to improve my performance
-- books on more general topics that contain nuggets of wisdom relevant to product leaders
+- books on general topics that contain nuggets of wisdom relevant to product leaders
 - meetups (Mind the Product's leadership meetup; cross-goverment Heads of Product meetups; suppers and coffees with product peers from outside the Civil Service; cross-government product manager meetups, etc)
 - coaching to help others improve their performance (I spend at least 2 out of every 5 work days supporting members of my profession; every time you help someone else to figure out a problem for themselves you hear a fresh way to approach your own problems).
 
