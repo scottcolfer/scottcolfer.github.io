@@ -5,7 +5,7 @@ date: 2019-06-19
 ---
 
 
-I’ve been working out how to develop as a product leader for the last few years. Blogging has been a critical tool in my development. This post summarises and shares the reasons I’ve found blogging to be so helpful. 
+I’ve been working out how to develop as a product leader for the last few years. Blogging has been a critical tool in my development. This post summarises and shares the reasons I’ve found blogging to be helpful. 
 
 ## Context
 
