@@ -9,7 +9,7 @@ I’ve been working out how to develop as a product leader for the last few year
 
 ## Context
 
-The short version is: how do I develop as a product leader when product leadership is a relatively new concept and there's relatively little out there to help?
+I needed to work out how to develop as a product leader. Product  leadership is a relatively new concept. There's little guidance out there that's 'ready to go'. 
 
 Longer version:
 
