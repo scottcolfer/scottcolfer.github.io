@@ -51,7 +51,7 @@ I can now explain what product leadership is, in simpler terms. This simple expl
 
 ## Learning
 
-This has reminded me of my time in education. I worked on the ‘digital  transformation’ of educations in the 2000s. My focus was improving teacher training. My team funded  digital tools to help trainee-teachers. These tools helped collection of evidence and reflection on experiences. I took a module in  the Open University’s postgraduate course in [online and distance learning](http://www.open.ac.uk/postgraduate/qualifications/d36).  One aspect that I found useful was thinking of learning as several stages, that all need to happen if we’re to genuinely  ‘learn’:
+This has reminded me of my time in education. I worked on the ‘digital  transformation’ of education in the 2000s. My focus was improving teacher training. My team funded  digital tools to help trainee-teachers. These tools helped collection of evidence and reflection on experiences. I took a module in  the Open University’s postgraduate course in [online and distance learning](http://www.open.ac.uk/postgraduate/qualifications/d36).  One aspect that I found useful was thinking of learning as several stages, that all need to happen if we’re to genuinely  ‘learn’:
 
 - concrete experience
 - reflective observation
