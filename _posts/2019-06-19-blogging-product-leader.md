@@ -11,12 +11,12 @@ I’ve been working out how to develop as a product leader for the last few year
 
 I needed to work out how to develop as a product leader. Product  leadership is a relatively new concept. There's little guidance out there that's 'ready to go'. 
 
-Longer version:
+To be more specific:
 
-- I've shifted from product management to product leadership in the last few yeas and have needed to figure out what this means in practice
-- Product leadership is relatively new. Roles like 'Senior Product Manager' and 'Lead Product Manager' can sometimes mean 'really busy product manager' in practice. Roles like 'Head of Product' can sometimes mean 'glorified people manager' in practice. There's some way to go until product leadership roles are understood and used to its full potential
-- I don't have a product leader responsible for my support and developmet (I've only had more senior product managers above me for 6 months in the last 4 years)
-- There's a **lot** of guidance and training on product management but relatively little on product leadership (which often takes the form of 'stakeholder management' workshops).
+- I’ve progressed from product management to product leadership
+- There’s some way to go  until product leadership roles are understood and used to their full  potential. ‘Senior Product  Manager’ and ‘Lead Product Manager’ can sometimes mean ‘really busy  product manager’ in practice. ‘Head of Product’ can sometimes  mean ‘glorified people manager’ in practice. 
+- I don’t have a product leader responsible for my support and  development
+- There’s a lot of guidance and training on product  management. There's relatively little on product leadership.
 
 ## Action 
 
