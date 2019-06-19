@@ -20,9 +20,7 @@ To be more specific:
 
 ## Action 
 
-Leaders lead, and that means going first. 
-This gap in product leadership training was an opportunity to start figuring some of this out for myself :)
-Blogging has been one of the most valuable tools at my disposal when trying to pull together things that I've learned and think will be useful in the fuiture. Here are some of the ways it's helpd me.
+Leaders lead, and that means going first. The gap in guidance is an opportunity to develop it for myself. Blogging as helped me to collect the lessons I've learned so I can use them in the future.  Here are some of the ways that blogging has helped me.  
 
 ### Statement of intent (to myself and for myself)
 
