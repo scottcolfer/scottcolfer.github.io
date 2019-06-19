@@ -47,10 +47,7 @@ There are limits to blogging but the discipline remains useful. [Lean Enterprise
 
 ## Result
 
-I can now articulate what product leadership is, in simpler terms (including how it's different from product management). 
-*Let me know if that's of interest and I'll make this summary the focus of my next post :)*
-
-Simplicity is hard-won. Having a space for reflection has helped me to work and re-work the 'stuff' I've experienced over the last few years, moulding it into lessons that I can learn from. I've been the audience for my blog posts over the last couple of years, and have used them as a space to try and figure out things that hurt my brain.
+I can now explain what product leadership is, in simpler terms. This simple explanation will be the focus of a future post. Simplicity is hard-won. This blog has provided space for reflection. Reflection has helped me turn experiences it into lessons I can learn from. I have been the main audience for my blog posts over the last couple of years.
 
 ## Learning
 
