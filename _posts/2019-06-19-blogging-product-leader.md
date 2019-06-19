@@ -28,7 +28,7 @@ Leaders lead, and that means going first. The gap in guidance is an opportunity 
 
 ### Reflecting on things I've experienced
 
-In the absence of clear books or training on product leadership I've hoovered-up 'stuff' (by accident or design) and then used blog posts to help me make sense of them. 
+I’ve  hoovered-up ‘stuff’, by accident or design, and used blog posts to  help me make sense of them.  
 
 'Stuff' includes:
 
