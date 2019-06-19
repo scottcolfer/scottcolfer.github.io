@@ -24,7 +24,7 @@ Leaders lead, and that means going first. The gap in guidance is an opportunity 
 
 ### Statement of intent (to myself and for myself)
 
-I was still publishing posts aimed at conveying simple product management tips until late 2017 (like [the five stages of applying the service standard to technical stuff](https://scottcolfer.com/2017/04/26/user-centred-technical-products.html)) but then used a [post](https://scottcolfer.com/2018/01/12/leadership.html) in January 2018 to tell myself that I needed to start thinking about wtf product leadership means. This innocuous [post](https://scottcolfer.com/2018/01/12/leadership.html) actually summarises a year of thinking and work, started at the end of 2016 when I began working with an agile coach on developing my product leadership skills. It took a year of work and development just to get to the point where I could understand the difference between product management and product leadership well enough to begin my professional development in earnest. 
+ I published posts conveying simple tips until late 2017, like '[the five stages of applying the service standard to technical stuff](https://scottcolfer.com/2017/04/26/user-centred-technical-products.html)'. I used a [post](https://scottcolfer.com/2018/01/12/leadership.html) in January 2018 to tell myself that I needed to start figuring out wtf product leadership means. This [post](https://scottcolfer.com/2018/01/12/leadership.html) summarises thinking begun in late 2016 when working with an agile coach on developing my product  leadership skills. 
 
 ### Reflecting on things I've experienced
 
