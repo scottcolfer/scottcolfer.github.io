@@ -32,12 +32,12 @@ I’ve  hoovered-up ‘stuff’, by accident or design, and used blog posts to  
 
 'Stuff' includes:
 
-- coaching to improve my performance
-- books on general topics that contain nuggets of wisdom relevant to product leaders
-- meetups (Mind the Product's leadership meetup; cross-goverment Heads of Product meetups; suppers and coffees with product peers from outside the Civil Service; cross-government product manager meetups, etc)
-- coaching to help others improve their performance (I spend at least 2 out of every 5 work days supporting members of my profession; every time you help someone else to figure out a problem for themselves you hear a fresh way to approach your own problems).
+- Coaching to improve my performance
+- Books on general topics that contain nuggets of wisdom relevant to product leaders
+- Meetups (Mind the Product’s leadership meetup; cross-goverment  Heads of Product meetups; suppers and coffees with product peers from  outside the Civil Service; cross-government product manager meetups,  etc)
+- Coaching to help others improve their performance. I spend at  least 2 out of every 5 work days supporting members of my profession.  Every time I help someone else to figure out their  problem I hear a fresh way to approach my own problems.
 
-All of this 'stuff' gets mixed in the maelstrom of the working week and starts to make sense in the quieter moments. During these quieter moments I'll make notes. Eventually these notes are re-written, re-worked, and at a certain point it's clear that there's a theme worth thinking about in more detail. That's often when I'll start writing a blog post as a tool to reflect on some things I think I've learned.
+This ‘stuff’ gets mixed in the maelstrom of the working week and  starts to make sense in the quieter moments. During these quieter  moments I’ll make notes. These notes are re-written,  re-worked over time. At a certain point it’s clear that there’s a theme worth  thinking about in more detail. That’s often when I’ll start writing a  blog post as a tool to reflect on some thing I’ve learned. 
 
 ### Looking for ways to conceptualise my observations
 
