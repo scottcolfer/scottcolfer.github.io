@@ -22,11 +22,11 @@ To be more specific:
 
 Leaders lead, and that means going first. The gap in guidance is an opportunity to develop it for myself. Blogging as helped me to collect the lessons I've learned so I can use them in the future.  Here are some of the ways that blogging has helped me.  
 
-### Statement of intent (to myself and for myself)
+#### Statement of intent (to myself and for myself)
 
  I published posts conveying simple tips until late 2017, like '[the five stages of applying the service standard to technical stuff](https://scottcolfer.com/2017/04/26/user-centred-technical-products.html)'. I used a [post](https://scottcolfer.com/2018/01/12/leadership.html) in January 2018 to tell myself that I needed to start figuring out wtf product leadership means. This [post](https://scottcolfer.com/2018/01/12/leadership.html) summarises thinking begun in late 2016 when working with an agile coach on developing my product  leadership skills. 
 
-### Reflecting on things I've experienced
+#### Reflecting on things I've experienced
 
 I’ve  hoovered-up ‘stuff’, by accident or design, and used blog posts to  help me make sense of them.  
 
@@ -39,7 +39,7 @@ I’ve  hoovered-up ‘stuff’, by accident or design, and used blog posts to  
 
 This ‘stuff’ gets mixed in the maelstrom of the working week and  starts to make sense in the quieter moments. During these quieter  moments I’ll make notes. These notes are re-written,  re-worked over time. At a certain point it’s clear that there’s a theme worth  thinking about in more detail. That’s often when I’ll start writing a  blog post as a tool to reflect on some thing I’ve learned. 
 
-### Looking for ways to conceptualise my observations
+#### Looking for ways to conceptualise my observations
 
  I found [The Art of Business Value](https://www.amazon.co.uk/Art-Business-Value-Mark-Schwartz/dp/1942788045) to be helpful. In particular, it helped me to think what value looks like when we don’t measure it through  profit. I read the book over a couple of weeks on the way to and from  work, taking photos of bits that I found particularly useful. I then  turned these photos into notes in a Google Doc over another couple of  months. My notes were rewritten over 2-3 months as I used bits of them at work, finding  out what was useful in practice. This [post](https://scottcolfer.com/2018/03/02/value-context.html)  finally emerged in March 2018, at least 6 months after I first read the  book. It took months to distill a complex set of ideas into something I could start to use in a  practical setting. A year later I simplified it further based on what I learned,  publishing post called ‘[how we can measure value without profit](https://scottcolfer.com/2019/03/19/value-without-profit.html)’.
  
