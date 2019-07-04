@@ -31,6 +31,9 @@ Mind the Product (?) suggests that systems thinking is a growth area for develop
 Management 3.0 by Jurgen Appelo takes this a step further and describes this as complex sytems theory (chapter 3), with systems thinking being just one way of trying to understand complex systems. There are mutliple models, each of which has inspired multiple techniques. _Systems thinking referred to on p49_ 
 Seeing the bigger picture includes learning from others. Look sideways.
 
+Manzoni speach on leadership
+Government is 800 years old and has never been designed. It is often more challenging than the work we are doing.
+
 Value of coaching
 Georg's model: leadership dimensions
 - my self
@@ -40,6 +43,7 @@ Georg's model: leadership dimensions
 -- coaching; community of practice; role description; skills; career pathway; define in relation to others; handbook; etc
 - organisational improvement
 - value management
+-- our USP, where a lot of product leadership sits
 - time
 
 Make all of this work visible in leadership plans; not just delivery work
@@ -52,3 +56,14 @@ Different to product team. Often may have basic understanding of working with ag
 Equivalent of a user story at leadership level: opportunity outline
 Senior product manager = associate product leader
 - when I began my role, the disucssion was simply 'how many products can we get a senior to manage?'
+
+Prioritisation quadrant:
+
+- improve products
+- improve relationships
+- org debt
+- org innovation
+
+Expert: understand rules well enough to bend them, break them, and remake them.
+
+Product leader report from Laura: move from 'new' to legacy focus.
