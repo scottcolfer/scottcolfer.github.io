@@ -9,6 +9,9 @@ This guide will be more or less relevant for other contexts.
 
 # Leadership, generally
 
+Complex Adaptive System
+Mission Command
+
 Agile at scale. Agile at scale literally means working with agility, at scale. Don't get seduced by less, safe, etc. They may be useful down the line but there's years of work needed in the leadership space to get to a space where you know enough to decide that one of these frameworks fits your organisation. MOJ Digital tried scrum of scums years ago. Didn't work and was quietly abandoned.
 Agile leadership is achieved through mission control. 
 Lean Enterprise
