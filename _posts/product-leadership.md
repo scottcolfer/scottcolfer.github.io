@@ -74,3 +74,5 @@ Prioritisation quadrant:
 Expert: understand rules well enough to bend them, break them, and remake them.
 
 Product leader report from Laura: move from 'new' to legacy focus.
+
+https://www.mironov.com/whatleadersdo/
