@@ -45,9 +45,13 @@ Georg's model: leadership dimensions
 -- often where we first get into leadership
 -- coaching; community of practice; role description; skills; career pathway; define in relation to others; handbook; etc
 - organisational improvement
+-- PDCA
 - value management
 -- our USP, where a lot of product leadership sits
+-- art of business value
 - time
+-- design sprints. we should design our time as well as we design our products.
+-- an interesting one. Used to take this narrowly as 'we all have limited time in the day'. Now understand that it's broader than that: things take time. Took 2-3 years to develop as product leader. Took 1-2 years before I could start delegating in earnest.
 
 Make all of this work visible in leadership plans; not just delivery work
 
