@@ -56,6 +56,13 @@ Georg's model: leadership dimensions
 Make all of this work visible in leadership plans; not just delivery work
 
 # Product leadership
+
+Digital is . . . 
+Tends to only focus on technology
+Product interested in the others
+Product is a business function, not a technology function
+Digital transformation is change of all the above
+
 You are the product manager for a management team. Product is a busines function, not a technology function. Meliss Perri tweet.
 - 'do you mind that you're just managing people?' What are you doing now? Product managers don't do anything, we think and we talk. The job is always about people.
 - 'don't you need to stay 'hands-on'? Otherwise you'll lose your skils'. You are hands-on. You're simply the product manager for your management team. You do everything you did in a propudct team, just adapted for a management team
