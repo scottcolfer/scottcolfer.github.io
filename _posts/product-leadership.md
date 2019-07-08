@@ -63,6 +63,8 @@ Product interested in the others
 Product is a business function, not a technology function
 Digital transformation is change of all the above
 
+https://go.pendo.io/rs/185-LQW-370/images/The_State_Of_Product_Leadership_2019.pdf
+
 You are the product manager for a management team. Product is a busines function, not a technology function. Meliss Perri tweet.
 - 'do you mind that you're just managing people?' What are you doing now? Product managers don't do anything, we think and we talk. The job is always about people.
 - 'don't you need to stay 'hands-on'? Otherwise you'll lose your skils'. You are hands-on. You're simply the product manager for your management team. You do everything you did in a propudct team, just adapted for a management team
