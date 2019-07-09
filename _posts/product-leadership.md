@@ -55,6 +55,8 @@ Georg's model: leadership dimensions
 
 Make all of this work visible in leadership plans; not just delivery work
 
+Digital transformation work
+
 # Product leadership
 
 Digital is . . . 
