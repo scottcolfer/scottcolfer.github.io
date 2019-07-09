@@ -63,6 +63,8 @@ Product interested in the others
 Product is a business function, not a technology function
 Digital transformation is change of all the above
 
+People https://twitter.com/lennysan/status/1148254680599805952
+
 https://go.pendo.io/rs/185-LQW-370/images/The_State_Of_Product_Leadership_2019.pdf
 
 You are the product manager for a management team. Product is a busines function, not a technology function. Meliss Perri tweet.
