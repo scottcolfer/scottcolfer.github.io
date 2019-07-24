@@ -14,6 +14,8 @@ Government is 800 years old and has never been designed. It is often more challe
 Management 3.0: 
 2.0 is memes, e.g. delivery is the strategy - this is not good enough, needs same sophistication as our development teams
 
+Digital transformation work: people, process, etc
+Outside of technology we are dependent on partnerships - need people who can understand the whole system.
 Complex Adaptive System
 Mission Command
 
@@ -58,8 +60,6 @@ Georg's model: leadership dimensions
 -- an interesting one. Used to take this narrowly as 'we all have limited time in the day'. Now understand that it's broader than that: things take time. Took 2-3 years to develop as product leader. Took 1-2 years before I could start delegating in earnest.
 
 Make all of this work visible in leadership plans; not just delivery work
-
-Digital transformation work
 
 # Product leadership
 
