@@ -9,8 +9,15 @@ This guide will be more or less relevant for other contexts.
 
 # Leadership, generally
 
+Manzoni speach on leadership
+Government is 800 years old and has never been designed. It is often more challenging than the work we are doing.
+Management 3.0: 
+2.0 is memes, e.g. delivery is the strategy - this is not good enough, needs same sophistication as our development teams
+
 Complex Adaptive System
 Mission Command
+
+AVOID MEME LEADERSHIP
 
 Agile at scale. Agile at scale literally means working with agility, at scale. Don't get seduced by less, safe, etc. They may be useful down the line but there's years of work needed in the leadership space to get to a space where you know enough to decide that one of these frameworks fits your organisation. MOJ Digital tried scrum of scums years ago. Didn't work and was quietly abandoned.
 Agile leadership is achieved through mission control. 
@@ -33,9 +40,6 @@ Often described as 'seeing the bigger picture' but left no more defined that thi
 Mind the Product (?) suggests that systems thinking is a growth area for development for product leaders. 
 Management 3.0 by Jurgen Appelo takes this a step further and describes this as complex sytems theory (chapter 3), with systems thinking being just one way of trying to understand complex systems. There are mutliple models, each of which has inspired multiple techniques. _Systems thinking referred to on p49_ 
 Seeing the bigger picture includes learning from others. Look sideways.
-
-Manzoni speach on leadership
-Government is 800 years old and has never been designed. It is often more challenging than the work we are doing.
 
 Value of coaching
 Georg's model: leadership dimensions
