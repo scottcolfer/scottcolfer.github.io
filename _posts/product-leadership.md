@@ -14,6 +14,7 @@ Government is 800 years old and has never been designed. It is often more challe
 Management 3.0: 
 2.0 is memes, e.g. delivery is the strategy - this is not good enough, needs same sophistication as our development teams
 
+Term 'digital' criticised in select committee as unclear. Agree. Let's clarify.
 Digital transformation work: people, process, etc
 Outside of technology we are dependent on partnerships - need people who can understand the whole system.
 Complex Adaptive System
