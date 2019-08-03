@@ -64,6 +64,7 @@ Georg's model: leadership dimensions
 -- often where we first get into leadership
 -- coaching; community of practice; role description; skills; career pathway; define in relation to others; handbook; etc
 - organisational improvement
+-- nearly burnt myself out by trying to improve everything at once but govt is too big to be 'saved' by one person. Do one thing at a time. Even a single bit of one dept can have enough problems to lead to burnout for someone drive by perfection and unrelenting standards. Prioritise the most valuable thing. Focus on finishing over starting.
 -- PDCA
 -- Have to be as interested in your organisation as you have previously been in a single team. It's not 'stakeholders', it's colleagues.  The organisation is your team. It's not 'the business', it's our organisation. It's just large and complicated. Need to be as interested in organising large organisation as you are in the problem space of your product(s).
 - value management
