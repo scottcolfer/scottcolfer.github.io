@@ -1,5 +1,10 @@
 # Prologue
-- Focus on burnout, end of 2016
+
+"Scott, are you OK? You look exhausted."
+
+December 2016. The year has seen me shift from senior product manager, to lead product manager, to unofficial head of product. I'm directly managing 15 product managers (along with a couple of Web Operations Engineers), have just completed 5 simultaneous recruitment campaigns, and remain hands-on product manager for a couple of teams. I've just completed work with other heads of product on the first role description and career pathway for product managers in government which has been a great experience but taken a lot of time and effort. This is too much for one person to do. I am burned out.
+
+Several people have asked me if I'm OK over the last couple of months. Two or three of them make time to chat with me. I bump into Georg, our executive coach, whilst getting some water in the kitch and he asks "Scott, are you OK? You look exhausted." I give a quick version of what's on my plate from behind tired eyes with large bags. Georg suggests I make time to have a chat with him to see if we improve things. A few days later we meet in the week before the Christmas break. 
 
 Based on total experience to date.
 Currently in large enterprise.
