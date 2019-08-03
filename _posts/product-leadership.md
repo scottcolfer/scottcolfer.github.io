@@ -6,7 +6,7 @@ Currently in large enterprise.
 Specialist leadership.
 This guide will be more or less relevant for other contexts.
 
-# We need leaders who do the right thing and do the thing right
+# Modern leaders need the ability to do the right thing and do the thing right in the midst of complexity
 
 Agile coach in prologue suggested Management 3.0, which helped 
 
@@ -71,6 +71,8 @@ Georg's model: leadership dimensions
 Make all of this work visible in leadership plans; not just delivery work
 
 # Product leadership
+
+Previously took identity from 'hands-on' product management - worried at loss of product management when moving into 'managing people'.
 
 Digital is . . . 
 Tends to only focus on technology
