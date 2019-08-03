@@ -1,28 +1,36 @@
-Focus on burnout, end of 2016
-
-# Context
+# Prologue
+- Focus on burnout, end of 2016
 
 Based on total experience to date.
 Currently in large enterprise.
 Specialist leadership.
 This guide will be more or less relevant for other contexts.
 
-# Leadership, generally
+# We need leaders who do the right thing and do the thing right
 
-Manzoni speach on leadership
-Government is 800 years old and has never been designed. It is often more challenging than the work we are doing.
-Management 3.0: 
+Agile coach in prologue suggested Management 3.0, which helped 
+
+## 1. Old hierarchies
+- govt 800 years old
+- manzoni speach
+
+## 2. Memes or fads
+Agile. Agile at scale. Agile at scale literally means working with agility, at scale. Don't get seduced by less, safe, etc. They may be useful down the line but there's years of work needed in the leadership space to get to a space where you know enough to decide that one of these frameworks fits your organisation. MOJ Digital tried scrum of scums years ago. Didn't work and was quietly abandoned.
+Term 'digital' criticised in select committee as unclear. Agree. Let's clarify. Digital transformation work: people, process, etc
+Delivery is the strategy
 2.0 is memes, e.g. delivery is the strategy - this is not good enough, needs same sophistication as our development teams
 
-Term 'digital' criticised in select committee as unclear. Agree. Let's clarify.
-Digital transformation work: people, process, etc
+## 3. Complexity
+
+Bring the above together:
+- command and control can work when you have high confidence in the problem you're solving, high confidence in the solution, strong problem/solution fit, and negligible changes in conditions. 
+
+# Working with agility at scale can be achieved through mission command
 Outside of technology we are dependent on partnerships - need people who can understand the whole system.
 Complex Adaptive System
 Mission Command
 
 AVOID MEME LEADERSHIP
-
-Agile at scale. Agile at scale literally means working with agility, at scale. Don't get seduced by less, safe, etc. They may be useful down the line but there's years of work needed in the leadership space to get to a space where you know enough to decide that one of these frameworks fits your organisation. MOJ Digital tried scrum of scums years ago. Didn't work and was quietly abandoned.
 Agile leadership is achieved through mission control. 
 Lean Enterprise
 - do you have buy-in for mission control?
