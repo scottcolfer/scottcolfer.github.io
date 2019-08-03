@@ -91,7 +91,7 @@ Product interested in the others
 Product is a business function, not a technology function
 Digital transformation is change of all the above
 
-Symptom of the above: tech startups or previously tech teams (ass we're often in in govt) might better understand technology profession - so may be more open to Chief Technology officer/technology leadership than product leadership.
+Symptom of the above: tech startups or previously tech teams (ass we're often in in govt) might better understand technology profession - so may be more open to Chief Technology officer/technology leadership than product leadership. Might need to hit a problem before value of the profession is seen (e.g. Financial Times - or once it's a certain age and is judged by outcomes, not outputs).
 
 People https://twitter.com/lennysan/status/1148254680599805952
 
