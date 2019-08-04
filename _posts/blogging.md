@@ -17,6 +17,10 @@ If want it to be more useful to a wider group of people then I'll use Hemingway 
 
 # Publishing the post
 
+Previous post on why moving from WordPress.
+Allows me to keep my hands-in with GitHub despite being a couple of years out of hands-on work in development teams.
+Update on how it's now simpler - current theme - started off 
+
 # Publicising the post
 
 # Finding out if the post was of interest
