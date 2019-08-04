@@ -1,7 +1,7 @@
 Here's how I blog. 
 I've previousy shared [why I blog](https://scottcolfer.com/2019/06/19/blogging-product-leader.html). I'm currently in the middle of a post about product leadership that's kicking my ass. I wanted a break from that by writing something much simpler. So here's a post about how I blog.
 
-# Inspiration
+# Inspiration: walk this way
 
 Writing can be daunting. I don't sit down with a blank page and the desire to write a post. I normally have lots of options floating around in the background. Some are undeveloped, others are almost complete posts already. I try to capture inspiration when it strikes so I've got a bunch of options at all times.
 
@@ -15,13 +15,13 @@ Periodically an idea will become clear enough to expand. Brief notes in Google K
 
 I typically have at least 10-20 ideas swimming around in the pool of my Google Apps. Many of them have been incubated for weeks, sometimes months. They've all been refined at least once or twice and several of them have been discussed a few times. All of this helps to figure out the angle that makes them intersting, and to remove the angst from writing.
 
-# Choosing a topic
+# Choosing a topic: trust your instincts
 
 Choosing a topic has been easier since I've had my pool of ideas. I simply wait until a topic is particularly interesting to me - or until it's useful for solving a problem at work - or a specific opportunity crops-up to write for someone else. 
 
 In the past I assumed that every idea I had necessitated a blog post. The list of titles became a 'to do' list and so writing became a stressful chore. This approach isn't fun. I've changed in the last few years and removed the anxiety. Now I view blog posts how I view products, prioritising the posts that are most valuable, useful, and feasible. The most useful lesson I've learned is to let things go. Thinking about something can be the an end in its own right and there's no need to write a post. This leaves space to write only what is most useful and most fun.
 
-# Writing the post
+# Writing the post: blitz it
 
 A decade into writing blog posts and I've got a pretty consistent process:
 
@@ -37,7 +37,7 @@ I don't agonise over the post. They're normally written mainly for me to figure 
 
  _Note: *I don't use a text editor like [Atom](https://atom.io/). I used to but I've natually tended towards editing using GitHub in the browser. Most of my posts are text-only and Markdown only. I like having to check spelling manually as it reminds me how to spell :) I use [GitHub Desktop](https://desktop.github.com/) when writing posts that need images._
 
-# Publishing the post
+# Publishing the post: GitHub Pages
 
 I publish posts directly from GitHub using [GitHub Pages](https://pages.github.com/) and have done since 2016.
 
@@ -49,6 +49,6 @@ GitHub Pages is free. I used to spend £50-£100 per year on hosting but now get
 
 Originally I built my own website through which to view the blog, using HTML and CSS. GitHub Pages has moved-on since 2016 and now offers themes. I switched to a theme called [Minima](https://github.com/jekyll/minima) earlier in the year and no longer need to engage with code more complicated than Markdown. 
 
-# Publicising the post
+# Publicising the post: 
 
 # Finding out if the post was of interest
