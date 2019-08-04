@@ -35,7 +35,7 @@ A decade into writing blog posts and I've got a pretty consistent process:
 
 I don't agonise over the post. They're normally written mainly for me to figure something out. I'm writing about niche topics of interest to a relatively small audience. My goal is to get it out quickly, improving once it's published.
 
-* _I don't use a text editor like [Atom](https://atom.io/). I used to but I've natually tended towards editing uwing GitHub in the browser. Most of my posts are text-only and Markdown only. I like having to check spelling manually as it reminds me how to spell :) I use [GitHub Desktop](https://desktop.github.com/) when writing posts that need images._
+ * _I don't use a text editor like [Atom](https://atom.io/). I used to but I've natually tended towards editing uwing GitHub in the browser. Most of my posts are text-only and Markdown only. I like having to check spelling manually as it reminds me how to spell :) I use [GitHub Desktop](https://desktop.github.com/) when writing posts that need images._
 
 # Publishing the post
 
