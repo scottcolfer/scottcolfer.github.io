@@ -27,13 +27,15 @@ A decade into writing blog posts and I've got a pretty consistent process:
 
 - open up my laptop and start listening to a Spotify playlist on my earphones.
 - coffee can help to focus on the task at hand, particularly when the idea is pretty well-developed.
-- posts are written in [GitHub](https://github.com/). GitHub is marketed as a tool for for software developers. However, at its heart is a text editor with version control that's great for drafting blog posts. I write in GitHub via my browser, hitting F11 to maximise the editor to fill the screen so as to remove the distraction of the search bar and all the website that sit behind it.
+- posts are written in [GitHub](https://github.com/). GitHub is marketed as a tool for for software developers. However, at its heart is a text editor with version control that's great for drafting blog posts. I write in GitHub via my browser*, hitting F11 to maximise the editor to fill the screen so as to remove the distraction of the search bar and all the website that sit behind it.
 - write using [Markdown](https://daringfireball.net/projects/markdown/), a way of using simple tags to tell browsers how to format my post when it's published to the web. Tom Weston-Wener's post explaining why he created Markdown is still online, called [blogging like a hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) and is a great read. I love how publishing has been revolutionised by the world wide web
 - write until happy with the post, normally a single sitting of 30 minutes up to a couple of hours
 - for simple posts I've stop, pause, then check that the words make sense, and review for spelling, punctuation and grammer
 - for complicated posts I'll check If want it to be more useful to a wider group of people then I'll use [Hemingway Editor](http://www.hemingwayapp.com/) to see what improvements I could make (thanks to [Nabeeha](https://twitter.com/Nabeeha_a) for the recommendation). 
 
 I don't agonise over the post. They're normally written mainly for me to figure something out. I'm writing about niche topics of interest to a relatively small audience. My goal is to get it out quickly, improving once it's published.
+
+* _I don't use a text editor like [Atom](https://atom.io/). I used to but I've natually tended towards editing uwing GitHub in the browser. Most of my posts are text-only and Markdown only. I like having to check spelling manually as it reminds me how to spell :) I use [GitHub Desktop](https://desktop.github.com/) when writing posts that need images._
 
 # Publishing the post
 
