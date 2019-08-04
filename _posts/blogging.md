@@ -43,7 +43,11 @@ I publish posts directly from GitHub using [GitHub Pages](https://pages.github.c
 
 WordPress was my blogging platform of choice for years. After a while I wanted the ability to back-up my posts, something was not always simple in WordPress. Three years ago I moved from a self-hosted WordPress website to GitHub for reasons outlined in this [post](https://scottcolfer.com/2016/04/09/personal-site-github-pages-jekyll.html) and have not looked back. 
 
+GitHub Pages are powered by [Jekyll](https://jekyllrb.com/) which turns plain text into simple, static websites. This simplicity is what made them easier for me to backup, unlike the database-driven blogs I had on WordPress. Jekyll does the hard work, turning my simple Markdown files into a simple but effective blog published by GitHub Pages. 
 
+GitHub Pages is free. I used to spend £50-£100 per year on hosting but now get that for free. I run a simple blog on a niche topic read by hundreds of people a month, not thousands (or more). I pay for my own domain but that only costs a few quid a year. 
+
+Originally I built my own website through which to view the blog, using HTML and CSS. GitHub Pages has moved-on since 2016 and now offers themes. I switched to a theme called [Minima](https://github.com/jekyll/minima) earlier in the year and no longer need to engage with code more complicated than Markdown. 
 
 # Publicising the post
 
