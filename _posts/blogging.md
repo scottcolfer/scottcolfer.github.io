@@ -49,6 +49,10 @@ GitHub Pages is free. I used to spend £50-£100 per year on hosting but now get
 
 Originally I built my own website through which to view the blog, using HTML and CSS. GitHub Pages has moved-on since 2016 and now offers themes. I switched to a theme called [Minima](https://github.com/jekyll/minima) earlier in the year and no longer need to engage with code more complicated than Markdown. 
 
-# Publicising the post: 
+# Publicising the post
 
-# Finding out if the post was of interest
+I keep publicity simple, using a Tweet on Twitter and a status update on LinkedIn to publicise my posts. My goal is a small number of engaged readers. My Twitter and LinkedIn accounts are carefully curated formed from people I have worked with or am working with (for the most part), people I trust and respect. 
+
+# So what?
+
+Folks who've read my posts are often kind enough to mention so, either through real world conversation or when chatting over email. This is the feedback I'm looking for. I've got Google Analytics monitoring my blog and can see that it's been accessed by 1,617 unique browsers in 2019. Unique views is a proxy measure at best, a vanity metric at worst. The act of writing a post is normally a reward in itself, as it's helped me to figure something out. The kind people who take the time to mention that they've read a post helps to validate the contents of the post, particularly when it leads to a conversation that challenges or develops my understanding further.
