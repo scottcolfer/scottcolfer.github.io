@@ -2,14 +2,25 @@
 
 "Scott, are you OK? You look exhausted."
 
-December 2016. The year has seen me shift from senior product manager, to lead product manager, to unofficial head of product. I'm directly managing 15 product managers (along with a couple of Web Operations Engineers), have just completed 5 simultaneous recruitment campaigns, and remain hands-on product manager for a couple of teams. I've just completed work with other heads of product on the first role description and career pathway for product managers in government which has been a great experience but taken a lot of time and effort. This is too much for one person to do. I am burned out.
+December 2016. Several people have asked me if I'm OK over the last couple of months. Two or three of them make time to chat with me. I bump into Georg, our executive coach, whilst getting some water in the kitch and he asks "Scott, are you OK? You look exhausted." I give a quick version of what's on my plate from behind tired eyes with large bags.
 
-Several people have asked me if I'm OK over the last couple of months. Two or three of them make time to chat with me. I bump into Georg, our executive coach, whilst getting some water in the kitch and he asks "Scott, are you OK? You look exhausted." I give a quick version of what's on my plate from behind tired eyes with large bags. Georg suggests I make time to have a chat with him to see if we improve things. A few days later we meet in the week before the Christmas break. 
+2016 saw me shift from senior product manager, to lead product manager, to unofficial head of product. In December of that year I'm directly managing 15 product managers (along with a couple of Web Operations Engineers), have just completed 5 simultaneous recruitment campaigns, and remain hands-on product manager for a couple of teams. I've just completed work with other heads of product on the first role description and career pathway for product managers in government which has been a great experience but taken a lot of time and effort. This was too much for one person to do. I was burned out.
 
-Based on total experience to date.
-Currently in large enterprise.
-Specialist leadership.
-This guide will be more or less relevant for other contexts.
+Georg suggests I make time to have a chat with him to see if we improve things. A few days later we meet in the week before the Christmas break. And so began my real development as a product leader.
+
+***
+
+This post is based on my experiences over the last few years. 
+
+My recent perspective from within a large organisation, within an even larger organisation that has existed for a long time and needs to change how it operates in under to survive in the modern age. My perspective is also from a specialist leadershop role (product management) at a time when leaders are often generalists. 
+
+More specifically:
+- I’ve progressed from product management to product leadership over the last 3 years
+- There’s some way to go until product leadership roles are understood and used to their full potential. ‘Senior Product Manager’ and ‘Lead Product Manager’ can sometimes mean ‘really busy product manager’ in practice. ‘Head of Product’ can sometimes mean ‘glorified people manager’ in practice.
+- I don’t have a product leader responsible for my support and development
+- There’s a lot of guidance and training on product management. There’s relatively little on product leadership
+
+If you're context is similar to the above then this post will be of particular relevance to you, however if you're willing to squint then most current or aspiring product leaders will see something of interest.
 
 # Chapter 1: Leadership
 
