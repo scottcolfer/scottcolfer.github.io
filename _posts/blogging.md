@@ -1,5 +1,4 @@
-Here's how I blog. 
-I've previousy shared [why I blog](https://scottcolfer.com/2019/06/19/blogging-product-leader.html). I'm currently in the middle of a post about product leadership that's kicking my ass. I wanted a break from that by writing something much simpler. So here's a post about how I blog.
+I would describe myself as a blogging-geek, having read and written them for over a decade. I remain excited by blogging and social media generally because it has removed barriers to publishing and democratised access to speach and information. I've previousy shared [why I blog](https://scottcolfer.com/2019/06/19/blogging-product-leader.html). I'm currently in the middle of a post about product leadership that's kicking my ass. I wanted a break from that by writing something much simpler. So here's a post about how I blog.
 
 # Inspiration
 
