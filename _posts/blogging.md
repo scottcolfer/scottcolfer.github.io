@@ -17,6 +17,10 @@ I typically have at least 10-20 ideas swimming around in the pool of my Google A
 
 # Choosing a topic
 
+Choosing a topic has been easier since I've had my pool of ideas. I simply wait until a topic is particularly interesting to me - or until it's useful for solving a problem at work - or a specific opportunity crops-up to write for someone else. 
+
+In the past I assumed that every idea I had necessitated a blog post. The list of titles became a 'to do' list and so writing became a stressful chore. This approach isn't fun. I've changed in the last few years and removed the anxiety. Now I view blog posts how I view products, prioritising the posts that are most valuable, useful, and feasible.
+
 # Writing the post
 
 Spotify playlist - Techno
