@@ -19,16 +19,21 @@ I typically have at least 10-20 ideas swimming around in the pool of my Google A
 
 Choosing a topic has been easier since I've had my pool of ideas. I simply wait until a topic is particularly interesting to me - or until it's useful for solving a problem at work - or a specific opportunity crops-up to write for someone else. 
 
-In the past I assumed that every idea I had necessitated a blog post. The list of titles became a 'to do' list and so writing became a stressful chore. This approach isn't fun. I've changed in the last few years and removed the anxiety. Now I view blog posts how I view products, prioritising the posts that are most valuable, useful, and feasible. The most useful lesson I've learned is to let things go. Thinking about something can be the an end in its own right and there's no need to right a post.
+In the past I assumed that every idea I had necessitated a blog post. The list of titles became a 'to do' list and so writing became a stressful chore. This approach isn't fun. I've changed in the last few years and removed the anxiety. Now I view blog posts how I view products, prioritising the posts that are most valuable, useful, and feasible. The most useful lesson I've learned is to let things go. Thinking about something can be the an end in its own right and there's no need to write a post. This leaves space to write only what is most useful and most fun.
 
 # Writing the post
 
-Spotify playlist - Techno
-Coffee vs alcohol
-Github web via broswer: mximise the window, hit F11 to remove the toolbar and remove distractions
-Writing using markdown http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html
-If I'm writing something quickly to help me figure something out then I'll quickly scan then save.
-If want it to be more useful to a wider group of people then I'll use Hemingway Editor, recommended by Nabeeha. http://www.hemingwayapp.com/
+A decade into writing blog posts and I've got a pretty consistent process:
+
+- open up my laptop and start listening to a Spotify playlist on my earphones.
+- coffee can help to focus on the task at hand, particularly when the idea is pretty well-developed.
+- posts are written in [GitHub](https://github.com/). GitHub is marketed as a tool for for software developers. However, at its heart is a text editor with version control that's great for drafting blog posts. I write in GitHub via my browser, hitting F11 to maximise the editor to fill the screen so as to remove the distraction of the search bar and all the website that sit behind it.
+- write using [Markdown](https://daringfireball.net/projects/markdown/), a way of using simple tags to tell browsers how to format my post when it's published to the web. Tom Weston-Wener's post explaining why he created Markdown is still online, called [blogging like a hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) and is a great read. I love how publishing has been revolutionised by the world wide web
+- write until happy with the post, normally a single sitting of 30 minutes up to a couple of hours
+- for simple posts I've stop, pause, then check that the words make sense, and review for spelling, punctuation and grammer
+- for complicated posts I'll check If want it to be more useful to a wider group of people then I'll use [Hemingway Editor](http://www.hemingwayapp.com/) to see what improvements I could make (thanks to [Nabeeha](https://twitter.com/Nabeeha_a) for the recommendation). 
+
+I don't agonise over the post. They're normally written mainly for me to figure something out. I'm writing about niche topics of interest to a relatively small audience. My goal is to get it out quickly, improving once it's published.
 
 # Publishing the post
 
