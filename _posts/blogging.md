@@ -39,9 +39,11 @@ I don't agonise over the post. They're normally written mainly for me to figure 
 
 # Publishing the post
 
-Previous post on why moving from WordPress.
-Allows me to keep my hands-in with GitHub despite being a couple of years out of hands-on work in development teams.
-Update on how it's now simpler - current theme - started off 
+I publish posts directly from GitHub using [GitHub Pages](https://pages.github.com/) and have done since 2016.
+
+WordPress was my blogging platform of choice for years. After a while I wanted the ability to back-up my posts, something was not always simple in WordPress. Three years ago I moved from a self-hosted WordPress website to GitHub for reasons outlined in this [post](https://scottcolfer.com/2016/04/09/personal-site-github-pages-jekyll.html) and have not looked back. 
+
+
 
 # Publicising the post
 
