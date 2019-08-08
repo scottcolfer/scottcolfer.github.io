@@ -26,7 +26,7 @@ If you're context is similar to the above then this post will be of particular r
 
 Georg and I had leadership coaching sessions together throughout 2017 that helped me to reflect on what I was learning about leadership. First thing-up was to figure out what general leadership means whilst working with agility. Georg's first recommended reading was [Management 3.0](https://jurgenappelo.com/management-30/) by Jurgen Appelo. This book helped consolidate on the type of leader I wanted to be, and the types of leaders I didn't want to be. It comes highly recommended. The short version is that **modern leaders need the ability to do the right thing and do the thing right in the midst of complexity** ('management 3.0') whilst avoiding hierarchical leadership ('management 1.0'), and meme leadership ('managment 2.0').  
 
-### Leadership 1.0 Old hierarchies
+### Leadership 1.0: Old hierarchies
 
 Organisational with outdated, hierarchical structures are designed and managed in a top-down fashion, and power is in the hands of the few. The people at the bottom have little money, few responsibilities, and little motivation to do a good job. This is often described as 'command-and-control'. It is often mistakenly likened to a military-style structure, however the military abandoned this approach many decades ago. This type of leadership can function in conditions of high-certainty and low-change but is poorly suited to conditions of low-certainity and high-change: when decisions are made by a small number of people, the organisation maximum speed of response to changing conditions is dicated by the decision-making capability and speed of that small number of people.  
 
