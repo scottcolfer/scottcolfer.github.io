@@ -10,7 +10,7 @@ Georg suggests I make time to have a chat with him to see if we improve things. 
 
 ***
 
-This post is based on my experiences over the last few years. 
+This post is based on my experiences of moving from product management to 'product leadership' over the last few years. 
 
 My recent perspective from within a large organisation, within an even larger organisation that has existed for a long time and needs to change how it operates in under to survive in the modern age. My perspective is also from a specialist leadershop role (product management) at a time when leaders are often generalists. 
 
