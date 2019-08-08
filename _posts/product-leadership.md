@@ -2,7 +2,7 @@
 
 "Scott, are you OK? You look exhausted."
 
-December 2016. Several people have asked me if I'm OK over the last couple of months. Two or three of them make time to chat with me. I bump into Georg, our executive coach, whilst getting some water in the kitch and he asks "Scott, are you OK? You look exhausted." I give a quick version of what's on my plate from behind tired eyes with large bags.
+December 2016. Several people have asked me if I'm OK over the last couple of months. Two or three of them make time to chat with me. I bump into Georg, our executive coach, whilst getting some water in the kitch and he asks "Scott, are you OK? You look exhausted." I give a quick version of what's on my plate from behind tired eyes.
 
 2016 saw me shift from senior product manager, to lead product manager, to unofficial head of product. In December of that year I'm directly managing 15 product managers (along with a couple of Web Operations Engineers), have just completed 5 simultaneous recruitment campaigns, and remain hands-on product manager for a couple of teams. I've just completed work with other heads of product on the first role description and career pathway for product managers in government which has been a great experience but taken a lot of time and effort. This was too much for one person to do. I was burned out.
 
