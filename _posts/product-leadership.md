@@ -24,14 +24,17 @@ If you're context is similar to the above then this post will be of particular r
 
 # Chapter 1: Leadership
 
-Figure out leadership generally.
-Agile coach in prologue suggested Management 3.0, which helped /
+Georg and I had leadership coaching sessions together throughout 2017 that helped me to reflect on what I was learning about leadership. First thing-up was to figure out what general leadership means whilst working with agility. Georg's first recommended reading was [Management 3.0](https://jurgenappelo.com/management-30/) by Jurgen Appelo. This book helped consolidate on the type of leader I wanted to be, and the types of leaders I didn't want to be. It comes highly recommended. The short version is that **modern leaders need the ability to do the right thing and do the thing right in the midst of complexity** ('management 3.0') whilst avoiding hierarchical leadership ('management 1.0'), and meme leadership ('managment 2.0').  
 
-## Modern leaders need the ability to do the right thing and do the thing right in the midst of complexity
+### Leadership 1.0 Old hierarchies
 
-### 1. Old hierarchies
-- govt 800 years old
-- manzoni speach
+Organisational with outdated, hierarchical structures are designed and managed in a top-down fashion, and power is in the hands of the few. The people at the bottom have little money, few responsibilities, and little motivation to do a good job. This is often described as 'command-and-control'. It is often mistakenly likened to a military-style structure, however the military abandoned this approach many decades ago. This type of leadership can function in conditions of high-certainty and low-change but is poorly suited to conditions of low-certainity and high-change: when decisions are made by a small number of people, the organisation maximum speed of response to changing conditions is dicated by the decision-making capability and speed of that small number of people.  
+
+The Government of the United Kingdom is arguably around 800 years old. It is old. But times, they are a-changing. The [information age](https://en.wikipedia.org/wiki/Information_Age) has seen massive and rapid change in the UK that has irrevocably changed the relationship between the public and Government in the UK, with much higher expectations of public services. The UK's Civil Service is undergoing significant change to keep-pace with this change. John Manzoni, Chief Executive of the Civil Service, challenged Civil Service leaders to leave old hierarchies behind and embrace a new type of leadership in his [Civil Service Transformation speach](https://www.gov.uk/government/speeches/civil-service-transformation-speech) in early 2018: 
+
+"We need leaders with empathy, who can manage their teams through transformation and encourage continuous improvement. Leaders with broader experience, who are effective in a complex, multidisciplinary world, who lead with their hearts and their guts, as well as their heads, who see the big picture. Leaders whose instincts - developed through experience - are collaborative; who are used to working across boundaries, confident beyond their own professional area, and inspire and empower their teams."
+
+So I wanted to avoid command-and-control leadership by focussing on emapthetic, collaborate, empowering leadership - in order to help build an organisation that can respond quickly and decisively to the rapid changes taking place in modern UK.
 
 ### 2. Memes or fads
 Agile. Agile at scale. Agile at scale literally means working with agility, at scale. Don't get seduced by less, safe, etc. They may be useful down the line but there's years of work needed in the leadership space to get to a space where you know enough to decide that one of these frameworks fits your organisation. MOJ Digital tried scrum of scums years ago. Didn't work and was quietly abandoned. Had colleagues from across govt get in touch over the last couple of years with 'my leadership team is about to adopt Less/Safe, etc, how do I stop them?'
