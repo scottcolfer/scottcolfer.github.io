@@ -46,6 +46,7 @@ https://medium.com/startup-patterns/why-enterprise-agile-teams-fail-4ae64f7852d6
 Agile. Agile at scale. Agile at scale literally means working with agility, at scale. Don't get seduced by less, safe, etc. They may be useful down the line but there's years of work needed in the leadership space to get to a space where you know enough to decide that one of these frameworks fits your organisation. MOJ Digital tried scrum of scums years ago. Didn't work and was quietly abandoned. Had colleagues from across govt get in touch over the last couple of years with 'my leadership team is about to adopt Less/Safe, etc, how do I stop them?'
 
 https://medium.com/sainsburys-engineering/why-our-successful-agile-transformation-keeps-on-failing-1a87d1f60b6d (section on what's meant by agile transformation) - calls out Simon Sinek's work
+https://twitter.com/johncutlefish/status/946805413571416064
 
 Term 'digital' criticised in select committee as unclear. Agree. Let's clarify. Digital transformation work: people, process, etc
 Delivery is the strategy
@@ -60,6 +61,11 @@ AVOID MEME LEADERSHIP
 
 Bring the above together:
 - command and control can work when you have high confidence in the problem you're solving, high confidence in the solution, strong problem/solution fit, and negligible changes in conditions. 
+
+Lean Enterprise quote:
+"The biggest challenge faced by leaders and managers in complex enterprises is this:
+‘How do we help people within our organisation to make good decisions (i.e. to act in the best interests of our organisation) given that they can never have sufficient information and context to understand the full consequences of their decisions, and given that events often overtake our plans?"
+
 
 Often described as 'seeing the bigger picture' but left no more defined that this.
 Mind the Product (?) suggests that systems thinking is a growth area for development for product leaders. 
