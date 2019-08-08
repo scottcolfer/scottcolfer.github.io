@@ -36,7 +36,10 @@ The Government of the United Kingdom is arguably around 800 years old. It is old
 
 So I wanted to avoid command-and-control leadership by focussing on emapthetic, collaborate, empowering leadership - in order to help build an organisation that can respond quickly and decisively to the rapid changes taking place in modern UK.
 
-### 2. Memes or fads
+### Leadership 2.0: Meme leadership 
+
+Fads . . . many of these fads have become memes - meme leadership
+
 Agile. Agile at scale. Agile at scale literally means working with agility, at scale. Don't get seduced by less, safe, etc. They may be useful down the line but there's years of work needed in the leadership space to get to a space where you know enough to decide that one of these frameworks fits your organisation. MOJ Digital tried scrum of scums years ago. Didn't work and was quietly abandoned. Had colleagues from across govt get in touch over the last couple of years with 'my leadership team is about to adopt Less/Safe, etc, how do I stop them?'
 Term 'digital' criticised in select committee as unclear. Agree. Let's clarify. Digital transformation work: people, process, etc
 Delivery is the strategy
