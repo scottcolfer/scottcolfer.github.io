@@ -40,11 +40,20 @@ So I wanted to avoid command-and-control leadership by focussing on emapthetic, 
 
 Fads . . . many of these fads have become memes - meme leadership
 
+Agile
+https://medium.com/startup-patterns/why-enterprise-agile-teams-fail-4ae64f7852d6 (summarise key points)
+
 Agile. Agile at scale. Agile at scale literally means working with agility, at scale. Don't get seduced by less, safe, etc. They may be useful down the line but there's years of work needed in the leadership space to get to a space where you know enough to decide that one of these frameworks fits your organisation. MOJ Digital tried scrum of scums years ago. Didn't work and was quietly abandoned. Had colleagues from across govt get in touch over the last couple of years with 'my leadership team is about to adopt Less/Safe, etc, how do I stop them?'
+
+https://medium.com/sainsburys-engineering/why-our-successful-agile-transformation-keeps-on-failing-1a87d1f60b6d (section on what's meant by agile transformation) - calls out Simon Sinek's work
+
 Term 'digital' criticised in select committee as unclear. Agree. Let's clarify. Digital transformation work: people, process, etc
 Delivery is the strategy
-2.0 is memes, e.g. delivery is the strategy - this is not good enough, needs same sophistication as our development teams
+
+delivery is the strategy - this is not good enough, needs same sophistication as our development teams
+
 Meme leadership is perhaps more insidious than hierarchical leadership because it is less obvious and can lead to a culture of virtue signalling.
+
 AVOID MEME LEADERSHIP
 
 ### 3. Complexity
