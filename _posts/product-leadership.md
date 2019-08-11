@@ -79,11 +79,11 @@ This deeper understanding of the work 'digital' is helpful because it points tow
 
 **Delivery is the strategy.** 
 
-this is not good enough, needs same sophistication as our development teams
+‘Delivery is the strategy’ was the rallying call of digital transformation in government for the longest time. The truth is that ‘delivery is the strategy’ is a tactic. It’s something used at the beginning of digital transformation to build an organisation’s emotional confidence in a new way of working. This rallying call is often interpretted as ‘the delivery of stuff is the strategy’, because ‘stuff’ gives everyone confidence that things are happening. This is often critical for the first 1-2 years of digital transformation, generating opportunities for the digital pipeline and demonstrating to colleagues that digital teams can be trusted with work. However, this approach quickly build up a lot of stuff that needs to demonstrate return on investment through real outcomes. It then needs to be supported and maintained and we have to figure out models for ongoing funding and continual improvement. It’s not uncommon to suddenly find too much work in progress and less return on investment than planned, with issues quickly arising.
 
-Meme leadership is perhaps more insidious than hierarchical leadership because it is less obvious and can lead to a culture of virtue signalling.
-
-AVOID MEME LEADERSHIP
+If 'delivery is the strategy' is internally acknowledged as a tactic to support growth during years 0-2 of a new digital team then it can be healthy. 
+If 'delivery is the strategy' is then refined to mean 'delivery of outcomes is the strategy' then it can become a means for working with agility at scale (if applied to all levels of the organisation).
+If 'delivery is the strategy' is interpreted as 'do a lot of stuff' then it might not be a great strategy.
 
 ### 3. Complexity
 
