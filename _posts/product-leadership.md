@@ -65,17 +65,21 @@ Be honest. Do you really know what you mean when you tell people that you 'work 
 
 So wtf does 'digital' actually mean? Harriett Green and Myra Hunt, Defra's joint Chief Digital Officers, restated what 'digital' was originally intended to mean. Their post [what we mean by "digital"](https://defradigital.blog.gov.uk/2017/11/13/what-we-mean-by-digital/) returned to source and quoted Tom Loosemore's orginal defintion: 
 
-**"Digital: Applying the culture, practices, processes & technologies of the Internet-era to respond to people's raised expectations."**
+> "Digital: Applying the culture, practices, processes & technologies of the Internet-era to respond to people's raised expectations."
 
 Harriett and Myra highlight an important aspect of this definition of digital: 
 
-**"The first 3 of those are about how we do things. About the ways that people work."**
+> "The first 3 of those are about how we do things. About the ways that people work."**
 
 Technology is the smallest aspect of 'digital'. The implication being that the bulk of a digital team's time should be spent improving how we do things and the way we work. Conversely, if our focus is purely on technology then we should call ourselves a technology team.
 
-This deeper understanding of the work 'digital' is helpful because it points towards the need to understand how organisations change how they do things and the way they work. Tom Loosemore's original definition of 'digital' can be seen as a summary of existing good practice in effective organisational change, strapped to a mission to change the way that the public interacts with the state. I've previously been involved in [digital transformation of the charity sector](https://scottcolfer.com/2015/07/23/empathy-and-digital-transformation.html) and used great research by people like Julie Dodd's [The New Reality](https://thenewreality.info/) to help me understand the 
+This deeper understanding of the work 'digital' is helpful because it points towards the need to understand how organisations change how they do things and the way they work. Tom Loosemore's original definition of 'digital' can be seen as a summary of existing good practice in effective organisational change, strapped to a mission to change the way that the public interacts with the state. I've previously been involved in [digital transformation of the charity sector](https://scottcolfer.com/2015/07/23/empathy-and-digital-transformation.html) and used great research by people like Julie Dodd's [The New Reality](https://thenewreality.info/) to help me understand that changing and improving an organisation requires investment in people, processess, tools (including technology), and mindset.
 
-delivery is the strategy - this is not good enough, needs same sophistication as our development teams
+'Digital' seems to imply a mission (something like improving the relationship between users and an organisation) via a couple of methods (user-centred design, and organisational change concepts like those outlined in Julie Dodd's research). Conversely, digital is not simply better technolgy. 
+
+**Delivery is the strategy.** 
+
+this is not good enough, needs same sophistication as our development teams
 
 Meme leadership is perhaps more insidious than hierarchical leadership because it is less obvious and can lead to a culture of virtue signalling.
 
