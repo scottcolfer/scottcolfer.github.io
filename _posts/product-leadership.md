@@ -73,6 +73,7 @@ Harriett and Myra highlight an important aspect of this definition of digital:
 
 Technology is the smallest aspect of 'digital'. The implication being that the bulk of a digital team's time should be spent improving how we do things and the way we work. Conversely, if our focus is purely on technology then we should call ourselves a technology team.
 
+This deeper understanding of the work 'digital' is helpful because it points towards the need to understand how organisations change how they do things and the way they work. Tom Loosemore's original definition of 'digital' can be seen as a summary of existing good practice in effective organisational change, strapped to a mission to change the way that the public interacts with the state. I've previously been involved in [digital transformation of the charity sector](https://scottcolfer.com/2015/07/23/empathy-and-digital-transformation.html) and used great research by people like Julie Dodd's [The New Reality](https://thenewreality.info/) to help me understand the 
 
 delivery is the strategy - this is not good enough, needs same sophistication as our development teams
 
