@@ -59,8 +59,20 @@ Useful reading
 - [Why Enterprise Agile Teams Fail](https://medium.com/startup-patterns/why-enterprise-agile-teams-fail-4ae64f7852d6) by Sam McAfee
 - [Why Sainsburys' Agile Transformation Keeps Failing](https://medium.com/sainsburys-engineering/why-our-successful-agile-transformation-keeps-on-failing-1a87d1f60b6d) by Joel Robinson
 
-Term 'digital' criticised in select committee as unclear. Agree. Let's clarify. Digital transformation work: people, process, etc
-Delivery is the strategy
+**We're Digital.**
+
+Be honest. Do you really know what you mean when you tell people that you 'work in digital?' And do you think anyone else understands what it means? Be honest. Think of those glazed eyes at in the pub, at parties and family gatherings. The opaque nature of the word 'digital' was recently criticised by UK Government's Science and Technology Select Committee's [Digital Government inquiry](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/inquiries/parliament-2017/digital-government-17-19/). Their [report](https://publications.parliament.uk/pa/cm201719/cmselect/cmsctech/1455/145510.htm) concluded that the open-ended definition of "digital" made it difficult to assess progress made by the digital agenda.
+
+So wtf does 'digital' actually mean? Harriett Green and Myra Hunt, Defra's joint Chief Digital Officers, restated what 'digital' was originally intended to mean. Their post [what we mean by "digital"](https://defradigital.blog.gov.uk/2017/11/13/what-we-mean-by-digital/) returned to source and quoted Tom Loosemore's orginal defintion: 
+
+**"Digital: Applying the culture, practices, processes & technologies of the Internet-era to respond to people's raised expectations."**
+
+Harriett and Myra highlight an important aspect of this definition of digital: 
+
+**"The first 3 of those are about how we do things. About the ways that people work."**
+
+Technology is the smallest aspect of 'digital'. The implication being that the bulk of a digital team's time should be spent improving how we do things and the way we work. Conversely, if our focus is purely on technology then we should call ourselves a technology team.
+
 
 delivery is the strategy - this is not good enough, needs same sophistication as our development teams
 
