@@ -44,6 +44,8 @@ I like the word 'fad' but think 'meme' works even better. [Simon Wardley](https:
 
 **'We're doing Agile' and 'Agile at Scale'.**
 
+ADD - UNDERSTANDING FAKE AGILE https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/#5d9c12e44bbe
+
 I'm going to stick my neck out and say that, for me, working with agility can be summarised as two things. Firstly, focus on outcomes over outputs. Secondly, release stuff early and often to check you're getting the outcomes you want. There's more depth to the [agile manifesto](https://agilemanifesto.org/) than by brutally reductive summary. In fact, let's assume that my summary leaves a lot to be desired. The point is that working with agility is based on simple principles, by design.
 
 'Agile at scale' has emerged as a concept in the last few years. At its heart, it's a great concept. It implies they following:
