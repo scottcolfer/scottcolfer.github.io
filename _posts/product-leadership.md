@@ -124,9 +124,10 @@ Five reflections on building a misson command culture [part 1](https://thearmyle
 Value of coaching (used to do; leaders find it difficult to be vulnerable; feel they have to be strong)
 Georg's model: leadership dimensions
 - my self
--- easy to carry a lot
+-- easy to carry a lot https://hbr.org/2017/12/break-the-cycle-of-stress-and-distraction-by-using-your-emotional-intelligence
 - people
 -- often where we first get into leadership
+-- https://www.themandarin.com.au/67749-podcast-mike-bracken-on-reforming-an-institution-from-within-using-internet-era-skills/?pgnc=1&pgnc=1?pgnc=1&pgnc=1
 -- coaching; community of practice; role description; skills; career pathway; define in relation to others; handbook; etc
 - organisational improvement
 -- nearly burnt myself out by trying to improve everything at once but govt is too big to be 'saved' by one person. Do one thing at a time. Even a single bit of one dept can have enough problems to lead to burnout for someone drive by perfection and unrelenting standards. Prioritise the most valuable thing. Focus on finishing over starting.
@@ -164,6 +165,10 @@ Different to product team. Often may have basic understanding of working with ag
 Equivalent of a user story at leadership level: opportunity outline
 Senior product manager = associate product leader
 - when I began my role, the disucssion was simply 'how many products can we get a senior to manage?'
+
+Have to be as interested in your organisation as you are in your users.
+HiPPOs are humans too https://www.mindtheproduct.com/2017/06/remember-hippos-humans/
+What everyone gets wrong about stakeholder https://melissaperri.com/blog/stakeholders 
 
 Prioritisation quadrant:
 
