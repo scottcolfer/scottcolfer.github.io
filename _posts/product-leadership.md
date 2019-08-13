@@ -88,20 +88,21 @@ If 'delivery is the strategy' is interpreted as 'do a lot of stuff' then it migh
 
 ### 3. Complexity
 
-Bring the above together:
-- command and control can work when you have high confidence in the problem you're solving, high confidence in the solution, strong problem/solution fit, and negligible changes in conditions. 
-
-Lean Enterprise quote:
-"The biggest challenge faced by leaders and managers in complex enterprises is this:
-‘How do we help people within our organisation to make good decisions (i.e. to act in the best interests of our organisation) given that they can never have sufficient information and context to understand the full consequences of their decisions, and given that events often overtake our plans?"
-
+All organisations are networks and modern leadership is about people and their relationships. This means that we need to view our organisations like iving organisms. We need to replace old hierarchies with networks. 
 
 Often described as 'seeing the bigger picture' but left no more defined that this.
 Mind the Product (?) suggests that systems thinking is a growth area for development for product leaders. 
 Management 3.0 by Jurgen Appelo takes this a step further and describes this as complex sytems theory (chapter 3), with systems thinking being just one way of trying to understand complex systems. There are mutliple models, each of which has inspired multiple techniques. _Systems thinking referred to on p49_ 
 Seeing the bigger picture includes learning from others. Look sideways.
 
+Lean Enterprise quote:
+"The biggest challenge faced by leaders and managers in complex enterprises is this:
+‘How do we help people within our organisation to make good decisions (i.e. to act in the best interests of our organisation) given that they can never have sufficient information and context to understand the full consequences of their decisions, and given that events often overtake our plans?"
+
 ## Mission command
+
+Bring the above together:
+- command and control can work when you have high confidence in the problem you're solving, high confidence in the solution, strong problem/solution fit, and negligible changes in conditions. 
 
 Outside of technology we are dependent on partnerships - need people who can understand the whole system.
 Complex Adaptive System
