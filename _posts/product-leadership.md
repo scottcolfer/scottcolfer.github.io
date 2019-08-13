@@ -93,6 +93,11 @@ All organisations are networks and modern leadership is about people and their r
 Often described as 'seeing the bigger picture' but left no more defined that this.
 Mind the Product (?) suggests that systems thinking is a growth area for development for product leaders. 
 Management 3.0 by Jurgen Appelo takes this a step further and describes this as complex sytems theory (chapter 3), with systems thinking being just one way of trying to understand complex systems. There are mutliple models, each of which has inspired multiple techniques. _Systems thinking referred to on p49_ 
+System dynamics
+Systems thinking
+Social complexity
+Complexity thinking
+
 Seeing the bigger picture includes learning from others. Look sideways.
 
 Lean Enterprise quote:
