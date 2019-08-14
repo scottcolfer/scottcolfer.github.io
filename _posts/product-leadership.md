@@ -153,6 +153,13 @@ Make all of this work visible in leadership plans; not just delivery work
 
 Previously took identity from 'hands-on' product management - worried at loss of product management when moving into 'managing people'.
 
+Just product manager for management and leadership teams. And they are interesting. Maybe don't conform to your expectations of teams.
+Maybe not that multidisciplinary, and not used to specialists.
+Why multidisciplinary works well:
+https://www.bmj.com/content/bmj/344/bmj.e2718.full.pdf
+https://blog.prototypr.io/why-multi-disciplinary-teams-are-good-1e3ed930ea21
+https://journals.sagepub.com/doi/full/10.1111/j.1529-1006.2005.00022.x
+
 Digital is . . . 
 Tends to only focus on technology
 Product interested in the others
