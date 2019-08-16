@@ -88,10 +88,11 @@ If 'delivery is the strategy' is interpreted as 'do a lot of stuff' then it migh
 
 ### Leadership 3.0: Complexity
 
-All organisations are networks and modern leadership is about people and their relationships. This means that we need to view our organisations like living organisms. We need to replace leadership based in old hierarchies with leadership based in networks. I've most commonly heard this described as [systems thinking](http://www.thinking.net/Systems_Thinking/OverviewSTarticle.pdf). However Jurgen Appelo takes this a step further and describes this as [complex systems theory](https://en.wikipedia.org/wiki/Complex_system), with systems thinking being just one way of trying to understand complex systems. Other techniques highlighted by Jurgen include system dynamics, social complexity, and complexity thinking. 
+All organisations are networks and modern leadership is about people and their relationships. This means that we need to view our complex organisations like living organisms. As the Lean Enterprise says, the biggest challenge faced by leaders and managers in complex enterprises is this: ‘How do we help people within our organisation to make good decisions (i.e. to act in the best interests of our organisation) given that they can never have sufficient information and context to understand the full consequences of their decisions, and given that events often overtake our plans?".
 
-"The biggest challenge faced by leaders and managers in complex enterprises is this:
-‘How do we help people within our organisation to make good decisions (i.e. to act in the best interests of our organisation) given that they can never have sufficient information and context to understand the full consequences of their decisions, and given that events often overtake our plans?"
+The answer is that we need to replace leadership based in old hierarchies with leadership that embraces the complexity of our complext organisations. I've most commonly heard this described as [systems thinking](http://www.thinking.net/Systems_Thinking/OverviewSTarticle.pdf). However Jurgen Appelo takes this a step further and describes this as [complex systems theory](https://en.wikipedia.org/wiki/Complex_system), with systems thinking being just one way of trying to understand complex systems. Other techniques highlighted by Jurgen include system dynamics, social complexity, and complexity thinking. 
+
+Over the last few years I've been re-training myself to be as interested in complex organisations as I am in the problems spaces that my products operate within. I've only scratched the surface of complex systems theory but it's already helped to on the road to becoming a better leader. Improving my undertanding of complex systems theory is one of my main learning and development objectives in 2019-20.
 
 ## Mission command
 
