@@ -86,21 +86,10 @@ If 'delivery is the strategy' is internally acknowledged as a tactic to support 
 If 'delivery is the strategy' is then refined to mean 'delivery of outcomes is the strategy' then it can become a means for working with agility at scale (if applied to all levels of the organisation).
 If 'delivery is the strategy' is interpreted as 'do a lot of stuff' then it might not be a great strategy.
 
-### 3. Complexity
+### Leadership 3.0: Complexity
 
-All organisations are networks and modern leadership is about people and their relationships. This means that we need to view our organisations like iving organisms. We need to replace old hierarchies with networks. 
+All organisations are networks and modern leadership is about people and their relationships. This means that we need to view our organisations like living organisms. We need to replace leadership based in old hierarchies with leadership based in networks. I've most commonly heard this described as [systems thinking](http://www.thinking.net/Systems_Thinking/OverviewSTarticle.pdf). However Jurgen Appelo takes this a step further and describes this as [complex systems theory](https://en.wikipedia.org/wiki/Complex_system), with systems thinking being just one way of trying to understand complex systems. Other techniques highlighted by Jurgen include system dynamics, social complexity, and complexity thinking. 
 
-Often described as 'seeing the bigger picture' but left no more defined that this.
-Mind the Product (?) suggests that systems thinking is a growth area for development for product leaders. 
-Management 3.0 by Jurgen Appelo takes this a step further and describes this as complex sytems theory (chapter 3), with systems thinking being just one way of trying to understand complex systems. There are mutliple models, each of which has inspired multiple techniques. _Systems thinking referred to on p49_ 
-System dynamics
-Systems thinking
-Social complexity
-Complexity thinking
-
-Seeing the bigger picture includes learning from others. Look sideways.
-
-Lean Enterprise quote:
 "The biggest challenge faced by leaders and managers in complex enterprises is this:
 ‘How do we help people within our organisation to make good decisions (i.e. to act in the best interests of our organisation) given that they can never have sufficient information and context to understand the full consequences of their decisions, and given that events often overtake our plans?"
 
