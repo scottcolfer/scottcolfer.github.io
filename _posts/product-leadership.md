@@ -56,6 +56,7 @@ Working with agility means something like focussing on outcomes over outputs and
 Useful reading
 
 - [John Cutler](https://twitter.com/johncutlefish/status/946805413571416064?s=20) on agile transformation
+- [Melissa Perri](https://twitter.com/lissijean/status/1161815385550807040?s=20) on agile transformation and leadership
 - [Why Enterprise Agile Teams Fail](https://medium.com/startup-patterns/why-enterprise-agile-teams-fail-4ae64f7852d6) by Sam McAfee
 - [Why Sainsburys' Agile Transformation Keeps Failing](https://medium.com/sainsburys-engineering/why-our-successful-agile-transformation-keeps-on-failing-1a87d1f60b6d) by Joel Robinson
 - [Understanding Fake Agile](https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/#5d9c12e44bbe) by Steve Denning.
