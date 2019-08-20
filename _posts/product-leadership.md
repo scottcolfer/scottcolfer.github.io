@@ -42,7 +42,7 @@ There are add-ons designed the problems of old, hierarchical organisations. To s
 
 I like the word 'fad' but think 'meme' works even better. [Simon Wardley](https://twitter.com/swardley) has used the word 'meme' to describe leadership strategy, and it's stuck with me. I think 'meme' is more forgiving than 'fad'. A fad is a 'trivial fancy adopted for a while with irrational zeal', whereas a meme a unit of cultural information that is transmitted from one mind to another through repeated action. The cultural information that starts a meme may be valuable but this value may be lessened through repeated transmission. I'm about to list some common leadership memes and want to clarify that the inherent concepts are valuable in each case, but repeated transmission sometimes breaks them free of their true meaning. Sometimes they swtich and become the opposite of their original intent. With that being said, here's my top-3 leadership memes :)
 
-**'#agileatscale**
+**#agileatscale**
 
 I'm going to stick my neck out and say that, for me, working with agility can be summarised as two things. Firstly, focus on outcomes over outputs. Secondly, release stuff early and often to check you're getting the outcomes you want. There's more depth to the [agile manifesto](https://agilemanifesto.org/) than by brutally reductive summary. In fact, let's assume that my summary leaves a lot to be desired. The point is that working with agility is based on simple principles, by design.
 
