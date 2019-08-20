@@ -8,7 +8,7 @@ December 2016. Several people have asked me if I'm OK over the last couple of mo
 
 Georg suggests I make time to have a chat with him to see if we improve things. A few days later we meet in the week before the Christmas break. And so began my real development as a product leader.
 
-***
+# Introduction
 
 This post is based on my experiences of moving from product management to 'product leadership' over the last few years. 
 
@@ -97,27 +97,23 @@ Over the last few years I've been re-training myself to be as interested in comp
 
 ## Mission command
 
-Bring the above together:
-- command and control can work when you have high confidence in the problem you're solving, high confidence in the solution, strong problem/solution fit, and negligible changes in conditions. 
+If understanding complex human systems is the foundation of modern leadership then [mission command](https://en.wikipedia.org/wiki/Mission_command) is the framework for actually leading. Mission command is a way of providing leadership in situations where leaders can never have total information and don't have the capacity to make all important decisions without slowing down their entire organisation to their own pace. Organisations that exercise leadership through mission command build strong teams with mutual trust and set missions with clear intent, creating a shared understanding. This enables disciplined initiative that allows people and teams to respond to change and to each other, and to make informed decisions as needed. This is in contrast to the old hierarchies exmplified in command and control organisations. Command and control can work when you have high confidence in the problem you're solving, high confidence in the solution, strong product/market fit, and negligibly changes in conditions. I have seen it work for short amounts of time in small organisations with a single product and a small team but this is rare. 
 
-Outside of technology we are dependent on partnerships - need people who can understand the whole system.
-Complex Adaptive System
-Mission Command
+Mission command was developed in the military and so I've looked to the insights of military professionals to help me better understand it. I particularly enjoyed 'Five reflections on building a misson command culture' [part 1](https://thearmyleader.co.uk/five-rules-of-thumb-to-build-a-mission-command-culture-part-1/) and [part 2](https://thearmyleader.co.uk/five-rules-of-thumb-to-build-a-mission-command-culture-part-2/), which shared 5 principles needed for mission command to work:
 
-Agile leadership is achieved through mission control. 
-Lean Enterprise
-- do you have buy-in for mission control?
--- Janice Fraser, buy-in
+1. make sure you have a vision
+2. overcommunicate clarity, at least 2 levels down
+3. delegate until you feel uncomfortable and then delegate some more
+4. to encourage hones views, start by asking the most junior opinion and then work your way up the group
+5. treat other teams as if they are part of your team.
 
-Five reflections on building a misson command culture [part 1](https://thearmyleader.co.uk/five-rules-of-thumb-to-build-a-mission-command-culture-part-1/) and [part 2](https://thearmyleader.co.uk/five-rules-of-thumb-to-build-a-mission-command-culture-part-2/):
+For me, the way to counter the 'agile at scale' meme is to develop a mission command culture. Working with agility means focussing on outcomes over outputs, and releasing stuff early and often to check you're getting the outcomes you want. 'Agile at scale' means all teams do this, at all levels of the organisation. Mission command gives a general approach to working with agility at scale without the requirement to commit to a detailed methodology like LeSS or SAFe. Once again: these methodologies can be useful - but a lot of work would need to be undertaken before understanding enough about an organisation to judge whether these are right for them. 
 
-- make sure you have a vision
-- overcommunicate clarity, at least 2 levels down
-- delegate until you feel uncomfortable and then delegate some more
-- to encourage hones views, start by asking the most junior opinion and then work your way up the group
-- treat other teams as if they are part of your team.
+If I can recommend a single book to read in order to understand mission command and how it can work in a large enterprise then it would be [Lean Enterprise](http://shop.oreilly.com/product/0636920030355.do) by Barry O'Reilly et al. I've read it a couple of times over the last few years, directly implementing some of its suggestions at work, and exploring some concepts in more depth as part of my professional development.
 
 ## Leadership dimensions
+
+Let's pause. This is a lot, right? And we're still working on general leadership before even getting to the specifics of product leadership.
 
 Value of coaching (used to do; leaders find it difficult to be vulnerable; feel they have to be strong)
 Georg's model: leadership dimensions
