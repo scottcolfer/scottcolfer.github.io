@@ -42,7 +42,7 @@ There are add-ons designed the problems of old, hierarchical organisations. To s
 
 I like the word 'fad' but think 'meme' works even better. [Simon Wardley](https://twitter.com/swardley) has used the word 'meme' to describe leadership strategy, and it's stuck with me. I think 'meme' is more forgiving than 'fad'. A fad is a 'trivial fancy adopted for a while with irrational zeal', whereas a meme a unit of cultural information that is transmitted from one mind to another through repeated action. The cultural information that starts a meme may be valuable but this value may be lessened through repeated transmission. I'm about to list some common leadership memes and want to clarify that the inherent concepts are valuable in each case, but repeated transmission sometimes breaks them free of their true meaning. Sometimes they swtich and become the opposite of their original intent. With that being said, here's my top-3 leadership memes :)
 
-**'We're doing Agile' and 'Agile at Scale'.**
+**'#agileatscale**
 
 I'm going to stick my neck out and say that, for me, working with agility can be summarised as two things. Firstly, focus on outcomes over outputs. Secondly, release stuff early and often to check you're getting the outcomes you want. There's more depth to the [agile manifesto](https://agilemanifesto.org/) than by brutally reductive summary. In fact, let's assume that my summary leaves a lot to be desired. The point is that working with agility is based on simple principles, by design.
 
@@ -61,7 +61,7 @@ Useful reading
 - [Why Sainsburys' Agile Transformation Keeps Failing](https://medium.com/sainsburys-engineering/why-our-successful-agile-transformation-keeps-on-failing-1a87d1f60b6d) by Joel Robinson
 - [Understanding Fake Agile](https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/#5d9c12e44bbe) by Steve Denning.
 
-**We're Digital.**
+**#digital**
 
 Be honest. Do you really know what you mean when you tell people that you 'work in digital?' And do you think anyone else understands what it means? Be honest. Think of those glazed eyes at in the pub, at parties and family gatherings. The opaque nature of the word 'digital' was recently criticised by UK Government's Science and Technology Select Committee's [Digital Government inquiry](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/inquiries/parliament-2017/digital-government-17-19/). Their [report](https://publications.parliament.uk/pa/cm201719/cmselect/cmsctech/1455/145510.htm) concluded that the open-ended definition of "digital" made it difficult to assess progress made by the digital agenda.
 
@@ -79,7 +79,7 @@ This deeper understanding of the work 'digital' is helpful because it points tow
 
 'Digital' seems to imply a mission (something like improving the relationship between users and an organisation) via a couple of methods (user-centred design, and organisational change concepts like those outlined in Julie Dodd's research). Conversely, digital is not simply better technolgy. 
 
-**Delivery is the strategy.** 
+**#deliveryisthestrategy** 
 
 ‘Delivery is the strategy’ was the rallying call of digital transformation in government for the longest time. The truth is that ‘delivery is the strategy’ is a tactic. It’s something used at the beginning of digital transformation to build an organisation’s emotional confidence in a new way of working. This rallying call is often interpretted as ‘the delivery of stuff is the strategy’, because ‘stuff’ gives everyone confidence that things are happening. This is often critical for the first 1-2 years of digital transformation, generating opportunities for the digital pipeline and demonstrating to colleagues that digital teams can be trusted with work. However, this approach quickly build up a lot of stuff that needs to demonstrate return on investment through real outcomes. It then needs to be supported and maintained and we have to figure out models for ongoing funding and continual improvement. It’s not uncommon to suddenly find too much work in progress and less return on investment than planned, with issues quickly arising.
 
