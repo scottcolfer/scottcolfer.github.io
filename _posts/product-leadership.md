@@ -61,7 +61,7 @@ Useful reading
 - [Why Sainsburys' Agile Transformation Keeps Failing](https://medium.com/sainsburys-engineering/why-our-successful-agile-transformation-keeps-on-failing-1a87d1f60b6d) by Joel Robinson
 - [Understanding Fake Agile](https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/#5d9c12e44bbe) by Steve Denning.
 
-**#digital**
+**#digitaltransformation**
 
 Be honest. Do you really know what you mean when you tell people that you 'work in digital?' And do you think anyone else understands what it means? Be honest. Think of those glazed eyes at in the pub, at parties and family gatherings. The opaque nature of the word 'digital' was recently criticised by UK Government's Science and Technology Select Committee's [Digital Government inquiry](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/inquiries/parliament-2017/digital-government-17-19/). Their [report](https://publications.parliament.uk/pa/cm201719/cmselect/cmsctech/1455/145510.htm) concluded that the open-ended definition of "digital" made it difficult to assess progress made by the digital agenda.
 
