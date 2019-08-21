@@ -42,7 +42,7 @@ There are add-ons designed the problems of old, hierarchical organisations. To s
 
 I like the word 'fad' but think 'meme' works even better. [Simon Wardley](https://twitter.com/swardley) has used the word 'meme' to describe leadership strategy, and it's stuck with me. I think 'meme' is more forgiving than 'fad'. A fad is a 'trivial fancy adopted for a while with irrational zeal', whereas a meme a unit of cultural information that is transmitted from one mind to another through repeated action. The cultural information that starts a meme may be valuable but this value may be lessened through repeated transmission. I'm about to list some common leadership memes and want to clarify that the inherent concepts are valuable in each case, but repeated transmission sometimes breaks them free of their true meaning. Sometimes they swtich and become the opposite of their original intent. With that being said, here's my top-3 leadership memes :)
 
-**#agileatscale**
+**1. #agileatscale**
 
 I'm going to stick my neck out and say that, for me, working with agility can be summarised as two things. Firstly, focus on outcomes over outputs. Secondly, release stuff early and often to check you're getting the outcomes you want. There's more depth to the [agile manifesto](https://agilemanifesto.org/) than by brutally reductive summary. In fact, let's assume that my summary leaves a lot to be desired. The point is that working with agility is based on simple principles, by design.
 
@@ -61,7 +61,7 @@ Useful reading
 - [Why Sainsburys' Agile Transformation Keeps Failing](https://medium.com/sainsburys-engineering/why-our-successful-agile-transformation-keeps-on-failing-1a87d1f60b6d) by Joel Robinson
 - [Understanding Fake Agile](https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/#5d9c12e44bbe) by Steve Denning.
 
-**#digitaltransformation**
+**2. #digitaltransformation**
 
 Be honest. Do you really know what you mean when you tell people that you 'work in digital?' And do you think anyone else understands what it means? Be honest. Think of those glazed eyes at in the pub, at parties and family gatherings. The opaque nature of the word 'digital' was recently criticised by UK Government's Science and Technology Select Committee's [Digital Government inquiry](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/inquiries/parliament-2017/digital-government-17-19/). Their [report](https://publications.parliament.uk/pa/cm201719/cmselect/cmsctech/1455/145510.htm) concluded that the open-ended definition of "digital" made it difficult to assess progress made by the digital agenda.
 
@@ -79,7 +79,7 @@ This deeper understanding of the work 'digital' is helpful because it points tow
 
 'Digital' seems to imply a mission (something like improving the relationship between users and an organisation) via a couple of methods (user-centred design, and organisational change concepts like those outlined in Julie Dodd's research). Conversely, digital is not simply better technolgy. 
 
-**#deliveryisthestrategy** 
+**3. #deliveryisthestrategy** 
 
 ‘Delivery is the strategy’ was the rallying call of digital transformation in government for the longest time. The truth is that ‘delivery is the strategy’ is a tactic. It’s something used at the beginning of digital transformation to build an organisation’s emotional confidence in a new way of working. This rallying call is often interpretted as ‘the delivery of stuff is the strategy’, because ‘stuff’ gives everyone confidence that things are happening. This is often critical for the first 1-2 years of digital transformation, generating opportunities for the digital pipeline and demonstrating to colleagues that digital teams can be trusted with work. However, this approach quickly build up a lot of stuff that needs to demonstrate return on investment through real outcomes. It then needs to be supported and maintained and we have to figure out models for ongoing funding and continual improvement. It’s not uncommon to suddenly find too much work in progress and less return on investment than planned, with issues quickly arising.
 
@@ -113,16 +113,28 @@ If I can recommend a single book to read in order to understand mission command 
 
 ## Leadership dimensions
 
-Let's pause. This is a lot, right? And we're still working on general leadership before even getting to the specifics of product leadership.
+Let's pause. 
+This is a lot, right? We're still working on general leadership. We haven't even got to the specifics of product leadership. 
+How do we keep all of this in mind in a practical way, day to day?
 
-Value of coaching (used to do; leaders find it difficult to be vulnerable; feel they have to be strong)
-Georg's model: leadership dimensions
-- my self
--- easy to carry a lot https://hbr.org/2017/12/break-the-cycle-of-stress-and-distraction-by-using-your-emotional-intelligence
-- people
+Georg was developing a model to help balance the different dimensions of leadership in 2017, at the same time as we working have coaching sessions together. This meant that I got to use it and feedback on early versions of it. Georg finalised and published his mode in 2018, you can see it in this [post](https://georgfasching.com/introducing-the-prime-leadership-model/). I've taken the model and [tweaked it to fit my needs](https://scottcolfer.com/2018/01/29/leadership-dimensions.html). It's helped me to think of five dimensions to leadership that I need to balance at all times:
+
+**1. My self**
+
+I am not my job. My work is not my life. My partner, my family, my friends, my interests and my hobbies are the main focus of my life. My job and the mission of my organisation (my work life) are really important to me but my partner, my family, my friends, my interests and my hobbies (my real life) are more important to me.
+
+It's possible to carry a lot as a leader. Stress can build up. We can burn out. Our mental health can suffer. I've personally found it helpful to train myself to realise that work life is less important than real life. Taking breaks from work to rest my brain, and focussing on my partner, friends and family in my real life has the side benefit of making me much more effective when I'm at work. This [article](https://hbr.org/2017/12/break-the-cycle-of-stress-and-distraction-by-using-your-emotional-intelligence) in the Harvard Business Review by Kandi Wiens is a short exploration of these concepts.
+
+**2. People**
+
+Our organisation are complex systems of people. People (including ourselves) are the most important part of most organisations we'll work for. People are at the heart of transforming how we build and run our products. Mike Bracken attributed the early successes of the Government Digital Service to bringing the right people into government. In an [article](https://www.themandarin.com.au/67749-podcast-mike-bracken-on-reforming-an-institution-from-within-using-internet-era-skills/?pgnc=1&pgnc=1?pgnc=1&pgnc=1) from 2016, Mike says: 
+
+> "we hired insanely talented internet-era technologists and gave them a chance to change government, and the great thing about them is they move at such pace. They move so quickly that they can deliver in the time it takes to have the meeting to discuss whether to do the thing in the first place. And they did, time and again.”
+
 -- often where we first get into leadership
 -- https://www.themandarin.com.au/67749-podcast-mike-bracken-on-reforming-an-institution-from-within-using-internet-era-skills/?pgnc=1&pgnc=1?pgnc=1&pgnc=1
 -- coaching; community of practice; role description; skills; career pathway; define in relation to others; handbook; etc
+
 - organisational improvement
 -- nearly burnt myself out by trying to improve everything at once but govt is too big to be 'saved' by one person. Do one thing at a time. Even a single bit of one dept can have enough problems to lead to burnout for someone drive by perfection and unrelenting standards. Prioritise the most valuable thing. Focus on finishing over starting.
 -- PDCA
