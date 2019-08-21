@@ -131,20 +131,29 @@ Our organisation are complex systems of people. People (including ourselves) are
 
 > "we hired insanely talented internet-era technologists and gave them a chance to change government, and the great thing about them is they move at such pace. They move so quickly that they can deliver in the time it takes to have the meeting to discuss whether to do the thing in the first place. And they did, time and again.”
 
--- often where we first get into leadership
--- https://www.themandarin.com.au/67749-podcast-mike-bracken-on-reforming-an-institution-from-within-using-internet-era-skills/?pgnc=1&pgnc=1?pgnc=1&pgnc=1
--- coaching; community of practice; role description; skills; career pathway; define in relation to others; handbook; etc
+I find that lots of product leaders get into leadership through this dimension. We're asked to manage a couple of product managers. Then a few. Then one day we're responsible for all the recruitment, performance management, and pastoral care for our entire profession. I think that 'people' is often the aspect of leadership that we're most comfortable with.
 
-- organisational improvement
+I've found two things to be particularly useful in developing my leadership skills in relation to people:
+
+- [Building Successful Communities of Practice](https://emilywebber.co.uk/building-successful-communities-of-practice/) by Emily Webber has helped me to design a product management profession that supports and develops approx. 50 product managers at various stages of the career pathway, across multiple locations in the UK. I've been using the book since it was published in 2016 and hired Emily to work directly with me and my profession to us design our community of practice.
+- [Performance Coaching](https://scottcolfer.com/2013/11/20/great-businesses-grow-from-conversations.html) is the skill that I use most often in my professional life. I'm a trained, non-directive performance coach. I assume that the head that holds a problem often holds the solution. I help people by listening to them, and asking non-directive questions to help them find their solution. It sad how few occassions we get to speak and be genuinely listened to, but amazing how effective it can be for helping us to figure something out. I highly recommend both being coached and learning how to coach.
+
+**3. Organisational improvement**
+
 -- nearly burnt myself out by trying to improve everything at once but govt is too big to be 'saved' by one person. Do one thing at a time. Even a single bit of one dept can have enough problems to lead to burnout for someone drive by perfection and unrelenting standards. Prioritise the most valuable thing. Focus on finishing over starting.
 -- PDCA
 -- Have to be as interested in your organisation as you have previously been in a single team. It's not 'stakeholders', it's colleagues.  The organisation is your team. It's not 'the business', it's our organisation. It's just large and complicated. Need to be as interested in organising large organisation as you are in the problem space of your product(s).
-- value management
--- our USP, where a lot of product leadership sits
--- art of business value
-- time
+
+**4. Time**
+
 -- design sprints. we should design our time as well as we design our products.
 -- an interesting one. Used to take this narrowly as 'we all have limited time in the day'. Now understand that it's broader than that: things take time. Took 2-3 years to develop as product leader. Took 1-2 years before I could start delegating in earnest.
+
+**5. Value management**
+
+-- our USP, where a lot of product leadership sits
+-- art of business value
+
 
 Make all of this work visible in leadership plans; not just delivery work
 
