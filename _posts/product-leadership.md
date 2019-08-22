@@ -140,7 +140,9 @@ I've found two things to be particularly useful in developing my leadership skil
 
 **3. Organisational improvement**
 
-It's important for leaders to commit to improving their organisation.  Leaders must continuously work to simplify processes and business complexity, to increase the effectiveness, autonomy and capabilities of teams. At the same time, there's a limit to how much we can do. I've nearly burned myself out a couple of times trying to improve an organisation on my own. Government, for example, is too big to be saved by one person. I've learned over time that as long as I'm always foccussed one improving one aspect of my organisation then I'm doing my job. I've stopped starting lots of things and switched to finishing things. Doing one thing at a time is the best way to see something through to a genuine result.
+It's important for leaders to commit to improving their organisation. We need to be as interested in improving our organisation as we are in our problems. We need to get over the urge to use the phrase 'the business': we can't get away with calling colleagues and teams in the same organisation 'the business'. We should refer to them as 'colleagues' and recognise that they're in our organisation. Not 'the business'. Leaders must continuously work to simplify processes and business complexity, to increase the effectiveness, autonomy and capabilities of teams. 
+
+At the same time, there's a limit to how much we can do. I've nearly burned myself out a couple of times trying to improve an organisation on my own. Government, for example, is too big to be saved by one person. I've learned over time that as long as I'm always foccussed one improving one aspect of my organisation then I'm doing my job. I've stopped starting lots of things and switched to finishing things. Doing one thing at a time is the best way to see something through to a genuine result.
 
 nearly burnt myself out by trying to improve everything at once but govt is too big to be 'saved' by one person. Do one thing at a time. Even a single bit of one dept can have enough problems to lead to burnout for someone drive by perfection and unrelenting standards. Prioritise the most valuable thing. Focus on finishing over starting.
 
@@ -148,20 +150,20 @@ I've been using a cycle of organisational improvement for the last few years, kn
 
 Planning:
 
-1. Understand the direction of change, often derived from the vision set by the leadership (which should be inspiring and potentially unobtainable in practice). 
-2. Grasp the current condition. Understand and benchmark the current condition
-3. Establish the target condition. Identify the aspect of the organisation being addressed, the date by which you want to reach the target condition, and pass/fail criteria by which to judge success.
+- Understand the direction of change, often derived from the vision set by the leadership (which should be inspiring and potentially unobtainable in practice). 
+- Grasp the current condition. Understand and benchmark the current condition
+- Establish the target condition. Identify the aspect of the organisation being addressed, the date by which you want to reach the target condition, and pass/fail criteria by which to judge success.
 
 Execution:
 
-4. Iterate towards the target condition using a [plan-do-check-act cycle](https://www.mindtools.com/pages/article/newPPM_89.htm), series of experiments to achieve (trust people to run experiments and react quickly, not plan all action in advance)
-
-The organisation is your team. It's not 'the business', it's our organisation. It's just large and complicated. Need to be as interested in organising large organisation as you are in the problem space of your product(s).
+- Iterate towards the target condition using a [plan-do-check-act cycle](https://www.mindtools.com/pages/article/newPPM_89.htm), series of experiments to achieve (trust people to run experiments and react quickly, not plan all action in advance).
 
 **4. Time**
 
--- design sprints. we should design our time as well as we design our products.
--- an interesting one. Used to take this narrowly as 'we all have limited time in the day'. Now understand that it's broader than that: things take time. Took 2-3 years to develop as product leader. Took 1-2 years before I could start delegating in earnest.
+This is intersting. I used to take this narrowly just to mean 'we all have the same time in the day', and so we need to prioritise our time. 
+This is true: we do need to prioritise our time. [The Design Sprint](https://www.thesprintbook.com/) by Jake Knapp is about the importance of prioritising time. On the surface, it's a book about a particular method of kicking-off work by have an intensely planned and organised week of activity. Look a little deeper, and it's about the general need to design our time as well as we design our products. I heard Jake speak at the [2017 London Mind the Product Conference](https://www.mindtheproduct.com/2017/09/design-sprints-jake-knapp/) where he said that what he was exploring in the book and the specific model of the design sprint was the need for us to recognise the value of our time. We have rigorous sprints to plan our work - and then undermine them by having all manner of meetings eat away at our time. We have to justify all the work in a backlog to, but treat our time as infinite and agree to all sorts of time-sucks without question. The takeaway: design our time as well as we design our products.
+
+I've also come to realise that things take time. Sometimes the key to success is leaving enough time for them. I've never witnessed real, positive change in a large, complex organisation in less than 6 months. It's often closer to 1-2 years. I've never witnessed a new team approach high-performance in less than 2-3 months. It might take 6 momths. And that's if it's a genuinely co-located, multidisciplinary team. Patience and persistence and are often the crucial and and overlooked ingredients for success. Things take time. 
 
 **5. Value management**
 
