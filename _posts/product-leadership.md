@@ -140,9 +140,23 @@ I've found two things to be particularly useful in developing my leadership skil
 
 **3. Organisational improvement**
 
--- nearly burnt myself out by trying to improve everything at once but govt is too big to be 'saved' by one person. Do one thing at a time. Even a single bit of one dept can have enough problems to lead to burnout for someone drive by perfection and unrelenting standards. Prioritise the most valuable thing. Focus on finishing over starting.
--- PDCA
--- Have to be as interested in your organisation as you have previously been in a single team. It's not 'stakeholders', it's colleagues.  The organisation is your team. It's not 'the business', it's our organisation. It's just large and complicated. Need to be as interested in organising large organisation as you are in the problem space of your product(s).
+It's important for leaders to commit to improving their organisation.  Leaders must continuously work to simplify processes and business complexity, to increase the effectiveness, autonomy and capabilities of teams. At the same time, there's a limit to how much we can do. I've nearly burned myself out a couple of times trying to improve an organisation on my own. Government, for example, is too big to be saved by one person. I've learned over time that as long as I'm always foccussed one improving one aspect of my organisation then I'm doing my job. I've stopped starting lots of things and switched to finishing things. Doing one thing at a time is the best way to see something through to a genuine result.
+
+nearly burnt myself out by trying to improve everything at once but govt is too big to be 'saved' by one person. Do one thing at a time. Even a single bit of one dept can have enough problems to lead to burnout for someone drive by perfection and unrelenting standards. Prioritise the most valuable thing. Focus on finishing over starting.
+
+I've been using a cycle of organisational improvement for the last few years, known as the [improvement kata](https://www.lean.org/Workshops/WorkshopDescription.cfm?WorkshopId=68) and popularised by Toyota. The four steps are:
+
+Planning:
+
+1. Understand the direction of change, often derived from the vision set by the leadership (which should be inspiring and potentially unobtainable in practice). 
+2. Grasp the current condition. Understand and benchmark the current condition
+3. Establish the target condition. Identify the aspect of the organisation being addressed, the date by which you want to reach the target condition, and pass/fail criteria by which to judge success.
+
+Execution:
+
+4. Iterate towards the target condition using a [plan-do-check-act cycle](https://www.mindtools.com/pages/article/newPPM_89.htm), series of experiments to achieve (trust people to run experiments and react quickly, not plan all action in advance)
+
+The organisation is your team. It's not 'the business', it's our organisation. It's just large and complicated. Need to be as interested in organising large organisation as you are in the problem space of your product(s).
 
 **4. Time**
 
