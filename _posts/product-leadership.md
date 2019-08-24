@@ -165,13 +165,15 @@ This is true: we do need to prioritise our time. [The Design Sprint](https://www
 
 I've also come to realise that things take time. Sometimes the key to success is leaving enough time for them. I've never witnessed real, positive change in a large, complex organisation in less than 6 months. It's often closer to 1-2 years. I've never witnessed a new team approach high-performance in less than 2-3 months. It might take 6 momths. And that's if it's a genuinely co-located, multidisciplinary team. Patience and persistence and are often the crucial and and overlooked ingredients for success. Things take time. 
 
-**5. Value management**
+**5. Value**
 
--- our USP, where a lot of product leadership sits
--- art of business value
+This is the ultimate test of our leadership. 
+Are our products and services valuable for our users? Is that value increasing over time because of our leadership?
+Everything we do should be geared towards this dimension of leadership. Value is the most critical aspect of working with agility. It’s the focus of the first of the [principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html): 'Our highest priority is to satisfy the customerthrough early and continuous deliveryof valuable [software].'
 
+However.
 
-Make all of this work visible in leadership plans; not just delivery work
+Working with agility makes the promise of focussing on value but then witholds the means by which to define value. The Agile Manifesto gives us nothing to help figure out what value is. Subsequent frameworks like Scrum also neglect to help us figure out what value is. Most guides seem to assume that ‘value’ is figured out somewhere else by ‘the business’ then presented to delivery teams in a fully-formed stated to be consumed and acted upon. In reality, it’s often the case that ‘the business’ is waiting for delivery teams to present their defintion of value. And so we can end up in a space where we’re all delivering ‘stuff’ early and often without an honest sense of whether it’s truly valuable.
 
 # Chapter 2: Product leadership
 
@@ -224,3 +226,5 @@ Expert: understand rules well enough to bend them, break them, and remake them.
 Product leader report from Laura: move from 'new' to legacy focus.
 
 https://www.mironov.com/whatleadersdo/
+
+Make all of this work visible in leadership plans; not just delivery work
