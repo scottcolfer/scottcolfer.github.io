@@ -173,7 +173,30 @@ Everything we do should be geared towards this dimension of leadership. Value is
 
 However.
 
-Working with agility makes the promise of focussing on value but then witholds the means by which to define value. The Agile Manifesto gives us nothing to help figure out what value is. Subsequent frameworks like Scrum also neglect to help us figure out what value is. Most guides seem to assume that ‘value’ is figured out somewhere else by ‘the business’ then presented to delivery teams in a fully-formed stated to be consumed and acted upon. In reality, it’s often the case that ‘the business’ is waiting for delivery teams to present their defintion of value. And so we can end up in a space where we’re all delivering ‘stuff’ early and often without an honest sense of whether it’s truly valuable.
+Working with agility makes the promise of focussing on value but then witholds the means by which to define value. The Agile Manifesto gives us nothing to help figure out what value is. Subsequent frameworks like Scrum also neglect to help us figure out what value is. Most guides seem to assume that ‘value’ is figured out somewhere else by ‘the business’ then presented to delivery teams in a fully-formed stated to be consumed and acted upon. In reality, it’s often the case that ‘the business’ is waiting for delivery teams to present their defintion of value. And so we can end up in a space where we’re all delivering ‘stuff’ early and often without an honest sense of whether it’s truly valuable. This can feed the #deliveryisthestrategy meme. 
+
+We can switch from delivering 'stuff' to delivering valuable outcomes. We need to define the value proposition for our organisation. We need to define the value of the service(s) we offer. We need to set missions that measure improvement to this value. Sounds a lot like product management, right? Yes it does. Product leadership is just product management put to work in a management team. Managing value is the specialism of product managers. And so this leadership dimension is where product leadership comes to life. Product leaders are uniquely placed to shape this leadership dimension for their organisation. Our specialist skill is to take the insights of multiple, specialist perspectives and to find value in the sweetspot where they align. We learn this as product managers within product teams. Our challenge and opportunity as product leaders is to take everything we've learned and tweak it to work at a larger scale, within a management team.
+
+---
+
+My assumption is that product leadership takes the skills required to lead in a large, complex organisation and filters them through the [product management skills](https://scottcolfer.com/product-management-handbook/) we've learned working in product teams. Product leaders are just product managers in management teams. Ultimately, a team is a team. Working as a product manager in a product team has given us the skills we need to work as a product manager in a leadership team. Yes, we need to adapt them to a new context. But fundamentally our specialism remains the same: taking the insights of multiple, specialist perspectives and to find value in the sweetspot where they align. The way we do this remains them same: building the value proposition for our organisation; defining the value of the product(s)/service(s) we offer; and setting missions that measure improvement to this value. 
+
+I've shared my personal definition of 'general' leadership in chapter 1:
+
+- I'm working in a large, complex organisation so am focussing on this context
+- leaders must be capable of understanding complex systems
+- leaders must help people in their organisation to make good decisions in conditions where they can never have sufficient information and context to understand the full consequences of their decisions, and given that events often overtake plans
+- leaders can achieve this through mission command: building strong teams with mutual trust and setting outcome-driven missions with clear intent, and creating a shared understanding of missions. This enables disciplined initiative that allows people and teams to respond to change and to each other, and to make informed decisions as needed
+- leadership consists of five dimensions: 1. Ourself; 2. People; 3. Organisational improvement; 4. Time; 5. Value
+- product leaders are uniquely placed within their organisation to lead on value.
+
+In chapter 2 I've shared my emerging thinking about the specifics of product leadership:
+
+- the differences between product teams and management teams
+- adapting product management skills learned in product teams so that they work in management teams
+- value at an organisational level.
+
+---
 
 # Chapter 2: Product leadership
 
@@ -187,6 +210,8 @@ Why multidisciplinary works well:
 https://www.bmj.com/content/bmj/344/bmj.e2718.full.pdf
 https://blog.prototypr.io/why-multi-disciplinary-teams-are-good-1e3ed930ea21
 https://journals.sagepub.com/doi/full/10.1111/j.1529-1006.2005.00022.x
+
+https://itrevolution.com/book/the-art-of-business-value/
 
 Trying to introduce this to management teams https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
 
