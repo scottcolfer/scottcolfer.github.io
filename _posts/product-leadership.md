@@ -200,11 +200,12 @@ In chapter 2 I've shared my emerging thinking about the specifics of product lea
 
 # Chapter 2: Product leadership
 
-Previously took identity from 'hands-on' product management - worried at loss of product management when moving into 'managing people'.
+Product managers often ask me a question: 'do you mainly manage people now you're a head of product?' My answer is 'yes . . . that's what you do, right?'. When I was a product manager in a produc team, I managed people. I didn't build the product or design the product. I managed other people, bringing the insights of specialists together. I brought together the insights from specialists and looked for value in the sweetspot where they aligned. I managed people. There's a lot of anxietyt amongst product leaders worried that they need to remain 'hands-on' in a product team or they'll lose their product management skills.  What I've learned is that this is a comfort blanket. Product leaders are simply product managers for a management team. We're hands-on in our management team. We do everything we used to do in product teams but adapt it to work at a larger scale. A team is a team. We're simply taking what worked in a product team and adapting it to work in a leadership team.
 
-A team is a team.
+## What's the difference between a product team and a management team?
 
-Just product manager for management and leadership teams. And they are interesting. Maybe don't conform to your expectations of teams.
+Management teams are interesting. If you're used to working with co-located, multi-disciplinary specialists then a management team might not conform to your expectations of what a team is.
+
 Maybe not that multidisciplinary, and not used to specialists.
 Why multidisciplinary works well:
 https://www.bmj.com/content/bmj/344/bmj.e2718.full.pdf
