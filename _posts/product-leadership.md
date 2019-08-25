@@ -204,15 +204,12 @@ Product managers often ask me a question: 'do you mainly manage people now you'r
 
 ## What's the difference between a product team and a management team?
 
-Management teams are interesting. If you're used to working with co-located, multi-disciplinary specialists then a management team might not conform to your expectations of what a team is.
+Management teams are interesting. If you're used to working with co-located, multi-disciplinary specialists then a management team might not conform to your expectations of what a team is. 
+
+Management teams may be monodisciplinary or new to being multidisciplinary. Product teams have understood the value of multidisciplinary team members for quite some time. Lizzie Bruce has written a helpful post about [why multidisciplinary teams are good](https://blog.prototypr.io/why-multi-disciplinary-teams-are-good-1e3ed930ea21) with the healthcare sector carrying out great research on the value of multidisciplinary teams and their effect on things like [breast cancer survival](https://www.bmj.com/content/bmj/344/bmj.e2718.full.pdf). Specialists joining management teams may find that they are joining generalist leaders, who've generally been responsible for an organisational silo (along with everything that happens in that organisational silo). 
 
 Trying to introduce this to management teams https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
 
-Maybe not that multidisciplinary, and not used to specialists.
-Why multidisciplinary works well:
-https://www.bmj.com/content/bmj/344/bmj.e2718.full.pdf
-https://blog.prototypr.io/why-multi-disciplinary-teams-are-good-1e3ed930ea21
-https://journals.sagepub.com/doi/full/10.1111/j.1529-1006.2005.00022.x
 
 Different to product team. Often may have basic understanding of working with agility. Don't spend much time together so takes a long time to build trust and performance (not co-located, rarely multi-disciplinary, often limited face-to-face time).
 
