@@ -206,39 +206,32 @@ Product managers often ask me a question: 'do you mainly manage people now you'r
 
 Management teams are interesting. If you're used to working with co-located, multi-disciplinary specialists then a management team might not conform to your expectations of what a team is.
 
+Trying to introduce this to management teams https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
+
 Maybe not that multidisciplinary, and not used to specialists.
 Why multidisciplinary works well:
 https://www.bmj.com/content/bmj/344/bmj.e2718.full.pdf
 https://blog.prototypr.io/why-multi-disciplinary-teams-are-good-1e3ed930ea21
 https://journals.sagepub.com/doi/full/10.1111/j.1529-1006.2005.00022.x
 
-https://itrevolution.com/book/the-art-of-business-value/
-
-Trying to introduce this to management teams https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
-
-Digital is . . . 
-Tends to only focus on technology
-Product interested in the others
-Product is a business function, not a technology function
-Digital transformation is change of all the above
-
-Symptom of the above: tech startups or previously tech teams (ass we're often in in govt) might better understand technology profession - so may be more open to Chief Technology officer/technology leadership than product leadership. Might need to hit a problem before value of the profession is seen (e.g. Financial Times - or once it's a certain age and is judged by outcomes, not outputs).
-
-People https://twitter.com/lennysan/status/1148254680599805952
-
-https://go.pendo.io/rs/185-LQW-370/images/The_State_Of_Product_Leadership_2019.pdf
-
-You are the product manager for a management team. Product is a busines function, not a technology function. Meliss Perri tweet.
-- 'do you mind that you're just managing people?' What are you doing now? Product managers don't do anything, we think and we talk. The job is always about people.
-- 'don't you need to stay 'hands-on'? Otherwise you'll lose your skils'. You are hands-on. You're simply the product manager for your management team. You do everything you did in a propudct team, just adapted for a management team
 Different to product team. Often may have basic understanding of working with agility. Don't spend much time together so takes a long time to build trust and performance (not co-located, rarely multi-disciplinary, often limited face-to-face time).
-Equivalent of a user story at leadership level: opportunity outline
-Senior product manager = associate product leader
-- when I began my role, the disucssion was simply 'how many products can we get a senior to manage?'
 
 Have to be as interested in your organisation as you are in your users.
 HiPPOs are humans too https://www.mindtheproduct.com/2017/06/remember-hippos-humans/
 What everyone gets wrong about stakeholder https://melissaperri.com/blog/stakeholders 
+
+Make all of this work visible in leadership plans; not just delivery work
+
+## Adapting the skills you've learned in product teams to fit management teams
+
+Expert: understand rules well enough to bend them, break them, and remake them.
+
+What do product leaders do? https://www.mironov.com/whatleadersdo/
+
+Senior product manager = associate product leader
+- when I began my role, the disucssion was simply 'how many products can we get a senior to manage?'
+
+Equivalent of a user story at leadership level: opportunity outline
 
 Prioritisation quadrant:
 
@@ -247,10 +240,16 @@ Prioritisation quadrant:
 - org debt
 - org innovation
 
-Expert: understand rules well enough to bend them, break them, and remake them.
+## Value at an organisational level
 
-Product leader report from Laura: move from 'new' to legacy focus.
+https://itrevolution.com/book/the-art-of-business-value/
 
-https://www.mironov.com/whatleadersdo/
+## Additional reading
 
-Make all of this work visible in leadership plans; not just delivery work
+State of product leadership 2019 https://go.pendo.io/rs/185-LQW-370/images/The_State_Of_Product_Leadership_2019.pd
+
+# Afterword
+
+This is written for 'mature', large, complex organisations. 
+1st hire versus 25th hire https://twitter.com/lennysan/status/1148254680599805952
+Symptom of the above: tech startups or previously tech teams (ass we're often in in govt) might better understand technology profession - so may be more open to Chief Technology officer/technology leadership than product leadership. Might need to hit a problem before value of the profession is seen (e.g. Financial Times - or once it's a certain age and is judged by outcomes, not outputs).
