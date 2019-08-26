@@ -217,18 +217,13 @@ Finally, what's the similar between management teams and product teams? People. 
 
 ## Adapting the skills you've learned in product teams to fit management teams
 
-A management team is fundamentally just another team. We know that management teams and product teams have some superficial differences but they are fundamentally the same. All of the skills we've honed as a product manager in a product team are valuable in management teams with just a few tweaks. 
-
-Make all of this work visible in leadership plans; not just delivery work
-
 Expert: understand rules well enough to bend them, break them, and remake them.
 
-What do product leaders do? https://www.mironov.com/whatleadersdo/
+A management team is fundamentally just another team. We know that management teams and product teams have some superficial differences but they are fundamentally the same. All of the skills we've honed as a product manager in a product team are valuable in management teams with just a few tweaks. 
 
-Senior product manager = associate product leader
-- when I began my role, the disucssion was simply 'how many products can we get a senior to manage?'
+**Product strategy**: Value proposition, business model canvas, vision, roadmap
 
-Equivalent of a user story at leadership level: opportunity outline
+**Product management tactics**: SMART goals for a team/user story = opportunity outline . . . prioritisation quadrant . . . Make all of this work visible in leadership plans; not just delivery work
 
 Prioritisation quadrant:
 
@@ -236,6 +231,12 @@ Prioritisation quadrant:
 - improve relationships
 - org debt
 - org innovation
+
+**Product lifecycle** used for investment framework (5%, 25%, 70%)
+
+Senior product manager = associate product leader
+- when I began my role, the disucssion was simply 'how many products can we get a senior to manage?'
+What do product leaders do? https://www.mironov.com/whatleadersdo/
 
 ## Value at an organisational level
 
