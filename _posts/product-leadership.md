@@ -206,20 +206,23 @@ Product managers often ask me a question: 'do you mainly manage people now you'r
 
 Management teams are interesting. If you're used to working with co-located, multi-disciplinary specialists then a management team might not conform to your expectations of what a team is. 
 
-Management teams may be monodisciplinary or new to being multidisciplinary. Product teams have understood the value of multidisciplinary team members for quite some time. Lizzie Bruce has written a helpful post about [why multidisciplinary teams are good](https://blog.prototypr.io/why-multi-disciplinary-teams-are-good-1e3ed930ea21) with the healthcare sector carrying out great research on the value of multidisciplinary teams and their effect on things like [breast cancer survival](https://www.bmj.com/content/bmj/344/bmj.e2718.full.pdf). Specialists joining management teams may find that they are joining generalist leaders, who've generally been responsible for an organisational silo (along with everything that happens in that organisational silo). 
+Management teams may be monodisciplinary or new to being multidisciplinary. Product teams have understood the value of multidisciplinary team members for quite some time. Lizzie Bruce has written a helpful post about [why multidisciplinary teams are good](https://blog.prototypr.io/why-multi-disciplinary-teams-are-good-1e3ed930ea21) with the healthcare sector carrying out great research on the value of multidisciplinary teams and their effect on things like [breast cancer survival](https://www.bmj.com/content/bmj/344/bmj.e2718.full.pdf). Specialists joining management teams may find that they are joining generalist leaders, who are responsible for the entirity of organisational silo (along with everything that happens in that organisational silo). This is often known as 'line management', i.e. everyone has a single management line that leads into a single, generalist leader. This is the 'old hierarchy' that Jurgen Appelo referred to as management 1.0. Specialist's with cross-cutting responsibility for a profession that spans multuple silos is effectively the introduction of [matrix management](https://en.wikipedia.org/wiki/Matrix_management), in which management of an organisation becomes a collaborative effort between divisions of the organisation foccussed on tasks (what needs to be achieved), and profession focussed on specialist skills (how). Divisions of the organisation are narrow and deep. Professions are broad and shallow. These two perspectives create a useful tension that keep each other honest. The 'truth' lies somewhere between the two perspectives.
+
+Management teams may be dispersed. Probably across multiple areas of a building. Possibly across a coutntry. Maybe across the world. In relation to co-located product teams, they may spend little time together. Maybe once a fortnight (or less). They may spend even less time together in the real world. This means that it can take management teams significantly longer than co-located product teams to become high-performing. Trust is the bedrock of a high-performing team. Trust takes time, and is accelerated by spending time together in real life. Trust builds safety. Feeling safe makes us more willing to be vulnerable, more willing to constructively challenge our team members, and more willing to accept feedback. Product leaders joining management teams should look for opportunities to learn from the best-performing product teams and to take those lessons to their management team. 
 
 Trying to introduce this to management teams https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
 
-
-Different to product team. Often may have basic understanding of working with agility. Don't spend much time together so takes a long time to build trust and performance (not co-located, rarely multi-disciplinary, often limited face-to-face time).
+What's the same? Full of committed people. Probably operating under the most difficult conditions of all the teams in the organisation. Possibly at the forefront of all the tensions that with the rest of the organisation, who possible see 'digital' as a fly by night, hipster fad that won't commit to deadlines or explain what people will get for their money.
 
 Have to be as interested in your organisation as you are in your users.
 HiPPOs are humans too https://www.mindtheproduct.com/2017/06/remember-hippos-humans/
 What everyone gets wrong about stakeholder https://melissaperri.com/blog/stakeholders 
 
-Make all of this work visible in leadership plans; not just delivery work
-
 ## Adapting the skills you've learned in product teams to fit management teams
+
+A management team is fundamentally just another team. We know that management teams and product teams have some superficial differences but they are fundamentally the same. All of the skills we've honed as a product manager in a product team are valuable in management teams with just a few tweaks. 
+
+Make all of this work visible in leadership plans; not just delivery work
 
 Expert: understand rules well enough to bend them, break them, and remake them.
 
