@@ -222,9 +222,21 @@ A management team is fundamentally just another team. We know that management te
 
 **Product strategy** (how your organisation achieves its business goals) remains valuable. You're now appplying it to a division of an organisation or to an organisation as a whole but you'll use the same tools. You'll still use a [value proposition](https://www.strategyzer.com/canvas/value-proposition-canvas) but will be applying to the total value of an organisation rather than a single product or service. You'll still use a [business model](https://www.strategyzer.com/canvas/business-model-canvas) to optimise costs and improve value but will now be doing it at a larger scale. You'll still use a [vision](https://www.romanpichler.com/blog/tips-for-writing-compelling-product-vision/) to describe the improvement in value needed to make all the time, effort, and money worthwhile but not it will need to motivate a lot more people. You'll still need a [roadmap](https://www.mindtheproduct.com/2018/09/product-roadmaps-in-five-easy-pieces/) to describe how to get from today (as expressed by your business model) to the future (as expressed by your vision), except now it needs to cover multiple products and services and include the time and money you're investing in organisational improvement.
 
-**Product management tactics**: SMART goals for a team/user story = opportunity outline . . . prioritisation quadrant . . . Make all of this work visible in leadership plans; not just delivery work
+**Product management tactics** (how you break the strategy down into SMART goals for a team) also remains valuable. User stories are only one way for a product manager to set SMART goals for their team. I took Roman Pichler's Scrum Product Owner training many years ago and he shared that his colleague came up with the 'user story' as a way to help one organisation set SMART goals, and since then it's become another meme that's lost its orginal context. We don't have to express every SMART goal as a user story, we should only use them when useful. This reflection is useful for the product leader. We can set SMART goals in management teams if we think about new ways of expressing why we should do something. Most recently, I've been using the opportunity canvas to help set SMART goals in the management space, specifically to help introduce rigour and accountability to organisational improvement. Organisational improvement is often invisible and often just happens. This makes prioritisation, accountability, and learning difficult. I've started using the following way of expressing SMART goals in management teams around organisational improvement, taken from [Lean Enterprise](http://shop.oreilly.com/product/0636920030355.do):
 
-Prioritisation quadrant:
+| Section       | Description           | 
+| ------------- |:-------------:| 
+| Background     | Capture the critical information to understand the extent and importance of the problem. Tying the background to the goal statement reduces waste by limiting opportunities to focus on the wrong areas. | 
+|Current condition and problems statement     | This is the problem the business stakeholder wants to address, in simple understandable terms and not as a lack-of-solution statement. For example, avoid statements like ‘Our problem is we need a Case Management System.’      |
+| Goal statement | How will we know that our efforts were successful at the end of implementation? Ideally we will need one metric for success. For example, ‘Our goal is to reduce system failures compared to the previous test results of 22 major issues; our target is to reduce this by 20%.’      |
+| Root-cause analysis | Detail the hypothesis and and assumptions, or a set of experiments performed to test for cause and effect.      |
+| Countermeasures | List the steps of an experiment to test the hypothesis.      |
+| Check/confirmation effect | Define a method for assessing if the countermeasures have had an effect.      |
+| Follow-up actions and report | Identify further steps and share what you have learned with your team or organisation.     |
+
+
+
+**Prioritisation**
 
 - improve products
 - improve relationships
