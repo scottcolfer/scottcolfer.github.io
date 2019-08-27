@@ -234,7 +234,7 @@ A management team is fundamentally just another team. We know that management te
 | **Check/confirmation effect** | Define a method for assessing if the countermeasures have had an effect.      |
 | **Follow-up actions and report** | Identify further steps and share what you have learned with your team or organisation.     |
 
-I'm not suggesting that we now use this way of setting SMART goals for organisational improvement in all cases. Instead, it's more intended to show that we can set SMART goals in all sorts of contexts if we learn tricks beyond user stories.
+I'm not suggesting that we now use this way of setting SMART goals for organisational improvement in all cases. Instead, it's more intended to show that we can set SMART goals in all sorts of contexts if we learn tricks beyond user stories. 
 
 **Prioritisation**
 
