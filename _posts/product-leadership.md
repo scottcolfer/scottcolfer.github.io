@@ -226,15 +226,15 @@ A management team is fundamentally just another team. We know that management te
 
 | Section       | Description           | 
 | ------------- |:-------------:| 
-| Background     | Capture the critical information to understand the extent and importance of the problem. Tying the background to the goal statement reduces waste by limiting opportunities to focus on the wrong areas. | 
-|Current condition and problems statement     | This is the problem the business stakeholder wants to address, in simple understandable terms and not as a lack-of-solution statement. For example, avoid statements like ‘Our problem is we need a Case Management System.’      |
-| Goal statement | How will we know that our efforts were successful at the end of implementation? Ideally we will need one metric for success. For example, ‘Our goal is to reduce system failures compared to the previous test results of 22 major issues; our target is to reduce this by 20%.’      |
-| Root-cause analysis | Detail the hypothesis and and assumptions, or a set of experiments performed to test for cause and effect.      |
-| Countermeasures | List the steps of an experiment to test the hypothesis.      |
-| Check/confirmation effect | Define a method for assessing if the countermeasures have had an effect.      |
-| Follow-up actions and report | Identify further steps and share what you have learned with your team or organisation.     |
+| **Background**     | Capture the critical information to understand the extent and importance of the problem. Tying the background to the goal statement reduces waste by limiting opportunities to focus on the wrong areas. | 
+| **Current condition and problems statement**     | This is the problem the business stakeholder wants to address, in simple understandable terms and not as a lack-of-solution statement. For example, avoid statements like ‘Our problem is we need a Case Management System.’      |
+| **Goal statement** | How will we know that our efforts were successful at the end of implementation? Ideally we will need one metric for success. For example, ‘Our goal is to reduce system failures compared to the previous test results of 22 major issues; our target is to reduce this by 20%.’      |
+| **Root-cause analysis** | Detail the hypothesis and and assumptions, or a set of experiments performed to test for cause and effect.      |
+| **Countermeasures** | List the steps of an experiment to test the hypothesis.      |
+| **Check/confirmation effect** | Define a method for assessing if the countermeasures have had an effect.      |
+| **Follow-up actions and report** | Identify further steps and share what you have learned with your team or organisation.     |
 
-
+I'm not suggesting that we now use this way of setting SMART goals for organisational improvement in all cases. Instead, it's more intended to show that we can set SMART goals in all sorts of contexts if we learn tricks beyond user stories.
 
 **Prioritisation**
 
