@@ -242,19 +242,20 @@ Barry Overeem suggested a great way of balancing all of the work needed to optim
 
 We can take this and apply it at scale. We need to improve our products for our users, improve our relationships with our colleagues, improve how our organisation works, and to pay-down organisational debt each quarter. All of these activities need to happen every quarter. The challenge is to prioritise the amount of our time and money we spend on each. And to review and change this balance every quarter as conditions change.
 
-**Product lifecycle** used for investment framework (5%, 25%, 70%)
+**And lots more**
 
-Senior product manager = associate product leader
-- when I began my role, the disucssion was simply 'how many products can we get a senior to manage?'
-What do product leaders do? https://www.mironov.com/whatleadersdo/
+I've written a [handbook for product managers](https://scottcolfer.com/product-management-handbook/) that's main success is describing the product management concepts, skills, and principles most commonly valuable in my 1:1s with product managers over the last few years. When I first started writing it a couple a years ago the weakest section was the 'product leadership section'. I didn't really know what to put. At the time I didn't really have Lead Product Managers. And the discussion around Senior Product Managers was simply 'how many products can we get them to manager?'. We've moved on since then and see Senior Product Managers as group product managers, responsible for the overall value proposition for a group of products. And I now realise that product leadership is mainly about taking the skills we learned as product managers for product teams and adapting them for a greater scale as we move into management teams. Most of the product management skills in the [handbook for product managers](https://scottcolfer.com/product-management-handbook/) can be usefully adapting to work at scale, in management teams.
 
 ## Value at an organisational level
 
 https://itrevolution.com/book/the-art-of-business-value/
 
+**Product lifecycle** used for investment framework (5%, 25%, 70%)
+
 ## Additional reading
 
 State of product leadership 2019 https://go.pendo.io/rs/185-LQW-370/images/The_State_Of_Product_Leadership_2019.pd
+What do product leaders do? https://www.mironov.com/whatleadersdo/
 
 # Afterword
 
