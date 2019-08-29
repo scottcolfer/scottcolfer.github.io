@@ -248,17 +248,18 @@ I've written a [handbook for product managers](https://scottcolfer.com/product-m
 
 ## Value at an organisational level
 
-https://itrevolution.com/book/the-art-of-business-value/
+Lots of teams and organisations struggle to define what they really do, and what makes it valuable. More accurately, they struggle to be honest with themselves: goals and visions describe what they think they do or what they'd like to do. They need help to desribe what they really do, and what their users genuinely value. This was a key theme of the Mind the Product 2018 conference in London, with Janice Fraser's talk about [uncovering the truth](https://www.mindtheproduct.com/2019/01/uncovering-the-truth-by-janice-fraser/) being particularly insightful. 
 
-**Product lifecycle** used for investment framework (5%, 25%, 70%)
+Product leaders play a critical role in uncovering the truth about what their organisations do, and what makes it valuable. It's an essential foundation for good product strategy. Value is context-specific so it's unhelpful of me to make sweeping generalisations in the few words I'm allowing myself here. Instead I'll highlight the book that has most helped my thinking: [The Art of Business Value](https://itrevolution.com/book/the-art-of-business-value/) by Mark Scwartz.  It's the most thorough yet concise description of value cross-sector that I've encountered.
 
-## Additional reading
-
-State of product leadership 2019 https://go.pendo.io/rs/185-LQW-370/images/The_State_Of_Product_Leadership_2019.pd
-What do product leaders do? https://www.mironov.com/whatleadersdo/
+I've done a lot of thinking about value in my context: developing B2B software within public services. It's so critical to my role that I've shared my current thinking in a series of posts starting [here](https://scottcolfer.com/2019/03/17/digital-transformation-business-model.html).
 
 # Afterword
 
-This is written for 'mature', large, complex organisations. 
-1st hire versus 25th hire https://twitter.com/lennysan/status/1148254680599805952
-Symptom of the above: tech startups or previously tech teams (ass we're often in in govt) might better understand technology profession - so may be more open to Chief Technology officer/technology leadership than product leadership. Might need to hit a problem before value of the profession is seen (e.g. Financial Times - or once it's a certain age and is judged by outcomes, not outputs).
+There we have it. That's my product leadership journey to date. It's not a grand statement on all product leadership but it is an honest summary of my personal journey. 
+
+Context is important. 
+I'm writing about product leadership in a very large enterprise, from the perspective of a mature (6 years +) digital function. If you're a product leader in a startup (below 5 years) or a small/medium enterprise then some of what I've said will be more or less relevant to you. You might be lucky and not have much tech-debt to pay down. However, I've also worked in a tech startup and know that a toxic founder can generate a lot of organisational dysfunction is a short amount of time. So maybe perceived differences are not pronounced as we might assume. 
+I'm also writing from a non-profit environment, so people working in profit-driven organisations may find some of what I've said less relevant to them. Once again though, we still [measure value in non-profit environments](https://scottcolfer.com/2019/03/19/value-without-profit.html), we just measure mission success rather than profit. Other than that, the same product management concepts work in both spaces.
+
+This post is marks the end of the beginning of my development as a product leader. I've learned enough to realise that I have a lot to learn. So I'm sharing this to spark conversation that continues my learning (aka [making things open makes things better](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better)). Much of my approach to product leadership is a patchwork of things I've learned from others. I'm going to test this post out with many of those people, and no doubt improve it based on those tests. I lead a profession of 50+ product managers and our 1:1s and meetups are a continual source of learning and refinement. I meet with many of the Heads of Product in government at least once every couple of months, where we're all working together to improve the value of product leadership. I have a group of product management friends built-up over the years who I meet up with for dinner every few months. Mind the Product started a spin-off [meetup for product leaders](https://www.mindtheproduct.com/product-leadership/) in April 2017 that's been great as a safe space for Heads of Product, Directors of Product, and Chief Product Officers from all sectors and all types of organisations to talk openly and honestly about our challenges and successes. And the people referenced in this post are just a small indication of the many people who kindly make time to write down their thoughts and share the on the internet, for free, in order to help other product leaders. Product management is stepping out from behind technology, into management teams. Product Leadership is new and sketchy. Which is great, because it's up to all of us to determine what it becomes.
