@@ -6,17 +6,11 @@ Georg suggests I make time to have a chat with him to see if we  improve things.
 
 # Introduction
 
-This post is based on my experiences of moving from product management to 'product leadership' over the last few years. 
+There’s plenty of guidance and training on product management. There's little on product leadership. And common to many of my peers,  I've never had a product leader responsible for my support and development. This has led to lots of self-motivated digging, trial, and error.
 
-My recent perspective from within a large organisation, within an even larger organisation that has existed for a long time and needs to change how it operates in under to survive in the modern age. My perspective is also from a specialist leadershop role (product management) at a time when leaders are often generalists. 
+I've also found that  product leadership roles can be misunderstood  and under-used.  Senior and Lead  Product Manager can sometimes mean ‘busy product manager’, in  practice.  ‘Head of Product’ can sometimes mean ‘glorified people manager’ in practice.  
 
-More specifically:
-- I’ve progressed from product management to product leadership over the last 3 years
-- There’s some way to go until product leadership roles are understood and used to their full potential. ‘Senior Product Manager’ and ‘Lead Product Manager’ can sometimes mean ‘really busy product manager’ in practice. ‘Head of Product’ can sometimes mean ‘glorified people manager’ in practice.
-- I don’t have a product leader responsible for my support and development
-- There’s a lot of guidance and training on product management. There’s relatively little on product leadership
-
-If you're context is similar to the above then this post will be of particular relevance to you, however if you're willing to squint then most current or aspiring product leaders will see something of interest.
+We need to figure out what product leadership means and explain it to our colleagues asap. No pressure.  This post summarises my attempts to do these two things.
 
 # Chapter 1: Leadership
 
