@@ -1,12 +1,8 @@
 # Prologue
 
-"Scott, are you OK? You look exhausted."
+It's December 2016. People keep asking me if I'm OK. One of them is Georg, our executive coach. We chat in the kitchen. After a pause he says  "Scott, are you OK? You look exhausted." From behind tired eyes I let him know what's on my plate. In the last 12-months I've shifted from Senior Product Manager to Lead Product Manager. And then to unofficial Head of Product.  I'm  managing 15 product managers. I'm also managing a couple of Web Operations Engineers for good measure. I've just completed five simultaneous recruitment campaigns. And remain hands-on product manager for two teams. This was  too much for one person to do. I was burned-out.
 
-December 2016. Several people have asked me if I'm OK over the last couple of months. Two or three of them make time to chat with me. I bump into Georg, our executive coach, whilst getting some water in the kitch and he asks "Scott, are you OK? You look exhausted." I give a quick version of what's on my plate from behind tired eyes.
-
-2016 saw me shift from senior product manager, to lead product manager, to unofficial head of product. In December of that year I'm directly managing 15 product managers (along with a couple of Web Operations Engineers), have just completed 5 simultaneous recruitment campaigns, and remain hands-on product manager for a couple of teams. I've just completed work with other heads of product on the first role description and career pathway for product managers in government which has been a great experience but taken a lot of time and effort. This was too much for one person to do. I was burned out.
-
-Georg suggests I make time to have a chat with him to see if we improve things. A few days later we meet in the week before the Christmas break. And so began my real development as a product leader.
+Georg suggests I make time to have a chat with him to see if we  improve things. A few days later we meet in the week before the  Christmas break. And so began my real development as a product leader.
 
 # Introduction
 
