@@ -14,7 +14,11 @@ We need to figure out what product leadership means and explain it to our collea
 
 # Chapter 1: Leadership
 
-Georg and I had leadership coaching sessions together throughout 2017 that helped me to reflect on what I was learning about leadership. First thing-up was to figure out what general leadership means whilst working with agility. Georg's first recommended reading was [Management 3.0](https://jurgenappelo.com/management-30/) by Jurgen Appelo. This book helped consolidate on the type of leader I wanted to be, and the types of leaders I didn't want to be. It comes highly recommended. The short version is that **modern leaders need the ability to do the right thing and do the thing right in the midst of complexity** ('management 3.0') whilst avoiding hierarchical leadership ('management 1.0'), and meme leadership ('managment 2.0').  
+Following our chat in the kitchen, I have leadership coaching sessions with Georg in 2017.  The first thing I wanted to figure out was what good leadership look like in 2019. I wanted a handle on general leadership before getting stuck-in to product leadership.
+
+Georg's recommended I read [Management 3.0](https://jurgenappelo.com/management-30/)  by Jurgen Appelo. This book helped me define the type of leader I  want to be. It also helped me define the kind of leadership I want to avoid. It comes  highly recommended. The short version is that modern leaders need the ability to do the right thing and do the thing right in the midst of complexity. They need to avoid hierarchical leadership  and meme leadership. 
+
+Let's explore this further. 
 
 ### Leadership 1.0: Old hierarchies
 
