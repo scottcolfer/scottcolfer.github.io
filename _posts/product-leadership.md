@@ -118,9 +118,9 @@ Let's return to Georg, the coach I worked with during 2017. Georg developed a mo
 
 **1. My self**
 
-I am not my job. My work is not my life. My partner, my family, my friends, my interests and my hobbies are the main focus of my life. My job and the mission of my organisation (my work life) are really important to me but my partner, my family, my friends, my interests and my hobbies (my real life) are more important to me.
+I am not my job. My work is not my life. My partner, my family, my  friends, my interests and my hobbies are the main focus of my life. My  job and the mission of my organisation (my work life) are important to me. But my partner, my family, my friends, my interests and my hobbies (my real life) are more important to me. It's possible to carry a lot as a leader. Stress can build up. We can  burn out. Our mental health can suffer. I've found it  helpful to train myself to realise that work life is less important than  real life. 
 
-It's possible to carry a lot as a leader. Stress can build up. We can burn out. Our mental health can suffer. I've personally found it helpful to train myself to realise that work life is less important than real life. Taking breaks from work to rest my brain, and focussing on my partner, friends and family in my real life has the side benefit of making me much more effective when I'm at work. This [article](https://hbr.org/2017/12/break-the-cycle-of-stress-and-distraction-by-using-your-emotional-intelligence) in the Harvard Business Review by Kandi Wiens is a short exploration of these concepts.
+Taking breaks from work to rest my brain is important. Making time to focus on  my partner, friends and family in my real life has the side benefit of  making me much more effective when I'm at work. This [article](https://hbr.org/2017/12/break-the-cycle-of-stress-and-distraction-by-using-your-emotional-intelligence) in the Harvard Business Review by Kandi Wiens explores these concepts.
 
 **2. People**
 
