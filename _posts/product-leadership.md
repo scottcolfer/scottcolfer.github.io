@@ -69,7 +69,7 @@ So wtf does 'digital' mean? Harriett Green and Myra Hunt, Defra's joint Chief Di
 
 Harriett and Myra highlight an important aspect of this definition of digital: 
 
-> "The first 3 of those are about how we do things. About the ways that people work."**
+> "The first 3 of those are about how we do things. About the ways that people work."
 
 Technology is the smallest aspect of 'digital'.  We should call ourselves technology teams if our focus is purely technology. We earn the name 'digital' when we also improve practices, processes, and our culture. Tom Loosemore's definition of  'digital' summarises research into effective organisational change. I've supported [digital transformation of the charity sector](https://scottcolfer.com/2015/07/23/empathy-and-digital-transformation.html). Research like [The New Reality](https://thenewreality.info/) by Julie Dodd helped me understand that organisational change is complex. Improving an organisation requires investment in people, processess, tools (including technology), and mindset.
 
@@ -95,9 +95,12 @@ I've been re-training myself to be as  interested in my complex organisation as 
 
 ## Mission command
 
-If understanding complex human systems is the foundation of modern leadership then [mission command](https://en.wikipedia.org/wiki/Mission_command) is the framework for actually leading. Mission command is a way of providing leadership in situations where leaders can never have total information and don't have the capacity to make all important decisions without slowing down their entire organisation to their own pace. Organisations that exercise leadership through mission command build strong teams with mutual trust and set missions with clear intent, creating a shared understanding. This enables disciplined initiative that allows people and teams to respond to change and to each other, and to make informed decisions as needed. This is in contrast to the old hierarchies exmplified in command and control organisations. Command and control can work when you have high confidence in the problem you're solving, high confidence in the solution, strong product/market fit, and negligibly changes in conditions. I have seen it work for short amounts of time in small organisations with a single product and a small team but this is rare. 
+[Mission command](https://en.wikipedia.org/wiki/Mission_command)  is the framework for actually leading within a complex organisation.  Mission command allows leadership in situations where leaders can never have total information. And don't have the capacity to make all decisions for their organisation. 
+Organisations that exercise leadership through mission command build  strong teams with mutual trust. They set missions with clear intent,  creating a shared understanding. They encourage disciplined initiative. This allows people and teams to respond to change and  to make informed decisions. 
 
-Mission command was developed in the military and so I've looked to the insights of military professionals to help me better understand it. I particularly enjoyed 'Five reflections on building a misson command culture' [part 1](https://thearmyleader.co.uk/five-rules-of-thumb-to-build-a-mission-command-culture-part-1/) and [part 2](https://thearmyleader.co.uk/five-rules-of-thumb-to-build-a-mission-command-culture-part-2/), which shared 5 principles needed for mission command to work:
+Mission command contrasts with command and control. Command and  control can work when you have high confidence in the problem you're  solving and high confidence in your solution. It requires strong product/market fit and negligible changes in conditions. I have seen it work for short amounts  of time in small organisations but this is rare.
+
+Mission command was developed in the military. I've looked to  the insights of military professionals to help me better understand it. I  particularly enjoyed 'Five reflections on building a misson command  culture' [part 1](https://thearmyleader.co.uk/five-rules-of-thumb-to-build-a-mission-command-culture-part-1/) and [part 2](https://thearmyleader.co.uk/five-rules-of-thumb-to-build-a-mission-command-culture-part-2/), which shared 5 principles needed for mission command to work:
 
 1. make sure you have a vision
 2. overcommunicate clarity, at least 2 levels down
@@ -105,9 +108,7 @@ Mission command was developed in the military and so I've looked to the insights
 4. to encourage hones views, start by asking the most junior opinion and then work your way up the group
 5. treat other teams as if they are part of your team.
 
-For me, the way to counter the 'agile at scale' meme is to develop a mission command culture. Working with agility means focussing on outcomes over outputs, and releasing stuff early and often to check you're getting the outcomes you want. 'Agile at scale' means all teams do this, at all levels of the organisation. Mission command gives a general approach to working with agility at scale without the requirement to commit to a detailed methodology like LeSS or SAFe. Once again: these methodologies can be useful - but a lot of work would need to be undertaken before understanding enough about an organisation to judge whether these are right for them. 
-
-If I can recommend a single book to read in order to understand mission command and how it can work in a large enterprise then it would be [Lean Enterprise](http://shop.oreilly.com/product/0636920030355.do) by Barry O'Reilly et al. I've read it a couple of times over the last few years, directly implementing some of its suggestions at work, and exploring some concepts in more depth as part of my professional development.
+The 'agile at scale' meme can be countered by development of a mission command culture.  Mission command gives a  general approach to working with agility at scale. It does this without imposing a detailed methodology like LeSS or SAFe. [Lean Enterprise](http://shop.oreilly.com/product/0636920030355.do) by Barry O'Reilly et al is a great book to read on this topic. It explains what mission command looks like in a large enterprise. I've directly implemented severl of its suggestions in my day job. Other concepts have been explored as part of my professional development.
 
 ## Leadership dimensions
 
