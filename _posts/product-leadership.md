@@ -254,6 +254,8 @@ I've done a lot of thinking about value in my context: developing B2B software w
 
 There we have it. That's my product leadership journey to date. It's not a grand statement on all product leadership but it is an honest summary of my personal journey. 
 
+The my skills have been tested. 50+ product managers. Organisational merger. Multiple business units. We've scaled well. 
+
 Context is important. 
 I'm writing about product leadership in a very large enterprise, from the perspective of a mature (6 years +) digital function. If you're a product leader in a startup (below 5 years) or a small/medium enterprise then some of what I've said will be more or less relevant to you. You might be lucky and not have much tech-debt to pay down. However, I've also worked in a tech startup and know that a toxic founder can generate a lot of organisational dysfunction is a short amount of time. So maybe perceived differences are not pronounced as we might assume. 
 I'm also writing from a non-profit environment, so people working in profit-driven organisations may find some of what I've said less relevant to them. Once again though, we still [measure value in non-profit environments](https://scottcolfer.com/2019/03/19/value-without-profit.html), we just measure mission success rather than profit. Other than that, the same product management concepts work in both spaces.
