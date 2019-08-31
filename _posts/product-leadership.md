@@ -77,11 +77,11 @@ Technology is the smallest aspect of 'digital'.  We should call ourselves techno
 
 **3. #deliveryisthestrategy** 
 
-‘Delivery is the strategy’ was the rallying call of digital transformation in government for the longest time. The truth is that ‘delivery is the strategy’ is a tactic. It’s something used at the beginning of digital transformation to build an organisation’s emotional confidence in a new way of working. This rallying call is often interpretted as ‘the delivery of stuff is the strategy’, because ‘stuff’ gives everyone confidence that things are happening. This is often critical for the first 1-2 years of digital transformation, generating opportunities for the digital pipeline and demonstrating to colleagues that digital teams can be trusted with work. However, this approach quickly build up a lot of stuff that needs to demonstrate return on investment through real outcomes. It then needs to be supported and maintained and we have to figure out models for ongoing funding and continual improvement. It’s not uncommon to suddenly find too much work in progress and less return on investment than planned, with issues quickly arising.
+‘Delivery is the strategy’ was the rallying call for digital  transformation in government. The truth is that  ‘delivery is the strategy’ is a tactic. It’s used at the  beginning of digital transformation. It's an effective way to build a host organisation’s emotional confidence in a new way of working. This is critical for the first 1-2 years of digital transformation. Growing confidence through tangible software generates new opportunities. This builds a pipeline of work.
 
-If 'delivery is the strategy' is internally acknowledged as a tactic to support growth during years 0-2 of a new digital team then it can be healthy. 
-If 'delivery is the strategy' is then refined to mean 'delivery of outcomes is the strategy' then it can become a means for working with agility at scale (if applied to all levels of the organisation).
-If 'delivery is the strategy' is interpreted as 'do a lot of stuff' then it might not be a great strategy.
+This approach builds up a lot of stuff that needs done. And the goal shifts from simply building it, to demonstrating its value. We have to demonstrate return on investment, not just demo software.  It’s not uncommon to find ourselves with too much work  in progress. And less return on investment than planned. And let's not mention the headache of supporting and maintaining live software.
+
+'Delivery [of stuff] is the strategy' can be a useful tactic for promoting growth of a new digital team. Refining it to become 'delivery [of outcomes] is the strategy' is necessary after a couple of years.
 
 ### Leadership 3.0: Complexity
 
