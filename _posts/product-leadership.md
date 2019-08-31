@@ -32,9 +32,11 @@ I need to avoid command-and-control leadership. Instead, I need to aspire to ema
 
 ### Leadership 2.0: Meme leadership 
 
-There are add-ons designed the problems of old, hierarchical organisations. To summarise and paraphrase Jurgen Appelo, there are a lot of leadership fads (he gives Six Sigma as one example) that act as add-ons for hierarchical organisations. They ease the problems of these organisations without fundamentally changing the way that leadership takes place. Leadership 2.0 is just Leadership 1.0 with added-fads that release pressure built up within an old system.
+ There are a  lot of leadership fads.  To summarise and paraphrase Jurgen Appelo, they act as  add-ons for hierarchical organisations.  Thse fads ease the problems of an organisation without fundamentally changing leadership.  He gives Six Sigma as one example. This is 'leadership 2.0'. It is leadership 1.0 (old hierarchies) with add-ons to release pressure built up within an old system. 
 
-I like the word 'fad' but think 'meme' works even better. [Simon Wardley](https://twitter.com/swardley) has used the word 'meme' to describe leadership strategy, and it's stuck with me. I think 'meme' is more forgiving than 'fad'. A fad is a 'trivial fancy adopted for a while with irrational zeal', whereas a meme a unit of cultural information that is transmitted from one mind to another through repeated action. The cultural information that starts a meme may be valuable but this value may be lessened through repeated transmission. I'm about to list some common leadership memes and want to clarify that the inherent concepts are valuable in each case, but repeated transmission sometimes breaks them free of their true meaning. Sometimes they swtich and become the opposite of their original intent. With that being said, here's my top-3 leadership memes :)
+I like the word 'fad' but think 'meme' works even better. Simon Wardley  has used the word 'meme' to describe leadership strategy, and it's  stuck with me. 'Meme' is more forgiving than 'fad'. A fad is a  'trivial fancy adopted for a while with irrational zeal'. A meme is 'a unit of cultural information that is transmitted from one mind to  another through repeated action. The cultural information that starts a  meme may be valuable but this value may be lessened through repeated  transmission.' 
+
+I'm about to list some common leadership memes. Each meme has a core concept that is valuable. But their repeated transmission has forgotten this core concept. In extreme concept, repeated sharing changes them until they oppose their initial meaning. Here's my top-3 leadership memes :)
 
 **1. #agileatscale**
 
