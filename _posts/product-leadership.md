@@ -112,11 +112,9 @@ The 'agile at scale' meme can be countered by development of a mission command c
 
 ## Leadership dimensions
 
-Let's pause. 
-This is a lot, right? We're still working on general leadership. We haven't even got to the specifics of product leadership. 
-How do we keep all of this in mind in a practical way, day to day?
+Let's pause. This is a lot, right? We're still working on general leadership. We haven't even got to the specifics of product leadership. How do we keep all of this in mind in a practical way, day to day?
 
-Georg was developing a model to help balance the different dimensions of leadership in 2017, at the same time as we working have coaching sessions together. This meant that I got to use it and feedback on early versions of it. Georg finalised and published his mode in 2018, you can see it in this [post](https://georgfasching.com/introducing-the-prime-leadership-model/). I've taken the model and [tweaked it to fit my needs](https://scottcolfer.com/2018/01/29/leadership-dimensions.html). It's helped me to think of five dimensions to leadership that I need to balance at all times:
+Let's return to Georg, the coach I worked with during 2017. Georg developed a model to help balance the many dimensions of leadership. He developed it during the year we worked together. This meant that I got to use it and feedback on early  versions of it. I've found it helpful over the last few years. Georg finalised and published his mode in 2018, you can see it in this [post](https://georgfasching.com/introducing-the-prime-leadership-model/). I've taken the model and [tweaked it to fit my needs](https://scottcolfer.com/2018/01/29/leadership-dimensions.html). It's helped me to think of five dimensions to leadership that I need to balance at all times:
 
 **1. My self**
 
