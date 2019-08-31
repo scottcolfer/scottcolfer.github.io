@@ -22,17 +22,17 @@ Let's explore this further.
 
 ### Leadership 1.0: Old hierarchies
 
-Organisations designed around hierarchies  are managed in a top-down fashion. Power is in the hands of the few. People at the bottom have little money, few responsibilities, and  little motivation to do a good job. This is often described as  'command-and-control'. It is often mistakenly likened to a  military-style structur. In reality, the military abandoned this approach  many decades ago. This type of leadership can function in conditions of  high-certainty and low-change. It is poorly suited to conditions of  low-certainity and high-change. The organisation's workflow is dicated by the capacity of the small number of people allowed to make decisions.
+Organisations designed around hierarchies  are managed in a top-down fashion. Power is in the hands of the few. People at the bottom have little money, few responsibilities, and  little motivation to do a good job. This is often described as  'command-and-control'. It is often mistakenly likened to a  military-style structure. In reality, the military abandoned this approach  many decades ago. This type of leadership can function in conditions of  high-certainty and low-change. It is poorly suited to conditions of  low-certainty and high-change. The organisation's workflow is dictated by the capacity of the small number of people allowed to make decisions.
 
-The Government of the United Kingdom is around 800 years old. IBut times, they are a-changing. The [information age](https://en.wikipedia.org/wiki/Information_Age)  has seen massive and rapid change. The relationship between the public and Government in the UK has irrevocably changed. The public has  with much higher expectations of public services today than was the case in the past. The UK's Civil Service  is undergoing significant change to keep-pace with this change. The  Chief Executive of the Civil Service has challenged Civil Service  leaders to leave old hierarchies behind and embrace a new type of  leadership. In his [Civil Service Transformation speach](https://www.gov.uk/government/speeches/civil-service-transformation-speech) in early 2018 John Manzoni said: 
+The Government of the United Kingdom is around 800 years old. But times, they are a-changing. The [information age](https://en.wikipedia.org/wiki/Information_Age)  has seen massive and rapid change. The relationship between the public and Government in the UK has irrevocably changed. The public has  with much higher expectations of public services today than was the case in the past. The UK's Civil Service  is undergoing significant change to keep-pace with this change. The  Chief Executive of the Civil Service has challenged Civil Service  leaders to leave old hierarchies behind and embrace a new type of  leadership. In his [Civil Service Transformation speach](https://www.gov.uk/government/speeches/civil-service-transformation-speech) in early 2018 John Manzoni said: 
 
 > "We need leaders with empathy, who can manage their teams through  transformation and encourage continuous improvement. Leaders with  broader experience, who are effective in a complex, multidisciplinary  world, who lead with their hearts and their guts, as well as their  heads, who see the big picture. Leaders whose instincts - developed  through experience - are collaborative; who are used to working across  boundaries, confident beyond their own professional area, and inspire  and empower their teams."
 
-I need to avoid command-and-control leadership. Instead, I need to aspire to emapthetic, collaborate, empowering leadership. This will help build  an organisation that can respond quickly to change.
+I need to avoid command-and-control leadership. Instead, I need to aspire to empathetic, collaborate, empowering leadership. This will help build  an organisation that can respond quickly to change.
 
 ### Leadership 2.0: Meme leadership 
 
- There are a  lot of leadership fads.  To summarise and paraphrase Jurgen Appelo, they act as  add-ons for hierarchical organisations.  Thse fads ease the problems of an organisation without fundamentally changing leadership.  He gives Six Sigma as one example. This is 'leadership 2.0'. It is leadership 1.0 (old hierarchies) with add-ons to release pressure built up within an old system. 
+ There are a  lot of leadership fads.  To summarise and paraphrase Jurgen Appelo, they act as  add-ons for hierarchical organisations.  These fads ease the problems of an organisation without fundamentally changing leadership.  He gives Six Sigma as one example. This is 'leadership 2.0'. It is leadership 1.0 (old hierarchies) with add-ons to release pressure built up within an old system. 
 
 I like the word 'fad' but think 'meme' works even better. Simon Wardley  has used the word 'meme' to describe leadership strategy, and it's  stuck with me. 'Meme' is more forgiving than 'fad'. A fad is a  'trivial fancy adopted for a while with irrational zeal'. A meme is 'a unit of cultural information that is transmitted from one mind to  another through repeated action. The cultural information that starts a  meme may be valuable but this value may be lessened through repeated  transmission.' 
 
@@ -63,7 +63,7 @@ Useful reading
 
 Be honest. Do you really know what you mean when you tell people that you 'work in digital?' And do you think anyone else understands what it means? Be honest. Think of those glazed eyes at in the pub, at parties and family gatherings. The opaque nature of the word 'digital' was recently criticised by UK Government's Science and Technology Select Committee's [Digital Government inquiry](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/inquiries/parliament-2017/digital-government-17-19/). Their [report](https://publications.parliament.uk/pa/cm201719/cmselect/cmsctech/1455/145510.htm) concluded that the open-ended definition of "digital" made it difficult to assess progress made by the digital agenda.
 
-So wtf does 'digital' mean? Harriett Green and Myra Hunt, Defra's joint Chief Digital Officers, restated what 'digital' was intended to mean. Their post [what we mean by "digital"](https://defradigital.blog.gov.uk/2017/11/13/what-we-mean-by-digital/) returned to source and quoted Tom Loosemore's original defintion: 
+So wtf does 'digital' mean? Harriett Green and Myra Hunt, Defra's joint Chief Digital Officers, restated what 'digital' was intended to mean. Their post [what we mean by "digital"](https://defradigital.blog.gov.uk/2017/11/13/what-we-mean-by-digital/) returned to source and quoted Tom Loosemore's original definition: 
 
 > "Digital: Applying the culture, practices, processes & technologies of the Internet-era to respond to people's raised expectations."
 
@@ -71,7 +71,7 @@ Harriett and Myra highlight an important aspect of this definition of digital:
 
 > "The first 3 of those are about how we do things. About the ways that people work."
 
-Technology is the smallest aspect of 'digital'.  We should call ourselves technology teams if our focus is purely technology. We earn the name 'digital' when we also improve practices, processes, and our culture. Tom Loosemore's definition of  'digital' summarises research into effective organisational change. I've supported [digital transformation of the charity sector](https://scottcolfer.com/2015/07/23/empathy-and-digital-transformation.html). Research like [The New Reality](https://thenewreality.info/) by Julie Dodd helped me understand that organisational change is complex. Improving an organisation requires investment in people, processess, tools (including technology), and mindset.
+Technology is the smallest aspect of 'digital'.  We should call ourselves technology teams if our focus is purely technology. We earn the name 'digital' when we also improve practices, processes, and our culture. Tom Loosemore's definition of  'digital' summarises research into effective organisational change. I've supported [digital transformation of the charity sector](https://scottcolfer.com/2015/07/23/empathy-and-digital-transformation.html). Research like [The New Reality](https://thenewreality.info/) by Julie Dodd helped me understand that organisational change is complex. Improving an organisation requires investment in people, processes, tools (including technology), and mindset.
 
 'Digital transformation' seems to mean a mission and a method. The mission is probably improving the relationship between users and an organisation. The method is probably improvement of people, processes, tools, and mindset. Technology is one component of digital transformation.
 
@@ -91,7 +91,7 @@ All organisations are networks and modern leadership is about people  and their 
 
 The answer is that we need to replace leadership based in old  hierarchies. Instead we need leadership that embraces the complexity of our organisations. This is often described as [systems thinking](http://www.thinking.net/Systems_Thinking/OverviewSTarticle.pdf). Jurgen Appelo takes this a step further and describes this as [complex systems theory](https://en.wikipedia.org/wiki/Complex_system).  Systems thinking being is just one way of trying to understand  complex systems. Other techniques highlighted by Jurgen include system  dynamics, social complexity, and complexity thinking.
 
-I've been re-training myself to be as  interested in my complex organisation as I am in my products. I've only scratched the surface of complex systems theory. But it's already helped me on the road to becoming a  better leader. Improving my undertanding of complex systems theory is  one of my main learning and development objectives in 2019-20.
+I've been re-training myself to be as interested in my complex organisation as I am in my products. I've only scratched the surface of complex systems theory. But it's already helped me on the road to becoming a better leader. Improving my understanding of complex systems theory is  one of my main learning and development objectives in 2019-20.
 
 ## Mission command
 
@@ -100,7 +100,7 @@ Organisations that exercise leadership through mission command build  strong tea
 
 Mission command contrasts with command and control. Command and  control can work when you have high confidence in the problem you're  solving and high confidence in your solution. It requires strong product/market fit and negligible changes in conditions. I have seen it work for short amounts  of time in small organisations but this is rare.
 
-Mission command was developed in the military. I've looked to  the insights of military professionals to help me better understand it. I  particularly enjoyed 'Five reflections on building a misson command  culture' [part 1](https://thearmyleader.co.uk/five-rules-of-thumb-to-build-a-mission-command-culture-part-1/) and [part 2](https://thearmyleader.co.uk/five-rules-of-thumb-to-build-a-mission-command-culture-part-2/), which shared 5 principles needed for mission command to work:
+Mission command was developed in the military. I've looked to  the insights of military professionals to help me better understand it. I  particularly enjoyed 'Five reflections on building a mission command  culture' [part 1](https://thearmyleader.co.uk/five-rules-of-thumb-to-build-a-mission-command-culture-part-1/) and [part 2](https://thearmyleader.co.uk/five-rules-of-thumb-to-build-a-mission-command-culture-part-2/), which shared 5 principles needed for mission command to work:
 
 1. make sure you have a vision
 2. overcommunicate clarity, at least 2 levels down
@@ -108,7 +108,7 @@ Mission command was developed in the military. I've looked to  the insights of m
 4. to encourage hones views, start by asking the most junior opinion and then work your way up the group
 5. treat other teams as if they are part of your team.
 
-The 'agile at scale' meme can be countered by development of a mission command culture.  Mission command gives a  general approach to working with agility at scale. It does this without imposing a detailed methodology like LeSS or SAFe. [Lean Enterprise](http://shop.oreilly.com/product/0636920030355.do) by Barry O'Reilly et al is a great book to read on this topic. It explains what mission command looks like in a large enterprise. I've directly implemented severl of its suggestions in my day job. Other concepts have been explored as part of my professional development.
+The 'agile at scale' meme can be countered by development of a mission command culture.  Mission command gives a  general approach to working with agility at scale. It does this without imposing a detailed methodology like LeSS or SAFe. [Lean Enterprise](http://shop.oreilly.com/product/0636920030355.do) by Barry O'Reilly et al is a great book to read on this topic. It explains what mission command looks like in a large enterprise. I've directly implemented several of its suggestions in my day job. Other concepts have been explored as part of my professional development.
 
 ## Leadership dimensions
 
@@ -133,7 +133,7 @@ I find that lots of product leaders get into leadership through this dimension. 
 I've found two things to be particularly useful in developing my leadership skills in relation to people:
 
 - [Building Successful Communities of Practice](https://emilywebber.co.uk/building-successful-communities-of-practice/) by Emily Webber has helped me to design a product management profession that supports and develops 50 product managers across the UK. I've been using the book since it was published and hired Emily to work with me and my profession to design our community of practice.
-- [Performance Coaching](https://scottcolfer.com/2013/11/20/great-businesses-grow-from-conversations.html) is the skill that I use most often in my professional life. I'm a trained, non-directive performance coach. I assume that the head that holds a problem often holds the solution. I help people by listening to them, and asking non-directive questions to help them find their solution. It's sad how few occassions we get to speak and be genuinely listened to, but amazing how effective it can be for helping us to figure something out. I highly recommend both being coached and learning how to coach.
+- [Performance Coaching](https://scottcolfer.com/2013/11/20/great-businesses-grow-from-conversations.html) is the skill that I use most often in my professional life. I'm a trained, non-directive performance coach. I assume that the head that holds a problem often holds the solution. I help people by listening to them, and asking non-directive questions to help them find their solution. It's sad how few occasions we get to speak and be genuinely listened to, but amazing how effective it can be for helping us to figure something out. I highly recommend both being coached and learning how to coach.
 
 **3. Organisational improvement**
 
@@ -156,7 +156,7 @@ Execution:
 
 **4. Time**
 
-This is intersting. I used to take this to mean 'we all  have the same time in the day', and so we need to prioritise our time. This is true: we do need to prioritise our time. [The Design Sprint](https://www.thesprintbook.com/) by Jake Knapp is about the importance of prioritising time. On the  surface, it's a book about a particular method of kicking-off work by  have an intensely-planned and organised week of activity. Look a little  deeper, and it's about the general need to design our time as well as we  design our products. I heard Jake speak at the [2017 London Mind the Product Conference](https://www.mindtheproduct.com/2017/09/design-sprints-jake-knapp/). He said that the general theme of the book was the need to recognise the value of  our time. We have rigorous sprints to plan our work. Then  undermine them with unprioritised meetings. We  justify all the work in a backlog. Then treat our time as  infinite and agree to all sorts of time-sucks without question. The  takeaway: design our time as well as we design our products.
+This is interesting. I used to take this to mean 'we all  have the same time in the day', and so we need to prioritise our time. This is true: we do need to prioritise our time. [The Design Sprint](https://www.thesprintbook.com/) by Jake Knapp is about the importance of prioritising time. On the  surface, it's a book about a particular method of kicking-off work by  have an intensely-planned and organised week of activity. Look a little  deeper, and it's about the general need to design our time as well as we  design our products. I heard Jake speak at the [2017 London Mind the Product Conference](https://www.mindtheproduct.com/2017/09/design-sprints-jake-knapp/). He said that the general theme of the book was the need to recognise the value of  our time. We have rigorous sprints to plan our work. Then  undermine them with unprioritised meetings. We  justify all the work in a backlog. Then treat our time as  infinite and agree to all sorts of time-sucks without question. The  takeaway: design our time as well as we design our products.
 
 I've also come to realise that things take time. Sometimes the key to  success is leaving enough time. Positive change in a complex organisation often takes at least 6-months.  It's often closer to 1-2 years. A new team takes weeks, sometimes months, to start working well.  That's if it's a genuinely co-located, multidisciplinary team.  Patience and persistence and are the crucial and overlooked ingredients for success. Good things often take time.
 
@@ -164,7 +164,7 @@ I've also come to realise that things take time. Sometimes the key to  success i
 
 This is the ultimate test of our leadership. Are our products and services valuable for our users? Is that value  increasing over time because of our leadership? Everything we do should be geared towards this dimension of leadership.  Value is the most critical aspect of working with agility. It’s the  focus of the first of the [principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html): 
 
-> "Our highest priority is to satisfy the customerthrough early and continuous delivery of valuable software."
+> "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."
 
 However.
 
