@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Product Leadersjip"
+title: "Product Leadership"
 date: 2019-09-01
 ---
 
