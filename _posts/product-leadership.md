@@ -241,9 +241,21 @@ I'm not suggesting that we now use this way of setting SMART goals for all organ
 
 **Prioritisation**
 
-Barry Overeem suggested a great way of balancing all of the work needed to optimise a mature product. Barry's [backlog prioritisation quadrant](http://www.barryovereem.com/the-backlog-prioritisation-backlog/) reminds us that all product need new features, improved support, innovation, and architectural innovation to happen throughout their lifetime if their value is to be optimised and their return on investment improved. If we're working in 3-month blocks (for example) then some work will need to happen in all of these areas otherwise our product will deteriorate, and eventually break.
+Barry Overeem suggested a great way of balancing all of the work needed to optimise a mature product. Barry's [backlog prioritisation quadrant](http://www.barryovereem.com/the-backlog-prioritisation-backlog/) reminds us that all mature products need:
 
-We can take this and apply it at scale. We need to improve our products for our users, improve our relationships with our colleagues, improve how our organisation works, and to pay-down organisational debt each quarter. All of these activities need to happen every quarter. The challenge is to prioritise the amount of our time and money we spend on each. And to review and change this balance every quarter as conditions change.
+| Improved support       | New features | 
+| ------------- |:-------------:| 
+| Reduction of tech debt     | Innovation |
+
+All four classes of work are required throughout the lifetime of a product if it's value is to be improved. If we're working in 3-month blocks (for example)  then some work will need to happen in all of these areas each quarter. Otherwise our  product will deteriorate, and eventually break.
+
+We can take this and apply it at scale. Here's a portfolio prioritisation quadrant.
+
+| Improved client/user relationships  | Improve products | 
+| ------------- |:-------------:| 
+| Reduction of organisatinoal dysfunction     | Organisatinoal innovation |
+
+All of these activities need to happen every quarter. The challenge is to prioritise the amount of our time and money we spend on each. And to review and change this balance every quarter as conditions change.
 
 **And lots more**
 
