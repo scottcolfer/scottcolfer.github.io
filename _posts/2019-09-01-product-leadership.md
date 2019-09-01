@@ -20,7 +20,7 @@ We need to figure out what product leadership means and explain it to our collea
 
 # Chapter 1: Leadership
 
-Following our chat in the kitchen, I had leadership coaching sessions with Georg in 2017.  The first thing I wanted to figure out was what good leadership look like in 2019. I wanted a handle on general leadership before getting stuck-in to product leadership.
+Following our chat in the kitchen, I had leadership coaching sessions with Georg in 2017.  The first thing I wanted to figure out was what good leadership looks like. I wanted a handle on general leadership before getting stuck-in to product leadership.
 
 Georg recommended I read [Management 3.0](https://jurgenappelo.com/management-30/)  by Jurgen Appelo. This book helped me define the type of leader I  want to be. It also helped me define the kind of leadership I want to avoid. It comes  highly recommended. The short version is that modern leaders need the ability to do the right thing and do the thing right in the midst of complexity. They need to avoid hierarchical leadership  and meme leadership. 
 
