@@ -263,11 +263,11 @@ I've written a [handbook for product managers](https://scottcolfer.com/product-m
 
 ## Value at an organisational level
 
-Lots of teams and organisations struggle to define what they really do, and what makes it valuable. More accurately, they struggle to be honest with themselves: goals and visions describe what they think they do or what they'd like to do. They need help to desribe what they really do, and what their users genuinely value. This was a key theme of the Mind the Product 2018 conference in London, with Janice Fraser's talk about [uncovering the truth](https://www.mindtheproduct.com/2019/01/uncovering-the-truth-by-janice-fraser/) being particularly insightful. 
+Lots of teams and organisations struggle to define what makes them valuable. More accurately, they struggle to be honest with themselves. Their value proposition describes what they think they do or what they'd like to do. They need help to desribe what they really do, and what their users genuinely value. This was a key theme of the Mind the Product 2018 conference in London. Janice Fraser's talk about [uncovering the truth](https://www.mindtheproduct.com/2019/01/uncovering-the-truth-by-janice-fraser/) was particularly insightful. 
 
-Product leaders play a critical role in uncovering the truth about what their organisations do, and what makes it valuable. It's an essential foundation for good product strategy. Value is context-specific so it's unhelpful of me to make sweeping generalisations in the few words I'm allowing myself here. Instead I'll highlight the book that has most helped my thinking: [The Art of Business Value](https://itrevolution.com/book/the-art-of-business-value/) by Mark Scwartz.  It's the most thorough yet concise description of value cross-sector that I've encountered.
+Product leaders must uncover the truth about what makes their organisations valuable. It's an essential foundation for good product strategy. The book that has most helped me to start uncovering the value of my organisation is [The Art of Business Value](https://itrevolution.com/book/the-art-of-business-value/) by Mark Scwartz. It's the most thorough yet concise description of value, cross-sector, that I've encountered.
 
-I've done a lot of thinking about value in my context: developing B2B software within public services. It's so critical to my role that I've shared my current thinking in a series of posts starting [here](https://scottcolfer.com/2019/03/17/digital-transformation-business-model.html).
+I've done a lot of thinking about value in my context because it's critical to my role. I've shared my current thinking in a series of posts starting [here](https://scottcolfer.com/2019/03/17/digital-transformation-business-model.html).
 
 # Afterword
 
