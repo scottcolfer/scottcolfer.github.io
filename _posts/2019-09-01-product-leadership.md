@@ -16,7 +16,7 @@ There’s plenty of guidance and training on product management. There's little 
 
 I've also found that  product leadership roles can be misunderstood  and under-used.  Senior and Lead  Product Manager can sometimes mean ‘busy product manager’, in  practice.  ‘Head of Product’ can sometimes mean ‘glorified people manager’ in practice.  
 
-We need to figure out what product leadership means and explain it to our colleagues asap. No pressure :)
+We need to figure out what product leadership means and explain it to our colleagues asap. No pressure.
 
 # Chapter 1: Leadership
 
