@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Product Leadersjip"
+date: 2019-09-01
+---
+
 # Prologue
 
 It's December 2016. People keep asking me if I'm OK. One of them is Georg, our executive coach. We chat in the kitchen. After a pause he says  "Scott, are you OK? You look exhausted." From behind tired eyes I let him know what's on my plate. In the last 12-months I've shifted from Senior Product Manager to Lead Product Manager. And then to unofficial Head of Product.  I'm  managing 15 product managers. I'm also managing a couple of Web Operations Engineers for good measure. I've just completed five simultaneous recruitment campaigns. And remain hands-on product manager for two teams. This was  too much for one person to do. I was burned-out.
