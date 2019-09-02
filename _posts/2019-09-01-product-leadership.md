@@ -40,9 +40,9 @@ I need to avoid command-and-control leadership. Instead, I need to aspire to emp
 
 There are a  lot of leadership fads.  To summarise and paraphrase Jurgen Appelo, they act as  add-ons for hierarchical organisations.  These fads ease the problems of an organisation without fundamentally changing leadership.  He gives Six Sigma as one example. Jurgen describes this kind of leadership as 'leadership 2.0'. It is leadership 1.0 (old hierarchies) with add-ons (fads) to release pressure built up within an old system. 
 
-I like the word 'fad' but think 'meme' works even better. Simon Wardley  has used the word 'meme' to describe leadership strategy, and it's  stuck with me. 'Meme' is more forgiving than 'fad'. A fad is a  'trivial fancy adopted for a while with irrational zeal'. A meme is 'a unit of cultural information that is transmitted from one mind to  another through repeated action. The cultural information that starts a  meme may be valuable but this value may be lessened through repeated  transmission.' 
+I like the word 'fad' but think 'meme' works even better. Simon Wardley  has used the word 'meme' to describe leadership strategy, and it's  stuck with me. 'Meme' is more forgiving than 'fad'. A fad is a  'trivial fancy adopted for a while with irrational zeal'. A meme is 'a unit of cultural information that is transmitted from one mind to  another through repeated action'. The cultural information that starts a  meme may be valuable but this value may be lessened through repeated  transmission. 
 
-I'm about to list some common leadership memes. Each meme has a core concept that is valuable. But their repeated transmission has forgotten this core concept. In extreme concept, repeated sharing changes them until they oppose their initial meaning. Here's my top-3 leadership memes :)
+I'm about to list some common leadership memes. Each meme has a core concept that is valuable. But their repeated transmission has forgotten this core concept. In extreme cases, repeated sharing changes them until they oppose their initial meaning. Here's my top-3 leadership memes :)
 
 **1. #agileatscale**
 
