@@ -8,6 +8,7 @@ I've worked with lots of great organisations including [BBC Young Reporter](http
 
 ## Publications
 
+- [What is Product Management at the Ministry of Justice?](https://mojdigital.blog.gov.uk/2019/10/03/what-is-product-management-at-the-moj/) - 3/10/2019, Ministry of Justice blog (author)
 - [How we’re developing the product leaders of the future](https://digitalpeople.blog.gov.uk/2019/04/15/how-were-developing-the-product-leaders-of-the-future/) - 15/4/2019, Government Digital Service blog (co-author)
 - [Let’s Resolve to Create Humane Products in 2019](https://www.mindtheproduct.com/2019/01/lets-resolve-to-create-humane-products-in-2019/) - 2/1/2019, Mind the Product blog (author)
 - [The Product Management Handbook for Government](https://mojdigital.blog.gov.uk/2018/12/07/the-product-management-handbook-for-government/) - 7/12/2018, MOJ Digital & Technology blog (author)
