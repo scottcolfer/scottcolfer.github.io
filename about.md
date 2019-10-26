@@ -6,8 +6,9 @@ permalink: /about/
 
 I've worked with lots of great organisations including [BBC Young Reporter](https://www.bbc.co.uk/news/education-46131593), [Catch22](https://www.catch-22.org.uk/), [Deparment for Education](https://www.gov.uk/government/organisations/department-for-education), [Diabetes UK](https://www.diabetes.org.uk/), [European Commission](https://ec.europa.eu/commission/index_en), [General Assembly](https://generalassemb.ly/), [Google.org](https://www.google.org/), [Inside Job Productions](https://www.insidejobproductions.co.uk/), [Mind Of My Own](https://mindofmyown.org.uk/), [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice), [New Philanthropy Capital](https://www.thinknpc.org/), [Young Dads Collective](https://www.familyandchildcaretrust.org/young-dads-collective). 
 
-## Publications
+## Talks and Publications
 
+- Human-centred Public Services - 24/10/2019, Agile Humans conference, Belgrade (talk)
 - [What is Product Management at the Ministry of Justice?](https://mojdigital.blog.gov.uk/2019/10/03/what-is-product-management-at-the-moj/) - 3/10/2019, Ministry of Justice blog (author)
 - [How we’re developing the product leaders of the future](https://digitalpeople.blog.gov.uk/2019/04/15/how-were-developing-the-product-leaders-of-the-future/) - 15/4/2019, Government Digital Service blog (co-author)
 - [Let’s Resolve to Create Humane Products in 2019](https://www.mindtheproduct.com/2019/01/lets-resolve-to-create-humane-products-in-2019/) - 2/1/2019, Mind the Product blog (author)
