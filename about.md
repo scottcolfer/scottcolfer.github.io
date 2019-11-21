@@ -8,6 +8,7 @@ I've worked with lots of great organisations including [BBC Young Reporter](http
 
 ## Talks and Publications
 
+- [5 Product Management Hacks for Product Leaders](https://www.mindtheproduct.com/5-product-management-hacks-for-product-leaders/) - 21/11/2019, Mind the Product blog (author)
 - Human-centred Public Services - 24/10/2019, Agile Humans conference, Belgrade (talk)
 - [What is Product Management at the Ministry of Justice?](https://mojdigital.blog.gov.uk/2019/10/03/what-is-product-management-at-the-moj/) - 3/10/2019, Ministry of Justice blog (author)
 - [How we’re developing the product leaders of the future](https://digitalpeople.blog.gov.uk/2019/04/15/how-were-developing-the-product-leaders-of-the-future/) - 15/4/2019, Government Digital Service blog (co-author)
