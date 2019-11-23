@@ -54,7 +54,7 @@ A lot of anthologies, and a focus on cosmic horror, cyberpunk dystopian sci-fi. 
 
 - [The Boys](https://www.imdb.com/title/tt1190634/?ref_=nv_sr_srsg_0)
 - [Broad City](https://www.imdb.com/title/tt2578560/?ref_=nv_sr_srsg_0) Seasons 4 & 5
-- [Futurama]9https://www.imdb.com/title/tt0149460/?ref_=nv_sr_srsg_0)
+- [Futurama](https://www.imdb.com/title/tt0149460/?ref_=nv_sr_srsg_0)
 - [How they Dug the Victoria Line](https://www.bbc.co.uk/programmes/p00sc29t)
 - [Inside No.9 Live: Dead Line](https://www.imdb.com/title/tt7976574/?ref_=ttep_ep1)
 - [The Last Pirates: Britain's Rebel DJs](https://www.bbc.co.uk/programmes/b096k6g1)
@@ -62,10 +62,30 @@ A lot of anthologies, and a focus on cosmic horror, cyberpunk dystopian sci-fi. 
 - [Making their Mark: Maggi Hambling](https://www.bbc.co.uk/programmes/p02t7k03)
 - [Misfits Season 1](https://www.imdb.com/title/tt1548850/episodes?season=1&ref_=tt_eps_sn_1)
 - [Mortimer & Whitehouse: Gone Fishing](https://www.imdb.com/title/tt8641686/?ref_=nv_sr_srsg_0)
-Reginald D Hunter's Songs of the South
-Rick and Morty
-Russian Doll
-Soft Cell: Say Hello, Wave Goodbye
-Street Food
-Storyville: The Internet’s Dirtiest Secrets: The Cleaners
+- [Reginald D Hunter's Songs of the South](https://www.bbc.co.uk/programmes/p02j93lq)
+- [Rick and Morty](https://www.imdb.com/title/tt2861424/?ref_=nv_sr_srsg_0)
+- [Russian Doll](https://www.imdb.com/title/tt7520794/?ref_=nv_sr_srsg_0)
+- [Soft Cell: Say Hello, Wave Goodbye](https://www.bbc.co.uk/programmes/m0002tc3)
+- [Street Food](https://www.imdb.com/title/tt10050778/?ref_=nv_sr_srsg_0)
+- [Storyville, The Internet’s Dirtiest Secrets: The Cleaners](https://www.bbc.co.uk/programmes/m0003f2f)
 
+**Bonus, Podcast:** [The Case of Charles Dexter Ward](https://www.bbc.co.uk/programmes/p06spb8w/episodes/downloads).
+
+# Videogames
+
+I've now officially given-up on AAA games in 2019, almost exclusively playing indie games. A lot of adventure/exploration. Some surprisingly touching games here, like The Gardens Between, Gris, Night in the Woods, and North.
+
+- [Donut County](https://uk.ign.com/games/donut-county)
+- [The Gardens Between](https://uk.ign.com/games/the-gardens-between)
+- [Gris](https://uk.ign.com/games/gris)
+- [Night in the Woods](https://uk.ign.com/games/night-in-the-woods)
+- [North](https://uk.ign.com/games/north)
+- [Opus: Rocket of Whispers](https://uk.ign.com/games/opus-rocket-of-whispers)
+- [Planet Alpha](https://uk.ign.com/games/planet-alpha)
+- [SteamWorld Dig 2](https://uk.ign.com/games/steamworld-dig-2)
+- [Sundered: Eldritch Edition](https://uk.ign.com/games/sundered)
+- [Valley](https://uk.ign.com/games/valley).
+
+# Food
+
+Very few fancy restaurants this year, we've been enjoying the same brunch-spots and takeaways as last year. We've been enjoying ramen this year, favourite spots being [Shoryu](https://www.shoryuramen.com/stores/77-westfield-stratford) in Stratford and [Men](http://www.menhackney.com/) on Chatsworth Road.
