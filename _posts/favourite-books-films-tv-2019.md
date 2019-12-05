@@ -22,6 +22,7 @@ A lot of anthologies, and a focus on cosmic horror, cyberpunk dystopian sci-fi. 
 ## Films
 
 - [30 Days of Night](https://www.imdb.com/title/tt0389722/?ref_=nv_sr_srsg_0)
+- [Angel Heart](https://www.imdb.com/title/tt0092563/)
 - [Another Evil](https://www.imdb.com/title/tt4185566/?ref_=fn_al_tt_1)
 - [Banshee Chapter](https://www.imdb.com/title/tt2011276/?ref_=nv_sr_srsg_0)
 - [Booksmart](https://www.imdb.com/title/tt1489887/?ref_=nv_sr_srsg_0)
@@ -63,6 +64,7 @@ A lot of anthologies, and a focus on cosmic horror, cyberpunk dystopian sci-fi. 
 - [Misfits Season 1](https://www.imdb.com/title/tt1548850/episodes?season=1&ref_=tt_eps_sn_1)
 - [Mortimer & Whitehouse: Gone Fishing](https://www.imdb.com/title/tt8641686/?ref_=nv_sr_srsg_0)
 - [Reginald D Hunter's Songs of the South](https://www.bbc.co.uk/programmes/p02j93lq)
+- [Rich Hall's Red Menace](https://www.bbc.co.uk/programmes/m000b1gw)
 - [Rick and Morty](https://www.imdb.com/title/tt2861424/?ref_=nv_sr_srsg_0)
 - [Russian Doll](https://www.imdb.com/title/tt7520794/?ref_=nv_sr_srsg_0)
 - [Soft Cell: Say Hello, Wave Goodbye](https://www.bbc.co.uk/programmes/m0002tc3)
