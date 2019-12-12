@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My favourite books, films, TV, and videogames in 2019"
-date: 2018-12-12
+date: 2019-12-14
 ---
 
 # Books and films
@@ -83,6 +83,7 @@ I've now officially given-up on AAA games in 2019, almost exclusively playing in
 - [Night in the Woods](https://uk.ign.com/games/night-in-the-woods)
 - [North](https://uk.ign.com/games/north)
 - [Opus: Rocket of Whispers](https://uk.ign.com/games/opus-rocket-of-whispers)
+- [Pan-Pan](http://www.nintendolife.com/reviews/switch-eshop/pan-pan)
 - [Planet Alpha](https://uk.ign.com/games/planet-alpha)
 - [SteamWorld Dig 2](https://uk.ign.com/games/steamworld-dig-2)
 - [Sundered: Eldritch Edition](https://uk.ign.com/games/sundered)
