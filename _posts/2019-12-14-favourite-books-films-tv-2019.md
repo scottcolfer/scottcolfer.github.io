@@ -6,11 +6,12 @@ date: 2019-12-14
 
 # Books and films
 
-I mainly read/watch horror, science fiction, and supernatural. 2019 wasn't necessarily the year they were released or even then first time that I watched/read it - but it was enjoyed this year none the less.
+In which I mainly read and watched horror, science fiction, and supernatural stuff. 
+2019 wasn't necessarily the year they were released or even then first time that I watched/read it - but it was enjoyed this year none the less.
 
 ## Books
 
-A lot of anthologies, and a focus on cosmic horror, cyberpunk dystopian sci-fi. Favourites include:
+A lot of anthologies, and a focus on cosmic horror, cyberpunk, and dystopian sci-fi. Favourites include:
 
 - [Burning Chrome](https://www.goodreads.com/book/show/22323.Burning_Chrome) by William Gibson
 - [Camp Concentration](https://www.goodreads.com/book/show/553907.Camp_Concentration?ac=1&from_search=true&qid=q6AFxQXKhB&rank=2) by Thomas Disch
