@@ -23,6 +23,7 @@ A lot of anthologies, and a focus on cosmic horror, cyberpunk, and dystopian sci
 ## Films
 
 - [30 Days of Night](https://www.imdb.com/title/tt0389722/?ref_=nv_sr_srsg_0)
+- [American Factory](https://www.imdb.com/title/tt9351980/)
 - [Angel Heart](https://www.imdb.com/title/tt0092563/)
 - [Another Evil](https://www.imdb.com/title/tt4185566/?ref_=fn_al_tt_1)
 - [Banshee Chapter](https://www.imdb.com/title/tt2011276/?ref_=nv_sr_srsg_0)
