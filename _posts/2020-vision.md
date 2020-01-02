@@ -32,3 +32,4 @@ I'm not going to stress about the book. If it happens, it happens.  Irrespective
 
 # But first, baby
 
+Book takes back seat to baby. Work life is important but real life is more important. I'm not going to be as active on this blog for a while, and won't be as responsive to Twitter and LinkedIn messages for a while. Unless you're sending parenting tips :)
