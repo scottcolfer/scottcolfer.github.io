@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Update: Maelstrom"
-date: 2020-04-01
+date: 2020-03-30
 ---
 
 It’s been three months since my [last post](https://scottcolfer.com/2020/01/06/2020-vision.html). 
@@ -16,7 +16,7 @@ The last three months have felt like an extraordinary whirlpool at times.
 
 A global pandemic has appeared, taken root, and taken over. We’re all indoors, living off a diet of TV, films, and takeaway. It’s like being in my 20s again.  
 
-Happily, I became a dad in January. A tiny, small human has appeared, taken root, and taken over. Life is about sleeping, bodily fluids, and feeding. It’s like being in my 20s again (badum-tish).
+Happily, I became a dad in January. A tiny, small human has appeared, taken root, and taken over. Life is about sleeping, feeding, and ignoring housework. It’s like being in my 20s again (badum-tish).
 
 Into this whirlpool I have poured my ideas for a book on product management. I’ve jotted-down ideas that have occured in snatched moments. I actually made it out of the house to test ideas with human beings *in the flesh* in January and February. Thoughts reworked, connected, and discarded. It feels as though something has started to emerge from the churn.
 
