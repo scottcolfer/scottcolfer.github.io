@@ -9,7 +9,7 @@ It’s been three months since my [last post](https://scottcolfer.com/2020/01/06
 ***
 
 
-Maelstrom’ is a great word. This is the first occasion I’ve had to use it appropriately.
+'Maelstrom’ is a great word. This is the first occasion I’ve had to use it appropriately.
 
 A maelstrom is a whirlpool of extraordinary size or a turbulent situation. Likely, it’s derived from early dutch words meaning ‘to grind’, and ‘stream’.
 
