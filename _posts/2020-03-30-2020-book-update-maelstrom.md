@@ -42,7 +42,7 @@ Implementing the stuff I’ve figured out, at scale, is a 2-3 year project. Mini
 
 **Writing and publishing**
 
-Several friends, colleagues, and acquaintances have written books on topics ranging from product management, to cliches in football, to Russian propaganda postcards. And topics inbetween. I paid attention to their experiences of writing at the time, particularly because their experiences and approaches were so different. I’m going to follow-up with some of them to learn more about their approach to writing, and to learn more about publishing.
+Several friends, colleagues, and acquaintances have written books on topics ranging from product management, to cliches in football, to Russian propaganda postcards. And topics in between. I paid attention to their experiences of writing at the time, particularly because their experiences and approaches were so different. I’m going to follow-up with some of them to learn more about their approach to writing, and to learn more about publishing.
 
 **Stories**
 
