@@ -8,7 +8,8 @@ It’s been three months since my [last post](https://scottcolfer.com/2020/01/06
 
 ***
 
-‘Maelstrom’ is a great word. This is the first occasion I’ve had to use it appropriately.
+
+Maelstrom’ is a great word. This is the first occasion I’ve had to use it appropriately.
 
 A maelstrom is a whirlpool of extraordinary size or a turbulent situation. Likely, it’s derived from early dutch words meaning ‘to grind’, and ‘stream’.
 
@@ -21,6 +22,7 @@ Happily, I became a dad in January. A tiny, small human has appeared, taken root
 Into this whirlpool I have poured my ideas for a book on product management. I’ve jotted-down ideas that have occured in snatched moments. I actually made it out of the house to test ideas with human beings *in the flesh* in January and February. Thoughts reworked, connected, and discarded. It feels as though something has started to emerge from the churn.
 
 ***
+
 
 I shared my intent to write a book in my [last post](https://scottcolfer.com/2020/01/06/2020-vision.html), here’s an update.
 
