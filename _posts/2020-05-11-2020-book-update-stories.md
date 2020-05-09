@@ -16,3 +16,18 @@ I’ve got a baby, I’m back at work, and we’re in lock down. I’m not going
 
 # Two. Pride and Prejudice
 
+I fell out of love with a topic half-way through a postgraduate degree in it. 
+
+I studied for a [Master of Arts](https://en.wikipedia.org/wiki/Master_of_Arts in [critical theory](https://en.wikipedia.org/wiki/Critical_theory), which aims to reveal and challenge our power structures by assessing our society and culture. I’d taken a Bachelor of Arts in English Studies, loved the critical theory modules, and gone straight into a postgraduate course specialising in the topic. This was my error: I should have taken a break between undergraduate and postgraduate study instead of going from one to another. As it was, I became jaded by such academic, abstract language* being used to describe such immediate, pressing issues happening in the world today. I started to use my essays as a way to argue against my chosen subject and in favour of a more accessible, emotionally-ground way of talking about power. 
+
+ In one of my essays, I started with a book about power** and found that it was excellent at calling-out power structures that tell us who we should be to the point where we internalise these labels. What I didn’t find was hope. There was no means of resistance to these power structures. I then moved onto another famous book** and found hope through resistance. It suggested that when we’re told that we are something or someone and we don’t recognise ourselves in that pigeon hole, we are resisting a power structure. However, it took me around a month to understand just one of the key chapters in this book, so dense and almost mathematical was the language. I ended by looking to Pride and Prejudice by Jane Austin and finding that it achieved something similar to the two other books, highlighting power structures and offering ways of resisting them, but did this through an accessible and emotionally grounded-story. 
+ 
+ Feedback from organisers and attendees is that personal stories works well. Brings it to life. Provides context. Shows that we're making it up as we go along. Often the way I've figured something out is more valuable than the thing I figured out. I’ve made all this up as I’ve gone along. This is empowering to others, who can do the same.
+Phoenix Project: great for bringing something together but difficult for me to access.
+
+Two. Telling personal stories.
+
+MA dissertation
+Discipline and Punish: The Birth of the Prison https://www.goodreads.com/book/show/80369.Discipline_and_Punish
+The Psychic Life of Power: Theories in Subjection https://www.goodreads.com/book/show/331460.The_Psychic_Life_of_Power
+Pride and Prejudice https://www.goodreads.com/book/show/1885.Pride_and_Prejudice
