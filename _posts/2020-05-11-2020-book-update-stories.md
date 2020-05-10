@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book update: Pride and Prejudice and Moths"
+title: "Book Update: Pride and Prejudice and Moths"
 date: 2020-05-11
 ---
 
