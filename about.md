@@ -8,6 +8,7 @@ I've worked with lots of great organisations including [BBC Young Reporter](http
 
 ## Talks and Publications
 
+- [Exploration Over Pre-Discovery](https://mojdigital.blog.gov.uk/2020/06/11/exploration-over-pre-discovery/) - 11/6/20, Ministry of Justice blog (author)
 - [Discovery at the Ministry of Justice](https://mojdigital.blog.gov.uk/2020/01/23/discovery-at-the-ministry-of-justice/) - 23/1/20, Ministry of Justice blog (author)
 - [5 Product Management Hacks for Product Leaders](https://www.mindtheproduct.com/5-product-management-hacks-for-product-leaders/) - 21/11/2019, Mind the Product blog (author)
 - Human-centred Public Services - 24/10/2019, Agile Humans conference, Belgrade (talk)
