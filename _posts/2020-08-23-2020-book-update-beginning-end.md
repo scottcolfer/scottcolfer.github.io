@@ -10,15 +10,15 @@ Enough people have asked me ‘how’s the book going’ that I figured I’d wr
 
 The working title started as ‘product thinking’ but has switched to ‘good product management’. I’d always preferred ‘good product management’ but then I saw Lou Downe’s book ‘[Good Services](https://good.services/)’ and figured it was too close. I’ve not found anything I liked better. ‘Product thinking’ felt like I was clutching at straws. And nothing’s original anyway :) So I’ve gone back to good product management. Got the [domain name](https://goodproduct.management/) and everything. By the way, Good Services is on my reading list, it’s been recommended to me by several people.
 
-Who’s the book aimed at?
+**Who’s the book aimed at?**
 
 I’m going to focus on products and services that improve lives because that’s what gets me out of bed in the morning. So I’m imagining it’ll be of most interest to folks working in government departments or agencies, local authorities, charities, non-profits, social enterprises, and non-governmental organisations.
 
-What’s the book’s ‘hook’?
+**What’s the book’s ‘hook’?**
 
 I’ve been trying to find an ‘in’ to the book and think I’ve got it. I was chatting with my partner recently, describing what I’d actually done in my career over the last few years. They said ‘ah, it sounds like people find change uncomfortable and you help them with it’. Which seemed like a good summary and gave me the ‘hook’ for my book. People find change hard. Groups of people find change particularly hard. My experience of product management is that I’ve created space to decide on the right change to make at the right time, to improve the value of products and services for users and the organisation. It normally starts with big changes, and then becomes smaller, more frequent changes. 
 
-What’s my approach?
+**What’s my approach?**
 
 A colleague recently asked me if I’d seen that John Cutlefish has recently [paused work on his product management book](https://gumroad.com/johncutlefish/p/sadly-i-need-to-cancel-the-pre-order). I can empathise with his reasons: lockdown is hard and needing to be there for his partner and baby. My situation sounds similar. What I’ve taken from this is: I’m not going to stress if the book doesn’t happen, or I need to pause it for a while, or if it takes a while. I’m doing it for fun. If it stops being fun then I’ll stop work on it. My guess is that it was a hard decision for John but once it was made it felt like a weight had been lifted. 
 
