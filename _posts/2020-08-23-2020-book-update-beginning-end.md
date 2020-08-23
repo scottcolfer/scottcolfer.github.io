@@ -8,7 +8,7 @@ Enough people have asked me ‘how’s the book going’ that I figured I’d wr
 
 **Working title: Good Product Management**
 
-The working title started as ‘product thinking’ but has switched to ‘good product management’. I’d always preferred ‘good product management’ but then I saw Lou Downe’s book ‘[Good Services]9https://good.services/)’ and figured it was too close. I’ve not found anything I liked better. ‘Product thinking’ felt like I was clutching at straws. And nothing’s original anyway :) So I’ve gone back to good product management. Got the [domain name](https://goodproduct.management/) and everything. By the way, Good Services is on my reading list, it’s been recommended to me by several people.
+The working title started as ‘product thinking’ but has switched to ‘good product management’. I’d always preferred ‘good product management’ but then I saw Lou Downe’s book ‘[Good Services](https://good.services/)’ and figured it was too close. I’ve not found anything I liked better. ‘Product thinking’ felt like I was clutching at straws. And nothing’s original anyway :) So I’ve gone back to good product management. Got the [domain name](https://goodproduct.management/) and everything. By the way, Good Services is on my reading list, it’s been recommended to me by several people.
 
 Who’s the book aimed at?
 
