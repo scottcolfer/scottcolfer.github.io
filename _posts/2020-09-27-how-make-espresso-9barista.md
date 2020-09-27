@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "How to make espresso coffee with 9barista"
+title: "How to make espresso with 9barista"
 date: 2020-09-27
 ---
 
-# How to make espresso with 9barista
+This is a quick post on my new coffee kit, the 9barista, after several people asked about it. If you just want quick tips on how to use it then see immediately below. If you want more info on what it is, how it works, and whether it's for you then see the end of the post.
 
 ## Method
 
