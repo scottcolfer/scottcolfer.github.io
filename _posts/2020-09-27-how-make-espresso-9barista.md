@@ -8,7 +8,7 @@ This is a quick post on my new coffee kit, the 9barista, after several people as
 
 ## Method
 
-**Temperature:** I have a gas hob. I use the second smallest hob on full temperature. I tried on the smallest/coldest hob but the 9barista didn’t get up to pressure.
+**Temperature:** I have a gas hob. I use the second smallest hob on full temperature. *I initially tried on the smallest/coldest hob but the 9barista didn’t get up to pressure in time.*
 
 **Baseplate:** I have to use the supplied baseplate because I have a gas hob. I’ve found that preheating the baseplate whilst preparing the 9barista reduces the extraction time to 3 minutes and creates my favourite results.
 
