@@ -1,10 +1,7 @@
 # General Jekyll Config
 title: Scott Colfer
 name: Scott Colfer
-description: Blog about product management, product leadership, digital transformation and coffee. This blog produces less CO2 than 97% of sites on the web https://www.websitecarbon.com/website/scottcolfer-com/
-url: "https://scottcolfer.com/"
-google_analytics: UA-20458896-5
-
+description: Blog about product management, product leadership, digital transformation and coffee. This blog produces less CO2 than 97% of sites on the web. Check yours at WebsiteCarbon.com.
 # Build settings
 markdown: kramdown
 theme: minima
