@@ -6,7 +6,7 @@ date: 2020-24-14
 
 ‘Ten year retros’ appeared in my Twitter feed in Autumn 2019. I found them interesting and appreciated their honesty. I began sketching my own but had too much to say and got stuck. I had other things going on in real life, figured my time was more valuable elsewhere, and put it to one side. Then 2020 hit and half way through I decided to have another go. I gave myself 6 months. Didn’t rush. And have learned things I’d never thought of before. Here are fifteen things I found most interesting, shared in the hope that one or two of them are interesting to you too.
 
-I’m using (retrospective)[https://www.scrumguides.org/scrum-guide.html#sprint-retrospective] to mean the inspection of my professional life over the last decade, looking for assumptions that led me astray and changes I can make to improve the next decade.
+I’m using [retrospective](https://www.scrumguides.org/scrum-guide.html#sprint-retrospective) to mean the inspection of my professional life over the last decade, looking for assumptions that led me astray and changes I can make to improve the next decade.
 
 # 1. I’ve taken Discovery for granted
 **Improvement** 
