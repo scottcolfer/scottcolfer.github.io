@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ten Year Retrospective: 2010-2020"
-date: 2020-24-12
+date: 2020-12-24
 ---
 
 ‘Ten year retros’ appeared in my Twitter feed in Autumn 2019. I found them interesting and appreciated their honesty. I began sketching my own but had too much to say and got stuck. I had other things going on in real life, figured my time was more valuable elsewhere, and put it to one side. Then 2020 hit and half way through I decided to have another go. I gave myself 6 months. Didn’t rush. And have learned things I’d never thought of before. Here are fifteen things I found most interesting, shared in the hope that one or two of them are interesting to you too.
