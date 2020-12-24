@@ -8,6 +8,29 @@ date: 2020-12-24
 
 I’m using [retrospective](https://www.scrumguides.org/scrum-guide.html#sprint-retrospective) to mean the inspection of my professional life over the last decade, looking for assumptions that led me astray and changes I can make to improve the next decade.
 
+---
+
+The fifteen things are (in case you want to jump to the ones of interest):
+
+
+1. Product managment remains misunderstood
+2. Product managers don't need computer science degrees
+3. Don’t fetishise commercial product management
+4. There’s more to strategy than roadmaps
+5. Head of Product: Opposite of what I expected
+6. I’ve taken Discovery for granted
+7. Models can liberate thought
+8. There’s a world beyond product management
+9. The Agile Manifesto is about behaviours, not software
+10. There’s more to life than working with agility
+11. Non-directive Coaching is most valuable thing I’ve learned
+12. Words matter
+13. I like to work with other people as part of an organisation
+14. Good things take time
+15. Focus on finishing over starting
+
+---
+
 # 1. Product management remains misunderstood
 **Improvement**
 
@@ -156,7 +179,7 @@ I was figuring out what to do next when I saw this [tweet]https://twitter.com/sw
 
 There’s no improvement here, I just need to keep on using non-directive coaching and advocating it to others. I was trained as a performance coach in 2008 and it’s been the set of skills of used most often with most value since then. Here’s a [post](https://scottcolfer.com/2013/11/20/great-businesses-grow-from-conversations.html) from way back in 2013, the first time that I realised how useful coaching was to me.
 
-# 12. Most consistent thing was words we use without defining them
+# 12. Words matter
 **Improvement**
 
 Define words that we use a lot without clear and consistent meaning.
