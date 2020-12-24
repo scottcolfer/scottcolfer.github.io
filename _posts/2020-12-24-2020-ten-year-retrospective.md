@@ -8,7 +8,71 @@ date: 2020-24-14
 
 I’m using [retrospective](https://www.scrumguides.org/scrum-guide.html#sprint-retrospective) to mean the inspection of my professional life over the last decade, looking for assumptions that led me astray and changes I can make to improve the next decade.
 
-# 1. I’ve taken Discovery for granted
+# 1. Product management remains misunderstood
+**Improvement**
+
+Clearly and simply define product management. Then update the Wikipedia entry for [product management](https://en.wikipedia.org/wiki/Product_management).
+
+**Background**
+
+I started the decade thinking everyone else had product management figured out. I ended the decade thinking that product management is all things to all people.
+
+Have you seen the Wikipedia entry for [product management](https://en.wikipedia.org/wiki/Product_management)? It’s terrible but may be the first thing seen by people wanting to learn more about the profession. There are a few definitions around but they’re often context specific (Californian technology startups dominates) or misunderstand the role (rebadging project management, team management, or technology management). Conflating narrow frameworks (like the product owner role in Scrum) with the profession is also common.
+In the next decade I’d like to feel confident enough in my ability to simply and clearly explain product management that I could update our Wikipedia entry. 
+
+**Progress**
+I’ve made a start. I think that we can be pitched as the people responsible for [outcomes improving for our users](https://twitter.com/scottcolfer/status/1329519887488868358?s=20) (maybe outcomes manager or [value manager](https://scottcolfer.com/2017/09/17/value-manager.html) would be a better way to describe ourselves?). Product management is about improving the value of products and services for their users and their organisation. I've had a crack at describing [product management](https://buttondown.email/goodproductmanagement/archive/cd2842a6-93b6-462f-aacb-f0e1ab0ad4f6) in something approaching plain English.  
+
+# 2. Product managers don't need computer science degrees
+**Improvement**
+
+Advocate for a broad range of routes into product management.
+
+**Background**
+
+Beginning of the decade. I was self-conscious that I didn’t have a background as a developer and I didn’t have a Computer Science degree. The same common concern has been whispered to me in private by many other folks. I’ve come to realise it’s not a problem. In fact, it’s a good thing. You want your developer to have a background in development. Product managers need to understand multiple specialist perspectives in order to find value in the sweet spot where they align. One of those perspectives is sometimes development but most of them aren’t. The main thing at work here is understanding people and understanding how to align people. That doesn’t require a Computer Science degree. You don’t need one to be a product manager and I don’t look for one when recruiting product managers.
+
+On a personal level, I have an MA in Critical Theory. I never expected it to have practical applications, if I'm honest. But critical theory helps me to look at human systems and uncover their underlying power structures. Turns out this is a useful skill when finding social problems to try and help solve.
+
+**Progress**
+
+Mainly passive. I’ve never used a computer science degree as a reason to recruit a product manager. I judge openly and fairly based on the skills and level of skill listed in the job advertisement. But based on lack of confidence around not having a development or Computer Science background, I can take a more active approach. I’ve made a start in a recent [episode](https://buttondown.email/goodproductmanagement/archive/cd2842a6-93b6-462f-aacb-f0e1ab0ad4f6) of my newsletter, and have started thinking about explicit product management [principles](https://buttondown.email/goodproductmanagement/archive/91574a25-e63f-428c-8b00-7cc7dc081f9f), [behaviours](https://buttondown.email/goodproductmanagement/archive/de3b7e1a-5781-47ff-b897-4cc11e016c88), and [skills](https://buttondown.email/goodproductmanagement/archive/258796cd-4bf5-4174-b775-598808e12506) that make this much clearer. A lot more to do on this one.
+
+# 3. Don't fetishise commercial product management
+**Improvement**
+
+Amplify product management that puts people before profit.
+
+**Background**
+
+I’ve been guilty of fetishising the private sector. When I started as a product manager I was self-conscious that I hadn’t worked for a Californian tech giant. The most popular product management guidance is designed for the private sector. I’m good-lazy. If something exists, I don’t want to reinvent the wheel. So when developing as a product manager I started from this private sector-focused guidance. And it’s great. But after working in that sector and seeing behind the scenes in a lot of these organisations I realised that they don’t have it all figured out. It’s no longer true that they are creating better products and services than other sectors. I’ve learned to be constructively critical of some of this guidance. If a company isn’t profitable, relies on investment, and burns ten-times more money per month than you: it’s not that impressive that they have a slightly slicker product than you. The point of this is not to trash commercial organisations. Most of them are ace. And they often share their learning generously. The point of this is that we in government, Local Authorities, charities, non-profits, social enterprises, and NGOs are doing just as interesting work, often with a more varied range of users and in more challenging conditions. We don’t need to fetishise the private sector. They’re just people doing work like us, with insights no more or less valuable than us.
+
+**Progress**
+
+Early days. I’ve done some ad hoc, one on one conversations and helped some people to make the jump from commercial sector to non-profit sector. I’ve recently started a newsletter called [Good Product Management](https://goodproduct.management/) to see if I can usefully build a platform to amplify product managers who put people before profit. But, as with a few on this list, a lot more to do.
+4. There’s more to strategy than roadmaps
+Improvement
+Talk about product strategy in its broadest sense and downplay the significance of the roadmap.
+
+Background
+Product roadmaps are overloaded with significance and are a source of uncertainty among product managers. It’s the most common topic to come-up in communities of practice, coaching, and mentoring. And it’s often code for something else. Asking for the product roadmap often means ‘I’d like to know what your product strategy is’. Product strategy is built from lots of things, roadmaps are just one of them.
+
+Progress
+I reckon I’ve done as much as I can on roadmaps themselves, culminating in this (post)[https://www.mindtheproduct.com/product-roadmaps-in-five-easy-pieces/] for Mind the Product and this (overview)[https://scottcolfer.com/2018/09/30/roadmap.html] on my own blog. I need to start talking about product strategy more generally and show roadmaps to be just small part of it. Made a start in a recent (episode)[https://buttondown.email/goodproductmanagement/archive/da8666fe-eb79-4b90-8bc5-30a5a552cf48] of my (newsletter)[https://goodproduct.management/].
+
+5. Head of Product: Opposite of what I expected
+Improvement
+Dedicate as much time to developing your operational skills and organisational skills as you do on your product leadership skills.
+
+Background
+I unofficially started as Head of Product for my organisation in 2016 and won the role officially through open recruitment in 2017. I’m still excited and privileged to have the role. We’re a profession of 60+ people in a business unit of 1,000+ people serving the whole of England and an internal workforce of 80,000+ colleagues. Big challenges, amazing job satisfaction. 
+
+It’s also been the exact opposite of what I expected. My focus for the first year was the operations of the profession. Second year, organisational improvement was added on (we had a large merger). Third year was seeing lots of work pay off and the profession reach maturity. It’s at this point that I start significant work on thinking about value and product strategy across the organisation. And notice I say ‘begin’, rather than ‘have sorted’. My expectation of Head of Product/Director of Product/Chief Product Officer had always been that it was focused on value and strategy alone. And in some organisations it is. But I was (kinda) the first Head of Product at my organisation and what everyone needed initially was an operational Head of Product. Over the years, each operational activity and organisational improvement that’s been rolled out has cleared a little more space. And most importantly, each awesome person working with me in the profession becomes a leader in their own right. All of this adds up to me making the space and earning the privilege to start doing more strategic work.
+
+Progress
+I started this improvement in 2017, continuing in 2018, and sharing it via a (post)[https://scottcolfer.com/2019/09/01/product-leadership.html] in 2019. I’ve started contextualising this so it’ll work in my particular organisation and need to implement more in 2021, alongside looking for gaps and undertaking further development.
+
+# 6. I’ve taken Discovery for granted
 **Improvement** 
 
 Regain enthusiasm for helping those in Discovery.
@@ -24,59 +88,6 @@ Jump to 2020 and this is how a lot of work now begins. Yes there are problems. Y
 Progress
 This retro is my progress to date. I hadn't realised that I was taking Discovery for granted until I started writing. Awareness is curative. I'm returning to work with a renewed enthusiasm for Discovery. I think something simple like regular 'Discovery: Ask Me Anything' sessions could be a good thing to do. One of my colleagues has recently been doing support and training in this area so I can learn from them what's needed and what works.
 
-2. Product management remains misunderstood
-Improvements
-Simply and clearly define product management, and then
-Update the Wikipedia entry for (product management)[https://en.wikipedia.org/wiki/Product_management].
-
-Background
-I started the decade thinking everyone else had product management figured out. I ended the decade thinking that product management is all things to all people.
-
-Have you seen the Wikipedia entry for (product management)[https://en.wikipedia.org/wiki/Product_management]? It’s terrible but may be the first thing seen by people wanting to learn more about the profession. There are a few definitions around but they’re often context specific (Californian technology startups dominates) or misunderstand the role (rebadging project management, team management, or technology management). Conflating narrow frameworks (like the product owner role in Scrum) with the profession is also common.
-In the next decade I’d like to feel confident enough in my ability to simply and clearly explain product management that I could update our Wikipedia entry. 
-
-Progress
-I’ve made a start. I think that we can be pitched as the people responsible for [outcomes improving for our users][https://twitter.com/scottcolfer/status/1329519887488868358?s=20] (maybe outcomes manager or (value manager)[https://scottcolfer.com/2017/09/17/value-manager.html] would be a better way to describe us?). (Product management is about improving the value of products and services for their users and their organisation. Product managers take the insights of several perspectives and find value in the sweet spot where they align)[https://buttondown.email/goodproductmanagement/archive/cd2842a6-93b6-462f-aacb-f0e1ab0ad4f6]. 
-3. Product managers don't need computer science degrees
-Improvement
-Advocate for a broad range of routes into product management.
-
-Background
-Beginning of the decade. I was self-conscious that I didn’t have a background as a developer and I didn’t have a Computer Science degree. The same common concern has been whispered to me in private by many other folks. I’ve come to realise it’s not a problem. In fact, it’s a good thing. You want your developer to have a background in development. Product managers need to understand multiple specialist perspectives in order to find value in the sweet spot where they align. One of those perspectives is sometimes development but most of them aren’t. The main thing at work here is understanding people and understanding how to align people. That doesn’t require a Computer Science degree. You don’t need one to be a product manager and I don’t look for one when recruiting product managers.
-
-On a personal level, I have an MA in Critical Theory. I never expected it to have practical applications, if I'm honest. But critical theory helps me to look at human systems and uncover their underlying power structures. Turns out this is a useful skill when finding social problems to try and help solve.
-
-Progress
-Mainly passive. I’ve never used a computer science degree as a reason to recruit a product manager. I judge openly and fairly based on the skills and level of skill listed in the job advertisement. But based on lack of confidence around not having a development or Computer Science background, I can take a more active approach. I’ve made a start in a recent [episode](https://buttondown.email/goodproductmanagement/archive/cd2842a6-93b6-462f-aacb-f0e1ab0ad4f6) of my newsletter, and have started thinking about explicit product management [principles](https://buttondown.email/goodproductmanagement/archive/91574a25-e63f-428c-8b00-7cc7dc081f9f), [behaviours](https://buttondown.email/goodproductmanagement/archive/de3b7e1a-5781-47ff-b897-4cc11e016c88), and [skills](https://buttondown.email/goodproductmanagement/archive/258796cd-4bf5-4174-b775-598808e12506) that make this much clearer. A lot more to do on this one.
-4. Don't fetishise commercial product management
-Improvement
-Amplify product management that puts people before profit.
-
-Background
-I’ve been guilty of fetishising the private sector. When I started as a product manager I was self-conscious that I hadn’t worked for a Californian tech giant. The most popular product management guidance is designed for the private sector. I’m good-lazy. If something exists, I don’t want to reinvent the wheel. So when developing as a product manager I started from this private sector-focused guidance. And it’s great. But after working in that sector and seeing behind the scenes in a lot of these organisations I realised that they don’t have it all figured out. It’s no longer true that they are creating better products and services than other sectors. I’ve learned to be constructively critical of some of this guidance. If a company isn’t profitable, relies on investment, and burns ten-times more money per month than you: it’s not that impressive that they have a slightly slicker product than you. The point of this is not to trash commercial organisations. Most of them are ace. And they often share their learning generously. The point of this is that we in government, Local Authorities, charities, non-profits, social enterprises, and NGOs are doing just as interesting work, often with a more varied range of users and in more challenging conditions. We don’t need to fetishise the private sector. They’re just people doing work like us, with insights no more or less valuable than us.
-
-Progress
-Early days. I’ve done some ad hoc, one on one conversations and helped some people to make the jump from commercial sector to non-profit sector. I’ve recently started a newsletter called [Good Product Management](https://goodproduct.management/) to see if I can usefully build a platform to amplify product managers who put people before profit. But, as with a few on this list, a lot more to do.
-5. There’s more to strategy than roadmaps
-Improvement
-Talk about product strategy in its broadest sense and downplay the significance of the roadmap.
-
-Background
-Product roadmaps are overloaded with significance and are a source of uncertainty among product managers. It’s the most common topic to come-up in communities of practice, coaching, and mentoring. And it’s often code for something else. Asking for the product roadmap often means ‘I’d like to know what your product strategy is’. Product strategy is built from lots of things, roadmaps are just one of them.
-
-Progress
-I reckon I’ve done as much as I can on roadmaps themselves, culminating in this (post)[https://www.mindtheproduct.com/product-roadmaps-in-five-easy-pieces/] for Mind the Product and this (overview)[https://scottcolfer.com/2018/09/30/roadmap.html] on my own blog. I need to start talking about product strategy more generally and show roadmaps to be just small part of it. Made a start in a recent (episode)[https://buttondown.email/goodproductmanagement/archive/da8666fe-eb79-4b90-8bc5-30a5a552cf48] of my (newsletter)[https://goodproduct.management/].
-6. Head of Product: Opposite of what I expected
-Improvement
-Dedicate as much time to developing your operational skills and organisational skills as you do on your product leadership skills.
-
-Background
-I unofficially started as Head of Product for my organisation in 2016 and won the role officially through open recruitment in 2017. I’m still excited and privileged to have the role. We’re a profession of 60+ people in a business unit of 1,000+ people serving the whole of England and an internal workforce of 80,000+ colleagues. Big challenges, amazing job satisfaction. 
-
-It’s also been the exact opposite of what I expected. My focus for the first year was the operations of the profession. Second year, organisational improvement was added on (we had a large merger). Third year was seeing lots of work pay off and the profession reach maturity. It’s at this point that I start significant work on thinking about value and product strategy across the organisation. And notice I say ‘begin’, rather than ‘have sorted’. My expectation of Head of Product/Director of Product/Chief Product Officer had always been that it was focused on value and strategy alone. And in some organisations it is. But I was (kinda) the first Head of Product at my organisation and what everyone needed initially was an operational Head of Product. Over the years, each operational activity and organisational improvement that’s been rolled out has cleared a little more space. And most importantly, each awesome person working with me in the profession becomes a leader in their own right. All of this adds up to me making the space and earning the privilege to start doing more strategic work.
-
-Progress
-I started this improvement in 2017, continuing in 2018, and sharing it via a (post)[https://scottcolfer.com/2019/09/01/product-leadership.html] in 2019. I’ve started contextualising this so it’ll work in my particular organisation and need to implement more in 2021, alongside looking for gaps and undertaking further development.
 7. Models can liberate thought
 Improvement
 Clearly and consistently use, test, share, and improve models that help with product strategy when I’m stuck or overwhelmed.
