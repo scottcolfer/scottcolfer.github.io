@@ -50,27 +50,34 @@ I’ve been guilty of fetishising the private sector. When I started as a produc
 **Progress**
 
 Early days. I’ve done some ad hoc, one on one conversations and helped some people to make the jump from commercial sector to non-profit sector. I’ve recently started a newsletter called [Good Product Management](https://goodproduct.management/) to see if I can usefully build a platform to amplify product managers who put people before profit. But, as with a few on this list, a lot more to do.
-4. There’s more to strategy than roadmaps
-Improvement
+
+# 4. There’s more to strategy than roadmaps
+**Improvement**
+
 Talk about product strategy in its broadest sense and downplay the significance of the roadmap.
 
-Background
+**Background**
+
 Product roadmaps are overloaded with significance and are a source of uncertainty among product managers. It’s the most common topic to come-up in communities of practice, coaching, and mentoring. And it’s often code for something else. Asking for the product roadmap often means ‘I’d like to know what your product strategy is’. Product strategy is built from lots of things, roadmaps are just one of them.
 
-Progress
-I reckon I’ve done as much as I can on roadmaps themselves, culminating in this (post)[https://www.mindtheproduct.com/product-roadmaps-in-five-easy-pieces/] for Mind the Product and this (overview)[https://scottcolfer.com/2018/09/30/roadmap.html] on my own blog. I need to start talking about product strategy more generally and show roadmaps to be just small part of it. Made a start in a recent (episode)[https://buttondown.email/goodproductmanagement/archive/da8666fe-eb79-4b90-8bc5-30a5a552cf48] of my (newsletter)[https://goodproduct.management/].
+**Progress**
 
-5. Head of Product: Opposite of what I expected
-Improvement
+I reckon I’ve done as much as I can on roadmaps themselves, culminating in this [post](https://www.mindtheproduct.com/product-roadmaps-in-five-easy-pieces/) for Mind the Product and this [overview](https://scottcolfer.com/2018/09/30/roadmap.html) on my own blog. I need to start talking about product strategy more generally and show roadmaps to be just small part of it. Made a start in a recent [episode](https://buttondown.email/goodproductmanagement/archive/da8666fe-eb79-4b90-8bc5-30a5a552cf48) of my [newsletter](https://goodproduct.management/).
+
+# 5. Head of Product: Opposite of what I expected
+**Improvement**
+
 Dedicate as much time to developing your operational skills and organisational skills as you do on your product leadership skills.
 
-Background
+**Background**
+
 I unofficially started as Head of Product for my organisation in 2016 and won the role officially through open recruitment in 2017. I’m still excited and privileged to have the role. We’re a profession of 60+ people in a business unit of 1,000+ people serving the whole of England and an internal workforce of 80,000+ colleagues. Big challenges, amazing job satisfaction. 
 
 It’s also been the exact opposite of what I expected. My focus for the first year was the operations of the profession. Second year, organisational improvement was added on (we had a large merger). Third year was seeing lots of work pay off and the profession reach maturity. It’s at this point that I start significant work on thinking about value and product strategy across the organisation. And notice I say ‘begin’, rather than ‘have sorted’. My expectation of Head of Product/Director of Product/Chief Product Officer had always been that it was focused on value and strategy alone. And in some organisations it is. But I was (kinda) the first Head of Product at my organisation and what everyone needed initially was an operational Head of Product. Over the years, each operational activity and organisational improvement that’s been rolled out has cleared a little more space. And most importantly, each awesome person working with me in the profession becomes a leader in their own right. All of this adds up to me making the space and earning the privilege to start doing more strategic work.
 
-Progress
-I started this improvement in 2017, continuing in 2018, and sharing it via a (post)[https://scottcolfer.com/2019/09/01/product-leadership.html] in 2019. I’ve started contextualising this so it’ll work in my particular organisation and need to implement more in 2021, alongside looking for gaps and undertaking further development.
+**Progress**
+
+I started this improvement in 2017, continuing in 2018, and sharing it via a [post](https://scottcolfer.com/2019/09/01/product-leadership.html) in 2019. I’ve started contextualising this so it’ll work in my particular organisation and need to implement more in 2021, alongside looking for gaps and undertaking further development.
 
 # 6. I’ve taken Discovery for granted
 **Improvement** 
@@ -85,69 +92,95 @@ I did my first proper Discovery back in 2007. The Cabinet Office began publicisi
 
 Jump to 2020 and this is how a lot of work now begins. Yes there are problems. Yes it’s imperfect. But it’s a huge, huge improvement. If 2007 me knew that I’d be funded to introduce Discovery in the social enterprise and charity sector, lead a cross-government retrospective of Discovery, and eventually [lead Discovery](https://mojdigital.blog.gov.uk/2020/01/23/discovery-at-the-ministry-of-justice/) for a government department . . . I wouldn’t believe it. I'm guilty of taking this for granted and need to remind myself how awesome this is.
 
-Progress
+**Progress**
+
 This retro is my progress to date. I hadn't realised that I was taking Discovery for granted until I started writing. Awareness is curative. I'm returning to work with a renewed enthusiasm for Discovery. I think something simple like regular 'Discovery: Ask Me Anything' sessions could be a good thing to do. One of my colleagues has recently been doing support and training in this area so I can learn from them what's needed and what works.
 
-7. Models can liberate thought
-Improvement
+# 7. Models can liberate thought
+**Improvement**
+
 Clearly and consistently use, test, share, and improve models that help with product strategy when I’m stuck or overwhelmed.
 
-Background
+**Background**
+
 It’s easy to get lost in product management. Overloaded with opportunities and decisions? It's easy to hide in feature prioritising and resolving team issues. The business model canvas was the first model that helped me to get my head back in the strategic bits of the role, learning enough to make tough decisions for the improvement of the product. Since then I’ve found many more models that help me when I feel stuck or overwhelmed. But I’ve not kept this list up to date, used the models consistently, or put enough effort into testing them, sharing them, and improving them.
 
-Progress
+**Progress**
+
 I created an internal product management handbook in 2016 and shared it in 2017. A few organisations asked if they could use it so I published an [open version](https://scottcolfer.com/product-management-handbook/) in 2018. However this is out of date, doesn’t include worked examples, and misses models I’ve found or developed since then. It’s also not as clear or well promoted as something like [Liberating Structures](http://www.liberatingstructures.com/) from over in the coaching bit of the world.
-8. There’s a world beyond product management
-Improvement
+
+# 8. There’s a world beyond product management
+**Improvement**
+
 Look outwards and learn from other specialist roles and elsewhere in the Civil Service. Spend as much time learning from other professions and contexts as I do shaping my own profession.
 
-Background
+**Background**
+
 I started out the decade figuring out product management for myself. Then I moved onto figuring out what it means for my profession in my organisation. Alongside this, working with my peers to figure out what it looks like in government more generally. This was all necessary but hugely introspective. Around 2018, me and the fellow ‘Heads of’ at my organisation realised that we’d spent a long time figuring out how we each work on our own terms but not enough time figuring out how we’d worked together. The same realisation hit with my fellow Heads of Product across government. We were always talking about ourselves and to ourselves, and we’d got as much from that as we could. We needed to learn from other specialist roles. 
 
 In 2019 it became increasingly clear that we need to step outside of the ‘digital bubble’ entirely if we’re going to radically improve public services. The Civil Service is vast, full of great people doing amazing things. ‘Digital’ is just a sliver of this. We’ve maybe been guilty of thinking we can go it alone but the truth is that we can’t. 
 
-Progress
+**Progress**
+
 A fair amount made with respect to other professions in the last couple of years. I learned a lot about broader Civil Service 2005-2010 because that’s where I worked. But I left for five years and it’s been relatively limited since then.
-9. The Agile Manifesto is about behaviours, not software
-Improvement
+
+# 9. The Agile Manifesto is about behaviours, not software
+**Improvement**
+
 Join up the organisation to focus on users, worry less about being agile. Clearly describe the behaviours that make this work in my context.
 
-Background
+**Background**
+
 I’ve come to the realisation that the [Manifesto for Agile Software Development](https://agilemanifesto.org/) is not about software. It's really a manifesto for behaviours that allow us to cross boundaries to focus on the needs of users.. I see a parallel in the notion of [soft skills](https://en.wikipedia.org/wiki/Soft_skills) by the US Army. Soft skills describe the social skills needed to lead groups, beyond those specialist skills needed to operate machinery. The Agile Manifesto and soft skills are both ways of describing general behaviours that help us in our relationship with our social environment.
 
 ‘So what’, right? At its best ‘working with agility’ nudges us towards these positive behaviours that cross boundaries and help us to work together to serve our users. At its worse, Agile is a cult that erects more boundaries within an organisation and leads to a new tribe. So I think that clearly describing our ultimate goal (working together across silos to help users). And freeing ourselves up to describe the behaviours that help us to do this within our own context. Will help us to achieve the intent behind the Agile Manifesto without using it as an excuse to exclude people.
 
-Progress
+**Progress**
+
 This retro is my progress to date. I’d never thought this before. Now it seems obvious to me. I think this is something that’d benefit from a blog post in its own right, to share with folks to see what they reckon.
 
-10. There’s more to life than working with agility
-Improvement
+# 10. There’s more to life than working with agility
+**Improvement**
+
 Match the right delivery conditions with the right opportunities.
 
-Background
+**Background**
+
 Something that’s been bubbling up for the last few years is a downside to the popularity of agile product teams. Default position has been to chuck an agile product team at all opportunities. We’re a victim of our own success. There are teams out there really struggling to figure out how to work on the thing they’ve been given in the way that they know how to work. This got a little clearer for me in the first half of 2020 when I worked with the Service Owner profession. They’re often responsible for some or all of a value chain in which in-house software is just a small bit. There’s also outsourced software, commodity software, hardware, and physical infrastructure. 
 
-Progress
+**Progress**
+
 I was figuring out what to do next when I saw this [tweet]https://twitter.com/swardley/status/1316711030492463105) from Simon Wardley which gives a worked example of what’s been bubbling-up for me for a while. Immediate next thing to do is read this properly, then figure out what to do next. My hunch is that there’s value in creating a value chain for something at work, creating a version 1 of the delivery approach best suited to the different elements of it, then noting the delivery approach we actually have in play.
 
-11. Non-directive Coaching is most valuable thing I’ve learned
+# 11. Non-directive Coaching is most valuable thing I’ve learned
+
 There’s no improvement here, I just need to keep on using non-directive coaching and advocating it to others. I was trained as a performance coach in 2008 and it’s been the set of skills of used most often with most value since then. Here’s a [post](https://scottcolfer.com/2013/11/20/great-businesses-grow-from-conversations.html) from way back in 2013, the first time that I realised how useful coaching was to me.
-12. Most consistent thing was words we use without defining them
-Improvement
+
+# 12. Most consistent thing was words we use without defining them
+**Improvement**
+
 Define words that we use a lot without clear and consistent meaning.
 
-Background
+**Background**
+
 I reckon that lots of large organisations have at least five different meanings for the word ‘service’. And that this causes feedback loops that eat time. See also a word like ‘digital’ and a phrase like ‘digital transformation’. 
 
-Progress
+**Progress**
+
 Made a start at work in 2020 before taking my main chunk of shared parental leave, will pick up again in 2021.
-13. I like to work with other people as part of an organisation
+
+# 13. I like to work with other people as part of an organisation
+
 There’s no improvement here. It’s just useful to remind myself. I tried working for myself for a year and loved the range of clients, the variety of work, and the day rate. But didn’t enjoy how running my business became the sole focus of my life. I naturally do a lot of professional development around the day job but am free to do a variety of things and setup personal projects. Running my own business, all my time was on the project of developing my brand and developing new clients for myself. There are loads of people who love this. I think I might  love this in the future. But at the time it was not good for me.
-14. Good things take time
-Improvement
+
+# 14. Good things take time
+
+**Improvement**
+
 Assume that meaningful change in a complex context at a large scale will take years. 
 
-Background
+**Background**
+
 Time has always been important to me, professionally. I started out as a project manager in a former life. ‘Time, scope, and cost’ were my holy trinity of constraints. You can fix two of them if you have to, but expect the third to shrink and shrink and shrink. 
 
 I learned to apply this to myself. There was too much to do when I became Head of Product and I worked with a coach to improve my performance. They had a (leadership model)[https://georgfasching.com/introducing-the-prime-leadership-model/] in which time was an important dimension. Time is used as a reminder that, “everyone has the same amount of time each day, 1440 minutes. That’s it. Time is a constant, everything else flows around, and through it.” This is a good nudge to design our time as well as we design our products, using it in the most valuable of ways. And saying ‘no’ when necessary.
@@ -156,15 +189,21 @@ There’s another aspect to this. (Good things take time)[https://scottcolfer.co
 
 I’ve ignored the fact that good things take time. I’ve assumed that ‘this time will be different’, as though enthusiasm alone can change reality. But it’s unhealthy and can start me (and others) off at a pace that is not sustainable for the long haul. The change I can make in the future is to accept that good things take time and accept that this time won’t be different. 
 
-Progress
+**Progress**
+
 Limited, if I’m honest. 2021 will be the first time I’ve explicitly set myself the challenge to do something with this.
-15. Focus on finishing over starting
-Improvement
+
+# 15. Focus on finishing over starting
+
+**Improvement**
+
 Release the value of what I’ve got before doing something new
 
-Background
+**Background**
+
 2009. I’m working on digital transformation of education before it was known as digital transformation. My boss was great at finding underspend at the end of the financial year and then handing it over to teacher training providers to invest in technology with as few strings attached as possible, trusting that they know what they’re doing. My boss manages to find around £20 million of investment over five years. Then 2009 hits. It’s clear that austerity is on the way and there’s no underspend. We’ve got a fraction of our normal budget. We invest it in learning what has worked over the previous years, evaluating the impact we’ve had, and creating guidance to help providers of teacher training to use technology. This guidance proves to have longer lasting impact than any previous year of heavy investment in technology. We needed to release the value of the technology we’d already funded rather than continuing to provide more and more new stuff.
 2020. I’ve worked pretty solidly for the last decade and blogged about some of the main things I’ve learned. I’m on shared parental leave for most of the year and won’t be blogging about new stuff. I tell product managers not to develop new features until they’ve released the value of their existing ones. Maybe I should practice what I preach and release the value of what I’ve already learned and blogged before I go seeking something shiny and new.
 
-Progress
+**Progress**
+
 This retrospective represents a lot of my progress. It might be one of the best professional learning experiences of my last few years. I’ve also published the first season of a [newsletter](https://buttondown.email/goodproductmanagement) sharing, repackaging and updating previous blog posts and guidance I’ve written. 
