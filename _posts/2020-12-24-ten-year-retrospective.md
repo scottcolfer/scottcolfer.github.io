@@ -26,7 +26,6 @@ The fifteen things are (in case you want to jump to the ones of interest):
 14. Good things take time
 15. Focus on finishing over starting.
 
----
 
 # 1. Product management remains misunderstood
 **Improvement**
