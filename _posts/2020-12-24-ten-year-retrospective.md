@@ -8,10 +8,7 @@ date: 2020-12-24
 
 I’m using [retrospective](https://www.scrumguides.org/scrum-guide.html#sprint-retrospective) to mean the inspection of my professional life over the last decade, looking for assumptions that led me astray and changes I can make to improve the next decade.
 
----
-
 The fifteen things are (in case you want to jump to the ones of interest):
-
 
 1. Product managment remains misunderstood
 2. Product managers don't need computer science degrees
@@ -27,7 +24,7 @@ The fifteen things are (in case you want to jump to the ones of interest):
 12. Words matter
 13. I like to work with other people as part of an organisation
 14. Good things take time
-15. Focus on finishing over starting
+15. Focus on finishing over starting.
 
 ---
 
@@ -44,6 +41,7 @@ Have you seen the Wikipedia entry for [product management](https://en.wikipedia.
 In the next decade I’d like to feel confident enough in my ability to simply and clearly explain product management that I could update our Wikipedia entry. 
 
 **Progress**
+
 I’ve made a start. I think that we can be pitched as the people responsible for [outcomes improving for our users](https://twitter.com/scottcolfer/status/1329519887488868358?s=20) (maybe outcomes manager or [value manager](https://scottcolfer.com/2017/09/17/value-manager.html) would be a better way to describe ourselves?). Product management is about improving the value of products and services for their users and their organisation. I've had a crack at describing [product management](https://buttondown.email/goodproductmanagement/archive/cd2842a6-93b6-462f-aacb-f0e1ab0ad4f6) in something approaching plain English.  
 
 # 2. Product managers don't need computer science degrees
@@ -173,7 +171,7 @@ Something that’s been bubbling up for the last few years is a downside to the 
 
 **Progress**
 
-I was figuring out what to do next when I saw this [tweet]https://twitter.com/swardley/status/1316711030492463105) from Simon Wardley which gives a worked example of what’s been bubbling-up for me for a while. Immediate next thing to do is read this properly, then figure out what to do next. My hunch is that there’s value in creating a value chain for something at work, creating a version 1 of the delivery approach best suited to the different elements of it, then noting the delivery approach we actually have in play.
+I was figuring out what to do next when I saw this [tweet](https://twitter.com/swardley/status/1316711030492463105) from Simon Wardley which gives a worked example of what’s been bubbling-up for me for a while. Immediate next thing to do is read this properly, then figure out what to do next. My hunch is that there’s value in creating a value chain for something at work, creating a version 1 of the delivery approach best suited to the different elements of it, then noting the delivery approach we actually have in play.
 
 # 11. Non-directive Coaching is most valuable thing I’ve learned
 
@@ -206,7 +204,7 @@ Assume that meaningful change in a complex context at a large scale will take ye
 
 Time has always been important to me, professionally. I started out as a project manager in a former life. ‘Time, scope, and cost’ were my holy trinity of constraints. You can fix two of them if you have to, but expect the third to shrink and shrink and shrink. 
 
-I learned to apply this to myself. There was too much to do when I became Head of Product and I worked with a coach to improve my performance. They had a (leadership model)[https://georgfasching.com/introducing-the-prime-leadership-model/] in which time was an important dimension. Time is used as a reminder that, “everyone has the same amount of time each day, 1440 minutes. That’s it. Time is a constant, everything else flows around, and through it.” This is a good nudge to design our time as well as we design our products, using it in the most valuable of ways. And saying ‘no’ when necessary.
+I learned to apply this to myself. There was too much to do when I became Head of Product and I worked with a coach to improve my performance. They had a [leadership model](https://georgfasching.com/introducing-the-prime-leadership-model/) in which time was an important dimension. Time is used as a reminder that, “everyone has the same amount of time each day, 1440 minutes. That’s it. Time is a constant, everything else flows around, and through it.” This is a good nudge to design our time as well as we design our products, using it in the most valuable of ways. And saying ‘no’ when necessary.
 
 There’s another aspect to this. (Good things take time)[https://scottcolfer.com/2019/09/01/product-leadership.html]. Meaningful change in a complex context at a large scale will take years. There’s no way around this, in my experience. At the beginning of the decade I founded an advocacy service for young fathers, now called Young Dads Collective. The first year was building a viable network of partners around England. Year two was building something valuable. It was year three before we started to have real impact (influencing govt policy, charity policy, local authorities, medical professionals). Skip forward to the second half of the decade and it took me three years to build a community of product managers that was mature enough to run itself and to have strategic influence in both delivery teams and leadership teams. These are two examples amongst many. And both example we’re seeing the beginning of impact, not the end. 
 
