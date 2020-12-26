@@ -11,16 +11,16 @@ I’m using [retrospective](https://www.scrumguides.org/scrum-guide.html#sprint-
 The fifteen things are (in case you want to jump to the ones of interest):
 
 1. Product managment remains misunderstood
-2. Product managers don't need computer science degrees
+2. Product managers don't need Computer Science degrees
 3. Don’t fetishise commercial product management
 4. There’s more to strategy than roadmaps
-5. Head of Product: Opposite of what I expected
+5. Head of Product: opposite of what I expected
 6. I’ve taken Discovery for granted
 7. Models can liberate thought
 8. There’s a world beyond product management
 9. The Agile Manifesto is about behaviours, not software
 10. There’s more to life than working with agility
-11. Non-directive Coaching is most valuable thing I’ve learned
+11. Non-directive coaching is most valuable thing I’ve learned
 12. Words matter
 13. I like to work with other people as part of an organisation
 14. Good things take time
@@ -37,14 +37,14 @@ Clearly and simply define product management. Then update the Wikipedia entry fo
 
 I started the decade thinking everyone else had product management figured out. I ended the decade thinking that product management is all things to all people.
 
-Have you seen the Wikipedia entry for [product management](https://en.wikipedia.org/wiki/Product_management)? It’s terrible but may be the first thing seen by people wanting to learn more about the profession. There are a few definitions around but they’re often context specific (Californian technology startups dominates) or misunderstand the role (rebadging project management, team management, or technology management). Conflating narrow frameworks (like the product owner role in Scrum) with the profession is also common.
+Have you seen the Wikipedia entry for [product management](https://en.wikipedia.org/wiki/Product_management)? It’s terrible but may be the first thing seen by people wanting to learn more about the profession. There are a few definitions around but they’re often context specific (Californian technology startups dominates) or misunderstand the role (rebadging project management, team management, or technology management). Conflating narrow frameworks (like the Product Owner role in Scrum) with the profession is also common.
 In the next decade I’d like to feel confident enough in my ability to simply and clearly explain product management that I could update our Wikipedia entry. 
 
 **Progress**
 
-I’ve made a start. I think that we can be pitched as the people responsible for [outcomes improving for our users](https://twitter.com/scottcolfer/status/1329519887488868358?s=20) (maybe outcomes manager or [value manager](https://scottcolfer.com/2017/09/17/value-manager.html) would be a better way to describe ourselves?). Product management is about improving the value of products and services for their users and their organisation. I've had a crack at describing [product management](https://buttondown.email/goodproductmanagement/archive/cd2842a6-93b6-462f-aacb-f0e1ab0ad4f6) in something approaching plain English.  
+I’ve made a start. I think that we can be pitched as the people responsible for [improving outcomes for our users](https://twitter.com/scottcolfer/status/1329519887488868358?s=20) (maybe outcomes manager or [value manager](https://scottcolfer.com/2017/09/17/value-manager.html) would be a better way to describe ourselves?). Product management is about improving the value of products and services for their users and their organisation. I've had a crack at describing [product management](https://buttondown.email/goodproductmanagement/archive/cd2842a6-93b6-462f-aacb-f0e1ab0ad4f6) in something approaching plain English.  
 
-# 2. Product managers don't need computer science degrees
+# 2. Product managers don't need Computer Science degrees
 **Improvement**
 
 Advocate for a broad range of routes into product management.
@@ -57,7 +57,7 @@ On a personal level, I have an MA in Critical Theory. I never expected it to hav
 
 **Progress**
 
-Mainly passive. I’ve never used a computer science degree as a reason to recruit a product manager. I judge openly and fairly based on the skills and level of skill listed in the job advertisement. But based on lack of confidence around not having a development or Computer Science background, I can take a more active approach. I’ve made a start in a recent [episode](https://buttondown.email/goodproductmanagement/archive/cd2842a6-93b6-462f-aacb-f0e1ab0ad4f6) of my newsletter, and have started thinking about explicit product management [principles](https://buttondown.email/goodproductmanagement/archive/91574a25-e63f-428c-8b00-7cc7dc081f9f), [behaviours](https://buttondown.email/goodproductmanagement/archive/de3b7e1a-5781-47ff-b897-4cc11e016c88), and [skills](https://buttondown.email/goodproductmanagement/archive/258796cd-4bf5-4174-b775-598808e12506) that make this much clearer. A lot more to do on this one.
+Mainly passive. I’ve never used a Computer Science degree as a reason to recruit a product manager. I judge openly and fairly based on the skills and level of skill listed in the job advertisement. But based on lack of confidence around not having a development or Computer Science background, I can take a more active approach. I’ve made a start in a recent [episode](https://buttondown.email/goodproductmanagement/archive/cd2842a6-93b6-462f-aacb-f0e1ab0ad4f6) of my newsletter, and have started thinking about explicit product management [principles](https://buttondown.email/goodproductmanagement/archive/91574a25-e63f-428c-8b00-7cc7dc081f9f), [behaviours](https://buttondown.email/goodproductmanagement/archive/de3b7e1a-5781-47ff-b897-4cc11e016c88), and [skills](https://buttondown.email/goodproductmanagement/archive/258796cd-4bf5-4174-b775-598808e12506) that make this much clearer. A lot more to do on this one.
 
 # 3. Don't fetishise commercial product management
 **Improvement**
@@ -88,17 +88,17 @@ I reckon I’ve done as much as I can on roadmaps themselves, culminating in thi
 # 5. Head of Product: Opposite of what I expected
 **Improvement**
 
-Dedicate as much time to developing your operational skills and organisational skills as you do on your product leadership skills.
+Dedicate as much time to developing your operational skills and organisational skills as you do on your product strategy skills.
 
 **Background**
 
-I unofficially started as Head of Product for my organisation in 2016 and won the role officially through open recruitment in 2017. I’m still excited and privileged to have the role. We’re a profession of 60+ people in a business unit of 1,000+ people serving the whole of England and an internal workforce of 80,000+ colleagues. Big challenges, amazing job satisfaction. 
+I started as Head of Product for my organisation in 2016. I’m still excited and privileged to have the role. Today we’re a profession of 60+ people in a business unit of 1,000+ people serving the whole of England and an internal workforce of 80,000+ colleagues. Big challenges, amazing job satisfaction. 
 
-It’s also been the exact opposite of what I expected. My focus for the first year was the operations of the profession. Second year, organisational improvement was added on (we had a large merger). Third year was seeing lots of work pay off and the profession reach maturity. It’s at this point that I start significant work on thinking about value and product strategy across the organisation. And notice I say ‘begin’, rather than ‘have sorted’. My expectation of Head of Product/Director of Product/Chief Product Officer had always been that it was focused on value and strategy alone. And in some organisations it is. But I was (kinda) the first Head of Product at my organisation and what everyone needed initially was an operational Head of Product. Over the years, each operational activity and organisational improvement that’s been rolled out has cleared a little more space. And most importantly, each awesome person working with me in the profession becomes a leader in their own right. All of this adds up to me making the space and earning the privilege to start doing more strategic work.
+It’s also been the exact opposite of what I expected. My focus for the first year was the operations of the profession. Second year, organisational improvement was added on (we had a large merger). Third year was seeing lots of work pay off and the profession reach maturity. It’s at this point that I start significant work on thinking about value and product strategy across the organisation. And notice I say ‘begin’, rather than ‘have sorted’. My expectation of Head of Product/Director of Product/Chief Product Officer had always been that it was focused on value and strategy alone. But I was (kind of) the first Head of Product at my organisation and what everyone needed initially was an operational Head of Product. Over the years, each operational activity and organisational improvement has cleared a little more space for strategy. And most importantly, each awesome person working with me in the profession becomes a leader in their own right. All of this adds up to me making the space and earning the privilege to start doing more strategic work.
 
 **Progress**
 
-I started this improvement in 2017, continuing in 2018, and sharing it via a [post](https://scottcolfer.com/2019/09/01/product-leadership.html) in 2019. I’ve started contextualising this so it’ll work in my particular organisation and need to implement more in 2021, alongside looking for gaps and undertaking further development.
+I started this improvement in 2017, continuing in 2018, and sharing it via a [post](https://scottcolfer.com/2019/09/01/product-leadership.html) in 2019. I’ve learned and improved since than and need to implement more in 2021, alongside looking for gaps and undertaking further development.
 
 # 6. I’ve taken Discovery for granted
 **Improvement** 
@@ -107,9 +107,9 @@ Regain enthusiasm for helping those in Discovery.
 
 **Background**
 
-This began life as a ‘here are all the common problems I see with Discovery’ piece. Then I came back to it and though ‘who am I helping by complaining about the common problems I see with Discovery?’. Answer: myself. I’m making myself feel better. I deleted the snarky version. I realised that I'm the problem. I’ve taken Discovery for granted. 
+This began life as a ‘here are all the common problems I see with Discovery’ piece. Then I came back to it and thought ‘who am I helping by complaining about the common problems I see with Discovery?’. Answer: myself. I’m making myself feel better. I deleted the snarky version. I realised that I'm the problem. I’ve taken Discovery for granted. 
 
-I did my first proper Discovery back in 2007. The Cabinet Office began publicising ‘[customer insights](https://scottcolfer.com/2016/04/17/digital-by-default-prehistory.html)’ back in 2006. This started work that paved the way for the Government Digital Service. I lapped this up and put it to work immediately. Short version: research your customers (we now call them users) and collect insights in a customer journey map. I led support for trainee teachers with special educational needs when taking their skills tests. I had budget and permission to develop new guidance for them. But gave this customer research thing a try. The average number of attempts for people with special educational needs to pass their skills tests was in the range of 3- 5 attempts (from memory). The assumptions were that they needed (i) better adaptations or (ii) better guidance and training. A couple of weeks research suggested otherwise. Pulling this together in a customer journey map, trainee teachers were taking the standard tests and failing them 2-3 times before they were finally told that they were entitled to adaptations. Once they had the adapted tests they were entitled to, they passed within 1-2 attempts. This matched the overall average. The intervention we made was to help teacher training providers, tutors, and testing centres publicise these adaptations. We improved the visibility on our corporate website too. The outcome was to reduce the average number of attempts from 3-5, to 1-2. This saved a huge amount of time and stress for trainee teachers. It had the added benefit of increasing testing capacity of the testing. It was much cheaper than new software or guidance. And much more effective. I was excited by a world where this research into customers was the way we all worked.
+I did my first 'proper' Discovery back in 2007. The Cabinet Office began publicising ‘[customer insights](https://scottcolfer.com/2016/04/17/digital-by-default-prehistory.html)’ back in 2006, paving the way for the Government Digital Service. The new idea was to research your customers (we now call them users) and collect insights in a customer journey map. I lapped this up and put it to work immediately. At the time I led support for trainee teachers with special educational needs when taking their skills tests. I had budget and permission to develop new guidance for them. But gave this customer research thing a try. The average number of attempts for people with special educational needs to pass their skills tests was in the range of 3- 5 attempts (from memory). The assumptions were that they needed (i) better adaptations or (ii) better guidance and training. A couple of weeks research suggested otherwise. Pulling this together in a customer journey map, trainee teachers were taking the standard tests and failing them 2-3 times before they were finally told that they were entitled to adaptations. Once they had the adapted tests they were entitled to, they passed within 1-2 attempts. This matched the overall average. The intervention we made was to help teacher training providers, tutors, and testing centres publicise these adaptations. We improved the visibility on our corporate website too. The outcome was to reduce the average number of attempts from 3-5, to 1-2. This saved a huge amount of time and stress for trainee teachers. It had the added benefit of increasing testing capacity of the testing. It was much cheaper than new software or guidance. And much more effective. I was excited by a world where this research into customers was the way we all worked.
 
 Jump to 2020 and this is how a lot of work now begins. Yes there are problems. Yes it’s imperfect. But it’s a huge, huge improvement. If 2007 me knew that I’d be funded to introduce Discovery in the social enterprise and charity sector, lead a cross-government retrospective of Discovery, and eventually [lead Discovery](https://mojdigital.blog.gov.uk/2020/01/23/discovery-at-the-ministry-of-justice/) for a government department . . . I wouldn’t believe it. I'm guilty of taking this for granted and need to remind myself how awesome this is.
 
@@ -120,11 +120,11 @@ This retro is my progress to date. I hadn't realised that I was taking Discovery
 # 7. Models can liberate thought
 **Improvement**
 
-Clearly and consistently use, test, share, and improve models that help with product strategy when I’m stuck or overwhelmed.
+Clearly and consistently use, test, share, and improve models that help with product strategy.
 
 **Background**
 
-It’s easy to get lost in product management. Overloaded with opportunities and decisions? It's easy to hide in feature prioritising and resolving team issues. The business model canvas was the first model that helped me to get my head back in the strategic bits of the role, learning enough to make tough decisions for the improvement of the product. Since then I’ve found many more models that help me when I feel stuck or overwhelmed. But I’ve not kept this list up to date, used the models consistently, or put enough effort into testing them, sharing them, and improving them.
+It’s easy to get lost in product management. Overloaded with opportunities and decisions? It's easy to hide in feature prioritising and resolving team issues. The business model canvas was the first model that helped me to get my head back in the strategic bits of the role, learning enough to make tough decisions for the improvement of the product. I first wrote about it in a [post](https://scottcolfer.com/2013/09/20/business-model-canvas.html) from 2013. I'd probably explain it differently in 2020 but the post is linked to from [GOV.UK](https://www.gov.uk/service-manual/measuring-success/measuring-service-benefits) so it still gets traffic. Since then I’ve found many more models that help me when I feel stuck or overwhelmed. But I’ve not kept this list up to date, used the models consistently, or put enough effort into testing them, sharing them, and improving them.
 
 **Progress**
 
@@ -137,7 +137,7 @@ Look outwards and learn from other specialist roles and elsewhere in the Civil S
 
 **Background**
 
-I started out the decade figuring out product management for myself. Then I moved onto figuring out what it means for my profession in my organisation. Alongside this, working with my peers to figure out what it looks like in government more generally. This was all necessary but hugely introspective. Around 2018, me and the fellow ‘Heads of’ at my organisation realised that we’d spent a long time figuring out how we each work on our own terms but not enough time figuring out how we’d worked together. The same realisation hit with my fellow Heads of Product across government. We were always talking about ourselves and to ourselves, and we’d got as much from that as we could. We needed to learn from other specialist roles. 
+I started out the decade figuring out product management for myself. Then I moved onto figuring out what it means for my profession in my organisation. Alongside this, working with my peers to figure out what it looks like in government more generally. This was all necessary but hugely introspective. Around 2018, me and the fellow ‘Heads of’ at my organisation realised that we’d spent a long time figuring out how we each work on our own terms but not enough time figuring out how we’d worked together. The same realisation hit with my fellow Heads of Product across government. We were always talking about ourselves and to ourselves, and we’d got as much from that as we could. We needed to learn from each other. 
 
 In 2019 it became increasingly clear that we need to step outside of the ‘digital bubble’ entirely if we’re going to radically improve public services. The Civil Service is vast, full of great people doing amazing things. ‘Digital’ is just a sliver of this. We’ve maybe been guilty of thinking we can go it alone but the truth is that we can’t. 
 
@@ -148,13 +148,13 @@ A fair amount made with respect to other professions in the last couple of years
 # 9. The Agile Manifesto is about behaviours, not software
 **Improvement**
 
-Join up the organisation to focus on users, worry less about being agile. Clearly describe the behaviours that make this work in my context.
+Join up the organisation to focus on users, worry less about 'being agile'. Clearly describe the behaviours that help my organisation to join up and focus on users.
 
 **Background**
 
-I’ve come to the realisation that the [Manifesto for Agile Software Development](https://agilemanifesto.org/) is not about software. It's really a manifesto for behaviours that allow us to cross boundaries to focus on the needs of users.. I see a parallel in the notion of [soft skills](https://en.wikipedia.org/wiki/Soft_skills) by the US Army. Soft skills describe the social skills needed to lead groups, beyond those specialist skills needed to operate machinery. The Agile Manifesto and soft skills are both ways of describing general behaviours that help us in our relationship with our social environment.
+I’ve come to the realisation that the [Manifesto for Agile Software Development](https://agilemanifesto.org/) is not about software. It's really a manifesto for behaviours that allow us to cross boundaries to focus on the needs of users. I see a parallel in the notion of [soft skills](https://en.wikipedia.org/wiki/Soft_skills) by the US Army. Soft skills describe the social skills needed to lead groups, beyond those specialist skills needed to operate machinery. The Agile Manifesto and soft skills are both ways of describing general behaviours that help us in our relationship with our social environment.
 
-‘So what’, right? At its best ‘working with agility’ nudges us towards these positive behaviours that cross boundaries and help us to work together to serve our users. At its worse, Agile is a cult that erects more boundaries within an organisation and leads to a new tribe. So I think that clearly describing our ultimate goal (working together across silos to help users). And freeing ourselves up to describe the behaviours that help us to do this within our own context. Will help us to achieve the intent behind the Agile Manifesto without using it as an excuse to exclude people.
+At its best ‘working with agility’ nudges us towards these positive behaviours that cross boundaries and help us to work together to serve our users. At its worse, Agile is a cult that erects more boundaries within an organisation and leads to a new tribe. So I think that clearly describing our ultimate goal (working together across silos to help users). And freeing ourselves up to describe the behaviours that help us to do this within our own context. Will help us to achieve the intent behind the Agile Manifesto without using it as an excuse to exclude people.
 
 **Progress**
 
