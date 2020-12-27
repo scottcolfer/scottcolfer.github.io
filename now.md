@@ -5,5 +5,5 @@ permalink: /now/
 ---
 
 - taking shared parental leave
-- writing a book with the working title of Good Product Management
-- running a newsletter for product managers who put people before profit.
+- writing a [book](https://scottcolfer.com/2020/12/14/book-update-december-2020.html)
+- running a [newsletter](https://goodproduct.management/) for product managers who put people before profit.
