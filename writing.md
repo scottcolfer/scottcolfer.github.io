@@ -4,10 +4,6 @@ title: Writing
 permalink: /writing/
 ---
 
-I've worked with lots of great organisations including [BBC Young Reporter](https://www.bbc.co.uk/news/education-46131593), [Catch22](https://www.catch-22.org.uk/), [Deparment for Education](https://www.gov.uk/government/organisations/department-for-education), [Diabetes UK](https://www.diabetes.org.uk/), [European Commission](https://ec.europa.eu/commission/index_en), [General Assembly](https://generalassemb.ly/), [Google.org](https://www.google.org/), [Inside Job Productions](https://www.insidejobproductions.co.uk/), [Mind Of My Own](https://mindofmyown.org.uk/), [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice), [New Philanthropy Capital](https://www.thinknpc.org/), [Young Dads Collective](https://www.familyandchildcaretrust.org/young-dads-collective). 
-
-## Talks and Publications
-
 - [Exploration Over Pre-Discovery](https://mojdigital.blog.gov.uk/2020/06/11/exploration-over-pre-discovery/) - 11/6/20, Ministry of Justice blog (author)
 - [Discovery at the Ministry of Justice](https://mojdigital.blog.gov.uk/2020/01/23/discovery-at-the-ministry-of-justice/) - 23/1/20, Ministry of Justice blog (author)
 - [5 Product Management Hacks for Product Leaders](https://www.mindtheproduct.com/5-product-management-hacks-for-product-leaders/) - 21/11/2019, Mind the Product blog (author)
