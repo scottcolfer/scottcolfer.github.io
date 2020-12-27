@@ -18,5 +18,6 @@ disqus:
 
 #Header pages
 header_pages:
+  - now.md
   - writing.md
   - index.md
