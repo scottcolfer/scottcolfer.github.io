@@ -12,7 +12,7 @@ So I’ve set up a [newsletter](https://buttondown.email/goodproductmanagement) 
 **Do you know someone who deserves to have their work recognised?**
 Get in touch with me to share your recommendation.
 
-You can [email](scott@goodproduct.management). DM me on [Twitter](https://twitter.com/scottcolfer) if we follow each other. Or message me on [LinkedIn](https://www.linkedin.com/in/scottcolfer).
+You can [email](scott@goodproduct.management) me. DM me on [Twitter](https://twitter.com/scottcolfer) if we follow each other. Or message me on [LinkedIn](https://www.linkedin.com/in/scottcolfer).
 
 Let me know:
 
