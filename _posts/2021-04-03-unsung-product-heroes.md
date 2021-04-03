@@ -31,8 +31,8 @@ I’ll get in touch with them. If everything goes well I'll:
 
 You can read previous examples here:
 
-- '[How to Align Your Product Team](https://buttondown.email/goodproductmanagement/archive/aa88b76c-5c0a-4402-a5ad-36a924fc9a28)', featuring Tobi Ogunsina, Senior Product Manager at the Government Digital Service
-- '[Top Tips for Product Manager Meetups](https://buttondown.email/goodproductmanagement/archive/6a694af8-19d3-4e33-93a0-bcf6c75aadaf)', featuring Simon Manby, Senior Product Manager at the Ministry of Justice.
+- '[How to Align Your Product Team](https://buttondown.email/goodproductmanagement/archive/aa88b76c-5c0a-4402-a5ad-36a924fc9a28)', featuring Tobi Ogunsina (Senior Product Manager at the Government Digital Service)
+- '[Top Tips for Product Manager Meetups](https://buttondown.email/goodproductmanagement/archive/6a694af8-19d3-4e33-93a0-bcf6c75aadaf)', featuring Simon Manby (Senior Product Manager at the Ministry of Justice).
 
 Let’s sing the praises of the unsung heroes working in product management in the UK Government. Share your recommendations and let’s find, support, and amplify these great folks.
 
