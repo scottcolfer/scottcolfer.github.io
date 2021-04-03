@@ -10,6 +10,7 @@ The pandemic has shown how critical ‘digital’ teams in Government are. And h
 So I’ve set up a [newsletter](https://buttondown.email/goodproductmanagement) to find, support, and [amplify](https://www.vox.com/2016/9/14/12914370/white-house-obama-women-gender-bias-amplification) good product managers in the UK government. Those who quietly get on with creating critical services for their country, improving lives as they go.
 
 **Do you know someone who deserves to have their work recognised?**
+
 Get in touch with me to share your recommendation.
 
 You can [email](scott@goodproduct.management) me. DM me on [Twitter](https://twitter.com/scottcolfer) if we follow each other. Or message me on [LinkedIn](https://www.linkedin.com/in/scottcolfer).
