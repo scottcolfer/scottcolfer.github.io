@@ -3,7 +3,6 @@ layout: post
 title: "Do you know an unsung hero of a product manager?"
 date: 2021-04-03
 ---
-Do you know an unsung hero of a product manager?
 
 I’m looking for unsung heroes working in product management in the UK government. 
 The pandemic has shown how critical ‘digital’ teams in Government are. And how little praise and attention they get. 
