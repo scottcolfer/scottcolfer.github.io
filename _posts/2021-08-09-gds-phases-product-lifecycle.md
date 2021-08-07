@@ -41,7 +41,7 @@ This could take the form of your Portfolio/Controls/Standards team pairing with 
 
 # ‘Aren't we doing discovery and delivery in parallel the whole time?’
 
-I think this is a red-herring. The same word can mean different things to different people. I think this has happpened with discoery.
+I think this is a red-herring. The same word can mean different things to different people. I think this has happpened with discovery.
 
 - There’s discovery, in a general sense. We discover things. We learn stuff that improves our products. This should happen throughout a product's life. We should always learn and improve.
 - There’s Product Discovery, in a specific sense, within the context of the product lifecycle. A stage in which we invest a small amount of money in order to define a problem in order to gain greater confidence in figuring if and why we should build a product. We should invest the minimum amount needed to figure this out. And avoid sinking money into our imagined product until we’ve figured this out. The early stage of an opportunity is the riskiest. Not least because it’s where we know the least. But also because people talk about problems through solutions. The solution we’re all talking about right now is a metaphor for the problem. It’s easier to talk about an imagined solution than the problem we’re trying to solve because we haven’t had time to define the problem yet. Creating a list of things we don’t know about a problem is less motivating than a workshop thinking about a solution.
