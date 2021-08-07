@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are you frustrated with GDS' formal discovery/alpha/beta phases? It doesn't have to be that way."
+title: "Why I'm not frustrated with GDS' formal discovery/alpha/beta phases"
 date: 2021-08-09
 ---
 
