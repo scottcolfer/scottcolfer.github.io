@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do you have issues with GDS' formal discovery/alpha/beta phases?"
+title: "Are you frustrated with GDS' formal discovery/alpha/beta phases?"
 date: 2021-08-09
 ---
 
@@ -37,7 +37,7 @@ So if you’re frustrated with GDS’ ‘formal discovery, alpha, beta’ phases
 - Localise and contextualise
 - Be pragmatic. 
 
-This could take the form of your Portfolio/Controls/Standards team pairing with your Product Management profession to lead a project to do the above on with and on behalf of your organisation. And to partner and check-in with the Standards Team at GDS (now CDDO). I have never found them to be anything other than positive and supportive of our work. And the Service Standard and Manual remain the most effective mechanism for protecting a user-centred, product approach that I’ve experienced in any sector. They were a huge reason for me joining the Civil Service and have proved invaluable throughout my career here.
+This could take the form of your Portfolio/Controls/Standards team pairing with your Product Management profession to lead a project to do the above with and on behalf of your organisation. And to partner and check-in with the Standards Team at GDS (now CDDO). I have never found them to be anything other than positive and supportive of our work. And the Service Standard and Manual remain the most effective mechanism for protecting a user-centred, product approach that I’ve experienced in any sector. They were a huge reason for me joining the Civil Service and have proved invaluable throughout my career here.
 
 # ‘Aren't we doing discovery and delivery in parallel the whole time?’
 
