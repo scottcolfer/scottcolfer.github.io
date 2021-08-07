@@ -9,7 +9,7 @@ Earlier in the Summer someone shared their frustration with GDS’ ‘formal dis
 - “Beware process ossifying into dogma”
 - ‘Aren't we doing discovery and delivery in parallel the whole time?’.
 
-These were both things I’ve thought about for a few years because I lead Service Standard for my organisation as part of my role as Head of Product. Here’s some of the background along with how it's influenced my approach to these themes.
+These were both things I’ve thought about for a few years because I lead Service Standard for my organisation as part of my role as Head of Product. Here I share some of my thinking along with how it's influenced my approach.
 
 # “Beware process ossifying into dogma”
 
