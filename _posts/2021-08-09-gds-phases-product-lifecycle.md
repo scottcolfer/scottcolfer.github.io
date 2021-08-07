@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do you have issues with GDS' formal disco/alpha/beta phases?"
+title: "Do you have issues with GDS' formal discovery/alpha/beta phases?"
 date: 2021-08-09
 ---
 
