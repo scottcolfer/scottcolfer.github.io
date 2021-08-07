@@ -29,7 +29,7 @@ The product lifecycle is a core part of the product management role. We can’t 
 
 Heading up Service Standard, I’ve held onto this. Most of our products are relatively small and so internally assessed. This means I can make additions to the standard guidance and assessments in order to (i) make their intent more clear so that (ii) we can localise and contextualise. We are always true to the intent of the Service Standard. We never lower the bar. We never replace any existing guidance, it always acts as a starting point. But we do add to it in order to make it work better for our context and to reflect what we’ve learned over the years. We work closely with GDS (now CDDO) and they’re totally supportive. We’re not doing our own thing. We’re just adding to the already amazing starting point that’s been provided. We were audited earlier in the year and received the highest level of assurance with no recommendations for change or improvement. It just feels like the healthy, positive thing to do.
 
-So if you’re frustrated with GDS’ ‘formal discovery, alpha, beta’ phases and invite you to:
+So if you’re frustrated with GDS’ ‘formal discovery, alpha, beta’ phases I invite you to:
 
 - Revisit the intent behind it
 - Think about your own goals in using it
