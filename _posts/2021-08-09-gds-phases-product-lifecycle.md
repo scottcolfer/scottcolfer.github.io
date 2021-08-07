@@ -4,12 +4,12 @@ title: "Do you have issues with GDS' formal disco/alpha/beta phases?"
 date: 2021-08-09
 ---
 
-Earlier in the Summer, someone shared their frustration with GDS’ ‘formal discovery, alpha, beta’ phases. See the original post [here](https://twitter.com/cantlin/status/1402590276900855813) (Twitter). It got a lot of responses. There were two themes that stood out to me:
+Earlier in the Summer someone shared their frustration with GDS’ ‘formal discovery, alpha, beta’ phases. See the original post [here](https://twitter.com/cantlin/status/1402590276900855813) (Twitter). It got a lot of responses. There were two themes that stood out to me:
 
 - “Beware process ossifying into dogma”
 - ‘Aren't we doing discovery and delivery in parallel the whole time?’.
 
-These were both things I’d been thinking about for a few years because I lead Service Standard for MOJ as part of my role as Head of Product. Here’s some of the background along with how it's influenced my approach to these themes.
+These were both things I’ve thought about for a few years because I lead Service Standard for my organisation as part of my role as Head of Product. Here’s some of the background along with how it's influenced my approach to these themes.
 
 # “Beware process ossifying into dogma”
 
@@ -27,12 +27,12 @@ The standard product lifecycle is aimed at commercial products that measure succ
 
 The product lifecycle is a core part of the product management role. We can’t do our role without it. Product strategy is fundamentally different from one stage of the product lifecycle to another. Our users and their expectations are different from one stage to another. While the boundaries are more blurred than diagrams would suggest, the stages are real. It’s so fundamental to our role that it’s one of the core skills listed in our [role description](https://www.gov.uk/guidance/product-manager) on the Digital, Data, and Technology Capability Framework. You can blame me for that. I advocated for its inclusion back in 2016 when we were writing the role description. I’d noticed through interviewing, managing, and speaking with PMs that it was recognised to be important but was the most common skill that needed development. The other Heads of Product agreed and it was included. 
 
-Heading up Service Standard, I’ve held onto this. I’m lucky that most of our products are relatively small and so internally assessed. This means I can make additions to the standard guidance and assessments in order to (i) make their intent more clear so that (ii) we can localise and contextualise. We are always true to the intent of the Service Standard. We never lower the bar. We never replace any existing guidance, it always acts as a starting point. But we do add to it in order to make it work better for our context and to reflect what we’ve learned over the years. We work closely with GDS (now CDDO) and they’re totally supportive. We’re not ‘doing our own thing’, we’re just adding to the already amazing starting point that’s been provided. We were audited earlier in the year and received the highest level of assurance with no recommendations for change or improvement. It just feels like the healthy, positive thing to do.
+Heading up Service Standard, I’ve held onto this. I’m lucky that most of our products are relatively small and so internally assessed. This means I can make additions to the standard guidance and assessments in order to (i) make their intent more clear so that (ii) we can localise and contextualise. We are always true to the intent of the Service Standard. We never lower the bar. We never replace any existing guidance, it always acts as a starting point. But we do add to it in order to make it work better for our context and to reflect what we’ve learned over the years. We work closely with GDS (now CDDO) and they’re totally supportive. We’re not doing our own thing. We’re just adding to the already amazing starting point that’s been provided. We were audited earlier in the year and received the highest level of assurance with no recommendations for change or improvement. It just feels like the healthy, positive thing to do.
 
 So if you’re frustrated with GDS’ ‘formal discovery, alpha, beta’ phases and invite you to:
 
 - Revisit the intent behind it
-- Your own goals in using it
+- Think about your own goals in using it
 - Critically engage with it
 - Localise and contextualise
 - Be pragmatic. 
@@ -52,4 +52,4 @@ We often think about the product lifecycle from the perspective of an individual
 
 Let's say we’re a large organisation. We’re looking at 50-60 digital products in varying stages of development. We think they’re all valuable. We’d love to pursue them all, and more. But we don’t have infinite people. We don’t have infinite time. We don’t have infinite money. We have to make hard decisions about where to invest tax payers’ money. And we need to invest in the things most likely to succeed. From this perspective, the product lifecycle provides a series of investment decisions: is this single opportunity worth pursuing in the context of all our other opportunities, given that constraints mean we can’t pursue them all? And if it is worth pursuing, can we help it connect with other opportunities where there are chances to learn and share from each other?
 
-In UK Government, it’s a critical part of a Product Manager’s role to lead the team to these decisions. It’s the reality of the ‘product lifecycle’ essential skill. There will be Senior Product Managers and Lead Product Managers (depending on the size and maturity of an organisation) whose role it is to support with assessment of opportunities in the broader context of the space in which an individual product sits. We should support, empower and require product teams to engage with these investment decisions at critical points of the product lifecycle. 
+In UK Government, it’s a critical part of a Product Manager’s role to lead the team to these decisions. It’s the reality of the ‘product lifecycle’ essential skill. There will be Senior Product Managers and Lead Product Managers (depending on the size and maturity of an organisation) whose role it is to support with assessment of opportunities in the broader context of the space in which an individual product sits. We should support, empower and require product teams to engage with these investment decisions at critical points of the product lifecycle. In an ideal world, assessments are just a place for teams to share these decisions and check their thinking with supportive peers.
