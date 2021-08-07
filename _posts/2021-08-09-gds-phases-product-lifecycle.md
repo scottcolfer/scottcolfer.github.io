@@ -7,18 +7,19 @@ date: 2021-08-09
 Earlier in the Summer, someone shared their frustration with GDS’ ‘formal discovery, alpha, beta’ phases. See the original post [here](https://twitter.com/cantlin/status/1402590276900855813) (Twitter). It got a lot of responses. There were two themes that stood out to me:
 “Beware process ossifying into dogma”
 ‘Aren't we doing discovery and delivery in parallel the whole time?’
-I lead Service Standard for MOJ, and am Head of Product (home of the product lifecycle) so these were both things I’d been thinking about for a few years and were already on my backlog to do something with. Here’s some of the background, and some of what I’m working on with my colleagues.
-“Beware process ossifying into dogma”
+I lead Service Standard for MOJ, and am Head of Product (home of the product lifecycle). These were both things I’d been thinking about for a few years. Here’s some of the background along with how it's influenced my approach to these themes.
 
-This is what Tom Loosemore [said](https://twitter.com/tomskitomski/status/1402602431750496260) in the ensuing responses to the original post. It’s what I’ve held in mind since I became Head of Service Standard in 2018. For a process to be useful, we need to:
+# “Beware process ossifying into dogma”
+
+This is what Tom Loosemore [said](https://twitter.com/tomskitomski/status/1402602431750496260) in the responses to the original post. It’s what I’ve held in mind since I became Head of Service Standard in 2018. For a process to be useful, we need to:
 
 - Understand the intent behind it
-- Our own goals in using it
+- Understand our own goals in using it
 - Critically engage with it
 - Localise and contextualise
 - Be pragmatic.
 
-This is what I try to make space for in my organisation. GDS’ ‘formal discovery, alpha, beta phases’ are the UK Government’s way of talking about the product lifecycle. I’ve found the product lifecycle to hold true for all products I’ve worked on, across all sectors. The product lifecycle has been a conceptual tool for improving product strategy for a long time. [Here](https://hbr.org/1965/11/exploit-the-product-life-cycle)’s a republished article from 1965 talking about it. It’s been refined since, with people like Steve Blank going much deeper on the ‘[customer development](https://en.wikipedia.org/wiki/Customer_development)’ stage in his book ‘[The Four Steps to Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf)’. This was a core text when I tutored on the General Assembly product management course many years ago. Steve’s Blank’s thinking was an explicit influence on ‘[The Lean Startup](https://en.wikipedia.org/wiki/The_Lean_Startup)’. ‘The Lean Startup’ was published in 2011 (with evaluation copies doing the rounds before being published, from memory) at the same time that GDS was being spun-up and joining the dots it clearly influenced the shape of GDS’ thinking (directly or indirectly). 
+This is what I try to make space for in my organisation. GDS’ ‘formal discovery, alpha, beta phases’ are the UK Government’s way of talking about the product lifecycle. I’ve found the product lifecycle to hold true for all products I’ve worked on, across all sectors. The product lifecycle has been a conceptual tool for improving product strategy for a long time. [Here](https://hbr.org/1965/11/exploit-the-product-life-cycle)’s a republished article from 1965 talking about it. It’s been refined since, with people like Steve Blank going much deeper on the ‘[customer development](https://en.wikipedia.org/wiki/Customer_development)’ stage in his book ‘[The Four Steps to Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf)’. This was a core text when I tutored on the General Assembly product management course many years ago. Steve’s Blank’s thinking was an explicit influence on ‘[The Lean Startup](https://en.wikipedia.org/wiki/The_Lean_Startup)’. ‘The Lean Startup’ was published in 2011 (with evaluation copies doing the rounds before being published, from memory) at the same time that GDS was being spun-up and (joining the dots) it clearly influenced the shape of GDS’ thinking (directly or indirectly). 
 
 The standard product lifecycle is aimed at commercial products that measure success through sales so it requires contextualisation to work in the Civil Service where we measure success through how much we help people. ‘Amount of use’ is maybe a decent alternative for sales, where ‘use’ is defined as the number of successfully completed user journeys. In any case, it’s totally legit to tweak it. But ultimately: we’re just talking about the product lifecycle. 
 
