@@ -50,7 +50,7 @@ The product lifecycle is talking about Product Discovery in a specific sense. It
 
 Let's think even bigger.
 
-We often think about the product lifecycle from the perspective of an individual product team working on an individual product team. Let’s change perspective.
+We often think about the product lifecycle from the perspective of an individual product team working on an individual product. Let’s change perspective.
 
 Let's say we’re a large organisation. We’re looking at 50-60 digital products in varying stages of development. We know they’re all valuable. We’d love to pursue them all, and more. But we don’t have infinite people. We don’t have infinite time. We don’t have infinite money. We have to make hard decisions about where to invest tax payers’ money. From this perspective, the product lifecycle provides a series of investment decisions. Each time we're asking: is this single opportunity worth pursuing in the context of all our other opportunities, given that constraints mean we can’t pursue them all at once? And if it is worth pursuing, can we help it connect with other opportunities where there are chances to learn and share from each other?
 
