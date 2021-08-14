@@ -27,3 +27,17 @@ The diagram’s got two axes.
 **Jack of all Trades** is someone who provides many perspectives within their team. This version of the role may do some research, some design, and some of the technical tasks. They may be responsible for sales, marketing, or support. At its simplest, we’re doing most of the work with occasional support.
 
 **A specialist** is someone in a multidisciplinary team. This version of the role is not covering gaps in the team. They have time to be product management-y. At its simplest, we’re understanding the specialist perspectives of others and looking for value in the sweet spot where they align.
+
+# Where might I be a Product Owner?
+
+I see product owner commonly used in technology startups. I’ve been a product owner in this space. I see lots of product owners in this space through interviews and conversations. Common characteristics include:
+Founders remain 'hands-on' in leading direction for the organisation. The own the business model and the product strategy
+Technology is the focus, as is increasing users. Engineering (and Design sometimes) are the dominant professions in the organisation
+Product is being introduced. The first product managers may be engineers and designers moving into new ‘management’ roles. Their focus is helping teams build new technology features.
+
+I’m using technology startup in a broad sense. This covers the spectrum from commercial companies making apps to large non-profit organisations introducing ‘Digital’ teams for the first time.
+
+‘Product owner’ can be a good version of the role in this context. There’s high confidence in the problems. Product strategy is owned elsewhere. There are clear goals. ‘Delivery is the strategy’. 
+
+Issues can arise when this approach is taken but assumptions about the problem, the strategy, and the goals are untested. The organisation is set on a trajectory that’s moving away from reality. It’s hard to course correct when product is used in this way. Further issues can arise if founders or leadership remain too hands-on when the organisation becomes too large for them to do so effectively (‘[founder’s syndrome](https://en.wikipedia.org/wiki/Founder%27s_syndrome#:~:text=Founder%27s%20syndrome%20(also%20founderitis)%20is,a%20wide%20range%20of%20problems.)’).
+
