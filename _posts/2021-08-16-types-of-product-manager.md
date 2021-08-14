@@ -15,9 +15,15 @@ Let’s look at our diagram and ask the quesstion: What type of product manager 
 ![Type of Product Manager Quadrant Diagram by Scott Colfer](/assets/product_quadrant.jpg)
 
 The diagram’s got two axes. 
-Axis 1: Product Owner → Product Manager
 
-Product Owner is someone who leads their team’s tactics for building something.This version of the role might focus on outputs (e.g. software features). At its simplest, we’re playing the Product Owner role as described in the Scrum Guide.
+# Axis 1: Product Owner → Product Manager
 
-Product Manager is someone who leads their product’s strategy for improving value. This version of the role focuses on outcomes (e.g. benefits for their users and their organisation). At its simplest, we’re playing the Product Manager role described in the UK Government’s Digital, Data, and Technology Capability Framework.
+**Product Owner** is someone who leads their team’s tactics for building something.This version of the role might focus on outputs (e.g. software features). At its simplest, we’re playing the [Product Owner role](https://scrumguides.org/scrum-guide.html#product-owner) as described in the Scrum Guide.
 
+**Product Manager** is someone who leads their product’s strategy for improving value. This version of the role focuses on outcomes (e.g. benefits for their users and their organisation). At its simplest, we’re playing the [Product Manager role](https://www.gov.uk/guidance/product-manager) described in the UK Government’s Digital, Data, and Technology Capability Framework.
+
+# Spectrum 2: Jack of All Trades → Specialist
+
+**Jack of all Trades** is someone who provides many perspectives within their team. This version of the role may do some research, some design, and some of the technical tasks. They may be responsible for sales, marketing, or support. At its simplest, we’re doing most of the work with occasional support.
+
+**A specialist** is someone in a multidisciplinary team. This version of the role is not covering gaps in the team. They have time to be product management-y. At its simplest, we’re understanding the specialist perspectives of others and looking for value in the sweet spot where they align.
