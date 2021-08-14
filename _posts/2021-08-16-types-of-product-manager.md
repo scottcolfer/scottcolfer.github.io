@@ -41,3 +41,12 @@ I’m using technology startup in a broad sense. This covers the spectrum from c
 
 Issues can arise when this approach is taken but assumptions about the problem, the strategy, and the goals are untested. The organisation is set on a trajectory that’s moving away from reality. It’s hard to course correct when product is used in this way. Further issues can arise if founders or leadership remain too hands-on when the organisation becomes too large for them to do so effectively (‘[founder’s syndrome](https://en.wikipedia.org/wiki/Founder%27s_syndrome#:~:text=Founder%27s%20syndrome%20(also%20founderitis)%20is,a%20wide%20range%20of%20problems.)’).
 
+# Where might I be a Product Manager?
+
+I worked for myself for a while. Some clients wanted me to act as a consultant and review their business model. In these situations my time was not spent leading a development team. I was paid to help them find product/market fit and improve profitability.
+
+Let's take one of my clients. They hired me when they were coming to the end of their funding and had to become profitable. I focused on their customers and found that their sales time was 3-9 months. This was because their information security generated lots of questions. I made the case to prioritise information assurance accreditation for three months. This allowed us to reduce sales time to 1-3 months. It also gave us time to explore procurement processes for our customers. We realised we could quadruple the cost of the newly secure product without affecting sales.
+
+This is the kind of situation where product management can be a good fit. There’s low confidence in the problem. Low confidence in the solution. And a broad scope to make changes, quickly, based on testing in the real world.
+
+Issues can arise if this approach is taken when there’s no real scope to change. If we’re running a website development project. And it’s the fiftieth one we’ve done. And it’s entirely typical. Then this type of product manager could easily become overkill and lead to a waste of time and money. Further issues can arise if this type of product manager is hired but only has the scope to function as a product owner. Or is expected to be a jack of all trades.
