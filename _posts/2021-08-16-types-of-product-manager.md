@@ -54,7 +54,7 @@ Issues can arise if this approach is taken when there’s no real scope to chang
 
 # Where might I be a jack of all trades?
 
-Some organisations have one or two specialisms that dominate their culture. I did some digging into associate product management schemes a couple of years ago. It was interesting to read Google’s at the time. Google said that their focus was engineering. They wanted product managers to fill the gaps in the team. To support engineers to do engineering by taking care of the other stuff. 
+Some organisations have one or two specialisms that dominate their culture. I did some digging into associate product management schemes a couple of years ago. It was interesting to read one of the tech giant's programmes. They said that their focus was engineering. They wanted product managers to fill the gaps in the team. To support engineers to do engineering by taking care of the other stuff. 
 
 This can work well when the organisation is clear on its problems and solutions and needs help to focus on delivering outputs. Issues can arise when this isn’t the case as it can enable an organisation to continue in a direction that’s no longer working.
 
