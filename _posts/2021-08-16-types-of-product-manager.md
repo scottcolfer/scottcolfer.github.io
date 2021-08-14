@@ -28,11 +28,12 @@ The diagram’s got two axes.
 
 **A specialist** is someone in a multidisciplinary team. This version of the role is not covering gaps in the team. They have time to be product management-y. At its simplest, we’re understanding the specialist perspectives of others and looking for value in the sweet spot where they align.
 
-# Where might I be a Product Owner?
+# Where might I be a product owner?
 
 I see product owner commonly used in technology startups. I’ve been a product owner in this space. I see lots of product owners in this space through interviews and conversations. Common characteristics include:
-Founders remain 'hands-on' in leading direction for the organisation. The own the business model and the product strategy
-Technology is the focus, as is increasing users. Engineering (and Design sometimes) are the dominant professions in the organisation
+
+- Founders remain 'hands-on' in leading direction for the organisation. The own the business model and the product strategy
+- Technology is the focus, as is increasing users. Engineering (and Design sometimes) are the dominant professions in the organisation
 Product is being introduced. The first product managers may be engineers and designers moving into new ‘management’ roles. Their focus is helping teams build new technology features.
 
 I’m using technology startup in a broad sense. This covers the spectrum from commercial companies making apps to large non-profit organisations introducing ‘Digital’ teams for the first time.
@@ -71,4 +72,4 @@ Issues can arise if we hire this type of product manager but have gaps in the te
 
 # What type of Product Manager are you?
 
-Do you recognise the range of product management shown in my diagram? Do you recognise that you’re in one particular quadrant? Do you think that’s where you need to be? Or is it where your organisation has left space for you to be? Do you move around the quadrant a lot, playing different roles as needed? Are you in one quadrant and ready to move to another? Or are you very happy where you are?
+Do you recognise the range of product management shown in my diagram? Do you recognise that you’re in one particular quadrant? Do you think that’s where you need to be? Or is it where your organisation has left space for you to be? Are you doing the right thing but have the wrong role title? Or are you doing the wrong thing with the right role title? Do you move around the quadrant a lot, playing different roles as needed? Are you in one quadrant and ready to move to another? Or are you very happy where you are?
