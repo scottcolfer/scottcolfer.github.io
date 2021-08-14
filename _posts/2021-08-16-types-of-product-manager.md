@@ -50,3 +50,13 @@ Let's take one of my clients. They hired me when they were coming to the end of 
 This is the kind of situation where product management can be a good fit. There’s low confidence in the problem. Low confidence in the solution. And a broad scope to make changes, quickly, based on testing in the real world.
 
 Issues can arise if this approach is taken when there’s no real scope to change. If we’re running a website development project. And it’s the fiftieth one we’ve done. And it’s entirely typical. Then this type of product manager could easily become overkill and lead to a waste of time and money. Further issues can arise if this type of product manager is hired but only has the scope to function as a product owner. Or is expected to be a jack of all trades.
+
+# Where might I be a jack of all trades?
+
+Some organisations have one or two specialisms that dominate their culture. I did some digging into associate product management schemes a couple of years ago. It was interesting to read Google’s at the time. Google said that their focus was engineering. They wanted product managers to fill the gaps in the team. To support engineers to do engineering by taking care of the other stuff. 
+
+This can work well when the organisation is clear on its problems and solutions and needs help to focus on delivering outputs. Issues can arise when this isn’t the case as it can enable an organisation to continue in a direction that’s no longer working.
+
+In other organisations it’s a simpler reason. Money. Organisation only has the money for one full time role? A Product Manager may seem like they can do the lot. Does this sound farfetched? I’ve been a product manager in a non-profit where there were only eight people in the whole organisation and I had no permanent support. Beyond some money for help from a digital agency, and some volunteers, it was all me. I've met or interviewed lots of people who've had a similar experience.
+
+This can often work well from the perspective of the organisation. They’re getting a lot from one person. The issues can be for that one person. Long hours, burnout and problems with health and relationships can be the end result.
