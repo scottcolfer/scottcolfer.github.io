@@ -60,3 +60,11 @@ This can work well when the organisation is clear on its problems and solutions 
 In other organisations it’s a simpler reason. Money. Organisation only has the money for one full time role? A Product Manager may seem like they can do the lot. Does this sound farfetched? I’ve been a product manager in a non-profit where there were only eight people in the whole organisation and I had no permanent support. Beyond some money for help from a digital agency, and some volunteers, it was all me. I've met or interviewed lots of people who've had a similar experience.
 
 This can often work well from the perspective of the organisation. They’re getting a lot from one person. The issues can be for that one person. Long hours, burnout and problems with health and relationships can be the end result.
+
+# Where might I be a specialist?
+
+Some organisations have multidisciplinary teams comprised of the skills needed for their products. They need product managers to play a smaller, more ‘specialist’ version of the role. Their specialism is to understanding the different perspectives of their team. And find value in the sweetspot where they align.
+
+From a personal perspective, working in Government is where I’ve most needed to play this role. And where I’ve most been able to play this specialist role. Digital products created in-house within Government need to have multidisciplinary teams. It's a condition of their investment.
+
+Issues can arise if we hire this type of product manager but have gaps in the team. When faced with real people who need help versus a more abstract ‘product strategy’? People (normally win). This can leave a gap where the product strategy should be. And can leave the product without real direction.
