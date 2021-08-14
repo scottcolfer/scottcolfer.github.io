@@ -10,7 +10,7 @@ We talk about ‘product management’ like it’s a single thing. But it isn’
 
 I’ve created a diagram to show the main types of product manager. It's based on personal experience and the experiences of others. There’s no ultimate ‘right’ version of product management. There’s right for right now. If we’re choosing the right version for the right reasons then everything’s good. What’s important is to recognise the types and use them with intent. I’ve been all these types of product manager over the years.
 
-Let’s look at our diagram and ask the quesstion: What type of product manager are you?
+Let’s look at our diagram and ask the question: What type of product manager are you?
 
 ![Type of Product Manager Quadrant Diagram by Scott Colfer](/assets/product_quadrant.jpg)
 
