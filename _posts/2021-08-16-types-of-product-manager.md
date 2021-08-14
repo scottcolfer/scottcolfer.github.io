@@ -68,3 +68,7 @@ Some organisations have multidisciplinary teams comprised of the skills needed f
 From a personal perspective, working in Government is where I’ve most needed to play this role. And where I’ve most been able to play this specialist role. Digital products created in-house within Government need to have multidisciplinary teams. It's a condition of their investment.
 
 Issues can arise if we hire this type of product manager but have gaps in the team. When faced with real people who need help versus a more abstract ‘product strategy’? People (normally win). This can leave a gap where the product strategy should be. And can leave the product without real direction.
+
+# What type of Product Manager are you?
+
+Do you recognise the range of product management shown in my diagram? Do you recognise that you’re in one particular quadrant? Do you think that’s where you need to be? Or is it where your organisation has left space for you to be? Do you move around the quadrant a lot, playing different roles as needed? Are you in one quadrant and ready to move to another? Or are you very happy where you are?
