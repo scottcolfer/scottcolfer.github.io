@@ -5,7 +5,6 @@ permalink: /now/
 ---
 
 * writing a [book](https://scottcolfer.com/2020/12/14/book-update-december-2020.html)
-* running a [newsletter](https://goodproduct.management/) for product managers who put people before profit
 * Head of Product and Service Standard at the Ministry of Justice
   - Leadership and support across the 'Digital' professions of Business Analysis, Content, Delivery Management, Design, Product Management, and User Research
   - Forming a 'Digital Professions Leadership Team', working with leads of Digital professions to improve how we work together in user-centred, multi-disciplinary teams
