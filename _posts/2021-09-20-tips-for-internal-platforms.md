@@ -70,4 +70,6 @@ The team needs to separate these two modes and approach them separately. If they
 
 [Yak-shaving](https://en.wiktionary.org/wiki/yak_shaving) is common. Unpicking situations where a platform’s approach goes against a local culture can uncover large and previously hidden issues. Estimation is difficult for this reason. Experience suggests that an estimate based on precedent - i.e. looking at the closest previous work and assuming it’ll take a similar amount of time - is more effective than general sizing activity. 
 
+***
+
 There you go. Five tips for product managers looking to create successful internal products. I think being assigned an internal product was the making of my carrer. It felt so strange and alien that I had to return to first principles in many areas and ask 'what's the intent behind my normal product management tricks?'. Hving reconnencted with first principles it freed me up to be pragmantic: keeping what worked, dropping what didn't work, and filling in the gaps through learning from experience and from others. Are you in this space now? How are you finding it? Do any of the tips sound useful for you? Have you already noticed something similar and tried it out? Have you developed any of your own tips for internal products?
