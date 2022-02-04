@@ -21,3 +21,7 @@ It made me feel better when, years later, I found out that [Spotify also abandon
 # Part 1: The Product Management Community
 
 ## Learn the key principles of a community and then figure out how to make them work for you
+
+ Skip to 2016 and I’m starting to lead the MOJ’s product management community of practice. I’ve started leading the profession in a sketchy, unofficial way. I still have hands-on responsibilities for product teams. There’s 10-12 folks in product management roles. Majority are contractors. There’s no clear leadership for the profession. There’s a regular meetup for those that want to attend. It’s mainly a place to talk, largely to blow-off steam, until the time is up. The role was sketchily designed and used inconsistently. Anyone could hire a product manager and use them as they wanted. There was no career pathway for permanent product managers.  
+
+Professions as a whole are in a weak place with an outgoing senior leader seeing little value in them. And even less value in heads of profession. A new senior leader joins and sees more value in professions but remains to be convinced.  
