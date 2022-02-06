@@ -77,4 +77,4 @@ Our shared artefacts keep us connected between big meetups. The handbook, role d
 
 I reposition myself so I represent everyone. I can't embed in the ‘original’ community as this reduces trust in me from the other locations. I give up my permanent desk and become a peripatetic* Head of Product.  
 
-*_I'm allowing myself this one, obscure word. I take 'peripatetic' to mean someone who travels from place to place, working in them for short periods._
+*_I'm allowing myself this one, obscure word. I take 'peripatetic' to mean someone who travels from place to place, working in each place for short periods._
