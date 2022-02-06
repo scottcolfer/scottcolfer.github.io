@@ -153,3 +153,15 @@ Joining together we realised how much goes on in each profession. And realised t
 - Prioritise most valuable work in progress that can be pushed over the finish line.
 
 I’m pretty excited about what 2022 holds for the user-centred, delivery and product professions at MOJ.
+
+# Epilogue
+
+I won’t help to write the next chapter in the story of professions and communities of practice at MOJ. I leave in a few weeks, moving to the public sector to work in Local Government. The Heads of Profession are running as a self-organising team. The Product management profession will have a new Head of Product. This is one of the reasons I’m excited to see what 2022 has in store for the user-centred, delivery and product professions at MOJ. It’s totally unknown to me for the first time in years. 
+
+This post isn’t the story of the product management profession at MOJ. That'd need 150+ voices to tell it. This isn’t the story of the Heads of Profession team at MOJ. That'd needs six people to tell it. But this is my story. A story about what it’s like to lead the same community of practice for a long time. It’s the story of what happens as the people in that community change, as enthusiasm ebbs and flows, and as the community grows, spreads and matures.
+
+I’ll try and boil this whole thing down. I learned some things the hard way. If you’re in a similar role, let me share just three things with you:
+
+1. You can’t solve every problem. The colleagues I saw who tried doing this burned out and left. If you’re in for the long haul then you have to learn to prioritise and let things go.
+2. But you must solve the important problems. Cynicism is waiting for those who switch-off. I bargained with myself that I could let some stuff go as long as I had one important problem I was solving at all times. And that I’d see each problem through to a solution. 
+3. I can leave a product failure at the door but people stuff that keeps me up at night. You can't succeed in anything. Not everyone will get on with you. You won't get on with everyone. You’ll come under pressure to compromise your values. Sometimes you’ll have to hold the line without anyone to pat you on the back for doing so. If you keep ‘open and fair’ as your north star and ensure each year is better than the last: then you’re doing the job and doing it well.
