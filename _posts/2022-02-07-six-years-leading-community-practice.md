@@ -120,3 +120,11 @@ I’ve learned that the first years building a community of practice is hands-on
 A few years in it switches. To building-out the career pathway. Developing, promoting and recruiting other leaders to join you and the profession. Sharing leadership activity with senior peers. Then distributing leadership with local Leads. Each success creates a little more space to be reflective, proactive and strategic. 
 
 One day I found myself with an entire afternoon of unscheduled time where, in that moment, everything was being led by others. And I had time to think. 
+
+# Part 2: Ecosystems
+
+## Professions as silos
+
+Communities of practice bridge across organisational silos. That can be from one team to another or from one division of the organisation to another. I started to notice something as I began to have time for strategic, reflective thinking. I realised was that professions were on the brink of becoming new silos.  Professional communities in government had defined ourselves to ourselves and for ourselves. But  we’d forgotten to define how we work together in teams to get things done. 
+
+I led Service Standard at MOJ from 2018, ensuring we were taking a Lean Startup-style approach to developing and running 40-50 products. And in early 2021 I  leadership across the user-centred, product and delivery professions spanning 350+ folks. Hundreds of people across dozens of products were saying the same thing. It's hard to figure out how our specialist roles work together in multi-disciplinary product teams. We need to figure out how teams work together as well as we've defined individual roles.
