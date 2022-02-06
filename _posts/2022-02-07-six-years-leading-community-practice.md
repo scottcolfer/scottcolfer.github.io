@@ -98,3 +98,11 @@ For those of us who attended from Government it was also great to reduce status 
 _I also picked-up sporadic coaching of commercial product leaders through these meetups. In return I got to keep my insights into this sector up to date and bring lessons back to my own profession._
 
 The folks at Mind the Product have put a huge amount of effort into supporting the product management community over the years, across all sectors and all parts of the globe. It's hugely appreciated and they more than deserve [their recent acquisition](https://twitter.com/bfgmartin/status/1488636913846263814?s=20&t=U_azTr6q4VeOFn7C71IOyg).
+
+## Distributed leadership
+
+. . . and back in the world of the MOJ’s product management community of practice. One day I realised that a local community, just one part of the profession, had 15 members. That was larger than the whole profession when it began a few years earlier. Remember that rule of thumb about when you need a full-time Head of Product? Well, at a certain scale, it kicks-in for Lead Product Managers too. So I worked with some of my peers to introduce the role of ‘Lead’ to the organisation. 
+
+It takes time to trust in new Leadership roles. There’s understandable anxiety that they’re not ‘hands-on’ in delivery. It represents change for management teams. Until now digital specialists existed in product teams. It’s a big shift for a Lead to appear in a local management team. 
+
+But we get one Lead Product Manager. Then another. And another. And so on. My role became leading at scale. We got from 30 PMs, to 40, to 50, to 60.  The nature of my role changes and I switch to working with and through a team of Lead PMs. My take is that leaders lead by going first.  So anything new: it’s my job to go in whilst it’s messy and figure out what it looks like before asking anyone else to work on it.  I have to provide the core, consistent principles for the profession. But I have to recognise my limits. And the limits of any principles. They need to be flexible. The Leads need space to localise them and contextualise them so they work in reality. 
