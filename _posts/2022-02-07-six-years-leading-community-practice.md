@@ -141,3 +141,15 @@ We realised that we had to design our organisation as well as we design our prod
 2. **Knowledge.** Communities are great space to solve problems, taking implicit knowledge and make it explicit, documenting it in a way that can be shared. But it takes a lot of work to store this knowledge in a way that can actually be found and accessed. There’s work to use common tools, to have common taxonomies, to keep the information up to date and useable. The most radical act of innovation that many large organisation could make is to invest in a Content Designer and Librarian.
 3. **Curation.** “We consume information recreationally, not as a way to achieve our goals”, to quote Sari Azout. To quote Audree Fletcher, “[shared documents are not shared understanding](https://twitter.com/avfletcher/status/1485665608440102916)”. I spent years designing and updating the product management handbook for my profession. After just my first few months of shared parental leave it was already being forgotten. A few months later and some new starters to the profession had never heard of it. Knowledge needs to be curated and regularly put in front of us, discussed and explained, if we’re to actually use it. Communities, 1:1s, coaching and mentoring are all great places for knowledge to be curated and brought to life.
 4. **Standards.** I think standards add a ‘so what’ to this whole thing. Standards can reward us for starting from what’s already been figured out. And provide consequences for choosing to unnecessarily reinvent the wheel. They can provide a way of framing knowledge and provide the motivation to curate it. When standards truly matter, an organisation can solve problems once, for all, then move on to solving new problems.
+
+Joining together we realised how much goes on in each profession. And realised there’s so much going on that we’ve been cancelling each other out. Each profession tries to solve similar thing in its own way year after year. But without space to work together and share we end up treading water. So Heads of Profession decided to become a true team, working together to build a shared vision and to set shared goals. 
+
+ Much of our approach is about finding the awesome stuff already happening and clearing the way for it to be  finished.  We’ve developed some principles for how we work together which I’d summarise as:
+
+- Solve problems once, for all
+- Prioritise a small number of problems to solve together. And deciding what we’re not going to work on.
+- Take the invisible work needed to create great products and make it visible
+- Find, support & amplify work in progress before starting anything new
+- Prioritise most valuable work in progress that can be pushed over the finish line.
+
+I’m pretty excited about what 2022 holds for the user-centred, delivery and product professions at MOJ.
