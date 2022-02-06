@@ -58,3 +58,23 @@ We developed a rule of thumb in our early years. Below five people in a professi
 I learned this the hard way. In 2016 I was managing 10-15 folks. Forming and leading the profession. And ‘hands-on’ in one product team and one discovery. [I nearly burned out](https://scottcolfer.com/2019/09/01/product-leadership.html). But I had senior colleagues who agreed that we needed at full-time Head of Product. and was able to apply for (and get) this role. 
 
 It’s tricky though. There’s a lot of anxiety around no longer being ‘hands-on’ and losing your specialist skills. I was at a conference a few years ago and someone asked me if I was mainly doing people management now I was Head of Product? I said ‘yes’. And that people management was the role of a product manager, right? Product Managers don’t do anything. We listen. Think. And speak. In that order. We listen to the perspectives in our team and find value in the sweet spot where they align. A team is a team is a team. A management team is still a team. As Head of Product I had become the product manager in a management team. I was still creating value propositions, outcome-driven goals and aligning multidisciplinary perspectives. I tweaked my approach a little and to fit a management team. I remained ‘hands-on’ as long as I continually learned and improved and made products more valuable. Leading your profession and designing it to work well at scale is very much delivery. It’s delivering the capability your organisation needs to do its work. By coaching in your specialist skill at large scale. By all means reflect on how you tweak your specialist skills to work at scale within a management team.. But don’t allow yourself to get lost in worry that you’re no longer ‘hands-on’. 
+
+Sharing leadership
+
+So a year or two into the professional community and our organisation grows. A lot. Digital and Technology within one organisation merge. And then merge with Digital and Technology teams in four other organisations. We find ourselves in a new Digital and Technology super-function. We’ve gone from a world of about 100-150 people to a world of over 1,000 people within a year. The community is now spread across several business units and many locations. We have new members and have to restart some of our community building activity. Our profession doubles in size. 
+
+ Until now I've managed everyone. I designed the role descriptions. Designed the job ads and recruitment approach. Chaired all interviews. Made all hires. Onboarded the new folks. 
+
+ I need to share leadership activity with my peers. 
+
+We have our first permanent Senior Product Managers. I'm able to share share meetups, recruitment, 1:1s, coaching and mentoring with them. This feels weird at first. Let’s take recruitment. I’m pretty anxious about relaxing my control of this activity and handing it over to others . . . but it’s fine. It’s more than fine, it’s good - the Senior PMs bringing their perspective and improve it. Sharing leadership activity with me strengthens the profession. We lose a single point of failure/bottleneck (me). And gain diverse leadership of the profession. Each I share leadership of an activity I can introduce a little more strategic activity to my role. I have the headspace to solve the root cause of some of our issues instead of treating the symptoms. You can’t do that if you’re Chairing five simultaneous recruitment campaigns and line managing 15+ people.
+
+Localisation and contextualisation becomes important. We make space for it alongside the original need for process and consistency. 
+
+It’s still important to all meet together as a profession. It's only feasible a couple of time a year. But it's worth the effort to reconnect with each other.  Regular meetings now happen in segments. We develop 2-3 community meetups based on geographical location. I spend the day in each location on the day of the meetup. 
+
+Our shared artefacts keep us connected between big meetups. The handbook, role description, approaches to recruitment and learning become even more important. We introduce separate Slack channels for segments of the profession. But keep our main, shared channel. All are open and accessible by all. Weekly updates give me a chance to share what I learn with everyone. People joining, people leaving, interesting reading, product updates, etc. 
+
+I reposition myself so I represent everyone. I can't embed in the ‘original’ community as this reduces trust in me from the other locations. I give up my permanent desk and become a peripatetic* Head of Product.  
+
+*_I'm allowing myself this one, obscure word. I take 'peripatetic' to mean someone who travels from place to place, working in them for short periods._
