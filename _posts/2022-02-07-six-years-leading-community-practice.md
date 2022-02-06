@@ -51,7 +51,7 @@ What comes after the successful introduction of psychological safety can be hard
 
 It’s important that your community makes safe space for its members. You might be the person who needs to create this safety. If you are, make sure you’re prepared for those Friday afternoon chats. Think about how to have these conversations. Think about how you step-up and support without trying to be a hero. And without burning yourself out. Make sure you have the same safe space for yourself.
 
-# Head of Profession and being ‘hands-on’
+## Head of Profession and being ‘hands-on’
 
 We developed a rule of thumb in our early years. Below five people in a profession and you need one person to do some occasional leadership activity. 5-10 people and you need one person to be 50% on ‘Head of profession stuff’. At some point between 10-20 people you need a full-time Head of Profession.
 
@@ -59,7 +59,7 @@ I learned this the hard way. In 2016 I was managing 10-15 folks. Forming and lea
 
 It’s tricky though. There’s a lot of anxiety around no longer being ‘hands-on’ and losing your specialist skills. I was at a conference a few years ago and someone asked me if I was mainly doing people management now I was Head of Product? I said ‘yes’. And that people management was the role of a product manager, right? Product Managers don’t do anything. We listen. Think. And speak. In that order. We listen to the perspectives in our team and find value in the sweet spot where they align. A team is a team is a team. A management team is still a team. As Head of Product I had become the product manager in a management team. I was still creating value propositions, outcome-driven goals and aligning multidisciplinary perspectives. I tweaked my approach a little and to fit a management team. I remained ‘hands-on’ as long as I continually learned and improved and made products more valuable. Leading your profession and designing it to work well at scale is very much delivery. It’s delivering the capability your organisation needs to do its work. By coaching in your specialist skill at large scale. By all means reflect on how you tweak your specialist skills to work at scale within a management team.. But don’t allow yourself to get lost in worry that you’re no longer ‘hands-on’. 
 
-Sharing leadership
+## Sharing leadership
 
 So a year or two into the professional community and our organisation grows. A lot. Digital and Technology within one organisation merge. And then merge with Digital and Technology teams in four other organisations. We find ourselves in a new Digital and Technology super-function. We’ve gone from a world of about 100-150 people to a world of over 1,000 people within a year. The community is now spread across several business units and many locations. We have new members and have to restart some of our community building activity. Our profession doubles in size. 
 
@@ -78,3 +78,13 @@ Our shared artefacts keep us connected between big meetups. The handbook, role d
 I reposition myself so I represent everyone. I can't embed in the ‘original’ community as this reduces trust in me from the other locations. I give up my permanent desk and become a peripatetic* Head of Product.  
 
 *_I'm allowing myself this one, obscure word. I take 'peripatetic' to mean someone who travels from place to place, working in each place for short periods._
+
+## The accidental community of cross-government product leaders
+
+Head of Product meetups began with the creation of the [Digital, Data and Technology Profession Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework). We working together on the [product manager role description](https://www.gov.uk/guidance/product-manager), skills and career pathway through regular all-day sessions over 6-months. This gave us the space to get to know each other and build trust. We build a cross-government community of product leaders by accident. We made knowledge explicit, defined the role, agreed membership and set goals. All the stuff we were doing locally, recreated at a system-level.
+
+This was done in a way that crossed organisational boundaries. It contributed to a similar product management identity shared across many Departments. Heads of Product also supported each other to promote product  within our organisation. I've supported, and received support from most of the other main Departments. 
+
+_Writing in the open has helped me to make links. My [MOJ blog posts](https://mojdigital.blog.gov.uk/author/scott-colfer/) and [personal blog](https://scottcolfer.com/) have led to conversations, collaboration, speaking events, and attracted new candidates. Sometimes they've simply helped people in their day job. Behind the scenes, they’ve led to two side-hustles. The first is supporting new Heads of Product in Government. The second is support for people who’d like to share their experiences through blog posts of their own._  
+
+Heads of Product worked together at scale. Looking at hundreds of product managers helped us to see patterns. Most prominent to me was the need to differentiate the needs of the community as it grows. A couple of us did a retro of the cross-government product manager network. Meetups on how to roadmap for a single product remained useful for those new to the profession. But senior product managers needed a space to figure out what it means work across a group of products. Heads of Product and some Leads needed space to figure out what it means when the backlog is a portfolio and each ticket a whole product. Contexts varied too. Someone working on a greenfield public-facing product probably has a different experience from someone building a staff-facing product that has to integrate with multiple existing systems. Big meetups for everyone no longer worked as the single tool for keeping communities together.
