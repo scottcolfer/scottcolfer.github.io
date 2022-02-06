@@ -117,6 +117,6 @@ We ran a review and retro. The profession was mature enough to continue for with
 
 I’ve learned that the first years building a community of practice is hands-on, reactive people-work. It’s doing all the recruitment. And having to write the role descriptions and interview scripts first. It’s doing all the 1:1s. It’s switching from mainly contractors to mainly permanent staff. It’s personally knitting links between members of the community. Chairing meetups. Documenting knowledge and re-sharing it at the right time. It’s building trust in that professional community with other professions and with colleagues. All so the role is used in a way that’s valuable to the organisation and rewarding to the people doing it. 
 
-A few years in it switches. To building-out the career pathway. Developing, promoting and recruiting other leaders to join you and the profession. Sharing leadership activity with senior peers. The distributing leadership with local Leads. Each success creates a little more space to be reflective, proactive and strategic. 
+A few years in it switches. To building-out the career pathway. Developing, promoting and recruiting other leaders to join you and the profession. Sharing leadership activity with senior peers. Then distributing leadership with local Leads. Each success creates a little more space to be reflective, proactive and strategic. 
 
 One day I found myself with an entire afternoon of unscheduled time where, in that moment, everything was being led by others. And I had time to think. 
