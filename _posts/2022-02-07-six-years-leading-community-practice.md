@@ -112,3 +112,11 @@ But we get one Lead Product Manager. Then another. And another. And so on. My ro
 I took most of 2020 as Shared Parental Leave. This was a great chance to stress-test the product management profession. Had we designed a built a profession without a single point of failure?
 
 We ran a review and retro. The profession was mature enough to continue for without an active Head of Product for a time. There were gaps. It did weaken the profession in some areas. But the profession as a whole, and the local communities led by each Lead Product Manager, were strong enough to thrive. Circling back to Emily Webber’s [community maturity model](https://emilywebber.co.uk/community-of-practice-maturity-model/): the profession as a whole was ‘mature’, with examples of being ‘self-sustaining’. Individual communities within the profession were more or less mature at any one time. Energy-levels for community of practice ran in cycles. But as a whole - we’d built a strong profession with leadership distributed across several local communities of practice.
+
+## From ‘busy’ leader to strategic leader
+
+I’ve learned that the first years building a community of practice is hands-on, reactive people-work. It’s doing all the recruitment. And having to write the role descriptions and interview scripts first. It’s doing all the 1:1s. It’s switching from mainly contractors to mainly permanent staff. It’s personally knitting links between members of the community. Chairing meetups. Documenting knowledge and re-sharing it at the right time. It’s building trust in that professional community with other professions and with colleagues. All so the role is used in a way that’s valuable to the organisation and rewarding to the people doing it. 
+
+A few years in it switches. To building-out the career pathway. Developing, promoting and recruiting other leaders to join you and the profession. Sharing leadership activity with senior peers. The distributing leadership with local Leads. Each success creates a little more space to be reflective, proactive and strategic. 
+
+One day I found myself with an entire afternoon of unscheduled time where, in that moment, everything was being led by others. And I had time to think. 
