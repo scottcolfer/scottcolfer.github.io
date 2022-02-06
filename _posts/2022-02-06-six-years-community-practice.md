@@ -125,7 +125,7 @@ One day I found myself with an entire afternoon of unscheduled time where, in th
 
 ### Professions as silos
 
-Communities of practice bridge across organisational silos. That can be from one team to another or from one division of the organisation to another. I started to notice something as I began to have time for strategic, reflective thinking. I realised was that professions were on the brink of becoming new silos.  Professional communities in government had defined ourselves to ourselves and for ourselves. But  we’d forgotten to define how we work together in teams to get things done. 
+Communities of practice bridge across organisational silos. That can be from one team to another or from one division of the organisation to another. I started to notice something as I began to have time for strategic, reflective thinking. I realised that professions were on the brink of becoming new silos.  Professional communities in government had defined ourselves to ourselves and for ourselves. But  we’d forgotten to define how we work together in teams to get things done. 
 
 I led Service Standard at MOJ from 2018, ensuring we were taking a Lean Startup-style approach to developing and running 40-50 products. And in early 2021 I  leadership across the user-centred, product and delivery professions spanning 350+ folks. Hundreds of people across dozens of products were saying the same thing. It's hard to figure out how our specialist roles work together in multi-disciplinary product teams. We need to figure out how teams work together as well as we've defined individual roles.
 
