@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lessons learned from six-years leading a community of practice"
-date: 2022-02-07
+date: 2022-02-06
 ---
 
 There are a bunch of blog posts about building professional communities of practice. They’re often from people who help start the community. Or people that come in and support them for a period of time. I’ve not seen many that cover the history of a community over years.
