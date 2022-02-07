@@ -12,7 +12,26 @@ This is a post about what it’s like to lead the same community of practice for
 
 ### Contents
 
-Prologue: [Spotify](#spotify)
+**Prologue:** [The Spotify model (probably) won't work for you](#spotify)
+
+**Part 1: Building a product management commmunity of practice**
+
+- [Foundations](#foundations): the key elements for a new commmunity of practice
+- [Psychological safety](#safety): community leaders need their own safe space
+- [Hands-on anxiety](#handson): how to  avoid anxiety over not being 'hands-on'
+- [Sharing leadership](#sharing): how and why to start sharing leadership activity
+- [Connecting with other community leaders](#sideways): the value of community leaders working together
+- [Looking across the sectors](#sector): the value of learning from other sectors
+- [Distributing leadership](#distribute): how and when to segment the profession and disitribute leadership
+- [Testing the community](#test): stepping away as a leader to test the profession
+- [From busy to strategic](#success): making space for strategy as a community leader.
+
+**Part 2: Building a network of communities**
+
+- [Don't build new silos](#silos): the risk of communities of practice becoming new silos
+- [How to build networks of communities](#networks): designing an organisation that can solve problems once and for all, using communities, knowledge, curation and standards.
+
+**Epilogue:** [the three things I've learned the hard way](#epilogue)
 
 ## Prologue
 
@@ -24,7 +43,7 @@ It made me feel better when, years later, I found out that [Spotify also abandon
 
 ## Part 1: The Product Management Community
 
-### Learn the key principles of a community and then figure out how to make them work for you
+### <a name="foundations"></a>Learn the key principles of a community and then figure out how to make them work for you
 
  Skip to 2016 and I’m starting to lead the MOJ’s product management community of practice. I’ve started leading the profession in a sketchy, unofficial way. I still have hands-on responsibilities for product teams. There’s 10-12 folks in product management roles. Majority are contractors. There’s no clear leadership for the profession. There’s a regular meetup for those that want to attend. It’s mainly a place to talk, largely to blow-off steam, until the time is up. The role was sketchily designed and used inconsistently. Anyone could hire a product manager and use them as they wanted. There was no career pathway for permanent product managers.  
 
@@ -47,7 +66,7 @@ Don’t get me wrong, things could still be messy, that’s the reality of chang
 
 ‘If I knew then what I know now’ I could've done things better (and have done since). I was able to hire Emily and we worked together at the beginning of 2017. By this time Emily had introduced indicators of [community maturity](https://emilywebber.co.uk/community-of-practice-maturity-model/). We used it in a new area of the profession. Each indicator of maturity was a card and the PMs did a card sort. They agreed what was ‘done’ and what was ‘in progress’. This gave a sense of the maturity of the profession. What was done and what was in progress. And gave a chance to prioritise what happens next. This was a great way to build-up a 3-6 month backlog of shared community activity. I've used this approach several times since. You can achieve in 1-2 community meetups what it took us a few months to figure out back in 2016. Hiring an expert like Emily was a great opportunity to ask questions, test ideas and gain support. It was also useful to build trust internally about the approach we were taking.
 
-### Psychological safety
+### <a name="safety"></a>Psychological safety
 
 I’ve not seen much written about the emotional cost of introducing psychological safety to a community of practice. ‘Psychological safety’ was a buzz-phrase in digital circles for a while, made popular by a post on ‘[the five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)’. My take is that we should all feel safe to turn up to work as our true selves without fear of negative consequences. And we should feel safe to be constructively honest and challenging in our interpersonal relationships within groups at work. Organisations that foster this kind of psychological safety typically foster high-performing teams. Google repopularised this around the time we were working on our professional community.
 
@@ -55,7 +74,7 @@ What comes after the successful introduction of psychological safety can be hard
 
 It’s important that your community makes safe space for its members. You might be the person who needs to create this safety. If you are, make sure you’re prepared for those Friday afternoon chats. Think about how to have these conversations. Think about how you step-up and support without trying to be a hero. And without burning yourself out. Make sure you have the same safe space for yourself.
 
-### Head of Profession and being ‘hands-on’
+### <a name="handson"></a>Head of Profession and being ‘hands-on’
 
 We developed a rule of thumb in our early years. Below five people in a profession and you need one person to do some occasional leadership activity. 5-10 people and you need one person to be 50% on ‘Head of profession stuff’. At some point between 10-20 people you need a full-time Head of Profession.
 
@@ -63,7 +82,7 @@ I learned this the hard way. In 2016 I was managing 10-15 folks. Forming and lea
 
 It’s tricky though. There’s a lot of anxiety around no longer being ‘hands-on’ and losing your specialist skills. I was at a conference a few years ago and someone asked me if I was mainly doing people management now I was Head of Product? I said ‘yes’. And that people management was the role of a product manager, right? Product Managers don’t do anything. We listen. Think. And speak. In that order. We listen to the perspectives in our team and find value in the sweet spot where they align. A team is a team is a team. A management team is still a team. As Head of Product I had become the product manager in a management team. I was still creating value propositions, outcome-driven goals and aligning multidisciplinary perspectives. I tweaked my approach a little and to fit a management team. I remained ‘hands-on’ as long as I continually learned and improved and made products more valuable. Leading your profession and designing it to work well at scale is very much delivery. It’s delivering the capability your organisation needs to do its work. By coaching in your specialist skill at large scale. By all means reflect on how you tweak your specialist skills to work at scale within a management team.. But don’t allow yourself to get lost in worry that you’re no longer ‘hands-on’. 
 
-### Sharing leadership
+### <a name="sharing"></a>Sharing leadership
 
 So a year or two into the professional community and our organisation grows. A lot. Digital and Technology within one organisation merge. And then merge with Digital and Technology teams in four other organisations. We find ourselves in a new Digital and Technology super-function. We’ve gone from a world of about 100-150 people to a world of over 1,000 people within a year. The community is now spread across several business units and many locations. We have new members and have to restart some of our community building activity. Our profession doubles in size. 
 
@@ -83,7 +102,7 @@ I reposition myself so I represent everyone. I can't embed in the ‘original’
 
 *_I'm allowing myself this one, obscure word. I take 'peripatetic' to mean someone who travels from place to place, working in each place for short periods._
 
-### The accidental community of cross-government product leaders
+### <a name="sideways"></a>The accidental community of cross-government product leaders
 
 Head of Product meetups began with the creation of the [Digital, Data and Technology Profession Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework). We working together on the [product manager role description](https://www.gov.uk/guidance/product-manager), skills and career pathway through regular all-day sessions over 6-months. This gave us the space to get to know each other and build trust. We build a cross-government community of product leaders by accident. We made knowledge explicit, defined the role, agreed membership and set goals. All the stuff we were doing locally, recreated at a system-level.
 
@@ -93,7 +112,7 @@ _Writing in the open has helped me to make links. My [MOJ blog posts](https://mo
 
 Heads of Product worked together at scale. Looking at hundreds of product managers helped us to see patterns. Most prominent to me was the need to differentiate the needs of the community as it grows. A couple of us did a retro of the cross-government product manager network. Meetups on how to roadmap for a single product remained useful for those new to the profession. But senior product managers needed a space to figure out what it means work across a group of products. Heads of Product and some Leads needed space to figure out what it means when the backlog is a portfolio and each ticket a whole product. Contexts varied too. Someone working on a greenfield public-facing product probably has a different experience from someone building a staff-facing product that has to integrate with multiple existing systems. Big meetups for everyone no longer worked as the single tool for keeping communities together.
 
-### Product management cross-sector
+### <a name="sector"></a>Product management cross-sector
 
 This same theme played-out cross-sector too. I attended [Mind the Product meetups](https://www.mindtheproduct.com/producttank/) soon after they became a thing. They are great. But at a certain point they were no longer suited to the scale I was working at. Mind the Product recognised this too and introduced [Product Leaders meetups](https://www.mindtheproduct.com/membership/leader/) (free at the time, now subscription-based). Much like Heads of Product in Government had been meeting up together, this was a space for Heads of Product. Directors of Product and Chief Product Officers from all sectors to meetup. It was a safe space for us to take about product at scale. About growing the profession. Working across many locations. And increasing the influence of product within an organisation. 
 
@@ -103,7 +122,7 @@ _I also picked-up sporadic coaching of commercial product leaders through these 
 
 The folks at Mind the Product have put a huge amount of effort into supporting the product management community over the years, across all sectors and all parts of the globe. It's hugely appreciated and they more than deserve [their recent acquisition](https://twitter.com/bfgmartin/status/1488636913846263814?s=20&t=U_azTr6q4VeOFn7C71IOyg).
 
-### Distributed leadership
+### <a name="distribute"></a>Distributed leadership
 
 . . . and back in the world of the MOJ’s product management community of practice. One day I realised that a local community, just one part of the profession, had 15 members. That was larger than the whole profession when it began a few years earlier. Remember that rule of thumb about when you need a full-time Head of Product? Well, at a certain scale, it kicks-in for Lead Product Managers too. So I worked with some of my peers to introduce the role of ‘Lead’ to the organisation. 
 
@@ -111,13 +130,13 @@ It takes time to trust in new Leadership roles. There’s understandable anxiety
 
 But we get one Lead Product Manager. Then another. And another. And so on. My role became leading at scale. We got from 30 PMs, to 40, to 50, to 60.  The nature of my role changes and I switch to working with and through a team of Lead PMs. My take is that leaders lead by going first.  So anything new: it’s my job to go in whilst it’s messy and figure out what it looks like before asking anyone else to work on it.  I have to provide the core, consistent principles for the profession. But I have to recognise my limits. And the limits of any principles. They need to be flexible. The Leads need space to localise them and contextualise them so they work in reality. 
 
-### Shared parental leave
+### <a name="test"></a>Shared parental leave
 
 I took most of 2020 as Shared Parental Leave. This was a great chance to stress-test the product management profession. Had we designed a built a profession without a single point of failure?
 
 We ran a review and retro. The profession was mature enough to continue for without an active Head of Product for a time. There were gaps. It did weaken the profession in some areas. But the profession as a whole, and the local communities led by each Lead Product Manager, were strong enough to thrive. Circling back to Emily Webber’s [community maturity model](https://emilywebber.co.uk/community-of-practice-maturity-model/): the profession as a whole was ‘mature’, with examples of being ‘self-sustaining’. Individual communities within the profession were more or less mature at any one time. Energy-levels for community of practice ran in cycles. But as a whole - we’d built a strong profession with leadership distributed across several local communities of practice.
 
-### From ‘busy’ leader to strategic leader
+### <a name="success"></a>From ‘busy’ leader to strategic leader
 
 I’ve learned that the first years building a community of practice is hands-on, reactive people-work. It’s doing all the recruitment. And having to write the role descriptions and interview scripts first. It’s doing all the 1:1s. It’s switching from mainly contractors to mainly permanent staff. It’s personally knitting links between members of the community. Chairing meetups. Documenting knowledge and re-sharing it at the right time. It’s building trust in that professional community with other professions and with colleagues. All so the role is used in a way that’s valuable to the organisation and rewarding to the people doing it. 
 
@@ -127,13 +146,13 @@ One day I found myself with an entire afternoon of unscheduled time where, in th
 
 ## Part 2: Ecosystems
 
-### Professions as silos
+### <a name="silos"></a>Professions as silos
 
 Communities of practice bridge across organisational silos. That can be from one team to another or from one division of the organisation to another. I started to notice something as I began to have time for strategic, reflective thinking. I realised that professions were on the brink of becoming new silos.  Professional communities in government had defined ourselves to ourselves and for ourselves. But  we’d forgotten to define how we work together in teams to get things done. 
 
 I led Service Standard at MOJ from 2018, ensuring we were taking a Lean Startup-style approach to developing and running 40-50 products. And in early 2021 I  leadership across the user-centred, product and delivery professions spanning 350+ folks. Hundreds of people across dozens of products were saying the same thing. It's hard to figure out how our specialist roles work together in multi-disciplinary product teams. We need to figure out how teams work together as well as we've defined individual roles.
 
-### Communities are just one part of the story
+### <a name="networks"></a>Communities are just one part of the story
 
 That brings us to Spring of last year. I was newly returned from a year of mostly shared parental leave and 12-months into the global pandemic. I began leading MOJ’s Heads of Profession, working with some of the most senior and experienced specialists in government. We switched our thinking from how we work separately to how we work together.
 
@@ -158,7 +177,7 @@ Joining together we realised how much goes on in each profession. And realised t
 
 I’m pretty excited about what 2022 holds for the user-centred, delivery and product professions at MOJ.
 
-## Epilogue
+## <a name="epilogue"></a>Epilogue
 
 I won’t help to write the next chapter in the story of professions and communities of practice at MOJ. I leave in a few weeks, moving to the public sector to work in Local Government. The Heads of Profession are running as a self-organising team. The Product management profession will have a new Head of Product. This is one of the reasons I’m excited to see what 2022 has in store for the user-centred, delivery and product professions at MOJ. It’s totally unknown to me for the first time in years. 
 
