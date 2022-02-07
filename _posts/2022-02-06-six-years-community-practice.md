@@ -8,7 +8,11 @@ There are a bunch of blog posts about building professional communities of pract
 
 I re-launched the Ministry Of Justice’s product management community of practice in 2016. It started with 10-12 people and, six-years later, it’s approaching 80 people. The same number of people have come and gone during that time. In 2021 I picked-up leadership across the user-centred, product and delivery professions, increasing my scope to 350+ people across 6 specialisms. Now’s a good time to reflect on what I’ve learned. 
 
-This is a post about what it’s like to lead the same community of practice for a long time. It’s the story of what happens as the people change, enthusiasm ebbs and flows and the community grows. Each section could be a post in its own right but I haven’t got the time or patience for that :) So here’s a single, whistle stop  post about what it’s like to be six-years deep in a community of practice.
+This is a post about what it’s like to lead the same community of practice for a long time. It’s the story of what happens as the people change, enthusiasm ebbs and flows and the community grows. Each section could be a post in its own right but I haven’t got the time or patience for that :) So here’s a single, whistle stop  post about what it’s like to be six-years deep in a community of practice. 
+
+_I've added a table of contents with links to specific sections so you can pick and choose what to read._
+
+---
 
 ### Contents
 
@@ -32,6 +36,8 @@ This is a post about what it’s like to lead the same community of practice for
 - [How to build networks of communities](#networks): designing an organisation that can solve problems once and for all, using communities, knowledge, curation and standards.
 
 **Epilogue:** [the three things I've learned the hard way](#epilogue)
+
+---
 
 ## Prologue
 
