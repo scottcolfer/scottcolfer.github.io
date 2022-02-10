@@ -69,6 +69,6 @@ If you’re an existing Civil Servant working in a ‘DDaT role’ it’s totall
 
 If you want to work in Digital Government but think you’ve not got what it takes after reading the blog posts or looking at the role descriptions then please remember: we’re all making it up as we go along :) I’ll steal something from Culture Amp to share here: “Research shows that while men apply for jobs when they meet an average of 60% of the criteria, women and other marginalised folks tend to only apply when they check every box”. The Digital Government blog posts and the role description imply a lot of boxes to tick. If you think you have what it takes, but don’t necessarily tick everyone of these boxes, please still give it a try. Digital Government has done and continues to do pioneering, world-leading work. It’s valuable. It’s flawed. And you can improve it.
 
-## Your turn
+## _Your turn_
 
-_I would love to hear Digital folks tales from others. Have you got your own Digital folk tale that puts a human-face on our work? Or have you read a Digital folk take that's already out there? I'm not looking for iconoclastic exposés. But would love to find descriptions of amazing work that are honest about how messy reality is.
+_I would love to hear Digital folks tales from others. Have you got your own Digital folk tale that puts a human-face on our work? Or have you read a Digital folk take that's already out there? I'm not looking for iconoclastic exposés. But would love to find descriptions of amazing work that are honest about how messy reality is._
