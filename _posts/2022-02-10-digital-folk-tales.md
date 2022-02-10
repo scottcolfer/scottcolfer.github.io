@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Folks Tales"
+title: "Digital Folk Tales"
 date: 2022-02-10
 ---
 
