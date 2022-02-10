@@ -47,7 +47,7 @@ But an organisation as big as the Civil Service takes a while to change. There�
 
 “We must be relentlessly customer-focused. Many people want a single point of contact for a range of services. The public are not interested in whether their needs are met by Department X or Agency Y, they just want a good, joined-up service where X and Y talk to each other and share information the public have provided. We should strive to meet this demand.”
 
-It included guidance on using tools like customer journey mapping to improve services. This was exciting for me. I wrote a briefing paper for my senior leadership team and used it to make space for customer-journey maps to improve my service (provision of skills tests for trainee-teachers). 
+It included guidance on using tools like customer journey mapping to improve services. This was exciting for me. I wrote a [briefing paper](https://scottcolfer.com/2016/04/17/digital-by-default-prehistory.html) for my senior leadership team and used it to make space for customer-journey maps to improve my service (provision of skills tests for trainee-teachers). 
 
 I wasn't alone in this. I connected with lots of people in a similar headspace who were doing similar things, trying to improve what they were working on in whatever way they could. They were often successful despite odds stacked against them. But were usually so modest that you’d never know about it.
 
