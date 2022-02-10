@@ -28,3 +28,13 @@ If The Lean Startup is behind the Service Standard, what’s behind The Lean Sta
 - [Agile development](https://en.wikipedia.org/wiki/Agile_software_development) - an adaptive approach to software development that recognises that user needs and software itself evolves over time through the collaborative efforts of multidisciplinary teams working with (and based on insights from) their users; the [Agile Manifesto for Software Development](http://agilemanifesto.org/) is the driving force behind this.
 
 We can adapt the Service Standard to our context as long as we remain true to its influences and intent. The Service Standard represents pioneering, world-leading work. It’s valuable, it’s flawed and you can improve it.
+
+## The Five-Year Itch
+
+It feels a bit like everyone’s leaving Digital Government right now doesn’t it? Some wag on Twitter suggested we started Digital Transfer News to share completed signings, deals and gossip :) Don’t worry, I think this happens every five years and everything will be OK.
+
+Monday 15th August was my first day in Digital Government. I’d been attracted by the pioneering work of the Government Digital Service. And the leadership of folks like Mike Bracken and Tom Loosemore who I’d heard talking on the digital meetup circuit. 
+
+Friday 12th August was when I read an article in The Guardian which asked ‘[Why are senior staff fleeing the Government Digital Service?](https://www.theguardian.com/public-leaders-network/2015/aug/12/government-digital-service-staff-resignations)’. A lot of people left Digital Government at the tail-end of 2015 and into 2016. This had an impact on the mood. On a personal level I was thinking “oh no, have I joined too late just as it’s all coming to an end?’.
+
+The answer was ‘no’. People change. Digital moves on. That last big change was around the five-year mark (ish) in the official history of Digital Government. We’ve hit the ten-year mark and I see something similar happening now, with lots of people leaving. But what I recognise is this also means that lots of people are moving up. And lots of people are moving in. Digital Government represents pioneering, world-leading work. It’s valuable, it’s flawed and you can improve it.
