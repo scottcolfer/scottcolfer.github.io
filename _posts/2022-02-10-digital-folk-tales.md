@@ -38,3 +38,17 @@ Monday 15th August was my first day in Digital Government. I’d been attracted 
 Friday 12th August was when I read an article in The Guardian which asked ‘[Why are senior staff fleeing the Government Digital Service?](https://www.theguardian.com/public-leaders-network/2015/aug/12/government-digital-service-staff-resignations)’. A lot of people left Digital Government at the tail-end of 2015 and into 2016. This had an impact on the mood. On a personal level I was thinking “oh no, have I joined too late just as it’s all coming to an end?’.
 
 The answer was ‘no’. People change. Digital moves on. That last big change was around the five-year mark (ish) in the official history of Digital Government. We’ve hit the ten-year mark and I see something similar happening now, with lots of people leaving. But what I recognise is this also means that lots of people are moving up. And lots of people are moving in. Digital Government represents pioneering, world-leading work. It’s valuable, it’s flawed and you can improve it.
+
+## A Digital-rose by any other name would smell as sweet
+
+The official history of UK’s Digital Government movement is pretty well documented. There’s things like ‘[A GDS Story](https://gds.blog.gov.uk/story/)’ that stretch back to Martha Lane Fox’s pioneering and now famous report on [the future of Directgov](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox) in 2010.
+
+But an organisation as big as the Civil Service takes a while to change. There’s a prehistory to Digital in Government. And I glimpsed bits of it whilst working in ‘the normal’ Civil Service from 2006-2010. I periodically heard Gus O’Donnell, the Cabinet Secretary at the time, talk about two things: managing risk (instead of trying to avoid it) and customer insights. In 2006 I found a Cabinet Office working paper called ‘Customer insight in public services - “A Primer”’. I still have a copy. The front page is a quote from Gus O’Donnell:
+
+“We must be relentlessly customer-focused. Many people want a single point of contact for a range of services. The public are not interested in whether their needs are met by Department X or Agency Y, they just want a good, joined-up service where X and Y talk to each other and share information the public have provided. We should strive to meet this demand.”
+
+It included guidance on using tools like customer journey mapping to improve services. This was exciting for me. I wrote a briefing paper for my senior leadership team and used it to make space for customer-journey maps to improve my service (provision of skills tests for trainee-teachers). 
+
+I wasn't alone in this. I connected with lots of people in a similar headspace who were doing similar things, trying to improve what they were working on in whatever way they could. They were often successful despite odds stacked against them. But were usually so modest that you’d never know about it.
+
+I share this because the Civil Service is massive and our Digital is a little bit of it. There’s some stuff that we’ve packaged-up and called Digital and it’s officially ‘ours’. But in reality it can’t happen without our colleagues and it’s unofficially happening all over the place. Digital Government has done and continues to do pioneering, world-leading work. It’s valuable, it’s flawed and it can be improved by our awesome colleagues around the Civil Service.
