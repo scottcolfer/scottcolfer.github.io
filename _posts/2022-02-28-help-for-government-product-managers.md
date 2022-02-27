@@ -32,8 +32,10 @@ Here are some individual posts that expand on sections of the handbook:
 
 **Product leadership.** Finally, if you're looking to make the move from product management to product leadership then there's '[how I developed as a product leader](https://scottcolfer.com/2019/09/01/product-leadership.html)', '[5 product management hacks for product leaders](https://www.mindtheproduct.com/5-product-management-hacks-for-product-leaders/)', and '[lessons learned from six-years leading a product management community of practice](https://scottcolfer.com/2022/02/06/six-years-community-practice.html)'. 
 
-All of the above is is imperfect. It has value but you can totally take it and improve it. On which note, there's a lot of people within the Government product management community doing great things worth watching:
+All of the above is is imperfect. It has value but you can totally take it and improve it. On which note, there's a lot of people within the Government product management community doing great things. Three that stand out to me are:
 
 - [Simon Manby](https://twitter.com/ManbySi) is a senior product manager [modernising lasting power of attorney](https://sites.google.com/digital.justice.gov.uk/opgmlpa) by day and running cross-government product meetups (like [this one](https://www.eventbrite.co.uk/e/product-people-in-the-ether-17-registration-266976212037)) by night, they're well-worth joining. Here are Simon's top [5 tips for running remote meetups for product managers](https://buttondown.email/goodproductmanagement/archive/5-tips-for-product-manager-meetups-from-simon/)
 - [Debbie Blanchard](https://twitter.com/DebBlanch44) runs a cross-government matching service for product managers looking for peer mentoring
 - Rose Waite created a self-managed learning course called '[cross-government introduction to agile](https://digitalpeople.blog.gov.uk/2020/12/10/habit-breaking-and-reforming/)'. Rose has previously shared [tips on how to setup and maintain your own product community](https://gds.blog.gov.uk/2018/08/29/tips-on-how-to-set-up-and-maintain-your-own-community/).
+
+_I've definitely missed people from this list, please share anyone you've seen going out of their way to help the cross-government product community._
