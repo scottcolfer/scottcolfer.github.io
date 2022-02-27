@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So you're a Product Manager in Government"
-date: 2022-02-28
+date: 2022-02-27
 ---
 
 Here's a bunch of things I've learned about product management in Government over the years. I worked in the UK's Digital Government from 2015-2022. I joined in the early years and learned a lot from the first generation of folks in the space. Then moved into a Head of Product role and helped shape, define and lead what the profession has come in the years since. This post is the main thing's I've learned learned in that time. 
