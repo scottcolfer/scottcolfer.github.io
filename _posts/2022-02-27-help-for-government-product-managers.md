@@ -6,7 +6,7 @@ date: 2022-02-27
 
 Here's a bunch of things I've learned about product management in Government over the years. I worked in the UK's Digital Government from 2015-2022. I joined in the early years and learned a lot from the first generation of folks in the space. Then moved into a Head of Product role and helped shape, define and lead what the profession has come in the years since. This post provides links to posts sharing the main thing's I've learned learned in that time. 
 
-**[What type of product manager are you?](https://scottcolfer.com/2021/08/16/types-of-product-manager.html)** Product management can means different things in different places. That's OK. Just make sure there's a good fit between how the role's being used and what the organisation truly needs from the role.
+**[What type of product manager are you?](https://scottcolfer.com/2021/08/16/types-of-product-manager.html)** This post explains that product management can means different things in different places. That's OK. Just make sure there's a good fit between how the role's being used and what the organisation truly needs from the role.
 
 **[What is product management in Government?](https://mojdigital.blog.gov.uk/2019/10/03/what-is-product-management-at-the-moj/)** This post on the MOJ blog summarises what Government needs from our role and what it looks like along the career pathway. _There's a [longer version](https://scottcolfer.com/2019/01/02/what-is-product-management.html) on my personal blog._
 
