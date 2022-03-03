@@ -38,7 +38,7 @@ Preparation for Digital Government began during Tony Blair’s third Ministry (2
 
 It’s not a stretch to see the first 10-years or so of Digital Government as the age of pioneers. Simply existing in the first place was pioneering. Delivery of the initial [25 exemplars](https://www.gov.uk/government/publications/gds-transformation-programme-2013-to-2015/digital-transformation-exemplar-services) was pioneering work. The introduction of components following the ‘Government as a Platform’ movement was pioneering work. Every Government organisation with a Digital portfolio has done pioneering work over the last few years that adds-up to exciting change in how public services are delivered in the UK.
 
-## Components and trust
+### Components and trust
 
 Components are interesting to me. This is where I joined the Digital Government work. I joined in 2015 to help the Ministry of Justice create what’s now called the ‘Platforms and Architecture’ business unit. I also got to work with, share with and learn from other Government Departments like Home Office and HMRC who were starting similar work around the same time. And GDS, where there was a lot of collaboration with the GaaP folks. I even got to lead the assessment of some of the early GaaP Alphas. I came to realise a couple of important things back in 2015:
 
