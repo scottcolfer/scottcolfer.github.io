@@ -26,6 +26,8 @@ You’ve probably heard someone talk about pioneers, setters and town planners. 
 | Accepts uncertainty      | Accepts constant improvement | Accepts analytical decision-making |
 | Deals with the new and poorly understood | Deals with increasing education | Deals with standardisation |
 
+_Note: the terms pioneer and settler both have problematic connotations and I've seen Simon say online that he'd use different terms if creating the concept today and is, I think, open to suggestions for better terms._
+
 ## Ground work
 
 Preparation for Digital Government began during Tony Blair’s third Ministry (2005-2007), led by the Cabinet Office. Gus O’Donnell, the Cabinet Secretary at the time, regularly spoke about about two things: managing risk (instead of trying to avoid it) and customer insights. The Cabinet Office published a working paper called ‘Customer insight in public services - “A Primer”’ in 2006.It included guidance on using tools like customer journey mapping to improve services. The front page is a quote from Gus O’Donnell:
