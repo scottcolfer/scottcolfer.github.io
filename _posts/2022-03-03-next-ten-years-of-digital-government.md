@@ -13,7 +13,7 @@ Last year one of the first-gen GDS folk led a project at my old organisation, I 
 
 I was going to use this question - ‘what’s the next 10-years of Digital Government?’ - to help me and fellow Heads of Profession build our long-term vision. I’ve now left my organisation so we won’t get a chance to do this together. But it remains an interesting challenge in product-positioning. So after the first 10-years where ‘delivery was the strategy’, here’s why I hope that the next 10-years is about designing our organisations as well as our products.
 
-* *It's not as neat as being 10-years old. GDS was 10-years old last year but official 'Digital Government' work began [a couple of years before GDS](https://gds.blog.gov.uk/story-2010/) officially appeared and you could argue that the ground work started being done as early as 2005-6. But that's not a pithy opener for a blog post so you can see why I went with '10-years old'. The general point remains the same: Digital Government is getting old and hitting its teenage years.*
+Note: * *It's not as neat as being 10-years old. GDS was 10-years old last year but official 'Digital Government' work began [a couple of years before GDS](https://gds.blog.gov.uk/story-2010/) officially appeared and you could argue that the ground work started being done as early as 2005-6. But that's not a pithy opener for a blog post so you can see why I went with '10-years old'. The general point remains the same: Digital Government is getting old and hitting its teenage years.*
 
 ## Pioneering to settling
 
