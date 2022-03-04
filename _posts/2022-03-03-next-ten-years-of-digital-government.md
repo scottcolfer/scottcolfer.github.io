@@ -7,11 +7,13 @@ date: 2022-03-03
 
 ## Introduction
 
-[Digital Government is 10-years old](https://twitter.com/GDSTeam/status/1468525198014128129?s=20&t=AAYDQrJGLQelJl__FzPAkQ). What will the next 10-years look like?
+[Digital Government is (kind 0f) 10-years old](https://twitter.com/GDSTeam/status/1468525198014128129?s=20&t=AAYDQrJGLQelJl__FzPAkQ).* What will the next 10-years look like?
 
 Last year one of the first-gen GDS folk led a project at my old organisation, I got a chance to work with them as part of this. In our final meetup I asked for any big trends they’d spotted and they said something like ‘figuring out what the next 10 years look like for Digital Government . . . some of the big companies give the impression they can  do the Digital thing as well as the in-house teams, they’re competitors . . . what does that mean for the in-house Digital teams?’. Just a few days ago [GDS took-on Deloitte to develop help develop an identity app](https://twitter.com/helenolsen/status/1493878273314639873). There are good and sensible reasons for this, as [shared by Will Myddleton](https://twitter.com/myddelton/status/1493986646760566790). There are good reasons for choosing suppliers to do ‘Digital’ work. I’m not a fundamentalist who believes everything should be done in house. I’m a pragmatist. Anecdotally, I’m seeing a growing appetite to work with suppliers on ‘Digital delivery’. In-house teams need to accept this and figure out what it means for them. What’s their unique selling point versus external competitors? And what does the next 10-years look like? 
 
 I was going to use this question - ‘what’s the next 10-years of Digital Government?’ - to help me and fellow Heads of Profession build our long-term vision. I’ve now left my organisation so we won’t get a chance to do this together. But it remains an interesting challenge in product-positioning. So after the first 10-years where ‘delivery was the strategy’, here’s why I hope that the next 10-years is about designing our organisations as well as our products.
+
+* *It's not as neat as being 10-years old. GDS was 10-years old last year but official 'Digital Government' work began [a couple of years before GDS](https://gds.blog.gov.uk/story-2010/) officially appeared and you could argue that the ground work started being done as early as 2005-6. But that's not a pithy opener for a blog post so you can see why I went with '10-years old'. The general point remains the same: Digital Government is getting old and hitting its teenage years.*
 
 ## Pioneering to settling
 
