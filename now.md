@@ -4,4 +4,4 @@ title: What I'm doing now
 permalink: /now/
 ---
 
-Taking a few days off before moving to Local Government as a Head of Product.
+I've joined Westminster City Council as their first Head of Product.
