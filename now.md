@@ -4,7 +4,7 @@ title: What I'm doing now
 permalink: /now/
 ---
 
-I joined [Westminster City Council](https://www.westminster.gov.uk/) as their first Head of Product in March 2022. I'm foused on three things:
+I joined [Westminster City Council](https://www.westminster.gov.uk/) as their first Head of Product in March 2022. I'm focused on three things:
 
 1. Desiging and introducing 'product ways of working' for a large, complex public sector organisation
 2. Building a new product function from scratch
