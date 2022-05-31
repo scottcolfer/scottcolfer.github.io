@@ -23,15 +23,15 @@ If I were a Civil Servant right now I might feel underappreciated so I’d like 
 
 I can’t see clear themes that provide a unifying definition of the Service Owner role. The main theme I see is the variability of the role (even sometimes within the same organisation). So the main conclusion I can draw is the simultaneous challenge and opportunity of having a specialist, Digital role in the leadership space with a great deal of flexibility relative to many of the other specialist, Digital roles.
 
-# 2016: the intent behind the role.
+# 2016: the intent behind the role
 
 The role of ‘[Service Owner](https://www.gov.uk/guidance/service-owner)’ was designed and defined in 2016 as part of the [Digital, Data and Technology Profession Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework). I was in the room during the session’s where it was created (even contributing to it, to a limited extent) so can share my take on the intent behind the role. I prefer pragmatism over purism so don’t propose that the role in 2022 be judged by how well it fulfils the original intent behind it. But I do propose that it’s useful to know the original intent behind the role. Zoe Gould has already shared her perspective on the original [intent behind the role](https://www.zoeonthego.org/2020/06/17/so-what-is-a-service-owner/), I’ll add my perspective.
 
-**My understanding of the context.**
+**My understanding of the context**
 
 2016 and the Cabinet Office was looking to define digital specialist roles in Government in order to bolster a case to the Treasury for market-competitive pay for these digital specialist roles. A management consultancy (EY?) led the overall project with Cabinet Office staff from GDS supporting/leading working groups for each of the job families. Delivery management, product management and service ownership were grouped as a job family and a bunch of us ended up in 5-10 all-day workshops in the latter half of 2016 where the roles were drafted. Grade 7 and Grade 6 specialist, digital roles were within scope. SCS roles were outside of scope.
 
-**My understanding of the intent behind the role.**
+**My understanding of the intent behind the role**
 
 Key things that’ve stuck with me:
 
@@ -40,7 +40,7 @@ Key things that’ve stuck with me:
 - Responsible for policy, operations, and technology across a public service 
 - To help differentiate from the [IT Service Manager](https://www.gov.uk/guidance/it-service-manager) role.
 
-**Hindsight.**
+**Hindsight**
 
 A reflection I can make with the benefit of hindsight: back in 2016, Service Owner was an aspirational role. It didn’t exist in ‘the market place’, so you couldn’t go and see how others were describing it (unlike something like product management). And it didn’t really exist in Government either, not in the way it was described. Even the role title of ‘Service Owner’ was created from scratch as part of our workshops, with the official title changing several times during this time. This was introducing a new role intended to be responsible for an entire, end-to-end service. And this intent was maybe at odds with the official scope of only Grade 7 and Grade 6 professions, mainly describing specialist, Digital roles that already existed in the market place? Once again, we see the challenge and opportunity of a role that’s looser and more at the boundary of Digital than some of the other roles.
 
