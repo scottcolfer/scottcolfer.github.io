@@ -38,6 +38,6 @@ I realise that I’m giving a method for scrambled eggs. Scrambled eggs! And tha
 
 - There’s no such thing as the perfect recipe, that’s clickbait, but there is the recipe that suits you
 - Recipes from commercial cooks based on meals made in commercial kitchens can be weird in the home
-- Sometimes at home we have the chance to take our time with basic dishes in a way that commercial kitchens can’t always do. Sometimes we can take our time. And sometimes taking a little more time means we can get the same (or better) results in a simpler, healthier way.
+- Sometimes at home we have the chance to make basic dishes in a way that commercial kitchens can’t, making them simplier and healthier.
 
 I find it satisfying to head off into the kitchen on a Saturday morning and make us all some scrambled eggs. For my wife, they go with toast and smoked salmon. For my daughter, just with smoked salmon. For me, my scrambled eggs on toast that’s covered in hot sauce. All eaten in our pyjamas at a time when we’d normally be hustling to work or nursery. A celebration of a weekend together.
