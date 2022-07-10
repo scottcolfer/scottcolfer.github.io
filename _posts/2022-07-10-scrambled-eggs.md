@@ -22,7 +22,7 @@ And then it dropped-off for a bunch of reasons. Personally, I still enjoy ‘buz
 
 # Scrambled eggs
 
-So. Scrambled eggs. Eggs are a basic food that I eat a lot, as do my wife and my daughter. It gives me pleasure to make them well. As we’ve established, I’m a product manager looking for small, hands-on and creative outlets in my real life.. There’s no ‘perfect way to cook eggs’, that’s clickbait. But there is a way that suits you and brings you a moment of enjoyment. And I’ve found that for me and my little family.
+So. Scrambled eggs. Eggs are a basic food that I eat a lot, as do my wife and my daughter. It gives me pleasure to make them well. As we’ve established, I’m a product manager looking for small, hands-on and creative outlets in my real life. There’s no ‘perfect way to cook eggs’, that’s clickbait. But there is a way that suits you and brings you a moment of enjoyment. And I’ve found that for me and my little family.
 
 I prefer scrambled eggs that retain a ‘custard’ type of texture. Creamy and loose. There’s lots of recipes for this kind of scrambled egg all over the place. I’ve found the highest-ranking recipes are often from professional cooks. But cooking in a commercial kitchen is very different to cooking at home. If you’re running a commercial kitchen you have to focus on the speed and consistency needed to make dozens, maybe hundreds of dishes per meal time. So the recipes I’ve seen for loose, creamy scrambled eggs with a touch of the custard about them normally involve breaking and beating the eggs before putting them in the pan. They involve a lot of salt and butter to give the right taste. And they involve a lot of frantic mixing in the pan over a medium to high heat. 
 
