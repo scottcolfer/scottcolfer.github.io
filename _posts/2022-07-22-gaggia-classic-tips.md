@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3 Tips for your Gaggia Classic after I owned one for 10 years"
-date: 2022-22-10
+date: 2022-07-22
 ---
 
 I just retired my Gaggia Classic after ten years of trusty use. I learned a bunch over that decade and figured I’d jot it down and share it in case it helps you.
