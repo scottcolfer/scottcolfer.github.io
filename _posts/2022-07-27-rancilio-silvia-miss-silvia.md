@@ -48,7 +48,8 @@ There’s a few things I might do to try and improve things in the future:
 
 - There’s a weird design choice on the Rancilio Silivia. The screw attaching the water screen to the group head is not flush to the screen. This means you get an indentation in the coffee puck every time you make an espresso. My assumption is that this indentation creates a weak point for water to funnel through, probably messing with the espresso’s flavour a little. There are [kits available](https://www.youtube.com/watch?v=5P8schiHebY&list=WL&index=19&t=272s) to sort this, I’ll likely get one
 - I’ll probably get a naked portafliter. It makes the workflow a little simpler. The spouts on normal portafilters leave little space underneath for espresso cups and scales, naked portafilters leave more space and make things easier. They make me enjoy the process of making the espresso a little more, it’s satisfying to see the espresso coming out of the machine
-- There’s a whole thing about pressure of espresso machines at the moment. 9 bars of pressure is ideal but many machines, like the Rancilio Silvia, ship at a higher pressure. I’ve not encountered any issues as a result of this so far. But [it’s relatively simple to change](https://www.youtube.com/watch?v=kZpJBFWCG_4&list=WL&index=11) and something I might try.
+- There’s a whole thing about pressure of espresso machines at the moment. 9 bars of pressure is ideal but many machines, like the Rancilio Silvia, ship at a higher pressure. I’ve not encountered any issues as a result of this so far. But [it’s relatively simple to change](https://www.youtube.com/watch?v=kZpJBFWCG_4&list=WL&index=11) and something I might try
+- I recently published a post on [things I've learned from owning a Gaggia Classic for 10 years](https://scottcolfer.com/2022/07/22/gaggia-classic-tips.html). Off the back of that I'll be cleanging my machine every month and descaling every 2-3 months.
 
 That’s it for now. Happy coffee making!
 
