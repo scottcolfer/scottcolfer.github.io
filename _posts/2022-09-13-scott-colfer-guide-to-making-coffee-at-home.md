@@ -6,7 +6,7 @@ date: 2022-09-13
 
 I've been making coffee at home for ages now and have learned a few things. I've been blogging about coffee for quite a while too. I figured I'd pull all this together in one place: here's my guide to making coffee at home.
 
-# Starting making coffee at home
+# Brewing your own coffee (starting simple)
 
 If I was just starting making fresh coffee at home today I'd probably choose a simple brewer like a French Press, a filter, or an Aeroporess. They're all a pretty cheap way to start, and fairly easy way to learn. So how do you choose which one to go for?
 Back in 2018 I wrote a post to help [choose a coffee brewer](https://scottcolfer.com/2018/11/17/choosing-coffee-brewer.html) based on what it does for the taste of the coffee:
