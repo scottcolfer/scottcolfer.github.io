@@ -5,7 +5,7 @@ description: Blog about product management, product leadership, digital transfor
 # Build settings
 markdown: kramdown
 theme: minima
-google_analytics: G-NHPCNV8GX8
+google_analytics: UA-20458896-5
 
 #Social links
 twitter_username: scottcolfer
