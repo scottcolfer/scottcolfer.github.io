@@ -4,8 +4,10 @@ name: Scott Colfer
 description: Blog about product management, product leadership, digital transformation and coffee. This blog produces less CO2 than 99% of sites on the web. Check yours at WebsiteCarbon.com.
 # Build settings
 markdown: kramdown
-theme: minima
-google_analytics: UA-20458896-5
+remote_theme: jekyll/minima
+plugins:
+- jekyll-remote-theme
+google_analytics: G-NHPCNV8GX8
 
 #Social links
 twitter_username: scottcolfer
