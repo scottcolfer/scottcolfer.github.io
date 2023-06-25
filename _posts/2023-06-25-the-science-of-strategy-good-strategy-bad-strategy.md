@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Science of Strategy"
-date: 2023-25-06
+date: 2023-06-25
 ---
 
 # The Kernel of Good Strategy
