@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Science of Strategy"
-date: 2023-15-06
+date: 2023-25-06
 ---
 
 # The Kernel of Good Strategy
@@ -86,7 +86,8 @@ Good strategy is earmkarked by:
 - intertia by proxy: if our people we work with are slow to change then we're slow to change by proxy. This disappears when we decide that adapting to change is more important than hanging on to everyone'.
 
 'Create a proximate objective - one that is close at hand to be feasible. Name a target that we can expect to hit, even overwhelm.'
-'Reduce cycle time - our products and services will be leading more often the shorter our cycle times are - and our performance gets better.'
-'Anticipate something to get ahead. Ride a wave of change.'
-'Start small and start 'safe'.'
-'Try to destroy your own ideas.'
+
+- 'Reduce cycle time - our products and services will be leading more often the shorter our cycle times are - and our performance gets better.'
+- 'Anticipate something to get ahead. Ride a wave of change.'
+- 'Start small and start 'safe'.'
+- 'Try to destroy your own ideas.'
