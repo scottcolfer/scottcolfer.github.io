@@ -32,19 +32,20 @@ But this was still unsatisfactory as a guideline for a good strategy. The proble
 
 There's a saying, 'no plan survives first contact with reality'. It's meant to convey that all the planning in the world often can't anticipate the messy, complex reality of life. It's also a misqoute, a Prussian military commander called Helmuth Von Moltke is actually attributed as saying 'no plan of operations reaches with any certainty beyond the first encounter with the enemey's main force'. But that's not as snappy, so why let the truth get in the way of a good story? And with that sentiment, we can tweak this further to, **'no strategy survives first contact with reality.'**
 
-Reading Good Strategy, I've got a new take on what a good strategy is:
+Reading 'Good Strategy Bad Strategy', I've got a new take on what a good strategy is:
 
 'A strategy is a hypothesis and its implementation is an experiment. Rests on hard-won knolwedge created through scientific empiricism. It does not come from strategic management model, tool, matrix, triangle. It does come from a talented leader identifying the one or two critical issues in a situation.'
 
 This makes sense to me. A good strategy doesn't seek certainty beyond the biggest problem facing you. That is the focus of the strategy. Once your strategic experiment is over and you've either solved the problem or not, you move on to the next iteration of your strategy. That's what it boils down to: figure out how to solve your biggest problem. In doing so, you work in reality. You don't leave a gap where people have to figure out what to do to implement it. You fill in the gap so it's immediately useful.
 
-Good Strategy Bad Strategy has lots more valuable insights. Here's the longer version of what stood outfor me.
+'Good Strategy Bad Strategy' has lots more valuable insights. Here's the longer version of what stood outfor me.
 
 # Bad Strategy
 
 Bad strategy flourishes because it floats free of analysis, logic or choice.
 
 Bad strategy is earmakrked by:
+
 - fluff: gibberish. buzz words. masquerades as expertise.
 - failure to face the challenge. if the challenge is not defined we can't assess the quality of the strategy
 - goals mistaken for a strategy: strip out ambition, leadership, vision, planning, competition. These are all signs of bad strategy.
@@ -64,6 +65,7 @@ Bad strategy is earmakrked by:
 A good strategy honestly acknowledges the challenges we face and provides an approach to overcome them.
 
 Good strategy is earmkarked by:
+
 - discovering the critical factors in a situation and finding a way to coordinate & focus action to deal with those factors. 
 - harnesses power and applies it where it will have the greatest effect. It draws power from focusing minds, energy and action. This is about application of power to the right target. It's about focus and therefore choice
 - uses the power of leverage, finding a pivot point to magnify the effects of focussed energy and resources. 
@@ -91,3 +93,5 @@ Good strategy is earmkarked by:
 - 'Anticipate something to get ahead. Ride a wave of change.'
 - 'Start small and start 'safe'.'
 - 'Try to destroy your own ideas.'
+
+That's what I took from 'Good Strategy Bad Strategy'. Does it make sense to you? Is it of use to you? Have you read the book? Did you take something different from it?
