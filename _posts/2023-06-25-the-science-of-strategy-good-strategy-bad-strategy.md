@@ -77,9 +77,9 @@ Good strategy is earmkarked by:
   - guiding policy: outlines an overall approach. It channels action in certain directions without specifying exactly what shall be done. It's not a vision or a desired state, it's a method of grappling with a situation and ruling out an array of possible options. Design is important. It's less about making a single decision and more about designing a set of complimentary policies. More construction than choice. Various elements must be aligned for strategy to work. There are gains to getting combinations right and costs to getting them wrong. The opposite of chaos isn't order it's harmony
   - coehernt actions: resource deployments, policies and maneuvers, all coordinated, feasible and actionable.
 
- # Boilerplate kernel
+# Boilerplate kernel
 
- I just gave myself a few minues to create a boilerplate kernel of a good strategy for public sector digital work - based on quotes and ideas from Good Strategy Bad Strategy (it feels like a neat way of pulling my notes together).
+I just gave myself a few minues to create a boilerplate kernel of a good strategy for public sector digital work - based on quotes and ideas from Good Strategy Bad Strategy (it feels like a neat way of pulling my notes together).
 
  'In large organisations the challenge is often diagnosed as internal. The organisation's competitve problems may be much lighter than the obstacles imposed by its own outdated routines, bureaurocracy, pools of entrenched interest, lack of cooperation across units, and plain old bad management. Thus the guiding policy lies in the realm of reorganisation and renewal. And the set of actions are changes in people, power and process.'
 
