@@ -3,7 +3,9 @@ layout: home
 ---
  
 I'm Scott Colfer, a product leader powered by coaching, common sense and compassion.
+
 This is my blog about product management, product leadership, digital transformation, and coffee. 
+
 Connect on [LinkedIn](https://www.linkedin.com/in/scottcolfer/) and subscribe to my [newsletter](https://scottcolfer.substack.com/).
 
 I've worked on products and services with a social mission for over fifteen years. I'm Head of Product for Westminster City Council and previously worked with other great organisations including [BBC Young Reporter](https://www.bbc.co.uk/news/education-46131593), [Catch22](https://www.catch-22.org.uk/), [Department for Education](https://www.gov.uk/government/organisations/department-for-education), [Diabetes UK](https://www.diabetes.org.uk/), [European Commission](https://ec.europa.eu/commission/index_en), [General Assembly](https://generalassemb.ly/), [Google.org](https://www.google.org/), [Inside Job Productions](https://www.insidejobproductions.co.uk/), [Mind Of My Own](https://mindofmyown.org.uk/), [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice/), [New Philanthropy Capital](https://www.thinknpc.org/), and [Young Dads Collective](https://www.familyandchildcaretrust.org/young-dads-collective). 
