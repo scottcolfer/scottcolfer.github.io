@@ -10,7 +10,6 @@ plugins:
 google_analytics: G-NHPCNV8GX8
 
 #Social links
-twitter_username: scottcolfer
 github_username:  scottcolfer
 linkedin_username: scottcolfer
 
@@ -20,6 +19,6 @@ disqus:
 
 #Header pages
 header_pages:
+  - about.md
   - now.md
-  - writing.md
   - index.md
