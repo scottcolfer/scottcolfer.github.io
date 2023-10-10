@@ -26,7 +26,7 @@ GitHub hosts a free, static site for each user through [GitHub Pages](https://pa
 
 scottcolfer.com is my long-term home online. It's been valuable over the years to help me reflect and learn, to help others, and to build my professional reputation. And it needs to be part of a network if anyone's ever to see it.
 
-# LinkedIn
+# LinkedIn Network
 
 I'm active on LinkedIn and finding it useful. This time last year I wasn't. What's changed? 
 
