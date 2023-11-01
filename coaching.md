@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Now
+title: Coaching
 permalink: /coaching/
 ---
 
