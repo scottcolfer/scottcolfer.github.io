@@ -4,10 +4,9 @@ title: Now
 permalink: /coaching/
 ---
 
-# ‘Discovery’
-## How to choose the right opportunities 
+# ‘Discovery’: How to choose the right opportunities 
 
-I could focus on areas like:
+I can focus on areas like:
 
 - What does a successful Discovery look like?
 - What are the common Discovery mistakes and how do we avoid them?
