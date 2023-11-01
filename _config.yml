@@ -19,6 +19,7 @@ disqus:
 
 #Header pages
 header_pages:
+  - coaching.md
   - about.md
   - now.md
   - index.md
