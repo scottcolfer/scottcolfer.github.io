@@ -12,7 +12,9 @@ There's a bunch of topics I've helped people with trough coaching, mentoring, an
 - **Career coaching**: breaking in to product, shifting from Senior to Lead/Head of Product, career progression after returning from maternity leave, peer coaching for other Product Leaders
 - **'Discovery'**: investing in the right the right opportunities
 
-# Blogging and speaking
+# The Menu
+
+## Blogging and speaking
 
 People have found the following helpful:
 
@@ -21,7 +23,7 @@ People have found the following helpful:
 - Confidence: Supporting people to build the confidence needed to share something publicly. Some folks have realised that they didn’t feel like they had permission to have a voice, and this has been the start of a much deeper, more valuable journey of their own to find, trust and own their voice. 
 
 
-# Career coaching
+## Career coaching
 
 I've helped a load of people over the years with:
 
@@ -32,7 +34,7 @@ I've helped a load of people over the years with:
 - non-directive performance coaching for any leader
 - getting meta, I've supported other people to develop in non-directive performance coaching for themselves
 
-# ‘Discovery’: How to choose the right opportunities 
+## ‘Discovery’: How to choose the right opportunities 
 
 I can focus on areas like:
 
