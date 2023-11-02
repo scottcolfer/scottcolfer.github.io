@@ -27,12 +27,12 @@ People have found the following helpful:
 
 I've helped a load of people over the years with:
 
-- breaking in to product
-- promotion from Senior to Lead/Head of
-- career progression after returning from maternity leave
-- peer coaching for product leaders
-- non-directive performance coaching for any leader
-- getting meta, I've supported other people to develop in non-directive performance coaching for themselves
+- Breaking in to product
+- Promotion from Senior to Lead/Head of
+- Career progression after returning from maternity leave
+- Peer coaching for product leaders
+- Non-directive performance coaching for any leader
+- Getting meta, I've supported other people to develop in non-directive performance coaching for themselves
 
 ## ‘Discovery’: How to choose the right opportunities 
 
