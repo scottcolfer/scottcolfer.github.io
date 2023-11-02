@@ -10,6 +10,8 @@ I love coaching, mentoring and speaking/presenting at meetups, shout if there's 
 - **Career coaching**: breaking in to product, shifting from Senior to Lead/Head of Product, career progression after returning from maternity leave, peer coaching for other Product Leaders
 - **'Discovery'**: investing in the right the right opportunities
 
+I got loads from generous people at the start of my career and reckon it's only fair to pay it back. I'll use the above link to braindump all the stuff I've ended up doing over the years that's been useful to folks. Shout if something'd help you.
+
 # The Menu
 
 ## Blogging and speaking
