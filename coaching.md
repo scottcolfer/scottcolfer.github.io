@@ -6,7 +6,7 @@ permalink: /coaching/
 
 I love coaching, mentoring and speaking/presenting at meetups, shout if there's something that'd help you. There's a bunch of topics I've helped people with trough coaching, mentoring, and speaking at meetups:
 
-- **'Blogging and speaking**: finding your voice
+- **Help with blogging and speaking**: finding your voice
 - **Career coaching**: breaking in to product, shifting from Senior to Lead/Head of Product, career progression after returning from maternity leave, peer coaching for other Product Leaders
 - **'Discovery'**: investing in the right the right opportunities
 
@@ -14,7 +14,7 @@ I got loads from generous people at the start of my career and reckon it's only 
 
 # The Menu
 
-## Blogging and speaking
+## Help with blogging and speaking
 
 People have found the following helpful:
 
