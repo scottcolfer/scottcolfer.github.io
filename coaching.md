@@ -19,7 +19,7 @@ I got loads from generous people at the start of my career and reckon it's only 
 People have found the following helpful:
 
 - Listening: I’ve listened to someone talk-through what they’re interested in then played back what stands out as potential topics for a blog post of talk.. Then listened to that some more and help them draft a story from it. 
-- Mentoring: Sharing the mechanics of preparing a blog post
+- Mentoring: Sharing the mechanics of preparing a blog post or talk
 - Confidence: Supporting people to build the confidence needed to share something publicly. Some folks have realised that they didn’t feel like they had permission to have a voice, and this has been the start of a much deeper, more valuable journey of their own to find, trust and own their voice. 
 
 
