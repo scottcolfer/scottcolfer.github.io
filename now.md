@@ -4,4 +4,4 @@ title: Now
 permalink: /now/
 ---
 
-I'm [Westminster City Council's](https://www.westminster.gov.uk/) first Head of Product, bring product ways of working to Local Government. I've published posts on westminster.gov.uk on [why I took this role](https://www.westminster.gov.uk/digital-blog/my-first-100-days-head-product-westminster-city-council-part-1) and [where I started](https://www.westminster.gov.uk/digital-blog/my-first-100-days-head-product-westminster-city-council-part-2). 
+I'm joining [Herd Consulting](https://herd.consulting/) as Director of Product. Herd's already a successful specialist business analysis consultancy and delivery partner. I'm leading the development of a new product management side to the business. I shared more about my new role on [LinkedIn](https://www.linkedin.com/posts/scottcolfer_product-productmanagement-productleadership-activity-7130206807070793728-07_S?utm_source=share&utm_medium=member_desktop) and Herd shared an [update](https://herd.consulting/welcome-scott-colfer) too. Get in touch if you'd like to work together in 2024.
