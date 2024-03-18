@@ -9,7 +9,9 @@ Get in touch if you'd like to join a community for product leaders in the public
 # Why
 
 Product leaders safe spaces to share and learn from one another. And we haven't got many of them. Public sector product leaders are particularly poorly served, with a lot of stuff aimed at commercial sector.
+
 Personally, I've hit the public sector trifecta of Central Govt, Local Govt and Charity product leadership roles and realised we all have the same problems and same opportunities. I've been working in Higher Education rcently and the same is true.
+
 My personal aim is for us to have a safe space. And somewhere to support the next generation of product leaders.
 
 # How
@@ -27,5 +29,7 @@ Some folks from the community are going to join me in facilitating in the next c
 # What
 
 We use WhatsApp Comunity. I've seen WhatsApp work best of the social media platform for professional stuff in the past so took a gamble it'd be the same here. Seems to be good so far. We have a couple of groups for the whole community and a bunch more for smaller groups to discuss.
+
 Our first meetup is a lunchtime videocall. Microsoft Teams is the most accessible software to use.
+
 And we're going to arrange our first real life meetups.
