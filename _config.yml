@@ -19,6 +19,4 @@ disqus:
 
 #Header pages
 header_pages:
-  - about.md
-  - now.md
   - index.md
