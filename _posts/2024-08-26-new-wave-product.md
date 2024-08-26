@@ -6,7 +6,7 @@ date: 2024-08-26
 
 # Start with why
 
-I’m writing a booklet called ‘New Wave Product’ that is a sort of manifesto for pragmatic product management. Most popular guidance feels ‘purist’ and narrowly focused on metrics-driven tools, models and frameworks. 
+I’m writing a booklet called **‘New Wave Product’** that is a sort of **manifesto for pragmatic product management**. Most popular guidance feels ‘purist’ and narrowly focused on metrics-driven tools, models and frameworks. 
 
 Lots of entry and mid-level product managers I’ve managed and met will hoover-up this purist guidance, find it doesn’t work in the messy reality of their organisation and feel like they’re not doing proper product management. 
 
@@ -26,7 +26,7 @@ I think that product’s all up in its head and it needs to get out into the wor
 - a little inconoclasm, returning to our sacred texts to see their strengths and weaknesses
 - and finally the key principles for new wave product as a call to action and a manifesto for pragmatic product.
 
-I've been writing blog posts since the 2000s and writing product-guidance for over a decade, including the popular [Product Management Handbook from 2018[(https://scottcolfer.com/product-management-handbook/). I took the [Faber Academy's](https://faberacademy.com/) 'creative non-fiction' course at the beginning of 2024 which helped me find my own voice and improve my storytelling.
+I've been writing blog posts since the 2000s and writing product-guidance for over a decade, including the popular [Product Management Handbook from 2018](https://scottcolfer.com/product-management-handbook/). I took the [Faber Academy's](https://faberacademy.com/) 'creative non-fiction' course at the beginning of 2024 which helped me find my own voice and improve my storytelling.
 
 # What
 
@@ -35,4 +35,4 @@ I’m doing this as an A5 booklet, probably around 16 pages in length. I’d lik
 # Updates
 
 You can sign-up for updates [here](https://scottcolfer.substack.com/subscribe)
-Or connect on [LinkedIn](https://www.linkedin.com/in/scottcolfer/)
+and connect on [LinkedIn](https://www.linkedin.com/in/scottcolfer/).
