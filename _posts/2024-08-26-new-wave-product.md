@@ -13,7 +13,7 @@ Entry and mid-level product managers I’ve managed and met will hoover-up this 
 
 Lots of organisations wanting to be ‘product-led’ will spend time on OKRs and roadmaps and introducing product managers but realise this doesn’t address their underlying problems.
 
-My truth is that a roadmap has never really changed anything. The popular tools, models and frameworks can be of help but it’s coaching, managing change and negotiation that have led to the transformation. 
+My truth is that a roadmap never *really* changed anything. The popular tools, models and frameworks can be of help but it’s coaching, managing change and negotiation that have led to the transformation in my work. 
 
 I think product’s up in its head and needs to get out into the world and be a little more pragmatic. ‘New Wave Product’ is an argument for broadening product culture so we can think about people as much as metrics. It’s a call for pragmatic product.
 
