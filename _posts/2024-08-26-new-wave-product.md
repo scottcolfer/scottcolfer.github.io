@@ -6,7 +6,7 @@ date: 2024-08-26
 
 # Start with why
 
-I’m writing a booklet called **‘New Wave Product’** that is a sort of **manifesto for pragmatic product management**. Most popular guidance feels ‘purist’ and narrowly focused on metrics-driven tools, models and frameworks. 
+I’m writing a booklet called **‘New Wave Product’** that's a sort of **manifesto for pragmatic product management**. Most popular guidance feels ‘purist’ and narrowly focused on metrics-driven tools, models and frameworks. 
 
 Lots of entry and mid-level product managers I’ve managed and met will hoover-up this purist guidance, find it doesn’t work in the messy reality of their organisation and feel like they’re not doing proper product management. 
 
