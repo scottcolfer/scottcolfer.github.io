@@ -8,13 +8,13 @@ date: 2024-08-26
 
 I’m writing a booklet called **‘New Wave Product’** that's a sort of **manifesto for pragmatic product management**. Most popular guidance feels ‘purist’ and narrowly focused on metrics-driven tools, models and frameworks. 
 
-Lots of entry and mid-level product managers I’ve managed and met will hoover-up this purist guidance, find it doesn’t work in the messy reality of their organisation and feel like they’re not doing proper product management. 
+Entry and mid-level product managers I’ve managed and met will hoover-up this purist guidance, find it doesn’t work in the messy reality of their organisation and feel like they’re not doing proper product management. 
 
 Lots of organisations wanting to be ‘product-led’ will spend time on OKRs and roadmaps and introducing product managers but realise this doesn’t address their underlying problems.
 
 My truth is that a roadmap has never really changed anything. The popular tools, models and frameworks can be of help but it’s coaching, managing change and negotiation that have led to the transformation. 
 
-I think that product’s all up in its head and it needs to get out into the world and be a little more pragmatic. ‘New Wave Product’ is an argument for broadening product culture and to think about people as much as metrics. It’s a call for pragmatic product.
+I think product’s up in its head and needs to get out into the world and be a little more pragmatic. ‘New Wave Product’ is an argument for broadening product culture so we can think about people as much as metrics. It’s a call for pragmatic product.
 
 # How
 
