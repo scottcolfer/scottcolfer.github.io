@@ -26,7 +26,7 @@ I think that product’s all up in its head and it needs to get out into the wor
 - a little inconoclasm, returning to our sacred texts to see their strengths and weaknesses
 - and finally the key principles for new wave product as a call to action and a manifesto for pragmatic product.
 
-I've been writing blog posts since the 2000s and writing product-guidance for over a decade, including the popular (Product Management Handbook from 2018)[https://scottcolfer.com/product-management-handbook/]. I took the (Faber Academy's)[https://faberacademy.com/] 'creative non-fiction' course at the beginning of 2024 which helped me find my personal voice and improve my storytelling.
+I've been writing blog posts since the 2000s and writing product-guidance for over a decade, including the popular [Product Management Handbook from 2018[(https://scottcolfer.com/product-management-handbook/). I took the [Faber Academy's](https://faberacademy.com/) 'creative non-fiction' course at the beginning of 2024 which helped me find my own voice and improve my storytelling.
 
 # What
 
@@ -34,5 +34,5 @@ I’m doing this as an A5 booklet, probably around 16 pages in length. I’d lik
 
 # Updates
 
-You can sign-up for updates (here)[https://scottcolfer.substack.com/subscribe]
-Or connect on (Linked)[Inhttps://www.linkedin.com/in/scottcolfer/]
+You can sign-up for updates [here](https://scottcolfer.substack.com/subscribe)
+Or connect on [LinkedIn](https://www.linkedin.com/in/scottcolfer/)
