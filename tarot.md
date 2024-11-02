@@ -8,6 +8,8 @@ permalink: /tarot/
 
 It's rare to get time to think. This is about making space to figure something out. It's not therapy (altough it can be therapeutic) but is about the power of thinking out loud when making a decision.
 
+I'm learning and practising so I'll have notes with me and sessions are free for until the end of December 2024. Get in touch on Instagram to setup a session.
+
 ## Here's the deal
 
 We'll pull three cards in the main bit of the session. They'll provide prompts. I'll listen and guide you'll create a story to help you make sense of something going on in your life at the moment.
