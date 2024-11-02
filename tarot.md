@@ -8,7 +8,7 @@ permalink: /tarot/
 
 It's rare to get time to think. This is about making space to figure something out. It's not therapy (altough it can be therapeutic) but is about the power of thinking out loud when making a decision.
 
-**Sessions are free** until the end of December 2024 whilst I practice and learn, this means I'll have notes with me whilst I memorise the cards and their meanings. 
+**Sessions are free** until the end of December 2024 whilst I practice and learn, this means I'll have notes with me whilst I memorise the cards and their meanings. I'm based in Homerton (Hackney, London) and can do readings in the Hackeny area. _By day I'm a father in my 40s and Director of a successful startup._
 
 **Get in touch on [Instagram](https://www.instagram.com/psychotropicscott/)** to setup a session.
 
