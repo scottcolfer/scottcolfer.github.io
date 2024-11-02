@@ -20,7 +20,7 @@ It's rare to get time to think. This is about making space to figure something o
 
 ## Here's the deal
 
-We'll pull three cards in the main bit of the session. They'll provide prompts. I'll listen and guide you'll create a story to help you make sense of something going on in your life at the moment.
+We'll pull three cards in the main bit of the session. They'll provide prompts. I'll listen and guide you. You'll create a story that helps make sense of something going on in your life.
 
 ## Skills and training
 
