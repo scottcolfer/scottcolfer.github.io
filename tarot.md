@@ -33,3 +33,5 @@ _By day I'm a father in my 40s and Director of a successful startup._
 ## Worried or dubious?
 
 You've got mixed-feelings abut Tarot reading, right? You're not sure about all this mystical stuff . . . or you're worried about what the cards might tell you? Well I don't believe the deck is mystical or that it tells you anything. I think it's cards with pictures on them. And these images are archetypes that mean something to each of us. You'll use them to tell a story that helps you figure something out.
+
+**Get in touch on [Instagram](https://www.instagram.com/psychotropicscott/)** to setup a session.
