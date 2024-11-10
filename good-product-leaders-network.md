@@ -8,7 +8,7 @@ permalink: /good-product-leaders-network/
 
 The largest network of its kind in the UK, we are a mix of over 100 product leaders from Central Government, Local Government, Higher Education, Healthcare, and Charities. A unique place to share, learn and build your network with peers.
 
-## Register [here](https://docs.google.com/forms/d/e/1FAIpQLScFgEDEjN3MTk51dIdVZzFKqVaej275kSMTeKKFENnswzmKMA/viewform).**
+## Register [here](https://docs.google.com/forms/d/e/1FAIpQLScFgEDEjN3MTk51dIdVZzFKqVaej275kSMTeKKFENnswzmKMA/viewform).
 
 ## Why
 
