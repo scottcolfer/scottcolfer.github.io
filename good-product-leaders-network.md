@@ -12,7 +12,7 @@ The largest network of its kind in the UK, we are a mix of over 100 product lead
 
 ## Why
 
-I work across national government, local government, higher education, healthcare and charity and realised the challenges and oppportunities are the same . . . but couldn't find anywhere to network with peers to share and learn. I took a punt on LinkedIn and [asked](https://www.linkedin.com/posts/scottcolfer_shout-if-you-want-to-join-a-whatsapp-group-activity-7165343423577714689-g5fS) if folks would join a WhatsApp if I set one up. That was February 2024 and the rest is history.
+I work across national government, local government, higher education, healthcare and charity and realised the challenges and oppportunities are the same . . . but couldn't find anywhere to network with peers to share and learn. I took a punt on LinkedIn and [asked](https://www.linkedin.com/posts/scottcolfer_shout-if-you-want-to-join-a-whatsapp-group-activity-7165343423577714689-g5fS) if folks would join a WhatsApp if I set one up. That was March 2024 and the rest is history.
 
 ## How
 
