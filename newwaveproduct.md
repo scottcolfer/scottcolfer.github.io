@@ -1,7 +1,7 @@
 ---
 layout: page
 title: New Wave Product
-permalink: /new-wave-product/
+permalink: /newwaveproduct/
 ---
 
 # A Manifesto for Pragmatic Product
