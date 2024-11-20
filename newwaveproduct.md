@@ -6,7 +6,7 @@ permalink: /newwaveproduct/
 
 # A Manifesto for Pragmatic Product
 
-I’ve written a book called ‘New Wave Product’, it’s a manifesto for a more pragmatic approach to product management.
+I’ve written a book called **New Wave Product**, it’s a manifesto for a more pragmatic approach to product management.
 
 ## [Signup for updates](https://scottcolfer.substack.com/)
 
