@@ -19,3 +19,4 @@ Three things motivated me to write the book:
 Related articles:
 
 - [The Hidden Skills of Product Management](https://www.recruited.tech/blog/the-hidden-skills-of-product-management) post by Scott Colfer published on [Product Speak](https://www.recruited.tech/product-speak)
+- [Introducing New Wave Product](https://scottcolfer.com/2024/08/26/new-wave-product.html)
