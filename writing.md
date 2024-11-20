@@ -5,6 +5,7 @@ permalink: /writing/
 ---
 
 - [The Hidden Skills of Product Management](https://www.recruited.tech/blog/the-hidden-skills-of-product-management) - 19/11/24, [Product Speak](https://www.recruited.tech/product-speak), author
+- [My First 100 days as Head of Product](https://www.westminster.gov.uk/digital-blog/my-first-100-days-head-product-westminster-city-council-part-1) - 10/10/2022, [City of Westminster](https://www.westminster.gov.uk/)
 - [FLIP: Issue 001](https://www.boomsaloon.com/product/flip-issue-001/) - July '21 (interviewee)
 - [Mission-driven Product Management](https://passiton.substack.com/p/13-common-ground) - 12/5/21, Pass It On (co-author)
 - [Exploration Over Pre-Discovery](https://mojdigital.blog.gov.uk/2020/06/11/exploration-over-pre-discovery/) - 11/6/20, Ministry of Justice blog (author)
