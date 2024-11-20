@@ -5,7 +5,7 @@ permalink: /writing/
 ---
 
 - [The Hidden Skills of Product Management](https://www.recruited.tech/blog/the-hidden-skills-of-product-management) - 19/11/24, [Product Speak](https://www.recruited.tech/product-speak), author
-)- [FLIP: Issue 001](https://www.boomsaloon.com/product/flip-issue-001/) - July '21 (interviewee)
+- [FLIP: Issue 001](https://www.boomsaloon.com/product/flip-issue-001/) - July '21 (interviewee)
 - [Mission-driven Product Management](https://passiton.substack.com/p/13-common-ground) - 12/5/21, Pass It On (co-author)
 - [Exploration Over Pre-Discovery](https://mojdigital.blog.gov.uk/2020/06/11/exploration-over-pre-discovery/) - 11/6/20, Ministry of Justice blog (author)
 - [Discovery at the Ministry of Justice](https://mojdigital.blog.gov.uk/2020/01/23/discovery-at-the-ministry-of-justice/) - 23/1/20, Ministry of Justice blog (author)
