@@ -26,7 +26,7 @@ I learned to read the Tarot at [Treadwells](https://www.treadwells-london.com/) 
 
 I'm also a trained, non-directive performance coach and have been practicising for almost twenty-years. This has the biggest impact on my approach to reading Tarot. I believe the head that holds the problem also holds the solution, we just need help to get there sometimes. There's real power in thinking out loud while someone listens. I use the cards as prompts for you and ask critical questions to help you move your thinking on by one or two steps. I won't offer life-advice or suggest that the cards are trying to tell you something (and would consider it unethical for me to do this). I'll just help you figure out what the cards can usefully mean for you right now.
 
-_By day I'm a father amd husband in my 40s and Director of a successful startup._
+_By day I'm a father and husband in my 40s and Director of a successful startup._
 
 ## Worried or dubious?
 
