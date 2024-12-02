@@ -8,6 +8,8 @@ permalink: /newwaveproduct/
 
 I’ve written a book called **New Wave Product**, it’s a manifesto for a more pragmatic approach to product management.
 
+<iframe src="https://scottcolfer.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 ## [Signup for updates](https://scottcolfer.substack.com/)
 
 Three things motivated me to write the book:
