@@ -2,7 +2,7 @@
 layout: home
 ---
  
-**I'm Scott Colfer. Author of [New Wave Product](https://scottcolfer.com/newwaveproduct/). Director of Product at [Herd Consulting](https://herd.consulting/). Founder of [the Good Product Leaders Community](https://scottcolfer.com/good-product-leaders-network/).**
+**I'm Scott Colfer. Author of [New Wave Product](https://scottcolfer.com/newwaveproduct/). Director of Product at [Herd Consulting](https://herd.consulting/). Founder of [the Good Product Leaders Network](https://scottcolfer.com/good-product-leaders-network/).**
 
 **This blog has over a decade of posts on product management, product leadership, digital transformation, and coffee.**
 
