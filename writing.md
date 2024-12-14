@@ -4,7 +4,9 @@ title: Writing
 permalink: /writing/
 ---
 
+- [High Impact Discovery with Scott Colfer](https://open.spotify.com/episode/6DuML31JNG3iTQKHN6S5rq) (Podcast, opens in Spotify) - 13/12/24, [byProduct Live](https://open.spotify.com/show/4mRmRA5sCmG5xaXoCwjs4r), interviewee
 - [The Hidden Skills of Product Management](https://www.recruited.tech/blog/the-hidden-skills-of-product-management) - 19/11/24, [Product Speak](https://www.recruited.tech/product-speak), author
+- [Why Ideas for Wrong! Top Reasons for Discovery Fails](https://www.youtube.com/watch?v=O39KCC45U9w) (Video, opens in Youtube) - 26/9/24, [Leeds Digital Festival 2024](https://leedsdigitalfestival.org/) speaker
 - [My First 100 days as Head of Product, Part 2](https://www.westminster.gov.uk/digital-blog/my-first-100-days-head-product-westminster-city-council-part-2) - 11/10/2022, [City of Westminster](https://www.westminster.gov.uk/), author
 - [My First 100 days as Head of Product, Part 1](https://www.westminster.gov.uk/digital-blog/my-first-100-days-head-product-westminster-city-council-part-1) - 10/10/2022, [City of Westminster](https://www.westminster.gov.uk/), author
 - [FLIP: Issue 001](https://www.boomsaloon.com/product/flip-issue-001/) - July '21 (interviewee)
