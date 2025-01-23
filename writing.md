@@ -6,6 +6,7 @@ permalink: /writing/
 
 I regularly write and speak on the topics of product management, product leadersip, digital transformation, and discovery. 
 
+- New Wave Product (talk on my [book](https://scottcolfer.com/newwaveproduct/) for [Cambridge University Press and Assessment](https://www.cambridge.org/)) - 21/1/25
 - [High Impact Discovery with Scott Colfer](https://open.spotify.com/episode/6DuML31JNG3iTQKHN6S5rq) (Podcast, opens in Spotify) - 13/12/24, [byProduct Live](https://open.spotify.com/show/4mRmRA5sCmG5xaXoCwjs4r), interviewee
 - [The Hidden Skills of Product Management](https://www.recruited.tech/blog/the-hidden-skills-of-product-management) - 19/11/24, [Product Speak](https://www.recruited.tech/product-speak), author
 - [Why Ideas for Wrong! Top Reasons for Discovery Fails](https://www.youtube.com/watch?v=O39KCC45U9w) (Video, opens in Youtube) - 26/9/24, [Leeds Digital Festival 2024](https://leedsdigitalfestival.org/) speaker
