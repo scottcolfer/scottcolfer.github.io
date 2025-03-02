@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Wave Product
+title: New Wave Product®
 permalink: /newwaveproduct/
 ---
 
