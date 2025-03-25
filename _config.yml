@@ -17,6 +17,6 @@ linkedin_username: scottcolfer
 disqus:
   shortname: scott-colfer
 
-#Header pages
-header_pages:
+#Nav Pages
+nav_pages:
   - index.md
