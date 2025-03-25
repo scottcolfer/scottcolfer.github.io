@@ -18,5 +18,5 @@ disqus:
   shortname: scott-colfer
 
 #Nav Pages
-nav_pages:
+header_pages:
   - tarot.md
