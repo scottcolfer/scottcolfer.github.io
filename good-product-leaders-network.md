@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Good Product Leaders Network
+title: Product Leaders Network
 permalink: /good-product-leaders-network/
 ---
 
