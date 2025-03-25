@@ -35,7 +35,7 @@ Good training may be missing
 
 Looking back at my experiences and the experiences of my peers, I can see positives when this training is present and gaps when it’s missing. When teams are being told they need to change but don’t have space to understand and figure out why this is the case, how it will help them, and what they need to do – the change just becomes another noisy element of delivery. When I’ve seen people and teams invest in facilitative training that provides a safe space to think, it has led to these shared lightbulb moments. It also improves the change – all of those people and brains and experiences in the room improve the reasons for change and how to make the change.
 
-Make space for lightbulb moments with good training
+# Make space for lightbulb moments with good training
 
 I see excellent people (in-house folks and consultants) leading change from the front through delivery but struggling to land this change in a lasting or pervasive way. I’d love to see this people give time and space to lead on shared experiences, outside of delivery, setting the conditions for lightbulb moments, at scale. 
 
