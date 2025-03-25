@@ -18,5 +18,7 @@ disqus:
   shortname: scott-colfer
 
 #Nav Pages
-header_pages:
-  - tarot.md
+nav_pages:
+  - newwaveproduct.md
+  - good-product-leaders-network.md
+  - writing.md
