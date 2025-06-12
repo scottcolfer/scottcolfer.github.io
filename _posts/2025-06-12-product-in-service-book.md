@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My book: 'Product in Service: A Manifesto for Pragmatic Product Management"
+title: "My book: 'Product in Service: A Manifesto for Pragmatic Product Management'"
 date: 2025-06-12
 ---
 
