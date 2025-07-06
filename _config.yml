@@ -19,6 +19,4 @@ disqus:
 
 #Nav Pages
 nav_pages:
-  - newwaveproduct.md
-  - good-product-leaders-network.md
-  - writing.md
+  - about.md
