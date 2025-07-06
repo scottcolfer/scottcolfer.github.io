@@ -8,4 +8,4 @@ This site is a collection of my field notes: reflections, insights, and observat
 
 Stay up to date with my latest insights. Subscribe to the [Product in Service Month Note](https://scottcolfer.substack.com/) for monthly field guides on product management, strategy, and digital transformation in complex services.
 
-<iframe src="https://productinservice.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white; align: center;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://productinservice.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
