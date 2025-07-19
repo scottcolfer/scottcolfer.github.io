@@ -1,6 +1,6 @@
 # scottcolfer.com
 
-Blog about product management, product leadership, digital transformation, and coffee.
+This site is a collection of my field notes: reflections, insights, and observations from my work in product management, strategy, and digital transformation. From product leadership to systems thinking, I explore the challenges and opportunities of working in complex services. Explore posts on product management, strategy, leadership, digital transformation, and a little bit about coffee from 2012-present.
 Personal site for Scott Colfer.
 
 ## Built with
