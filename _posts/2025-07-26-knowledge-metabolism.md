@@ -20,6 +20,7 @@ I often work in times of transition:
 - Discovery → What now?
 - Movement → hitting a wall
 - Clarity → Ambiguity
+
 Etc
 
 ##  Knowledge as content
