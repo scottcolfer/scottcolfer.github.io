@@ -16,6 +16,6 @@ Based on the experiences of Scott Colfer, PRODUCT IN SERVICE is a short, sharp m
 
 | "Definitely feeling 'seen' as a product leader, Scott describes the product mindset in the best teams" | "The last book like this I picked up and wanted to finish in one go was 'The Phoenix Project'" | "Says a lot of things I've been dying to see talked about publicly." |
 | ----------- | -------------- | -------------- |
-| *Rachel Woods, Deputy Director of Product, Universal Credit*  | T*aidhgh O’Regan, Product Director, University of Nottingham* | *Alex Sturtivant, Product Lead, Royal Borough of Greenwich* | 
+| *Rachel Woods, Deputy Director of Product, Universal Credit*  | *Taidhgh O’Regan, Product Director, University of Nottingham* | *Alex Sturtivant, Product Lead, Royal Borough of Greenwich* | 
 
  
