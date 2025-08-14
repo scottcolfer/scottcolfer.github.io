@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Product in Service
-permalink: /book/
+permalink: /ProductInService/
 ---
 
 Coming soon
