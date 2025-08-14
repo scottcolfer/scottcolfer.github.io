@@ -14,7 +14,7 @@ This book is for product people working in complex services like healthcare, edu
 
 Based on the experiences of Scott Colfer, PRODUCT IN SERVICE is a short, sharp manifesto for a more human kind of product management: one that helps you navigate complexity, build trust, and make progress without the hype.
 
-| **"Definitely feeling 'seen' as a product leader, Scott describes the product mindset in the best teams** | **"The last book like this I picked up and wanted to finish in one go was 'The Phoenix Project'"** | **"Says a lot of things I've been dying to see talked about publicly."** |
+| "Definitely feeling 'seen' as a product leader, Scott describes the product mindset in the best teams" | "The last book like this I picked up and wanted to finish in one go was 'The Phoenix Project'" | "Says a lot of things I've been dying to see talked about publicly." |
 | ----------- | -------------- | -------------- |
 | Rachel Woods, Deputy Director of Product, Universal Credit  | Taidhgh O’Regan, Product Director, University of Nottingham | Alex Sturtivant, Product Lead, Royal Borough of Greenwich | 
 
