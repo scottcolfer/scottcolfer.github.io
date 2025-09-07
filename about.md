@@ -8,6 +8,10 @@ I've helped great organisations including [BBC Young Reporter](https://www.bbc.c
 
 I regularly write and speak on the topics of product management, product leadersip, digital transformation, and discovery. 
 
+- How To Win At AI Without Talking About It (Much), (talk for AI Week)
+- [Product in Service: Making “Product-Centric” Approaches Work in the Real World with Scott Colfer](https://us02web.zoom.us/webinar/register/9517552550909/WN_gf0PQBa0QJCQFCWPiS-XaA#/registration) (talk for Blackmetric) - 29/9/2025
+- [Demystifying Product Management](https://leedsdigitalfestival.org/events/demystifying-product-management/) (talk for Leeds Digital Festival) - 29/9/2025
+- [Why Discoveries Fail (And How To Stop It Happening To You)](https://herd.consulting/why-discoveries-fail-and-how-to-stop-it-happening-to-you) (blog post for Herd Consulting) -  4/9/2025
 - Product in Service (talk on my book) for the 'Beyond Product: Redefining Value in the Service Era' conference hosted by AssistKD and Herd - 27/2/25
 - Opportunity and Road Maps - talk for Department for Environment, Food & Rural Affairs (DEFRA) - 20/2/25
 - Product in Service (talk on my book) for [Cambridge University Press and Assessment](https://www.cambridge.org/)) - 21/1/25
