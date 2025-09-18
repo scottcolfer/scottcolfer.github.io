@@ -4,7 +4,7 @@ title: PRODUCT IN SERVICE
 permalink: /ProductInService/
 ---
 
-# A Manifesto for Pragmatic Product Management
+# E-book Now On Sale On [Amazon](https://amzn.eu/d/2TenSoh).
 
 ### Most product advice is for SaaS startups. This book is for everyone else.
 
