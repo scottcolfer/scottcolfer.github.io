@@ -4,6 +4,8 @@ title: "Movement Creates Clarity: How I Became Someone Who Finishes Writing a Bo
 date: 2025-10-05
 ---
 
+I've written a book called [Product in Service: A Manifesto for Pragmatic Product Management](https://amzn.eu/d/3comJWh). Here's how that happened.
+
 ## 1. Impulse and Permission
 
 For years I’d been hearing product people struggle with the feeling they’re ‘not doing proper product’. Across the product management profession I led, in coaching sessions, and later inside a consultancy, the same pattern surfaced: smart people, stuck in systems that made pure product management almost impossible.
@@ -12,13 +14,13 @@ At a meetup of Chief Product Officers in the public sector, we all saw it: multi
 
 ## 2. Discovery and Craft
 
-I’d wanted to write for most of my life but the “great novel” never arrived. At the end of 2023 I almost gave up on this dream. One last spin of the dice, I told myself. I signed up for a short creative writing course at the Faber Academy. It was on “creative nonfiction,” a term I didn’t even know existed. The discovery felt like a click.
+I’d wanted to write for most of my life but the “great novel” never arrived. At the end of 2023 I almost gave up on this dream. One last spin of the dice, I told myself. I signed up for a short creative writing course at the [Faber Academy](https://faberacademy.com/). It was on “[creative nonfiction](https://en.wikipedia.org/wiki/Creative_nonfiction),” a term I didn’t even know existed. The discovery felt like a click.
  
 I’d been so fixated on fiction that I’d missed what was already in front of me. For years I’d been writing creative nonfiction, just in disguise: frameworks, guidance, playbooks, blog posts, pitches. All of it, really, was story work. The course gave me permission to see that. To write about work as lived experience.
 
 I’d gone in intending to write my memoir, but came out with the seed of Product in Service.
 
-I’d also read too many professional books that said little, slowly. I wanted to apply the precision of fiction: the fewest words for maximum effect. Alice Sheldon, who wrote as James Tiptree Jr., became my quiet mentor. Her story The Screwfly Solution tells the story of the end of the world in a few pages. That compression, that humanity, was what I wanted: a book short enough for a train ride, deep enough to stay with you.
+I’d also read too many professional books that said little, slowly. I wanted to apply the precision of fiction: the fewest words for maximum effect. [Alice Sheldon](https://en.wikipedia.org/wiki/James_Tiptree_Jr.), who wrote as James Tiptree Jr., became my quiet mentor. Her story The Screwfly Solution tells the story of the end of the world in a few pages. That compression, that humanity, was what I wanted: a book short enough for a train ride, deep enough to stay with you.
 
 
 ## 3. Making and Momentum
@@ -37,10 +39,9 @@ By December, I had a printed zine-sized draft: thirty copies sent to readers. Fo
 Feedback began arriving before Christmas and kept flowing until February 2025. Voice notes. Annotated photos. Returned copies filled with scribbles. People really read it.
 They said:
 
-- The main point is true — and it’s the first time I’ve heard it said out loud.
+- The main point is true, and it’s the first time I’ve heard it said out loud.
 - It needs more structure and sign-posting.
-- The “Email to the Universe” should open the book.
-
+- The “Email to the Universe” is strong and should open the book.
 
 I'd come to similar conclusions myself. It was the perfect mix of affirmation and challenge. After months alone, the book was now in conversation. Readers met it with generosity, and their reflections sharpened mine. It confirmed what was real, and showed what to leave behind.
 
@@ -53,12 +54,9 @@ In coaching sessions they helped people name what they already felt. Testing the
 
 At the same time, I hit two false starts.
 
-The first was trademarking. My original title was New Wave Product, and I tried to make it official. That led to a minor dispute with an existing trademark holder resolved amicably, but not worth the cost. Hundreds of pounds in fees for something that didn’t actually matter. It was a frustrating detour, but also clarifying: the title no longer fit the book anyway.
-The more I sat with it, the more I realised the real focus was product management within services. Not some new wave of fashion, but a deeper recognition of context. That insight gave me the final title: Product in Service. What had started as a bureaucratic headache became a moment of clarity.
+The first was trademarking. My original title was New Wave Product, and I tried to make it official. That led to a minor dispute with an existing trademark holder resolved amicably, but not worth the cost. Hundreds of pounds in fees for something that didn’t actually matter. It was a frustrating detour, but also clarifying: the title no longer fit the book anyway. The more I sat with it, the more I realised the real focus was product management within services. Not some new wave of fashion, but a deeper recognition of context. That insight gave me the final title: Product in Service. What had started as a bureaucratic headache became a moment of clarity.
 
-The second red herring was Squarespace. My plan was to print copies of the finished book, sell and post them myself, and run it all through a neat little Squarespace site with Stripe integration. Except Squarespace was anything but neat.
-For all the praise it gets, I found it clunky, confusing, and expensive — a maze of templates and dead ends. Compared to my old self-hosted WordPress days, it felt like a regression. So I shut it down. Deleted the site. Cancelled the account.
-In the end, I went back to simplicity: my own website, hosted on GitHub, fully under my control. A reminder that the best tools are the ones that stay out of the way.
+The second red herring was Squarespace. My plan was to print copies of the finished book, sell and post them myself, and run it all through a neat little Squarespace site with Stripe integration. Except Squarespace was anything but neat. For all the praise it gets, I found it clunky, confusing, and expensive — a maze of templates and dead ends. Compared to my old self-hosted WordPress days, it felt like a regression. So I shut it down. Deleted the site. Cancelled the account. In the end, I went back to simplicity: my own website, hosted on GitHub, fully under my control. A reminder that the best tools are the ones that stay out of the way.
 
 
 ## 6. Completion and Release
@@ -76,16 +74,15 @@ I printed a few copies for final review and sent them to early readers. Their fe
 
 Then I rested. July became a recovery month: space to let the words cool, to get my perspective back.
 
-In August, a colleague mentioned that her husband specialises in self-publishing (see his website [here](https://www.tonywrighton.com/)). We had a chat and he kindly walked me through Amazon’s system and it was clear: the easiest, most scalable way to self-publish was right there.
-So I pivoted. I commissioned a freelancer to format the manuscript for both e-book and paperback. I uploaded to Amazon, and in mid-September the e-book went live. I promoted it through my newsletter (a small, personal launch) and the feedback began to roll in.
-Within the first week, the e-book hit #1 in the UK Nonprofit and Charity category.That early success built visibility and gathered reviews, the social proof that would carry the paperback.
-In early October, I launched the paperback. And almost immediately, it outpaced the digital version. People still love the physical book: the weight, the paper, the mark of having finished something real.
-It felt like the perfect ending. A small, handmade book that grew through honest feedback, hard reflection, and quiet persistence, and somehow found its readers.
+In August, a colleague mentioned that her husband specialises in self-publishing (see his website [here](https://www.tonywrighton.com/)). We had a chat and he kindly walked me through Amazon’s system and it was clear: the easiest, most scalable way to self-publish was right there. So I pivoted. I commissioned a freelancer to format the manuscript for both e-book and paperback. I uploaded to Amazon, and in mid-September the e-book went live. I promoted it through my newsletter (a small, personal launch) and the feedback began to roll in. Within the first week, the e-book hit #1 in the UK Nonprofit and Charity category.That early success built visibility and gathered reviews, the social proof that would carry the paperback.
+
+In early October, I launched the paperback. And almost immediately, it outpaced the digital version. People still love the physical book: the weight, the paper, the mark of having finished something real. It felt like the perfect ending. A small, handmade book that grew through honest feedback, hard reflection, and quiet persistence, and somehow found its readers.
 
 
 ## 7. Integration and Continuation
 
 It’s still satisfying and surreal to see people read and respond to the book. To see it quoted, reviewed, discussed. Many have taken time to write to me: generous reflections that make the work feel shared.
+
 And there’s a quieter satisfaction: after living with these ideas for so long, they now sit in my head ready to deploy. In meetings, workshops, coaching I can reach for them instantly. The book became a mental framework, a kind of internalised map.
 
 
@@ -104,9 +101,6 @@ If I write a second book, this is where it will begin.
 # What I learned About Writing and Self-Publishing a Book
 
 If I were to end with what I learned about writing a book it would be as follows:
-
-Beautiful question — and the perfect closing reflection for this Field Note.
-Here’s what stands out, looking across the whole arc of *Movement Creates Clarity* — not as bullet points, but as patterns of learning that you lived through:
 
 ### 1. Constraint is freedom
 
@@ -156,5 +150,5 @@ The book became muscle memory.
 ### 8. The niche is the gateway
 
 By speaking from my lived corner of the world, I found authenticity.
-The local truth — product in service — revealed a bigger patterns.
+The local truth of product in service revealed a bigger patterns.
 
