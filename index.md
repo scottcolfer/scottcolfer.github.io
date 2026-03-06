@@ -7,4 +7,4 @@ layout: home
 
 Financial Services, Government, Education
 
-Below is an archive of blog posts from 2012-2025 covering product management and coffee.
+*Below is an archive of blog posts from 2012-2025 covering product management and coffee.*
