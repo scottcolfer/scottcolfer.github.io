@@ -7,7 +7,6 @@ markdown: kramdown
 remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
-google_analytics: G-NHPCNV8GX8
 
 #Social links
 github_username:  scottcolfer
