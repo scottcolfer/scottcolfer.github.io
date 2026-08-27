@@ -2,7 +2,7 @@
 layout: home
 ---
 
-This blog is a time capsule. Today I'm a consultancy Director but this blog covers by journey from product manager to head of product.
+I'm Scott Colfer and this blog is a time capsule. Today I'm a consultancy Director but this blog covers by journey from product manager to head of product.
 
 Most of the posts cover 2012-2022 and show me figuring out what product management looks like first in the tech for good startup space -- then in big, old, complicated service-driven organisations, where most of the products are internal. Over time, they show me shifting from product manager, to senior product manager, to lead product manager, to head of product (and beyond). 
 
